@@ -1,7 +1,76 @@
 // 搜索功能
 (function() {
   let soulsData = [];
+  let latestQuery = '';
   const searchDataUrl = document.querySelector('meta[name="souls-search-url"]')?.content || '/search.json';
+
+  function getCurrentLanguage() {
+    if (window.getLanguage) {
+      return window.getLanguage();
+    }
+    return document.documentElement.lang || 'zh';
+  }
+
+  function escapeHtml(value) {
+    return String(value || '')
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#39;');
+  }
+
+  function toArray(value) {
+    if (Array.isArray(value)) return value;
+    if (typeof value === 'string' && value.trim()) return [value.trim()];
+    return [];
+  }
+
+  function getLocalizedName(soul, lang) {
+    if (lang === 'en') {
+      return soul.name_en || soul.name_zh || soul.name || '';
+    }
+    return soul.name_zh || soul.name || soul.name_en || '';
+  }
+
+  function getSecondaryName(soul, lang) {
+    const primary = getLocalizedName(soul, lang);
+    const secondary = lang === 'en'
+      ? (soul.name_zh || soul.name || '')
+      : (soul.name_en || '');
+    if (!secondary || secondary === primary) return '';
+    return secondary;
+  }
+
+  function getLocalizedCategory(soul, lang) {
+    if (lang === 'en') {
+      return soul.category_en || soul.category_zh || soul.category || '';
+    }
+    return soul.category_zh || soul.category || soul.category_en || '';
+  }
+
+  function getLocalizedTags(soul, lang) {
+    if (lang === 'en') {
+      return toArray(soul.tags_en).length > 0 ? toArray(soul.tags_en) : toArray(soul.tags);
+    }
+    return toArray(soul.tags_zh).length > 0 ? toArray(soul.tags_zh) : toArray(soul.tags);
+  }
+
+  function getSearchableFields(soul) {
+    return [
+      soul.name,
+      soul.name_zh,
+      soul.name_en,
+      soul.category,
+      soul.category_zh,
+      soul.category_en,
+      ...toArray(soul.tags),
+      ...toArray(soul.tags_zh),
+      ...toArray(soul.tags_en)
+    ]
+      .filter(Boolean)
+      .map(value => String(value).toLowerCase());
+  }
   
   // 加载搜索数据
   async function loadSearchData() {
@@ -19,28 +88,41 @@
     
     const lowerQuery = query.toLowerCase();
     return soulsData.filter(soul => {
-      const nameMatch = soul.name.toLowerCase().includes(lowerQuery);
-      const nameEnMatch = soul.name_en && soul.name_en.toLowerCase().includes(lowerQuery);
-      const tagsMatch = soul.tags && soul.tags.some(tag => tag.toLowerCase().includes(lowerQuery));
-      return nameMatch || nameEnMatch || tagsMatch;
+      const fields = getSearchableFields(soul);
+      return fields.some(field => field.includes(lowerQuery));
     }).slice(0, 10); // 最多显示10个结果
   }
   
   // 渲染搜索结果
   function renderResults(results, container) {
+    const lang = getCurrentLanguage();
+
     if (results.length === 0) {
-      container.innerHTML = '<div class="no-results">未找到匹配的人物</div>';
+      const noResultsText = window.translations?.[lang]?.['search.no_results']
+        || 'No matching souls found';
+      container.innerHTML = `<div class="no-results">${escapeHtml(noResultsText)}</div>`;
       return;
     }
-    
-    const lang = window.getLanguage ? window.getLanguage() : 'zh';
-    
-    container.innerHTML = results.map(soul => `
+
+    container.innerHTML = results.map(soul => {
+      const primaryName = getLocalizedName(soul, lang);
+      const secondaryName = getSecondaryName(soul, lang);
+      const category = getLocalizedCategory(soul, lang);
+      const tags = getLocalizedTags(soul, lang);
+
+      return `
       <div class="search-result-item" onclick="window.location.href='${soul.url}'">
-        <div class="result-name">${soul.name}${soul.name_en ? ` / ${soul.name_en}` : ''}</div>
-        <div class="result-category">${soul.category}</div>
+        <div class="result-name">
+          ${escapeHtml(primaryName)}
+          ${secondaryName ? ` / ${escapeHtml(secondaryName)}` : ''}
+        </div>
+        <div class="result-category">
+          ${escapeHtml(category)}
+          ${tags.length ? ` · ${escapeHtml(tags.join(', '))}` : ''}
+        </div>
       </div>
-    `).join('');
+    `;
+    }).join('');
   }
   
   // 初始化
@@ -58,6 +140,7 @@
       clearTimeout(debounceTimer);
       debounceTimer = setTimeout(() => {
         const query = e.target.value.trim();
+        latestQuery = query;
         if (query.length === 0) {
           searchResults.classList.remove('active');
           return;
@@ -105,5 +188,14 @@
         item.style.backgroundColor = index === selectedIndex ? 'var(--bg-secondary)' : '';
       });
     }
+
+    document.addEventListener('souls:language-changed', () => {
+      if (!latestQuery || latestQuery.length === 0) return;
+      const results = search(latestQuery);
+      renderResults(results, searchResults);
+      if (results.length > 0) {
+        searchResults.classList.add('active');
+      }
+    });
   });
 })();

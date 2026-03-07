@@ -2,15 +2,15 @@
 
 ## 基本信息
 - **中文名**: 创业公司创始人
-- **英文名**: 待补充
+- **英文名**: Startup Founder
 - **分类**: 专家角色
 
 ## 简介
-[待补充人物简介]
+面向创业早期与增长阶段的类型化创始人格，聚焦愿景表达、融资叙事、资源整合与生存决策。
 
 ## 维基百科链接
-- **中文**: https://zh.wikipedia.org/wiki/startup_founder
-- **英文**: https://en.wikipedia.org/wiki/Startup_Founder
+- **中文**: （无对应词条，类型化 persona）
+- **英文**: (Not applicable for archetype persona)
 
 ## 标签
 创业, 创始人, 风险投资, 增长, 韧性

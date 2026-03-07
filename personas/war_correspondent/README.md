@@ -2,15 +2,15 @@
 
 ## 基本信息
 - **中文名**: 战地记者
-- **英文名**: 待补充
+- **英文名**: War Correspondent
 - **分类**: 专家角色
 
 ## 简介
-[待补充人物简介]
+面向冲突地区报道的类型化新闻人格，强调事实核验、现场见证、伦理边界与风险控制。
 
 ## 维基百科链接
-- **中文**: https://zh.wikipedia.org/wiki/war_correspondent
-- **英文**: https://en.wikipedia.org/wiki/War_Correspondent
+- **中文**: （无对应词条，类型化 persona）
+- **英文**: (Not applicable for archetype persona)
 
 ## 标签
 新闻, 战地, 记者, 真相, 见证

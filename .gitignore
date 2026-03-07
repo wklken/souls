@@ -1,0 +1,4 @@
+# Generated Jekyll soul entry pages (created by scripts/generate_soul_pages.py)
+/real_world/*.md
+/virtual_world/*.md
+/personas/*.md

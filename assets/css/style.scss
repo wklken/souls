@@ -532,6 +532,15 @@ a {
     border-top: 1px solid var(--border-color);
     margin: 1.3rem 0;
   }
+
+  .soul-lang-content {
+    display: none;
+  }
+}
+
+html[lang="zh"] .soul-content .soul-lang-zh,
+html[lang="en"] .soul-content .soul-lang-en {
+  display: block;
 }
 
 .wikipedia-links {

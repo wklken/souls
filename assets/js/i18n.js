@@ -18,9 +18,11 @@
       'nav.personas': '专家角色',
       'nav.browse': '浏览分类',
       'action.copy': '复制内容',
+      'action.copy_url': '复制 URL',
       'action.download': '下载',
       'action.edit': '修正',
       'action.copied': '已复制!',
+      'action.url_copied': 'URL已复制!',
       'soul.wikipedia': '维基百科',
       'footer.copyright': '© 2026 Souls Project',
       'footer.contribute': '贡献指南',
@@ -41,9 +43,11 @@
       'nav.personas': 'Personas',
       'nav.browse': 'Browse Categories',
       'action.copy': 'Copy',
+      'action.copy_url': 'Copy URL',
       'action.download': 'Download',
       'action.edit': 'Edit',
       'action.copied': 'Copied!',
+      'action.url_copied': 'URL Copied!',
       'soul.wikipedia': 'Wikipedia',
       'footer.copyright': '© 2026 Souls Project',
       'footer.contribute': 'Contribute',
@@ -62,6 +66,39 @@
       return 'zh';
     }
     return 'en';
+  }
+
+  function getLocalizedText(element, lang) {
+    const zh = element.dataset.localizedZh;
+    const en = element.dataset.localizedEn;
+    if (lang === 'en') {
+      return en || zh || '';
+    }
+    return zh || en || '';
+  }
+
+  function updateLocalizedElements(lang) {
+    document.querySelectorAll('[data-localized-zh], [data-localized-en]').forEach(element => {
+      const localizedText = getLocalizedText(element, lang);
+      if (localizedText) {
+        element.textContent = localizedText;
+      }
+    });
+  }
+
+  function updateDocumentTitle(lang) {
+    const root = document.documentElement;
+    const siteTitle = root.dataset.siteTitle || 'Souls';
+    const zhTitle = root.dataset.pageTitleZh || siteTitle;
+    const enTitle = root.dataset.pageTitleEn || zhTitle || siteTitle;
+    const activeTitle = lang === 'en' ? enTitle : zhTitle;
+
+    if (!activeTitle || activeTitle === siteTitle) {
+      document.title = siteTitle;
+      return;
+    }
+
+    document.title = `${activeTitle} - ${siteTitle}`;
   }
   
   function setLanguage(lang) {
@@ -92,6 +129,13 @@
     if (searchInput) {
       searchInput.placeholder = translations[lang]['search.placeholder'];
     }
+
+    updateLocalizedElements(lang);
+    updateDocumentTitle(lang);
+
+    document.dispatchEvent(new CustomEvent('souls:language-changed', {
+      detail: { lang }
+    }));
   }
   
   // 初始化

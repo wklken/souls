@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 专家角色
+title_en: Personas
 category: personas
 ---
 
@@ -11,13 +12,29 @@ category: personas
   <div class="soul-grid" id="soul-grid">
     {% if souls.size > 0 %}
     {% for soul in souls %}
+      {% assign soul_name_zh = soul.title_zh | default: soul.title %}
+      {% assign soul_name_en = soul.title_en | default: soul.english_name | default: soul.title %}
+      {% assign soul_tags_zh = soul.tags_zh | default: soul.tags %}
+      {% assign soul_tags_en = soul.tags_en | default: soul.tags %}
       <a href="{{ soul.url | relative_url }}" class="soul-card">
-        <div class="soul-name">{{ soul.title }}</div>
-        {% if soul.english_name %}
-        <div class="soul-english">{{ soul.english_name }}</div>
+        <div
+          class="soul-name"
+          data-localized-zh="{{ soul_name_zh | escape }}"
+          data-localized-en="{{ soul_name_en | escape }}"
+        >{{ soul_name_zh }}</div>
+        {% if soul_name_en and soul_name_en != soul_name_zh %}
+        <div
+          class="soul-english"
+          data-localized-zh="{{ soul_name_en | escape }}"
+          data-localized-en="{{ soul_name_zh | escape }}"
+        >{{ soul_name_en }}</div>
         {% endif %}
-        {% if soul.tags %}
-        <div class="soul-tags">{{ soul.tags | join: ', ' }}</div>
+        {% if soul_tags_zh or soul_tags_en %}
+        <div
+          class="soul-tags"
+          data-localized-zh="{{ soul_tags_zh | join: ', ' | escape }}"
+          data-localized-en="{{ soul_tags_en | join: ', ' | escape }}"
+        >{{ soul_tags_zh | join: ', ' }}</div>
         {% endif %}
       </a>
     {% endfor %}
