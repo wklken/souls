@@ -81,6 +81,8 @@ def generate_for_category(category: str, category_name: str) -> int:
         soul_content = soul_md.read_text(encoding="utf-8")
         title = extract_heading(soul_content) or folder.name.replace("_", " ").title()
         tags = extract_tags(soul_content)
+        soul_en = folder / "SOUL.en.md"
+        en_source = "SOUL.en.md" if soul_en.exists() else "SOUL.md"
 
         name_en = ""
         wiki_zh = ""
@@ -91,10 +93,8 @@ def generate_for_category(category: str, category_name: str) -> int:
             readme_text = readme.read_text(encoding="utf-8")
             name_en, wiki_zh, wiki_en = extract_readme_metadata(readme_text)
 
-        if not name_en:
-            soul_en = folder / "SOUL.en.md"
-            if soul_en.exists():
-                name_en = extract_heading(soul_en.read_text(encoding="utf-8"))
+        if not name_en and soul_en.exists():
+            name_en = extract_heading(soul_en.read_text(encoding="utf-8"))
 
         page_path = category_dir / f"{folder.name}.md"
 
@@ -111,7 +111,11 @@ def generate_for_category(category: str, category_name: str) -> int:
             f'wikipedia_zh: "{q(wiki_zh)}"',
             f'wikipedia_en: "{q(wiki_en)}"',
             f'edit_url: "https://github.com/wklken/souls/edit/master/{category}/{folder.name}/SOUL.md"',
+            f'edit_url_zh: "https://github.com/wklken/souls/edit/master/{category}/{folder.name}/SOUL.md"',
+            f'edit_url_en: "https://github.com/wklken/souls/edit/master/{category}/{folder.name}/{en_source}"',
             f'download_url: "/{category}/{folder.name}/SOUL.md"',
+            f'download_url_zh: "/{category}/{folder.name}/SOUL.md"',
+            f'download_url_en: "/{category}/{folder.name}/{en_source}"',
         ]
 
         if tags:
@@ -121,7 +125,14 @@ def generate_for_category(category: str, category_name: str) -> int:
         else:
             fm.append("tags: []")
 
-        fm.extend(["---", "", soul_content.strip(), ""])
+        body = [
+            f"{{% capture soul_content_zh %}}{{% include_relative {folder.name}/SOUL.md %}}{{% endcapture %}}",
+            f"{{% capture soul_content_en %}}{{% include_relative {folder.name}/{en_source} %}}{{% endcapture %}}",
+            '<div class="soul-lang-content soul-lang-zh">{{ soul_content_zh | markdownify }}</div>',
+            '<div class="soul-lang-content soul-lang-en">{{ soul_content_en | markdownify }}</div>',
+        ]
+
+        fm.extend(["---", ""] + body + [""])
         page_path.write_text("\n".join(fm), encoding="utf-8")
         created += 1
 

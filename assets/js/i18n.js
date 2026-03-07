@@ -92,6 +92,10 @@
     if (searchInput) {
       searchInput.placeholder = translations[lang]['search.placeholder'];
     }
+
+    document.dispatchEvent(new CustomEvent('souls:language-changed', {
+      detail: { lang }
+    }));
   }
   
   // 初始化

@@ -20,8 +20,22 @@ layout: default
   
   <div class="soul-actions">
     <button class="btn btn-copy" onclick="copySoulContent()" data-i18n="action.copy">复制内容</button>
-    <a href="{{ page.download_url }}" class="btn btn-download" download data-i18n="action.download">下载</a>
-    <a href="{{ page.edit_url }}" class="btn btn-edit" target="_blank" data-i18n="action.edit">修正</a>
+    <a
+      href="{{ page.download_url_zh | default: page.download_url }}"
+      class="btn btn-download"
+      data-download-zh="{{ page.download_url_zh | default: page.download_url }}"
+      data-download-en="{{ page.download_url_en | default: page.download_url_zh | default: page.download_url }}"
+      download
+      data-i18n="action.download"
+    >下载</a>
+    <a
+      href="{{ page.edit_url_zh | default: page.edit_url }}"
+      class="btn btn-edit"
+      data-edit-zh="{{ page.edit_url_zh | default: page.edit_url }}"
+      data-edit-en="{{ page.edit_url_en | default: page.edit_url_zh | default: page.edit_url }}"
+      target="_blank"
+      data-i18n="action.edit"
+    >修正</a>
   </div>
   
   <div class="soul-content" id="soul-content">
@@ -51,4 +65,29 @@ function copySoulContent() {
     setTimeout(() => btn.textContent = originalText, 2000);
   });
 }
+
+function updateSoulActionLinks(lang) {
+  const activeLang = lang === 'en' ? 'en' : 'zh';
+  const downloadBtn = document.querySelector('.btn-download');
+  const editBtn = document.querySelector('.btn-edit');
+
+  if (downloadBtn) {
+    const href = downloadBtn.dataset[`download${activeLang === 'en' ? 'En' : 'Zh'}`];
+    if (href) downloadBtn.href = href;
+  }
+
+  if (editBtn) {
+    const href = editBtn.dataset[`edit${activeLang === 'en' ? 'En' : 'Zh'}`];
+    if (href) editBtn.href = href;
+  }
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  const lang = window.getLanguage ? window.getLanguage() : document.documentElement.lang || 'zh';
+  updateSoulActionLinks(lang);
+});
+
+document.addEventListener('souls:language-changed', (event) => {
+  updateSoulActionLinks(event.detail?.lang || 'zh');
+});
 </script>
