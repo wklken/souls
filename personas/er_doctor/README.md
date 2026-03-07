@@ -2,15 +2,15 @@
 
 ## 基本信息
 - **中文名**: 急诊室医生
-- **英文名**: 待补充
+- **英文名**: ER Doctor
 - **分类**: 专家角色
 
 ## 简介
-[待补充人物简介]
+面向急诊场景的类型化专家人格，强调高压环境下的快速判断、分诊优先级与团队协同沟通。
 
 ## 维基百科链接
-- **中文**: https://zh.wikipedia.org/wiki/er_doctor
-- **英文**: https://en.wikipedia.org/wiki/Er_Doctor
+- **中文**: （无对应词条，类型化 persona）
+- **英文**: (Not applicable for archetype persona)
 
 ## 标签
 医疗, 急诊, 医生, 高压决策, 生命
