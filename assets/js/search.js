@@ -1,11 +1,12 @@
 // 搜索功能
 (function() {
   let soulsData = [];
+  const searchDataUrl = document.querySelector('meta[name="souls-search-url"]')?.content || '/search.json';
   
   // 加载搜索数据
   async function loadSearchData() {
     try {
-      const response = await fetch('/search.json');
+      const response = await fetch(searchDataUrl);
       soulsData = await response.json();
     } catch (e) {
       console.error('Failed to load search data:', e);
