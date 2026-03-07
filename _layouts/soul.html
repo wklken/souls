@@ -39,6 +39,7 @@ layout: default
   
   <div class="soul-actions">
     <button class="btn btn-copy" onclick="copySoulContent()" data-i18n="action.copy">复制内容</button>
+    <button class="btn btn-copy-url" onclick="copyDownloadUrl()" data-i18n="action.copy_url">复制 URL</button>
     <a
       href="{{ page.download_url_zh | default: page.download_url | relative_url }}"
       class="btn btn-download"
@@ -82,6 +83,23 @@ function copySoulContent() {
     const originalText = btn.textContent;
     btn.textContent = document.documentElement.lang === 'zh' ? '已复制!' : 'Copied!';
     setTimeout(() => btn.textContent = originalText, 2000);
+  });
+}
+
+function copyDownloadUrl() {
+  const downloadBtn = document.querySelector('.btn-download');
+  const copyUrlBtn = document.querySelector('.btn-copy-url');
+  if (!downloadBtn || !copyUrlBtn) return;
+
+  navigator.clipboard.writeText(downloadBtn.href).then(() => {
+    const originalText = copyUrlBtn.textContent;
+    const lang = document.documentElement.lang === 'en' ? 'en' : 'zh';
+    const copiedText =
+      window.translations?.[lang]?.['action.url_copied'] ||
+      (lang === 'zh' ? 'URL已复制!' : 'URL Copied!');
+
+    copyUrlBtn.textContent = copiedText;
+    setTimeout(() => copyUrlBtn.textContent = originalText, 2000);
   });
 }
 
