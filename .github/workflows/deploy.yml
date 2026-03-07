@@ -35,6 +35,7 @@ jobs:
       - name: Build with Jekyll
         run: |
           BASE_PATH="${{ steps.pages.outputs.base_path }}"
+          BASE_PATH="${BASE_PATH%/}"
           if [ -z "$BASE_PATH" ]; then
             BASE_PATH="/souls"
           fi
