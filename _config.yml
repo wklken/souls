@@ -13,11 +13,16 @@ github_username: wklken
 repository: wklken/souls
 
 # Jekyll 配置
-theme: minima
+# 不使用主题，使用完全自定义布局
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+
+# SASS 配置
+sass:
+  sass_dir: assets/css
+  style: compressed
 
 # 多语言配置
 defaults:
