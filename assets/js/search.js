@@ -2,7 +2,10 @@
 (function() {
   let soulsData = [];
   let latestQuery = '';
-  const searchDataUrl = document.querySelector('meta[name="souls-search-url"]')?.content || '/search.json';
+  const baseUrl = document.documentElement.dataset.baseurl || '';
+  const normalizedBaseUrl = baseUrl && baseUrl !== '/' ? baseUrl.replace(/\/$/, '') : '';
+  const searchDataUrl = document.querySelector('meta[name="souls-search-url"]')?.content
+    || `${normalizedBaseUrl}/search.json`;
 
   function getCurrentLanguage() {
     if (window.getLanguage) {

@@ -6,8 +6,8 @@ description: >-
   一个为 AI 角色扮演设计的历史人物灵魂档案库。
   A library of historical figure "souls" for AI character simulation.
 
-baseurl: "" # 如果站点部署在子目录，填写子目录名，如 "/souls"
-url: "https://souls.wklken.me" # 站点域名
+baseurl: "" # 根路径部署时保持空字符串；子目录部署时填写如 "/souls"
+url: "http://agent-souls.com" # 站点域名（不带尾部斜杠）
 
 github_username: wklken
 repository: wklken/souls
@@ -90,6 +90,9 @@ exclude:
   - LICENSE
   - ".gitignore"
   - ".github/"
+  - ".claude/"
+  - ".agents/"
+  - skills
 
 # 包含文件（确保 _ 开头的文件夹被处理）
 include:
