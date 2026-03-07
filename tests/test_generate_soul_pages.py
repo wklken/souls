@@ -84,6 +84,17 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertIn('data-count="{{ site.stats.personas }}"', home_layout)
 
 
+class DeployWorkflowBaseurlRegressionTest(unittest.TestCase):
+    def setUp(self):
+        self.repo_root = Path(__file__).resolve().parents[1]
+
+    def test_deploy_workflow_does_not_force_souls_baseurl(self):
+        deploy_workflow = (self.repo_root / ".github" / "workflows" / "deploy.yml").read_text(
+            encoding="utf-8"
+        )
+        self.assertNotIn('BASE_PATH="/souls"', deploy_workflow)
+
+
 class GenerateSoulPagesCleanupTest(unittest.TestCase):
     def setUp(self):
         self.module = load_module()

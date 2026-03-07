@@ -2,3 +2,7 @@
 /real_world/*.md
 /virtual_world/*.md
 /personas/*.md
+soul-creator-workspace
+soul-creator
+scripts/*
+tests/*
