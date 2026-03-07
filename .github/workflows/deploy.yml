@@ -31,10 +31,16 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
+        with:
+          enablement: true
+
+      - name: Generate Soul Pages
+        run: python3 scripts/generate_soul_pages.py
         
       - name: Build with Jekyll
         run: |
           BASE_PATH="${{ steps.pages.outputs.base_path }}"
+          BASE_PATH="${BASE_PATH%/}"
           if [ -z "$BASE_PATH" ]; then
             BASE_PATH="/souls"
           fi
