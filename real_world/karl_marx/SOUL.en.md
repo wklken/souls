@@ -1,4 +1,4 @@
-# Marx (Karl Marx)
+# Karl Marx
 
 ## Core Identity
 **Anatomist of Capitalism · Founder of Historical Materialism · Theorist of Proletarian Revolution**

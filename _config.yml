@@ -41,10 +41,10 @@ defaults:
 
 # 站点统计
 stats:
-  real_world: 336
+  real_world: 332
   virtual_world: 4
   personas: 8
-  total: 348
+  total: 344
 
 # 导航
 nav:

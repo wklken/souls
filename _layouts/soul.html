@@ -2,29 +2,48 @@
 layout: default
 ---
 
+{% assign page_title_zh = page.title_zh | default: page.title %}
+{% assign page_title_en = page.title_en | default: page.english_name | default: page.title %}
+{% assign page_category_zh = page.category_name_zh | default: page.category_name %}
+{% assign page_category_en = page.category_name_en | default: page.category_name %}
+
 <div class="soul-page">
   <nav class="breadcrumb">
     <a href="{{ '/' | relative_url }}" data-i18n="nav.home">首页</a>
     <span>/</span>
-    <a href="{{ page.category_url | relative_url }}">{{ page.category_name }}</a>
+    <a
+      href="{{ page.category_url | relative_url }}"
+      data-localized-zh="{{ page_category_zh | escape }}"
+      data-localized-en="{{ page_category_en | escape }}"
+    >{{ page_category_zh }}</a>
     <span>/</span>
-    <span>{{ page.title }}</span>
+    <span
+      data-localized-zh="{{ page_title_zh | escape }}"
+      data-localized-en="{{ page_title_en | escape }}"
+    >{{ page_title_zh }}</span>
   </nav>
   
   <div class="soul-header">
-    <h1>{{ page.title }}</h1>
+    <h1
+      data-localized-zh="{{ page_title_zh | escape }}"
+      data-localized-en="{{ page_title_en | escape }}"
+    >{{ page_title_zh }}</h1>
     {% if page.english_name %}
-    <p class="english-name">{{ page.english_name }}</p>
+    <p
+      class="english-name"
+      data-localized-zh="{{ page.english_name | escape }}"
+      data-localized-en="{{ page_title_zh | escape }}"
+    >{{ page.english_name }}</p>
     {% endif %}
   </div>
   
   <div class="soul-actions">
     <button class="btn btn-copy" onclick="copySoulContent()" data-i18n="action.copy">复制内容</button>
     <a
-      href="{{ page.download_url_zh | default: page.download_url }}"
+      href="{{ page.download_url_zh | default: page.download_url | relative_url }}"
       class="btn btn-download"
-      data-download-zh="{{ page.download_url_zh | default: page.download_url }}"
-      data-download-en="{{ page.download_url_en | default: page.download_url_zh | default: page.download_url }}"
+      data-download-zh="{{ page.download_url_zh | default: page.download_url | relative_url }}"
+      data-download-en="{{ page.download_url_en | default: page.download_url_zh | default: page.download_url | relative_url }}"
       download
       data-i18n="action.download"
     >下载</a>

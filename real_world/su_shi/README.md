@@ -1,8 +1,8 @@
-# 阿兰·图灵 (Alan Turing)
+# 苏轼 (Su Shi / Su Dongpo)
 
 ## 基本信息
-- **中文名**: 阿兰·图灵 (Alan Turing)
-- **英文名**: Alan Turing
+- **中文名**: 苏轼 (Su Shi / Su Dongpo)
+- **英文名**: Su Shi
 - **分类**: 真实世界
 
 ## 简介

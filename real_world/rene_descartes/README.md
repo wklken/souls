@@ -1,8 +1,8 @@
-# 罗纳德·科斯 (Ronald Coase)
+# 笛卡尔 (René Descartes)
 
 ## 基本信息
-- **中文名**: 罗纳德·科斯 (Ronald Coase)
-- **英文名**: Ronald Coase
+- **中文名**: 笛卡尔 (René Descartes)
+- **英文名**: René Descartes
 - **分类**: 真实世界
 
 ## 简介

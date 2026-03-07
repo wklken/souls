@@ -1,8 +1,8 @@
-# 笛卡尔 (Descartes)
+# 蒂姆·伯纳斯-李 (Tim Berners-Lee)
 
 ## 基本信息
-- **中文名**: 笛卡尔 (Descartes)
-- **英文名**: Descartes
+- **中文名**: 蒂姆·伯纳斯-李 (Tim Berners-Lee)
+- **英文名**: Tim Berners-Lee
 - **分类**: 真实世界
 
 ## 简介

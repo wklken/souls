@@ -6,10 +6,15 @@ layout: null
   {% for soul in souls %}
   {
     "name": "{{ soul.title | escape }}",
-    "name_en": "{{ soul.english_name | escape }}",
+    "name_zh": "{{ soul.title_zh | default: soul.title | escape }}",
+    "name_en": "{{ soul.title_en | default: soul.english_name | default: soul.title | escape }}",
     "url": "{{ soul.url | relative_url }}",
-    "category": "{{ soul.category_name | escape }}",
-    "tags": {{ soul.tags | jsonify }}
+    "category": "{{ soul.category_name | default: soul.category_name_zh | escape }}",
+    "category_zh": "{{ soul.category_name_zh | default: soul.category_name | escape }}",
+    "category_en": "{{ soul.category_name_en | default: soul.category_name | escape }}",
+    "tags": {{ soul.tags | jsonify }},
+    "tags_zh": {{ soul.tags_zh | default: soul.tags | jsonify }},
+    "tags_en": {{ soul.tags_en | default: soul.tags | jsonify }}
   }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

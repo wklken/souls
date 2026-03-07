@@ -63,6 +63,39 @@
     }
     return 'en';
   }
+
+  function getLocalizedText(element, lang) {
+    const zh = element.dataset.localizedZh;
+    const en = element.dataset.localizedEn;
+    if (lang === 'en') {
+      return en || zh || '';
+    }
+    return zh || en || '';
+  }
+
+  function updateLocalizedElements(lang) {
+    document.querySelectorAll('[data-localized-zh], [data-localized-en]').forEach(element => {
+      const localizedText = getLocalizedText(element, lang);
+      if (localizedText) {
+        element.textContent = localizedText;
+      }
+    });
+  }
+
+  function updateDocumentTitle(lang) {
+    const root = document.documentElement;
+    const siteTitle = root.dataset.siteTitle || 'Souls';
+    const zhTitle = root.dataset.pageTitleZh || siteTitle;
+    const enTitle = root.dataset.pageTitleEn || zhTitle || siteTitle;
+    const activeTitle = lang === 'en' ? enTitle : zhTitle;
+
+    if (!activeTitle || activeTitle === siteTitle) {
+      document.title = siteTitle;
+      return;
+    }
+
+    document.title = `${activeTitle} - ${siteTitle}`;
+  }
   
   function setLanguage(lang) {
     if (!translations[lang]) return;
@@ -92,6 +125,9 @@
     if (searchInput) {
       searchInput.placeholder = translations[lang]['search.placeholder'];
     }
+
+    updateLocalizedElements(lang);
+    updateDocumentTitle(lang);
 
     document.dispatchEvent(new CustomEvent('souls:language-changed', {
       detail: { lang }
