@@ -1,0 +1,54 @@
+---
+layout: default
+---
+
+<div class="soul-page">
+  <nav class="breadcrumb">
+    <a href="{{ '/' | relative_url }}" data-i18n="nav.home">首页</a>
+    <span>/</span>
+    <a href="{{ page.category_url | relative_url }}">{{ page.category_name }}</a>
+    <span>/</span>
+    <span>{{ page.title }}</span>
+  </nav>
+  
+  <div class="soul-header">
+    <h1>{{ page.title }}</h1>
+    {% if page.english_name %}
+    <p class="english-name">{{ page.english_name }}</p>
+    {% endif %}
+  </div>
+  
+  <div class="soul-actions">
+    <button class="btn btn-copy" onclick="copySoulContent()" data-i18n="action.copy">复制内容</button>
+    <a href="{{ page.download_url }}" class="btn btn-download" download data-i18n="action.download">下载</a>
+    <a href="{{ page.edit_url }}" class="btn btn-edit" target="_blank" data-i18n="action.edit">修正</a>
+  </div>
+  
+  <div class="soul-content" id="soul-content">
+    {{ content }}
+  </div>
+  
+  {% if page.wikipedia_zh or page.wikipedia_en %}
+  <div class="wikipedia-links">
+    <h3 data-i18n="soul.wikipedia">维基百科</h3>
+    {% if page.wikipedia_zh %}
+    <a href="{{ page.wikipedia_zh }}" target="_blank" class="wiki-link">中文</a>
+    {% endif %}
+    {% if page.wikipedia_en %}
+    <a href="{{ page.wikipedia_en }}" target="_blank" class="wiki-link">English</a>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
+
+<script>
+function copySoulContent() {
+  const content = document.getElementById('soul-content').innerText;
+  navigator.clipboard.writeText(content).then(() => {
+    const btn = document.querySelector('.btn-copy');
+    const originalText = btn.textContent;
+    btn.textContent = document.documentElement.lang === 'zh' ? '已复制!' : 'Copied!';
+    setTimeout(() => btn.textContent = originalText, 2000);
+  });
+}
+</script>

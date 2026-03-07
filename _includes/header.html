@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="wrapper">
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    
+    <nav class="site-nav">
+      {% for item in site.nav %}
+      <a href="{{ item.url | relative_url }}" class="nav-link" data-i18n="nav.{{ item.url | remove: '/' }}">{{ item.title.zh }}</a>
+      {% endfor %}
+    </nav>
+    
+    <div class="header-actions">
+      {% include language_switcher.html %}
+      {% if site.theme_switcher %}
+      <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle theme">
+        <span class="theme-icon light">☀️</span>
+        <span class="theme-icon dark">🌙</span>
+      </button>
+      {% endif %}
+    </div>
+  </div>
+</header>

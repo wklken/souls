@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="home-container">
+  <div class="hero">
+    <h1 class="hero-title" data-i18n="site.title">Souls</h1>
+    <p class="hero-slogan" data-i18n="site.slogan">与历史对话，让思想碰撞</p>
+    <p class="hero-slogan-en" data-i18n="site.slogan_en">Dialogue with history, collide with minds</p>
+    
+    <div class="stats-bar">
+      <span data-i18n="stats.total">共收录 {{ site.stats.total }} 位人物</span>
+      <span class="stats-detail">
+        <span data-i18n="stats.real">{{ site.stats.real_world }} 位历史人物</span> ·
+        <span data-i18n="stats.virtual">{{ site.stats.virtual_world }} 位虚构角色</span> ·
+        <span data-i18n="stats.personas">{{ site.stats.personas }} 位专家角色</span>
+      </span>
+    </div>
+  </div>
+  
+  <div class="search-section">
+    {% include search.html %}
+  </div>
+  
+  <div class="categories-section">
+    <h2 data-i18n="nav.browse">浏览分类</h2>
+    <div class="category-cards">
+      {% for item in site.nav %}
+      <a href="{{ item.url | relative_url }}" class="category-card">
+        <h3 data-i18n="nav.{{ item.url | remove: '/' }}">{{ item.title.zh }}</h3>
+        <span class="category-en">{{ item.title.en }}</span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>

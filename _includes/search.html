@@ -1,0 +1,17 @@
+<div class="search-container">
+  <div class="search-box">
+    <input 
+      type="text" 
+      id="search-input" 
+      class="search-input" 
+      placeholder="{{ site.search.placeholder.zh }}"
+      data-placeholder-zh="{{ site.search.placeholder.zh }}"
+      data-placeholder-en="{{ site.search.placeholder.en }}"
+      autocomplete="off"
+    >
+    <button class="search-btn" aria-label="Search">🔍</button>
+  </div>
+  <div id="search-results" class="search-results"></div>
+</div>
+
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>

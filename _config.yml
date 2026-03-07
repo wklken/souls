@@ -1,0 +1,93 @@
+# Souls - 历史人物灵魂库
+
+title: Souls
+email: wklken@gmail.com
+description: >-
+  一个为 AI 角色扮演设计的历史人物灵魂档案库。
+  A library of historical figure "souls" for AI character simulation.
+
+baseurl: "" # 如果站点部署在子目录，填写子目录名，如 "/souls"
+url: "https://souls.wklken.me" # 站点域名
+
+github_username: wklken
+repository: wklken/souls
+
+# Jekyll 配置
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# 多语言配置
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      lang: "zh"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+      lang: "en"
+
+# 站点统计
+stats:
+  real_world: 336
+  virtual_world: 4
+  personas: 8
+  total: 348
+
+# 导航
+nav:
+  - title:
+      zh: "真实世界"
+      en: "Real World"
+    url: "/real_world"
+  - title:
+      zh: "非真实世界"
+      en: "Virtual World"
+    url: "/virtual_world"
+  - title:
+      zh: "专家角色"
+      en: "Personas"
+    url: "/personas"
+
+# 搜索配置
+search:
+  enabled: true
+  placeholder:
+    zh: "搜索人物..."
+    en: "Search souls..."
+
+# 主题配置
+theme_switcher: true
+default_theme: "light" # light 或 dark
+
+# 排除文件
+exclude:
+  - scripts/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - AGENTS.md
+  - LICENSE
+  - ".gitignore"
+  - ".github/"
+
+# 包含文件（确保 _ 开头的文件夹被处理）
+include:
+  - _layouts
+  - _includes
+  - _sass

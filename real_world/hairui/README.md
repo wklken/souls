@@ -1,0 +1,16 @@
+# 海瑞 (Hai Rui)
+
+## 基本信息
+- **中文名**: 海瑞 (Hai Rui)
+- **英文名**: Hai Rui
+- **分类**: 真实世界
+
+## 简介
+[待补充人物简介]
+
+## 维基百科链接
+- **中文**: https://zh.wikipedia.org/wiki/hairui
+- **英文**: https://en.wikipedia.org/wiki/Hairui
+
+## 标签
+待补充
