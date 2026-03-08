@@ -1,13 +1,28 @@
 // 分类页卡片搜索
 (function() {
-  function buildSearchText(card) {
-    const localizedText = Array.from(
-      card.querySelectorAll('[data-localized-zh], [data-localized-en]')
-    )
-      .map(element => `${element.dataset.localizedZh || ''} ${element.dataset.localizedEn || ''}`)
-      .join(' ');
+  function normalizeForSearch(value) {
+    const text = String(value || '');
+    const normalized = typeof text.normalize === 'function' ? text.normalize('NFKC') : text;
+    return normalized
+      .toLowerCase()
+      .replace(/\s+/g, ' ')
+      .trim();
+  }
 
-    return `${card.textContent || ''} ${localizedText}`.toLowerCase();
+  function collectSearchParts(card) {
+    const parts = [card.textContent || '', card.getAttribute('href') || ''];
+    card.querySelectorAll('[data-localized-zh], [data-localized-en]').forEach(element => {
+      parts.push(element.dataset.localizedZh || '');
+      parts.push(element.dataset.localizedEn || '');
+    });
+    return parts;
+  }
+
+  function buildSearchText(card) {
+    return collectSearchParts(card)
+      .map(normalizeForSearch)
+      .filter(Boolean)
+      .join(' ');
   }
 
   document.addEventListener('DOMContentLoaded', () => {
@@ -17,11 +32,19 @@
     if (!searchInput || !soulGrid) return;
 
     const cards = Array.from(soulGrid.querySelectorAll('.soul-card'));
+    if (cards.length === 0) return;
+
     const emptyState = document.getElementById('category-search-empty');
-    const searchCache = new Map(cards.map(card => [card, buildSearchText(card)]));
+    const searchCache = new Map();
+
+    function rebuildSearchCache() {
+      cards.forEach(card => {
+        searchCache.set(card, buildSearchText(card));
+      });
+    }
 
     function filterCards() {
-      const query = searchInput.value.trim().toLowerCase();
+      const query = normalizeForSearch(searchInput.value);
       let visibleCount = 0;
 
       cards.forEach(card => {
@@ -36,7 +59,11 @@
       }
     }
 
+    rebuildSearchCache();
+    filterCards();
+
     searchInput.addEventListener('input', filterCards);
+    searchInput.addEventListener('search', filterCards);
     searchInput.addEventListener('keydown', event => {
       if (event.key === 'Escape') {
         searchInput.value = '';
@@ -45,9 +72,7 @@
     });
 
     document.addEventListener('souls:language-changed', () => {
-      cards.forEach(card => {
-        searchCache.set(card, buildSearchText(card));
-      });
+      rebuildSearchCache();
       filterCards();
     });
   });
