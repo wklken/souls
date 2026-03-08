@@ -6,8 +6,8 @@
   const translations = {
     zh: {
       'site.title': 'Souls',
-      'site.slogan': '与历史对话，让思想碰撞',
-      'site.slogan_en': 'Dialogue with history, collide with minds',
+      'site.slogan': '与历史对话，让思想碰撞；与角色对话，让故事映照当下；与专家对话，让能力不断进化',
+      'site.slogan_en': 'Dialogue with history, let minds collide; dialogue with characters, let stories reflect the present; dialogue with experts, let capabilities keep evolving.',
       'stats.total': '共收录 {count} 位人物',
       'stats.real': '{count} 位历史人物',
       'stats.virtual': '{count} 位虚构角色',
@@ -38,7 +38,7 @@
     },
     en: {
       'site.title': 'Souls',
-      'site.slogan': 'Dialogue with history, collide with minds',
+      'site.slogan': 'Dialogue with history, let minds collide; dialogue with characters, let stories reflect the present; dialogue with experts, let capabilities keep evolving.',
       'site.slogan_en': '',
       'stats.total': '{count} souls collected',
       'stats.real': '{count} historical figures',
