@@ -7,3 +7,6 @@ soul-creator
 scripts/*
 tests/*
 .bundle
+vendor
+Gemfile.lock
+_site
