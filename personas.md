@@ -7,6 +7,10 @@ category: personas
 
 <div class="soul-list">
   <h1 data-i18n="nav.personas">专家角色</h1>
+
+  <div class="search-section">
+    {% include search.html %}
+  </div>
   {% assign souls = site.pages | where: 'layout', 'soul' | where: 'category', 'personas' | sort: 'title' %}
   {% include category_search.html %}
   
