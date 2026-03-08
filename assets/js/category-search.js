@@ -1,12 +1,26 @@
 // 分类页卡片搜索
 (function() {
+  function stripDiacritics(value) {
+    return value.replace(/[\u0300-\u036f]/g, '');
+  }
+
   function normalizeForSearch(value) {
     const text = String(value || '');
-    const normalized = typeof text.normalize === 'function' ? text.normalize('NFKC') : text;
-    return normalized
+    const normalized = typeof text.normalize === 'function' ? text.normalize('NFKD') : text;
+    return stripDiacritics(normalized)
       .toLowerCase()
+      .replace(/[_/\\|()[\]{}.,;:!?"'`~@#$%^&*+=<>-]+/g, ' ')
       .replace(/\s+/g, ' ')
       .trim();
+  }
+
+  function matchesQuery(searchableText, query) {
+    if (!query) return true;
+    if (searchableText.includes(query)) return true;
+
+    const tokens = query.split(' ').filter(Boolean);
+    if (tokens.length <= 1) return false;
+    return tokens.every(token => searchableText.includes(token));
   }
 
   function collectSearchParts(card) {
@@ -49,7 +63,7 @@
 
       cards.forEach(card => {
         const searchableText = searchCache.get(card) || '';
-        const matches = !query || searchableText.includes(query);
+        const matches = matchesQuery(searchableText, query);
         card.hidden = !matches;
         if (matches) visibleCount += 1;
       });
@@ -64,6 +78,8 @@
 
     searchInput.addEventListener('input', filterCards);
     searchInput.addEventListener('search', filterCards);
+    searchInput.addEventListener('change', filterCards);
+    searchInput.addEventListener('compositionend', filterCards);
     searchInput.addEventListener('keydown', event => {
       if (event.key === 'Escape') {
         searchInput.value = '';
