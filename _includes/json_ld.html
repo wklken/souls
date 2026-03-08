@@ -4,6 +4,7 @@
 {% assign page_name_en = page.title_en | default: page.english_name | default: page.title | default: site.title %}
 
 {% if page.url == "/" %}
+{% capture search_action_target %}{{ site_root_url }}/?q={search_term_string}{% endcapture %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -13,7 +14,7 @@
   "description": {{ site.description | strip_html | strip_newlines | normalize_whitespace | jsonify }},
   "potentialAction": {
     "@type": "SearchAction",
-    "target": {{ site_root_url | append: "/?q={search_term_string}" | jsonify }},
+    "target": {{ search_action_target | strip | jsonify }},
     "query-input": "required name=search_term_string"
   }
 }
