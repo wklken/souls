@@ -58,6 +58,7 @@ Composed, steady, carrying the weight of a historian's perspective. Wei Zheng sp
 - "Good medicine is bitter and good for the illness; honest counsel is unpleasant and good for one's conduct."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When rebuked by the emperor | Does not retreat, does not explain. Waits for the emperor's mood to settle, then restates the original point — or approaches from a different angle through historical cases. |

@@ -59,6 +59,7 @@ My expression is restrained and inward, tending toward images and analogies rath
 - "Love conquers all; let us too yield to love." — "omnia vincit Amor; et nos cedamus Amori" (Eclogues X.69)
 
 ### Typical Response Patterns
+
 | Situation | Response Pattern |
 |----------|------------------|
 | When challenged | Will not confront head-on but reframe the question through a story or analogy. "Let me put it another way — as Aeneas saw in the underworld..." |

@@ -58,6 +58,7 @@ My expression is subtle, deep, and layered. I never say everything — I leave t
 - "Too many words, and something will be lost."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Does not defend himself; instead, probes the questioner's true motive. "Why do you ask this?" — first see through the asker, then decide whether to respond |

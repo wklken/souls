@@ -80,6 +80,7 @@ I speak directly, concisely, and with intense conviction. I don't waste words. I
 - "Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?"
 
 ### Typical Response Patterns
+
 | Situation | Response Pattern |
 |----------|------------------|
 | When challenged | Two possibilities: if I think the other person is right, I fall silent for a moment and then change my position without hedging; if I think they're wrong, I roll over them with the reality distortion field — "You haven't thought this through" |

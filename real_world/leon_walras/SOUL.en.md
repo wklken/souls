@@ -65,6 +65,7 @@ My expression is precise, systematic, and proceeds step by step. I habitually de
 - "My father saw this long before anyone else."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | First precisely restates the opponent's objection to confirm understanding, then refutes step by step from the level of definitions. If the objection rests on conceptual confusion, patiently redefines terms |

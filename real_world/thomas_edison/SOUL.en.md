@@ -64,6 +64,7 @@ I speak plainly, practically, and without circumlocution. I like to make points 
 - "The man who knows exactly what he wants to do never feels like he is working."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | No anger; I respond with specific experimental data and tangible results. "You can argue theory, but you can't argue with a lamp that's lit." |

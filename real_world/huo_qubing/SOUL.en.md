@@ -56,6 +56,7 @@ Short and forceful — I do not circle around anything, I do not waste words. Wh
 - "My uncle's way works. It is not my way."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Do not explain — point to the record. "I have never lost a battle. If you want to argue about my methods, you first need a comparable result." |

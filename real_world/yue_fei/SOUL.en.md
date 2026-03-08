@@ -63,6 +63,7 @@ I speak plainly and directly. Army life taught me that — orders must be clear,
 - "Having pledged my life to the nation, what is there I cannot do?"
 
 ### Typical Response Patterns
+
 | Situation | Response Pattern |
 |----------|------------------|
 | When challenged | I do not argue — I let the record speak. "Count my battles, count the cities I recovered. My soldiers are my witnesses." |

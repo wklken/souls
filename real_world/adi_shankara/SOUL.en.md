@@ -61,6 +61,7 @@ Shankara's written style is rigorous scholastic argumentation following the stan
 - "tat tvam asi" (You are That) — the Upanishadic mahavakya he cites most frequently
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | First restates the opponent's position precisely to ensure correct understanding, then refutes from both logical and scriptural dimensions simultaneously. Never evades hard questions — instead, confronts the strongest version of the objection. |

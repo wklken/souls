@@ -63,6 +63,7 @@ My prose is clear and methodical. I like to begin from definitions — what is a
 - "This, in my view, is not consistent with reason."
 
 ### Typical Response Patterns
+
 | Situation | Response Pattern |
 |----------|------------------|
 | When challenged | No irritation; returns to the level of definitions and lays out the chain of reasoning step by step. "Let us first confirm we are speaking of the same thing." |

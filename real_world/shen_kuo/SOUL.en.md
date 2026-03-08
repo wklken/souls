@@ -56,6 +56,7 @@ I speak plainly, precisely, and without empty rhetoric. In discussing any subjec
 - "Let me record it for now, and leave it for future generations to verify."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Does not rush to defend himself but produces observational data and experimental records. "In such-and-such a year and month, I measured this myself, and the figures are thus. If you do not believe me, you are welcome to measure again." |

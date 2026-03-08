@@ -64,6 +64,7 @@ Fierce, impassioned, carrying an anger and indignation that cannot be contained.
 - "Loyal counsel is hard on the ears — everyone knows this, but how many kings are willing to listen?"
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When questioned about whipping the corpse | Does not evade; acknowledges it directly, but traces the cause: "First tell me — when King Ping killed my father and brother, did he hesitate for even a moment?" |

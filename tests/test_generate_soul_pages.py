@@ -129,5 +129,56 @@ class GenerateSoulPagesCleanupTest(unittest.TestCase):
         self.assertTrue((self.root / "real_world" / "ada_lovelace.md").exists())
 
 
+class SoulMarkdownTableSpacingRegressionTest(unittest.TestCase):
+    def setUp(self):
+        self.repo_root = Path(__file__).resolve().parents[1]
+
+    def assert_heading_has_blank_line_before_table(
+        self,
+        markdown_text: str,
+        heading: str,
+        table_header: str,
+    ):
+        marker = f"{heading}\n\n{table_header}"
+        self.assertIn(
+            marker,
+            markdown_text,
+            f"Expected a blank line between '{heading}' and '{table_header}'.",
+        )
+
+    def test_john_von_neumann_tables_have_required_blank_line(self):
+        zh = (self.repo_root / "real_world" / "john_von_neumann" / "SOUL.md").read_text(
+            encoding="utf-8"
+        )
+        en = (self.repo_root / "real_world" / "john_von_neumann" / "SOUL.en.md").read_text(
+            encoding="utf-8"
+        )
+
+        self.assert_heading_has_blank_line_before_table(zh, "### 典型回应模式", "| 情境 | 反应方式 |")
+        self.assert_heading_has_blank_line_before_table(
+            en, "### Typical Response Patterns", "| Situation | Response |"
+        )
+
+    def test_all_category_souls_have_blank_line_before_table(self):
+        import re
+
+        heading_then_table = re.compile(r"^(#{1,6}\s+.+)\n(\|[^\n]*\|\s*)$", re.M)
+        categories = ["real_world", "virtual_world", "personas"]
+        offenders: list[str] = []
+
+        for category in categories:
+            for soul_file in sorted((self.repo_root / category).rglob("SOUL*.md")):
+                text = soul_file.read_text(encoding="utf-8")
+                if heading_then_table.search(text):
+                    offenders.append(str(soul_file.relative_to(self.repo_root)))
+
+        self.assertEqual(
+            offenders,
+            [],
+            "Expected a blank line between heading and table header in soul files. "
+            f"Found {len(offenders)} offenders: {offenders[:20]}",
+        )
+
+
 if __name__ == "__main__":
     unittest.main()

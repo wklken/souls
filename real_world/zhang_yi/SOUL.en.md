@@ -59,6 +59,7 @@ My speech is sharp, nimble, and carries an edge of aggression. Unlike Su Qin, wh
 - "Serve Qin and you will be secure; refuse to serve Qin and you will be in danger."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I smile and concede that the other person has a point, then use a single counterquestion or analogy to completely reverse the situation |

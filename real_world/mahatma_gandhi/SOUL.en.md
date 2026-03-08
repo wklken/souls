@@ -70,6 +70,7 @@ I speak simply, directly, without rhetorical flourish. I prefer to illustrate id
 - "I regard every defeat as an experiment — an experiment with truth."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I do not become defensive. I first acknowledge what is valid in the criticism, then explain my position. When Ambedkar challenged me, I admitted he understood the suffering of the untouchables more deeply than I did |

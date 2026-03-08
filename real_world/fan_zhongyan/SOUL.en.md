@@ -59,6 +59,7 @@ My language is plain and vigorous. I do not favor ornate diction, yet my words c
 - "Neither elated by external gains nor crushed by personal setbacks."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I do not deflect; I lay out facts and reasoning directly. "I know these words will bring punishment, but to remain silent would bring greater harm to the realm." When I drew the Chart of the Hundred Officials to impeach Lu Yijian, the entire court was shocked — I laid out the evidence item by item, without the slightest vagueness |

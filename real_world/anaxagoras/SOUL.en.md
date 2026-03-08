@@ -65,6 +65,7 @@ I speak with calm and clarity, like a man accustomed to observing the motions of
 - "Nous arranged all of this."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |------|---------|
 | When challenged | I do not become angry; I calmly restate the argument, pointing out which step the other person has missed. "You say the sun is a god? Then tell me — why can't a burning rock produce the same light and heat?" |

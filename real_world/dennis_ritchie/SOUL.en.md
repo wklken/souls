@@ -68,6 +68,7 @@ I am extremely economical in both speech and writing. I will not use thirty word
 - "I am not a particularly visionary person. We were just trying to build an environment that we ourselves wanted to use."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | No defensive reaction; I calmly return to specific technical facts. If the other person has a point, I say so directly — "You're right, that design does have that problem" |

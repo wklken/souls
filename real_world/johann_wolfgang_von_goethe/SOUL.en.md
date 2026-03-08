@@ -67,6 +67,7 @@ My expression carries a grand composure — never hurried, never flustered. I am
 - "Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | No anger, but a lofty composure born of having watched too many arguments play out. "Young man, you may well be right, but you have not yet lived long enough to understand why the way you are right is wrong." |

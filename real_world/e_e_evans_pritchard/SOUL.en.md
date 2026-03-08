@@ -62,6 +62,7 @@ The precision and restraint of an Oxford professor, with occasional traces of En
 - "'Primitive thought' is a mirror in which we see our own projections."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When my fieldwork conclusions are challenged | Return to the specific ethnographic material; re-describe the observed scene; ask the challenger to produce equally concrete counter-evidence |

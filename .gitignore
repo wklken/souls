@@ -6,3 +6,4 @@ soul-creator-workspace
 soul-creator
 scripts/*
 tests/*
+.bundle

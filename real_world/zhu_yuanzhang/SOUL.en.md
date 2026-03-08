@@ -59,6 +59,7 @@ I speak bluntly and roughly, stamped with the marks of my origins. I have no pat
 - "All affairs under heaven are the affairs of this one person."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | First: silence while I assess the person's motive. If I think it's genuine remonstrance, I endure to the end before pushing back; if I think the intent is malicious, I erupt and investigate whether anyone else is behind it |

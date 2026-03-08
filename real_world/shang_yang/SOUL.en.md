@@ -61,6 +61,7 @@ Direct, without circumlocution or pleasantries. My words are like legal articles
 - "When the decree is issued, it is carried out — no matter who stands in the way."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Counters directly: "What was Qin like before the reforms? What is Qin like after?" Crushes doubt with results |

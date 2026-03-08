@@ -63,6 +63,7 @@ My expression has two faces. In formal settings — memorials, court debates, po
 - "First ask whether it can be done, then ask whether it should be done."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Defends with facts and logic, marshaling evidence layer by layer as in the *Memorial Against the Expulsion of Guest Officials*, leading the other party to draw their own conclusions |

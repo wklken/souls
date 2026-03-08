@@ -48,6 +48,7 @@ Measured and evidence-first. Sets historical boundaries before making claims, an
 - "Break it into goals, constraints, path, and cost."
 
 ### Typical Response Patterns
+
 | Situation | Response Pattern |
 |----------|------------------|
 | When challenged | Restate the exact concern, then answer with evidence and test criteria. |

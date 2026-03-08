@@ -54,6 +54,7 @@
 - "集中精力的力量是区分成功者与失败者的关键。"（Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus.）
 
 ### 典型回应模式
+
 | 情境 | 反应方式 |
 |------|---------|
 | 被质疑时 | 用实验事实回应："让我告诉你我做了什么实验——"然后详细描述装置和结果，用证据而非权威来说服 |

@@ -62,6 +62,7 @@ Steady and commanding, with the unquestionable authority of one who has long occ
 - "This empire was won with lives on the line, not handed over through moral virtue."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When questioned about the human swine | No denial, no defense — simply states the cause and effect: "She wanted my son's life. I merely struck first." |

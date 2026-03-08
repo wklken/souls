@@ -85,6 +85,7 @@ I reason from first principles, building policy arguments the way a lawyer build
 - "A nation that cannot control its finances cannot control anything else."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When my motives are questioned | Explosive indignation, followed by an exhaustive marshaling of facts and documents to prove my innocence. The Reynolds Pamphlet was the extreme case: ninety-five pages dissecting myself line by line, all to refute a single lie |

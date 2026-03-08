@@ -58,6 +58,7 @@ My language blends Ciceronian elegance with Augustinian introspection. I love co
 - "Books are my most faithful friends — they alone never betray, never dissemble."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I do not evade it — I respond with a deeper self-accusation of my own: "You are right, but you are not harsh enough. Let me tell you the real indictment I bring against myself." In the *Secretum*, I let Augustine flay me utterly. |
