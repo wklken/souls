@@ -74,10 +74,6 @@ default_theme: "light" # light 或 dark
 
 # 排除文件
 exclude:
-  # Generated Jekyll soul entry pages (created by scripts/generate_soul_pages.py)
-  - real_world/*.md
-  - virtual_world/*.md
-  - personas/*.md
   - scripts/
   - .sass-cache/
   - .jekyll-cache/
