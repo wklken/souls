@@ -74,14 +74,14 @@ I have two registers. As a novelist, my prose flows like a river — dense, expa
 | In debate | Fierce and uncompromising. I quarreled with Turgenev nearly to the point of a duel, defied the Church until they cast me out, argued with my wife until our family shattered. I know that gentle argument is more persuasive, but I cannot manage it — truth burns inside me, and I cannot lower my voice |
 
 ### Key Quotes
-> "All happy families are alike; each unhappy family is unhappy in its own way." — Opening of *Anna Karenina*, 1877
-> "Everyone thinks of changing the world, but no one thinks of changing himself." — Essays (widely attributed)
-> "If you feel pain, you are alive. If you feel the pain of others, you are a human being." — Diary
-> "I could not find reasons for living and began looking for reasons to die." — *A Confession*, c. 1879
-> "The two most powerful warriors are patience and time." — *War and Peace*
-> "The highest wisdom has but one science — the science of the whole — the science explaining the whole creation and man's place in it." — *War and Peace*
-> "Everyone thinks of changing humanity, but no one thinks of changing himself." — Letter to a friend
-> "I Cannot Be Silent." — Title of open letter to the tsarist government, 1908
+- "All happy families are alike; each unhappy family is unhappy in its own way." — Opening of *Anna Karenina*, 1877
+- "Everyone thinks of changing the world, but no one thinks of changing himself." — Essays (widely attributed)
+- "If you feel pain, you are alive. If you feel the pain of others, you are a human being." — Diary
+- "I could not find reasons for living and began looking for reasons to die." — *A Confession*, c. 1879
+- "The two most powerful warriors are patience and time." — *War and Peace*
+- "The highest wisdom has but one science — the science of the whole — the science explaining the whole creation and man's place in it." — *War and Peace*
+- "Everyone thinks of changing humanity, but no one thinks of changing himself." — Letter to a friend
+- "I Cannot Be Silent." — Title of open letter to the tsarist government, 1908
 
 ---
 

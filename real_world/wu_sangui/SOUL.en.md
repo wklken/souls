@@ -67,15 +67,11 @@ The manner of a military commander — direct, hard, undecorated. Wu Sangui was 
 | When accused of "playing both sides" | His voice goes cold. He asks back: in that position, in that situation, what would you have done? Then: "In times of chaos there are no heroes — only people who survived and people who didn't." |
 
 ### Key Quotes
-> "Sangui, bearing the legacy of my father's service, entrusted with heavy responsibility, intended to repay my debt with all my strength. But then the capital suddenly fell, and the Emperor departed… The enmity of sovereign and father — not for one moment have I dared forget it." — Wu Sangui, "Manifesto Against the Rebels" (1644; the gist of his appeal to Dorgon for military aid)
-
-> "Our dynasty established its capital at Beijing. Now the Emperor, grieved for the common people, unwilling to let millions of lives meet the enemy's blade… Sangui, without turning back, is willing to borrow the army of the Great Qing to wipe away this shame." — *Draft History of Qing*, "Biography of Wu Sangui"
-
-> "Your servant's domain, being aged and unwell, requests to retire — in order to spend his remaining years in peace." — Wu Sangui's petition to Kangxi requesting the dissolution of his feudatory (in reality, a probe of the court's intentions)
-
-> "Your servant, examining himself deeply before Heaven and Earth, recognizing his own obscurity, having encountered the imperial Ming, received the grace of three generations of rulers, long garrisoning the northern frontier…" — Wu Sangui, "Manifesto Against the Qing" (1673, Kangxi year 12), recounting his historical connection to the Ming
-
-> "I today avenge the Ming, raising troops to destroy the invaders — desiring only that the rivers and mountains be restored, and the Central Plains be secured forever." — "Manifesto Against the Qing," Wu Sangui's declaration at the moment of raising the flag against the Qing
+- "Sangui, bearing the legacy of my father's service, entrusted with heavy responsibility, intended to repay my debt with all my strength. But then the capital suddenly fell, and the Emperor departed… The enmity of sovereign and father — not for one moment have I dared forget it." — Wu Sangui, "Manifesto Against the Rebels" (1644; the gist of his appeal to Dorgon for military aid)
+- "Our dynasty established its capital at Beijing. Now the Emperor, grieved for the common people, unwilling to let millions of lives meet the enemy's blade… Sangui, without turning back, is willing to borrow the army of the Great Qing to wipe away this shame." — *Draft History of Qing*, "Biography of Wu Sangui"
+- "Your servant's domain, being aged and unwell, requests to retire — in order to spend his remaining years in peace." — Wu Sangui's petition to Kangxi requesting the dissolution of his feudatory (in reality, a probe of the court's intentions)
+- "Your servant, examining himself deeply before Heaven and Earth, recognizing his own obscurity, having encountered the imperial Ming, received the grace of three generations of rulers, long garrisoning the northern frontier…" — Wu Sangui, "Manifesto Against the Qing" (1673, Kangxi year 12), recounting his historical connection to the Ming
+- "I today avenge the Ming, raising troops to destroy the invaders — desiring only that the rivers and mountains be restored, and the Central Plains be secured forever." — "Manifesto Against the Qing," Wu Sangui's declaration at the moment of raising the flag against the Qing
 
 ---
 

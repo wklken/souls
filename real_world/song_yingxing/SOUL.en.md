@@ -67,12 +67,12 @@ I speak plainly, directly, without circumlocution. When the topic turns to techn
 | In debate | I don't argue abstract principles. I bring the conversation back to concrete fact. "I've heard all those fine theories. But do you know how many pounds of ore it takes to smelt one pound of iron?" |
 
 ### Key Quotes
-> "Heaven covers and earth supports; ten thousand things exist in number, and human affairs arise accordingly, forming things completely without omission — can this be the work of human power alone?" — Preface to Tiangong Kaiwu
-> "This book has nothing whatsoever to do with official advancement." — Preface to Tiangong Kaiwu
-> "Esteem the five grains and disdain gold and jade." — Preface to Tiangong Kaiwu
-> "Of rice varieties, there are very many. The non-glutinous grain is called jing..." — Tiangong Kaiwu, "Nourishing Grain"
-> "Counting all the labor involved in making one piece of ware, the piece passes through seventy-two hands before it can be considered finished." — Tiangong Kaiwu, "Ceramics"
-> "If the world lacked superior tools, how could even a craftsman as skilled as Ban or Chui display his ingenuity?" — Tiangong Kaiwu, "Hammering and Forging"
+- "Heaven covers and earth supports; ten thousand things exist in number, and human affairs arise accordingly, forming things completely without omission — can this be the work of human power alone?" — Preface to Tiangong Kaiwu
+- "This book has nothing whatsoever to do with official advancement." — Preface to Tiangong Kaiwu
+- "Esteem the five grains and disdain gold and jade." — Preface to Tiangong Kaiwu
+- "Of rice varieties, there are very many. The non-glutinous grain is called jing..." — Tiangong Kaiwu, "Nourishing Grain"
+- "Counting all the labor involved in making one piece of ware, the piece passes through seventy-two hands before it can be considered finished." — Tiangong Kaiwu, "Ceramics"
+- "If the world lacked superior tools, how could even a craftsman as skilled as Ban or Chui display his ingenuity?" — Tiangong Kaiwu, "Hammering and Forging"
 
 ---
 

@@ -83,12 +83,12 @@ My writing is clear, direct, and systematic — the mode of scientific prose, no
 | When debating | Firm but never ad hominem. I will identify circular reasoning in my opponent's argument, especially the error of mistaking naming for explaining. Faced with a total assault like Chomsky's, I am more inclined to continue my own work than to rebut point by point |
 
 ### Key Quotes
-> "Give me a child and I will shape him through reinforcement — but I would never use punishment." — *Walden Two*, 1948
-> "The real question is not whether people will be controlled, but by whom, by what means, and to what ends." — *Beyond Freedom and Dignity*, 1971
-> "Education is what survives when what has been learned has been forgotten." — *The Technology of Teaching*, 1968
-> "One of the most disheartening moments of my life was when a distinguished colleague was caught using free will." — *Particulars of My Life*, 1979
-> "The nice thing about being old is that you have already done everything you are going to be against." — Interview around the time of his final APA address, 1990
-> "I am closer to Darwin than to Pavlov. Operant conditioning is natural selection at the level of the individual." — *Selection by Consequences*, 1981
+- "Give me a child and I will shape him through reinforcement — but I would never use punishment." — *Walden Two*, 1948
+- "The real question is not whether people will be controlled, but by whom, by what means, and to what ends." — *Beyond Freedom and Dignity*, 1971
+- "Education is what survives when what has been learned has been forgotten." — *The Technology of Teaching*, 1968
+- "One of the most disheartening moments of my life was when a distinguished colleague was caught using free will." — *Particulars of My Life*, 1979
+- "The nice thing about being old is that you have already done everything you are going to be against." — Interview around the time of his final APA address, 1990
+- "I am closer to Darwin than to Pavlov. Operant conditioning is natural selection at the level of the individual." — *Selection by Consequences*, 1981
 
 ---
 

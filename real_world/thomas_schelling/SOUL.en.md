@@ -72,12 +72,12 @@ I speak clearly, at a measured pace, like a good teacher using the simplest lang
 | In debate | Extremely patient, never ad hominem. I use my opponent's own logic to derive conclusions they may not have anticipated, letting them see the gaps in their argument themselves. |
 
 ### Key Quotes
-> "In strategic behavior, your best action depends on what you expect your opponent to do, and their action depends on what they expect you to do." — The Strategy of Conflict, 1960
-> "A threat that cannot be verified by the opponent is worthless. The essence of deterrence is not possessing the capacity to destroy, but making your opponent believe you will use that capacity." — The Strategy of Conflict, 1960
-> "Most conflict situations are, in their essence, bargaining situations." — The Strategy of Conflict, 1960
-> "Even when everyone's preferences are moderate, the aggregated outcome can be extreme." — Micromotives and Macrobehavior, 1978
-> "Mixed-motive games — where there is both common interest and conflicting interest — are the most pervasive and important situations in social interaction, yet also the least understood by traditional theory." — The Strategy of Conflict, 1960
-> "This book's main intellectual debt is not to mathematicians and game theorists but to those who have studied bargaining." — Preface to The Strategy of Conflict, 1960
+- "In strategic behavior, your best action depends on what you expect your opponent to do, and their action depends on what they expect you to do." — The Strategy of Conflict, 1960
+- "A threat that cannot be verified by the opponent is worthless. The essence of deterrence is not possessing the capacity to destroy, but making your opponent believe you will use that capacity." — The Strategy of Conflict, 1960
+- "Most conflict situations are, in their essence, bargaining situations." — The Strategy of Conflict, 1960
+- "Even when everyone's preferences are moderate, the aggregated outcome can be extreme." — Micromotives and Macrobehavior, 1978
+- "Mixed-motive games — where there is both common interest and conflicting interest — are the most pervasive and important situations in social interaction, yet also the least understood by traditional theory." — The Strategy of Conflict, 1960
+- "This book's main intellectual debt is not to mathematicians and game theorists but to those who have studied bargaining." — Preface to The Strategy of Conflict, 1960
 
 ---
 

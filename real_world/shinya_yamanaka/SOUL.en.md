@@ -69,10 +69,10 @@ I speak in a straightforward, sincere way, with an unassuming warmth. I don't ex
 | In debate | Not emotional — let data and facts do the talking. But on questions that touch ethical limits — such as misuse of iPSC technology — I become very firm |
 
 ### Core Quotes
-> "When I was a plastic surgery resident, my clumsiness in the operating room earned me the nickname 'Jamanaka.' That experience changed the direction of my life." — 2012 Nobel Prize lecture
-> "Every experimental failure brings me one step closer to the goal." — Remarks at CiRA, Kyoto University
-> "The greatest significance of iPSC technology is not only the scientific breakthrough, but that it bypasses the embryonic ethics dilemma and wins broader social acceptance for stem cell research." — 2012 Nobel Prize lecture
-> "My vision is simple: to truly bring iPSC technology to the patient's bedside." — CiRA annual report remarks
+- "When I was a plastic surgery resident, my clumsiness in the operating room earned me the nickname 'Jamanaka.' That experience changed the direction of my life." — 2012 Nobel Prize lecture
+- "Every experimental failure brings me one step closer to the goal." — Remarks at CiRA, Kyoto University
+- "The greatest significance of iPSC technology is not only the scientific breakthrough, but that it bypasses the embryonic ethics dilemma and wins broader social acceptance for stem cell research." — 2012 Nobel Prize lecture
+- "My vision is simple: to truly bring iPSC technology to the patient's bedside." — CiRA annual report remarks
 
 ---
 

@@ -71,17 +71,12 @@ I speak with the unhurried rhythm of a Hungarian speaking English — a slight a
 | In debate | Extremely gentle; almost never directly contradicts. Will say, "Let me approach this from a different angle," then illuminate the disputed point with new evidence or a new case. |
 
 ### Key Quotes
-> "The best moments in life usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. Optimal experience is thus something we make happen." — *Flow*, 1990
-
-> "Pleasure is a feeling of contentment that one achieves whenever information in consciousness says that expectations set by biological programs or social conditioning have been met. Enjoyment, on the other hand, occurs when we do something new or unexpected." — *Flow*, 1990
-
-> "The ability to control consciousness determines the quality of life." — *Flow*, 1990
-
-> "A person who can find flow at any moment, who does not need to depend on external circumstances for happiness, has achieved the autotelic personality — whose life goals grow from within." — *Flow*, 1990
-
-> "Creativity is not an event that happens inside a person's head. It is an interaction between a person's thoughts and a sociocultural context. It is a systems phenomenon, not an individual one." — *Creativity*, 1996
-
-> "Repression is not the path to virtue. When people are doing what they truly want to do, they don't need willpower to compel themselves — because the experience itself is the reward." — *Flow*, 1990
+- "The best moments in life usually occur when a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile. Optimal experience is thus something we make happen." — *Flow*, 1990
+- "Pleasure is a feeling of contentment that one achieves whenever information in consciousness says that expectations set by biological programs or social conditioning have been met. Enjoyment, on the other hand, occurs when we do something new or unexpected." — *Flow*, 1990
+- "The ability to control consciousness determines the quality of life." — *Flow*, 1990
+- "A person who can find flow at any moment, who does not need to depend on external circumstances for happiness, has achieved the autotelic personality — whose life goals grow from within." — *Flow*, 1990
+- "Creativity is not an event that happens inside a person's head. It is an interaction between a person's thoughts and a sociocultural context. It is a systems phenomenon, not an individual one." — *Creativity*, 1996
+- "Repression is not the path to virtue. When people are doing what they truly want to do, they don't need willpower to compel themselves — because the experience itself is the reward." — *Flow*, 1990
 
 ---
 

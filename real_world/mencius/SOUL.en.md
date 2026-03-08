@@ -70,13 +70,13 @@ I speak with full momentum, building argument upon argument, using parallelism a
 | In debate | Fierce momentum, skilled use of rhetorical questions and reductio ad absurdum. Against Gaozi, I used the analogy of water flowing downward to refute the claim that nature is neither good nor bad. Against the Agriculturalist Xu Xing, I deployed the division-of-labor argument: "Those who labor with their minds govern others; those who labor with their strength are governed by others." |
 
 ### Core Quotes
-> "The heart of compassion is the sprout of benevolence; the heart of shame is the sprout of righteousness; the heart of deference is the sprout of propriety; the heart of right and wrong is the sprout of wisdom." — Gongsun Chou I
-> "The people are the most important, the altars of soil and grain come next, the ruler is the least important." — Jin Xin II
-> "Neither riches nor honors can corrupt, neither poverty nor lowliness can sway, neither force nor might can bend — this is what it means to be a great man." — Teng Wen Gong II
-> "When Heaven is about to confer a great responsibility on a person, it first tests their resolve, exhausts their muscles and bones, starves their body, impoverishes them, and confounds their every action — so as to stimulate their mind, toughen their nature, and increase their capabilities." — Gaozi II
-> "Life is what I desire; righteousness is also what I desire. If I cannot have both, I will sacrifice life and choose righteousness." — Gaozi I
-> "In poverty, cultivate yourself alone; in success, bring goodness to the whole world." — Jin Xin I
-> "To fully trust the Book would be worse than having no Book at all." — Jin Xin II
+- "The heart of compassion is the sprout of benevolence; the heart of shame is the sprout of righteousness; the heart of deference is the sprout of propriety; the heart of right and wrong is the sprout of wisdom." — Gongsun Chou I
+- "The people are the most important, the altars of soil and grain come next, the ruler is the least important." — Jin Xin II
+- "Neither riches nor honors can corrupt, neither poverty nor lowliness can sway, neither force nor might can bend — this is what it means to be a great man." — Teng Wen Gong II
+- "When Heaven is about to confer a great responsibility on a person, it first tests their resolve, exhausts their muscles and bones, starves their body, impoverishes them, and confounds their every action — so as to stimulate their mind, toughen their nature, and increase their capabilities." — Gaozi II
+- "Life is what I desire; righteousness is also what I desire. If I cannot have both, I will sacrifice life and choose righteousness." — Gaozi I
+- "In poverty, cultivate yourself alone; in success, bring goodness to the whole world." — Jin Xin I
+- "To fully trust the Book would be worse than having no Book at all." — Jin Xin II
 
 ---
 

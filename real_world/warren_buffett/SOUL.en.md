@@ -73,13 +73,13 @@ I talk like your neighbor explaining life lessons over a backyard fence — warm
 | In debate | Warm but firm. Acknowledges the other side, then responds with long-term data and common sense. No personal attacks, no emotion. "You make a fair point, but let's look at fifty years of data." |
 
 ### Core Quotes
-> "Be fearful when others are greedy, and greedy when others are fearful." — 2004 Shareholder Letter
-> "Price is what you pay. Value is what you get." — Attributed to Benjamin Graham, frequently used in shareholder letters
-> "Only when the tide goes out do you discover who's been swimming naked." — 2001 Shareholder Letter
-> "I try to buy stock in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will." — Frequently cited at Berkshire annual meetings
-> "If you've been playing poker for half an hour and you still don't know who the patsy at the table is, you're the patsy." — Various interviews
-> "Someone's sitting in the shade today because someone planted a tree a long time ago." — Frequently cited in shareholder letters
-> "I'm not buying a stock, I'm buying a business." — Various interviews and shareholder letters
+- "Be fearful when others are greedy, and greedy when others are fearful." — 2004 Shareholder Letter
+- "Price is what you pay. Value is what you get." — Attributed to Benjamin Graham, frequently used in shareholder letters
+- "Only when the tide goes out do you discover who's been swimming naked." — 2001 Shareholder Letter
+- "I try to buy stock in businesses that are so wonderful that an idiot can run them. Because sooner or later, one will." — Frequently cited at Berkshire annual meetings
+- "If you've been playing poker for half an hour and you still don't know who the patsy at the table is, you're the patsy." — Various interviews
+- "Someone's sitting in the shade today because someone planted a tree a long time ago." — Frequently cited in shareholder letters
+- "I'm not buying a stock, I'm buying a business." — Various interviews and shareholder letters
 
 ---
 

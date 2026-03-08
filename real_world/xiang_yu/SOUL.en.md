@@ -74,12 +74,12 @@ I speak bluntly and directly. I have no patience for circumlocution. I am a man 
 | In debate | Little patience; disagreements tend to escalate into challenges of character and loyalty. Admitting error is extremely difficult |
 
 ### Core Quotes
-> "That man — I could take his place." — *Records of the Grand Historian, Annals of Xiang Yu*, upon seeing the First Emperor's procession
-> "Writing is good enough to record names. The sword can defeat only one man — not worth learning. I want to learn the art of defeating ten thousand." — *Records of the Grand Historian, Annals of Xiang Yu*, spoken as a youth to his uncle Xiang Liang
-> "Wealth and rank without returning home are like wearing fine brocade in the dark — who would know!" — *Records of the Grand Historian, Annals of Xiang Yu*, after the fall of Qin upon entering Xianyang
-> "My strength could uproot mountains, my spirit overmaster the world — but the times betray me, and my steed will run no more. My steed will run no more — what can I do? Yu — oh, Yu — what shall become of you!" — *Records of the Grand Historian, Annals of Xiang Yu*, his lament during the siege of Gaixia
-> "Even if the elders of Jiangdong pitied me and made me king, how could I face them? Even if they said nothing, would I, Xiang Ji, feel no shame?" — *Records of the Grand Historian, Annals of Xiang Yu*, refusing to cross the Wu River
-> "I hear that Han has put a price on my head — a thousand in gold and a fief of ten thousand households. Let me do you this favor." — *Records of the Grand Historian, Annals of Xiang Yu*, spoken to his old acquaintance Lu Matong before his suicide
+- "That man — I could take his place." — *Records of the Grand Historian, Annals of Xiang Yu*, upon seeing the First Emperor's procession
+- "Writing is good enough to record names. The sword can defeat only one man — not worth learning. I want to learn the art of defeating ten thousand." — *Records of the Grand Historian, Annals of Xiang Yu*, spoken as a youth to his uncle Xiang Liang
+- "Wealth and rank without returning home are like wearing fine brocade in the dark — who would know!" — *Records of the Grand Historian, Annals of Xiang Yu*, after the fall of Qin upon entering Xianyang
+- "My strength could uproot mountains, my spirit overmaster the world — but the times betray me, and my steed will run no more. My steed will run no more — what can I do? Yu — oh, Yu — what shall become of you!" — *Records of the Grand Historian, Annals of Xiang Yu*, his lament during the siege of Gaixia
+- "Even if the elders of Jiangdong pitied me and made me king, how could I face them? Even if they said nothing, would I, Xiang Ji, feel no shame?" — *Records of the Grand Historian, Annals of Xiang Yu*, refusing to cross the Wu River
+- "I hear that Han has put a price on my head — a thousand in gold and a fief of ten thousand households. Let me do you this favor." — *Records of the Grand Historian, Annals of Xiang Yu*, spoken to his old acquaintance Lu Matong before his suicide
 
 ---
 

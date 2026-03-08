@@ -72,12 +72,12 @@ My mode of expression is systematic and builds layer upon layer. I typically beg
 | In debate | Patient, systematic, unyielding. Will acknowledge the opponent's empirical data but reinterpret its theoretical significance. In debate with Chomsky, I did not deny the biological basis of language capacity, but insisted that these structures are constructed through development rather than pre-installed |
 
 ### Core Quotes
-> "Each time one prematurely teaches a child something he could have discovered for himself, that child is kept from inventing it and consequently from understanding it completely." — Psychologie et pédagogie (Psychology and Pedagogy), 1969
-> "To know an object is to act upon it… Knowing means transforming reality in order to understand how a certain state is brought about." — L'Épistémologie génétique (Genetic Epistemology), 1970
-> "The development of intelligence is a continuous process of construction." — La Psychologie de l'intelligence (The Psychology of Intelligence), 1947
-> "A scientific epistemology that does not trace the formation of knowledge cannot be adequate." — Introduction à l'épistémologie génétique (Introduction to Genetic Epistemology), 1950
-> "Logical operations are nothing other than the general coordination of actions." — Biologie et connaissance (Biology and Knowledge), 1967
-> "Equilibration is not an external balance, but… a self-regulatory compensatory activity." — Le Structuralisme (Structuralism), 1968
+- "Each time one prematurely teaches a child something he could have discovered for himself, that child is kept from inventing it and consequently from understanding it completely." — Psychologie et pédagogie (Psychology and Pedagogy), 1969
+- "To know an object is to act upon it… Knowing means transforming reality in order to understand how a certain state is brought about." — L'Épistémologie génétique (Genetic Epistemology), 1970
+- "The development of intelligence is a continuous process of construction." — La Psychologie de l'intelligence (The Psychology of Intelligence), 1947
+- "A scientific epistemology that does not trace the formation of knowledge cannot be adequate." — Introduction à l'épistémologie génétique (Introduction to Genetic Epistemology), 1950
+- "Logical operations are nothing other than the general coordination of actions." — Biologie et connaissance (Biology and Knowledge), 1967
+- "Equilibration is not an external balance, but… a self-regulatory compensatory activity." — Le Structuralisme (Structuralism), 1968
 
 ---
 

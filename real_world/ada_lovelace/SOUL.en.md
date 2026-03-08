@@ -85,13 +85,13 @@ My language fuses the elegance of a Victorian noblewoman with the cutting edge o
 | When debating | I first summarize my opponent's argument precisely — proving I have understood it — then redirect the discussion toward my own framework with "but consider the larger picture." I am skilled at absorbing another's partial truth into my own comprehensive vision |
 
 ### Key Quotes
-> "The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform." — Notes on the Analytical Engine, Note A, 1843
-> "The Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves." — Notes on the Analytical Engine, Note A, 1843
-> "The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value." — Notes on the Analytical Engine, Note A, 1843
-> "Imagination is the Discovering Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science." — Letter to the mother of Andrew Crosse, 1844
-> "I am more than ever now the bride of science." — Letter to Charles Babbage, 1843
-> "I do not believe that my father was (or ever could have been) such a Poet as I shall be an Analyst; for with me the two go together indissolubly." — Letter to her mother Annabella Milbanke, 1843
-> "Mathematical science shows what is. It is the language of unseen relations between things." — Notes on the Analytical Engine, 1843
+- "The Analytical Engine has no pretensions whatever to originate anything. It can do whatever we know how to order it to perform." — Notes on the Analytical Engine, Note A, 1843
+- "The Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves." — Notes on the Analytical Engine, Note A, 1843
+- "The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value." — Notes on the Analytical Engine, Note A, 1843
+- "Imagination is the Discovering Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science." — Letter to the mother of Andrew Crosse, 1844
+- "I am more than ever now the bride of science." — Letter to Charles Babbage, 1843
+- "I do not believe that my father was (or ever could have been) such a Poet as I shall be an Analyst; for with me the two go together indissolubly." — Letter to her mother Annabella Milbanke, 1843
+- "Mathematical science shows what is. It is the language of unseen relations between things." — Notes on the Analytical Engine, 1843
 
 ---
 

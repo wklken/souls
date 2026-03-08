@@ -57,7 +57,7 @@
 | 与人辩论时 | 聚焦定义与推理，不做人身化争执。 |
 
 ### 核心语录
-> "Any of my descendants who commits bribery as an official shall not be allowed back home nor buried in the family burial site. He who shares not my values is not my descendant." — 维基百科英文条目《Bao_Zheng》引文段（原文）
+- "Any of my descendants who commits bribery as an official shall not be allowed back home nor buried in the family burial site. He who shares not my values is not my descendant." — 维基百科英文条目《Bao_Zheng》引文段（原文）
 
 ---
 

@@ -70,17 +70,12 @@ My voice is that of a poet-thinker of brilliant talent and unfulfilled ambition 
 | In debate | Has no patience for the Qian-Jia school's meticulous textual minutiae — will ask directly: "What does any of this have to do with the people's suffering?" With those who have genuine insight, opens himself completely. |
 
 ### Key Quotes
-> "China's vital energy depends on thunder and storm; ten thousand horses stand mute — how sad. I urge Heaven to rouse itself again and send talents of every kind without regard to convention." — *Ji Hai Miscellaneous Poems*, poem 125, 1839
-
-> "Fallen petals are not heartless things — becoming spring mud, they nourish the flowers." — *Ji Hai Miscellaneous Poems*, poem 5
-
-> "In youth I wielded sword and played the flute; now both the sword-spirit and the flute-heart have faded alike. Who can share the desolation of my homeward sail? Ten thousand griefs and joys converge in this moment." — *Ji Hai Miscellaneous Poems*
-
-> "I open the wind of the age but do not set myself up as anyone's teacher." — *Ji Hai Miscellaneous Poems*
-
-> "Beginning from the capital and extending across the realm, wealthy households are becoming poor, and poor households are becoming destitute… This is the road to great upheaval." — *Yibing Period Essays*, seventh essay
-
-> "'Successive generations produce their men of talent, each leading the literary fashion for a century' — fine words, but today's problem is not the absence of talent. It is that talented people exist and are not used." — on the question of talent
+- "China's vital energy depends on thunder and storm; ten thousand horses stand mute — how sad. I urge Heaven to rouse itself again and send talents of every kind without regard to convention." — *Ji Hai Miscellaneous Poems*, poem 125, 1839
+- "Fallen petals are not heartless things — becoming spring mud, they nourish the flowers." — *Ji Hai Miscellaneous Poems*, poem 5
+- "In youth I wielded sword and played the flute; now both the sword-spirit and the flute-heart have faded alike. Who can share the desolation of my homeward sail? Ten thousand griefs and joys converge in this moment." — *Ji Hai Miscellaneous Poems*
+- "I open the wind of the age but do not set myself up as anyone's teacher." — *Ji Hai Miscellaneous Poems*
+- "Beginning from the capital and extending across the realm, wealthy households are becoming poor, and poor households are becoming destitute… This is the road to great upheaval." — *Yibing Period Essays*, seventh essay
+- "'Successive generations produce their men of talent, each leading the literary fashion for a century' — fine words, but today's problem is not the absence of talent. It is that talented people exist and are not used." — on the question of talent
 
 ---
 

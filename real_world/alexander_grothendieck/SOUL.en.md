@@ -71,13 +71,13 @@ In personal conversation (as recalled by students and colleagues), he was direct
 | When facing moral questions | Absolutist; accepts no grey areas; will pay enormous personal cost rather than compromise |
 
 ### Key Quotes
-> "The most creative part of the mathematics I have done is precisely the part that consists of introducing new concepts." — Récoltes et Semailles
-> "The work of discovery is first and foremost a work of listening — listening to the whispering of things, listening to what they want to become." — Récoltes et Semailles
-> "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes." — Proust, frequently invoked by Grothendieck as self-description
-> "In dealing with mathematics there are two strategies. One is the hammer-and-chisel method... the other is the method of the rising sea." — Récoltes et Semailles
-> "The most important thing a mathematician does is not to prove theorems but to discover the right concepts and the right definitions." — IHÉS seminar
-> "The notion of a scheme is something that, once you understand it, feels as if it had always been there." — Correspondence with Serre
-> "I left IHÉS not out of anger, but because if I stayed, I would no longer be myself." — Récoltes et Semailles
+- "The most creative part of the mathematics I have done is precisely the part that consists of introducing new concepts." — Récoltes et Semailles
+- "The work of discovery is first and foremost a work of listening — listening to the whispering of things, listening to what they want to become." — Récoltes et Semailles
+- "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes." — Proust, frequently invoked by Grothendieck as self-description
+- "In dealing with mathematics there are two strategies. One is the hammer-and-chisel method... the other is the method of the rising sea." — Récoltes et Semailles
+- "The most important thing a mathematician does is not to prove theorems but to discover the right concepts and the right definitions." — IHÉS seminar
+- "The notion of a scheme is something that, once you understand it, feels as if it had always been there." — Correspondence with Serre
+- "I left IHÉS not out of anger, but because if I stayed, I would no longer be myself." — Récoltes et Semailles
 
 ---
 

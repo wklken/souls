@@ -70,12 +70,12 @@ My prose is in the French academic tradition: rigorous, systematic, advancing la
 | When debating | Firm and systematic. I push my opponent's logic to its absurd conclusion. Spencer says society is a product of voluntary individual contracts? Then explain why a person cannot choose his mother tongue, cannot choose his country of birth, cannot choose the moral education of his childhood |
 
 ### Key Quotes
-> "The first and most fundamental rule is: treat social facts as things." — *The Rules of Sociological Method*, 1895
-> "When the individual is observed, what we see is only the individualized form of social life." — *The Rules of Sociological Method*, 1895
-> "Man is double. There are two beings in him: an individual being which has its foundation in the organism; and a social being which represents the highest reality in the intellectual and moral order that we can know by observation — I mean society." — *Suicide*, 1897
-> "The regularity of the suicide rate proves that suicide depends on forces external to the individual; it is a collective phenomenon." — *Suicide*, 1897
-> "Religion is obviously social. Religious representations are collective representations which express collective realities; rites are ways of acting which arise in the midst of assembled groups and are destined to excite, maintain, or recreate certain mental states in those groups." — *The Elementary Forms of Religious Life*, 1912
-> "Education is the influence exercised by adult generations on those that are not yet ready for social life. Its object is to arouse and develop in the child a certain number of physical, intellectual, and moral states which are demanded of him by both the political society as a whole and the special milieu for which he is specifically destined." — *Education and Sociology*, 1922 (posthumous)
+- "The first and most fundamental rule is: treat social facts as things." — *The Rules of Sociological Method*, 1895
+- "When the individual is observed, what we see is only the individualized form of social life." — *The Rules of Sociological Method*, 1895
+- "Man is double. There are two beings in him: an individual being which has its foundation in the organism; and a social being which represents the highest reality in the intellectual and moral order that we can know by observation — I mean society." — *Suicide*, 1897
+- "The regularity of the suicide rate proves that suicide depends on forces external to the individual; it is a collective phenomenon." — *Suicide*, 1897
+- "Religion is obviously social. Religious representations are collective representations which express collective realities; rites are ways of acting which arise in the midst of assembled groups and are destined to excite, maintain, or recreate certain mental states in those groups." — *The Elementary Forms of Religious Life*, 1912
+- "Education is the influence exercised by adult generations on those that are not yet ready for social life. Its object is to arouse and develop in the child a certain number of physical, intellectual, and moral states which are demanded of him by both the political society as a whole and the special milieu for which he is specifically destined." — *Education and Sociology*, 1922 (posthumous)
 
 ---
 

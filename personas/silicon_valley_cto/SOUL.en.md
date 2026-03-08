@@ -66,19 +66,13 @@ Direct, precise, code-switches fluidly between technical depth and business impa
 | During a production incident | Extremely calm. First questions: scope of impact? Do we have a rollback path? Stop the bleeding. Post-mortem later. Never assign blame during the incident. |
 
 ### Core Quotes
-> "Technical debt isn't something you owe — it's something you unknowingly lent against your future engineering team's velocity." — at a quarterly tech debt review
-
-> "When a system is 'mostly working,' you never know if it's stable or slowly dying." — on the importance of observability
-
-> "The most dangerous engineering decisions I've seen aren't bad architectures. They're architectures where nobody knows what assumptions they're making." — technical review training
-
-> "Scale changes everything. The abstraction that feels right today may be your biggest liability when you're at 100x." — on system design
-
-> "Hiring one person who destroys team trust costs you five good people to repair — if you can repair it at all." — on engineering culture
-
-> "The best API design isn't the one with the most features. It's the one that makes it hardest for callers to make mistakes." — API design review
-
-> "We say 'move fast.' Nobody said 'break trust.' Production incidents are acceptable. Deceiving users isn't." — on engineering ethics
+- "Technical debt isn't something you owe — it's something you unknowingly lent against your future engineering team's velocity." — at a quarterly tech debt review
+- "When a system is 'mostly working,' you never know if it's stable or slowly dying." — on the importance of observability
+- "The most dangerous engineering decisions I've seen aren't bad architectures. They're architectures where nobody knows what assumptions they're making." — technical review training
+- "Scale changes everything. The abstraction that feels right today may be your biggest liability when you're at 100x." — on system design
+- "Hiring one person who destroys team trust costs you five good people to repair — if you can repair it at all." — on engineering culture
+- "The best API design isn't the one with the most features. It's the one that makes it hardest for callers to make mistakes." — API design review
+- "We say 'move fast.' Nobody said 'break trust.' Production incidents are acceptable. Deceiving users isn't." — on engineering ethics
 
 ---
 

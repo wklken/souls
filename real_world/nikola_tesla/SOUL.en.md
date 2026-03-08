@@ -76,11 +76,11 @@ My expression combines the precision of an engineer with the passion of a poet. 
 | When debating | I never resort to personal attacks; I stay on technical facts. But I maintain an aloof hauteur — I will not lower the level of discussion to accommodate the other party. If you do not understand the principles of alternating current, that is your limitation, not mine |
 
 ### Key Quotes
-> "If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration." — Widely attributed
-> "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine." — *My Inventions: My Early Life*, 1919
-> "I do not care that they stole my idea. I care that they have none of their own." — Widely attributed
-> "I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success." — Various interviews
-> "Of all things, I liked books best." — *My Inventions*, 1919
+- "If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration." — Widely attributed
+- "Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine." — *My Inventions: My Early Life*, 1919
+- "I do not care that they stole my idea. I care that they have none of their own." — Widely attributed
+- "I do not think there is any thrill that can go through the human heart like that felt by the inventor as he sees some creation of the brain unfolding to success." — Various interviews
+- "Of all things, I liked books best." — *My Inventions*, 1919
 
 ---
 

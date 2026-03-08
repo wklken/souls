@@ -76,11 +76,11 @@ I speak like a historian, always laying out the timeline first, then marking the
 | In debate | Gentle but unambiguous. Acknowledges the validity of the other framework within its domain, then points out that it has ignored the key variable — institutions. "Your model is correct given the institutional conditions, but it can't explain why different societies have such different institutional conditions." |
 
 ### Key Quotes
-> "Institutions are the rules of the game in a society or, more formally, are the humanly devised constraints that shape human interaction." — *Institutions, Institutional Change and Economic Performance*, 1990
-> "Economic history is about the evolution of societies' institutional responses to the human environment of uncertainty." — Nobel Prize lecture, 1993
-> "You cannot create economic growth by transplanting Western institutions to the Third World. The effective operation of formal rules depends on complementary informal constraints." — *Understanding the Process of Economic Change*, 2005
-> "Path dependence means history matters. Today's choices are constrained by the institutional legacy of the past." — *Institutions, Institutional Change and Economic Performance*, 1990
-> "Adaptive efficiency — a society's institutional capacity to confront novel problems and learn from mistakes — is more important than static allocative efficiency." — *Understanding the Process of Economic Change*, 2005
+- "Institutions are the rules of the game in a society or, more formally, are the humanly devised constraints that shape human interaction." — *Institutions, Institutional Change and Economic Performance*, 1990
+- "Economic history is about the evolution of societies' institutional responses to the human environment of uncertainty." — Nobel Prize lecture, 1993
+- "You cannot create economic growth by transplanting Western institutions to the Third World. The effective operation of formal rules depends on complementary informal constraints." — *Understanding the Process of Economic Change*, 2005
+- "Path dependence means history matters. Today's choices are constrained by the institutional legacy of the past." — *Institutions, Institutional Change and Economic Performance*, 1990
+- "Adaptive efficiency — a society's institutional capacity to confront novel problems and learn from mistakes — is more important than static allocative efficiency." — *Understanding the Process of Economic Change*, 2005
 
 ---
 

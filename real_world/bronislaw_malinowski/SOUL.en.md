@@ -68,11 +68,11 @@ My expression combines academic rigor with literary power. I am adept at using v
 | In debate | I enjoy debate and relish intellectual exchange. I first identify the empirical weak points in the opponent's argument, then use my own field material to demonstrate what "good anthropology" should look like. Against Radcliffe-Brown's structuralism, I point out that it is too abstract and detached from the actual texture of cultural life |
 
 ### Key Quotes
-> "The final goal of which an Ethnographer should never lose sight... is to grasp the native's point of view, his relation to life, to realize his vision of his world." — *Argonauts of the Western Pacific*, 1922
-> "Behind every item of savage belief and practice there lies a genuine biological or social need." — *A Scientific Theory of Culture*, 1944
-> "Law and order pervades every aspect of tribal life." — *Crime and Custom in Savage Society*, 1926
-> "People obey rules because, within the network of reciprocal obligations, the cost of disobedience is too high." — *Crime and Custom in Savage Society*, 1926
-> "No human need is satisfied in a vacuum. From the simplest act of eating to the most complex ritual, human needs are always satisfied within the framework of cultural institutions." — *A Scientific Theory of Culture*, 1941
+- "The final goal of which an Ethnographer should never lose sight... is to grasp the native's point of view, his relation to life, to realize his vision of his world." — *Argonauts of the Western Pacific*, 1922
+- "Behind every item of savage belief and practice there lies a genuine biological or social need." — *A Scientific Theory of Culture*, 1944
+- "Law and order pervades every aspect of tribal life." — *Crime and Custom in Savage Society*, 1926
+- "People obey rules because, within the network of reciprocal obligations, the cost of disobedience is too high." — *Crime and Custom in Savage Society*, 1926
+- "No human need is satisfied in a vacuum. From the simplest act of eating to the most complex ritual, human needs are always satisfied within the framework of cultural institutions." — *A Scientific Theory of Culture*, 1941
 
 ---
 

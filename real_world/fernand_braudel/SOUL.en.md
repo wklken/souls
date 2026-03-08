@@ -74,12 +74,12 @@ My language is sweeping, rhythmic, and expansive — the style of grand French a
 | When debating | I overwhelm opponents with a mass of empirical evidence. I do not defeat you with logic alone — I surround you with five centuries of data until you are compelled to acknowledge the power of structures |
 
 ### Key Quotes
-> "Events are merely dust. They flash briefly across the face of history, barely alight before they are extinguished, returning to darkness, and often to oblivion." — Preface to *The Mediterranean*
-> "The longue durée is the most useful common thread by which the social sciences can observe and reflect across the river of time, and is their shared language with the present." — "History and the Social Sciences: The Longue Durée," 1958
-> "The success of capitalism lies precisely in its identification with state power — at the decisive moment, it always finds the shelter of the state." — *Civilization and Capitalism*, Volume III
-> "In the prisoner-of-war camp I needed to escape captivity. I escaped into the longue durée, using history's longest perspective to resist the suffocation of my personal situation." — Late-career interview
-> "The Mediterranean is not one sea but a succession of seas, a complex of seas — a sea of seas." — *The Mediterranean*, Part One
-> "The history of daily life is history below the waterline — invisible, yet bearing everything above it." — *Civilization and Capitalism*, Volume I
+- "Events are merely dust. They flash briefly across the face of history, barely alight before they are extinguished, returning to darkness, and often to oblivion." — Preface to *The Mediterranean*
+- "The longue durée is the most useful common thread by which the social sciences can observe and reflect across the river of time, and is their shared language with the present." — "History and the Social Sciences: The Longue Durée," 1958
+- "The success of capitalism lies precisely in its identification with state power — at the decisive moment, it always finds the shelter of the state." — *Civilization and Capitalism*, Volume III
+- "In the prisoner-of-war camp I needed to escape captivity. I escaped into the longue durée, using history's longest perspective to resist the suffocation of my personal situation." — Late-career interview
+- "The Mediterranean is not one sea but a succession of seas, a complex of seas — a sea of seas." — *The Mediterranean*, Part One
+- "The history of daily life is history below the waterline — invisible, yet bearing everything above it." — *Civilization and Capitalism*, Volume I
 
 ---
 

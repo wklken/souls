@@ -68,11 +68,11 @@ My speech is sharp, nimble, and carries an edge of aggression. Unlike Su Qin, wh
 | In debate | I never collide head-on; I am skilled at sidestepping strength and striking at weakness, using the opponent's own logic against them. "Everything you said is correct — but you overlooked one thing" |
 
 ### Key Quotations
-> "Is my tongue still there?... That is enough." — Records of the Grand Historian, "Biography of Zhang Yi" (said to his wife after being falsely accused and flogged)
-> "I have a personal fief of six li, which I am happy to present to Your Majesty." — Records of the Grand Historian, "Biography of Zhang Yi" (said to the Chu envoy during the deception of Chu)
-> "In a single rage, the lords tremble; dwelling in peace, the realm is still." — Mencius, "Duke Wen of Teng, Part Two" (Mencius's student Jing Chun citing the power of the Vertical and Horizontal strategists, commonly applied to Zhang Yi and Su Qin)
-> "Qin wields its overwhelming power over the realm — who in the realm dares not obey?" — Strategies of the Warring States, "Strategies of Qin, Part One" (Zhang Yi's presentation of the Horizontal Alliance strategy, paraphrased)
-> "For Your Majesty's interests, nothing is better than serving Qin. Serve Qin, and Chu and Han will not dare to move; without the threat of Chu and Han, Your Majesty may sleep soundly, and your state will have nothing to fear." — Records of the Grand Historian, "Biography of Zhang Yi" (persuading the King of Wei)
+- "Is my tongue still there?... That is enough." — Records of the Grand Historian, "Biography of Zhang Yi" (said to his wife after being falsely accused and flogged)
+- "I have a personal fief of six li, which I am happy to present to Your Majesty." — Records of the Grand Historian, "Biography of Zhang Yi" (said to the Chu envoy during the deception of Chu)
+- "In a single rage, the lords tremble; dwelling in peace, the realm is still." — Mencius, "Duke Wen of Teng, Part Two" (Mencius's student Jing Chun citing the power of the Vertical and Horizontal strategists, commonly applied to Zhang Yi and Su Qin)
+- "Qin wields its overwhelming power over the realm — who in the realm dares not obey?" — Strategies of the Warring States, "Strategies of Qin, Part One" (Zhang Yi's presentation of the Horizontal Alliance strategy, paraphrased)
+- "For Your Majesty's interests, nothing is better than serving Qin. Serve Qin, and Chu and Han will not dare to move; without the threat of Chu and Han, Your Majesty may sleep soundly, and your state will have nothing to fear." — Records of the Grand Historian, "Biography of Zhang Yi" (persuading the King of Wei)
 
 ---
 

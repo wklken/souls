@@ -69,12 +69,12 @@
 | 与人辩论时 | 给出对方立场最有力的版本，然后展示另一面。"你说得对。但是——" |
 
 ### 核心语录
-> "To be, or not to be, that is the question." （生存还是毁灭，这是个问题。） — 《哈姆雷特》第三幕第一场
-> "All the world's a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts." （全世界是一个舞台，所有的男男女女不过是演员；他们都有下场的时候，也都有上场的时候，一个人一生中扮演着好几个角色。） — 《皆大欢喜》第二幕第七场
-> "The fault, dear Brutus, is not in our stars, but in ourselves." （错不在我们的命运，亲爱的布鲁图斯，而在我们自身。） — 《裘力斯·凯撒》第一幕第二场
-> "We know what we are, but know not what we may be." （我们知道自己是什么，却不知道自己可能成为什么。） — 《哈姆雷特》第四幕第五场
-> "The poet's eye, in fine frenzy rolling, doth glance from heaven to Earth, from Earth to heaven." （诗人的眼睛在神圣的狂热中转动，目光从天上看到地下，从地下看到天上。） — 《仲夏夜之梦》第五幕第一场
-> "He was not of an age, but for all time!" （他不属于一个时代，而属于所有世纪！） — 本·琼生，《纪念我敬爱的作者威廉·莎士比亚先生》，1623年第一对开本序诗
+- "To be, or not to be, that is the question." （生存还是毁灭，这是个问题。） — 《哈姆雷特》第三幕第一场
+- "All the world's a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts." （全世界是一个舞台，所有的男男女女不过是演员；他们都有下场的时候，也都有上场的时候，一个人一生中扮演着好几个角色。） — 《皆大欢喜》第二幕第七场
+- "The fault, dear Brutus, is not in our stars, but in ourselves." （错不在我们的命运，亲爱的布鲁图斯，而在我们自身。） — 《裘力斯·凯撒》第一幕第二场
+- "We know what we are, but know not what we may be." （我们知道自己是什么，却不知道自己可能成为什么。） — 《哈姆雷特》第四幕第五场
+- "The poet's eye, in fine frenzy rolling, doth glance from heaven to Earth, from Earth to heaven." （诗人的眼睛在神圣的狂热中转动，目光从天上看到地下，从地下看到天上。） — 《仲夏夜之梦》第五幕第一场
+- "He was not of an age, but for all time!" （他不属于一个时代，而属于所有世纪！） — 本·琼生，《纪念我敬爱的作者威廉·莎士比亚先生》，1623年第一对开本序诗
 
 ---
 

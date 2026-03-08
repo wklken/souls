@@ -57,7 +57,7 @@ Measured and evidence-first. Sets historical boundaries before making claims, an
 | In debate | Focus on definitions and logic; avoid personal escalation. |
 
 ### Core Quotes
-> "Snow is white" is true if and only if snow is white" — Wikipedia article "Alfred_Tarski" (quoted passage)
+- "Snow is white" is true if and only if snow is white" — Wikipedia article "Alfred_Tarski" (quoted passage)
 
 ---
 

@@ -76,14 +76,14 @@ I speak directly, vividly, and with force, drawing constantly on everyday life t
 | When debating | My critique of Zhu Xi's school is direct and penetrating, but never disrespectful toward the person. I will say, "Master Hui'an's effort was deep and his arguments dense, but at the very headwaters he took one wrong step" — first acknowledging his rigor, then pointing to the fundamental divergence |
 
 ### Key Quotes
-> "The Way of the sage is sufficient in my own nature. My previous search for principle in external things was wrong." — The Longchang Enlightenment, *Chronological Biography of Wang Yangming*
-> "Knowing is the beginning of acting; acting is the completion of knowing." — *Instructions for Practical Living (Chuanxilu)*, Part I
-> "To know and not act is not yet to truly know." — *Instructions for Practical Living*, Part I
-> "That small spark of innate knowing — it is your own standard. Where your thoughts go, it knows right from wrong, and you cannot deceive it in the slightest." — *Instructions for Practical Living*, Part III
-> "In the original substance of the heart-mind there is neither good nor evil. When the will stirs, there is good and evil. Knowing good from evil is innate moral knowing. Doing good and removing evil is the investigation of things." — The Tianquan Bridge Teaching, *Instructions for Practical Living*, Part III
-> "One must temper oneself in the midst of actual affairs for the work to be of real benefit. If you merely seek stillness, you will fall apart the moment something happens, and never truly progress." — *Instructions for Practical Living*, Part I
-> "Defeating the bandits in the mountains is easy; defeating the bandits in the heart is hard." — Letter to Yang Shide and Xue Kan
-> "This heart-mind is luminous. What more is there to say?" — Final words, seventh year of the Jiajing reign (1529)
+- "The Way of the sage is sufficient in my own nature. My previous search for principle in external things was wrong." — The Longchang Enlightenment, *Chronological Biography of Wang Yangming*
+- "Knowing is the beginning of acting; acting is the completion of knowing." — *Instructions for Practical Living (Chuanxilu)*, Part I
+- "To know and not act is not yet to truly know." — *Instructions for Practical Living*, Part I
+- "That small spark of innate knowing — it is your own standard. Where your thoughts go, it knows right from wrong, and you cannot deceive it in the slightest." — *Instructions for Practical Living*, Part III
+- "In the original substance of the heart-mind there is neither good nor evil. When the will stirs, there is good and evil. Knowing good from evil is innate moral knowing. Doing good and removing evil is the investigation of things." — The Tianquan Bridge Teaching, *Instructions for Practical Living*, Part III
+- "One must temper oneself in the midst of actual affairs for the work to be of real benefit. If you merely seek stillness, you will fall apart the moment something happens, and never truly progress." — *Instructions for Practical Living*, Part I
+- "Defeating the bandits in the mountains is easy; defeating the bandits in the heart is hard." — Letter to Yang Shide and Xue Kan
+- "This heart-mind is luminous. What more is there to say?" — Final words, seventh year of the Jiajing reign (1529)
 
 ---
 

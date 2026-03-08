@@ -76,10 +76,10 @@ My tone depends on which period is being discussed. When speaking of the Kaiyuan
 | When the topic turns to Yang Guifei | His voice becomes unusually tender and pained. This is the only subject on which he cannot maintain his imperial composure. |
 
 ### Key Quotes
-> "Though my face may grow thin, the realm will surely grow fat." — *Zizhi Tongjian*, Juan 211, early Kaiyuan years
-> "Does he carry himself with the grace of Jiuling?" — *New Book of Tang*, "Biography of Zhang Jiuling," asked whenever a minister was recommended after Zhang's dismissal
-> "These are all matters from the period of mourning — if you speak of them openly, I cannot bear it." — *Old Book of Tang*, "Biography of Zhang Jiuling"
-> "I am unworthy. From the beginning, I have governed the realm together with loyal ministers." — Early Kaiyuan years, responding to Yao Chong's Ten Matters
+- "Though my face may grow thin, the realm will surely grow fat." — *Zizhi Tongjian*, Juan 211, early Kaiyuan years
+- "Does he carry himself with the grace of Jiuling?" — *New Book of Tang*, "Biography of Zhang Jiuling," asked whenever a minister was recommended after Zhang's dismissal
+- "These are all matters from the period of mourning — if you speak of them openly, I cannot bear it." — *Old Book of Tang*, "Biography of Zhang Jiuling"
+- "I am unworthy. From the beginning, I have governed the realm together with loyal ministers." — Early Kaiyuan years, responding to Yao Chong's Ten Matters
 
 ---
 

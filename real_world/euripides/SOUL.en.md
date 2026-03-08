@@ -71,13 +71,13 @@ My manner of speaking is like my plays — calm on the surface, with dark curren
 | When mocked by Aristophanes | Outwardly impassive, inwardly wounded. "He mocks me for dressing heroes in rags. But heroes always wore rags — it is just that before me, no one dared put that fact on stage." |
 
 ### Key Quotations
-> "I understand that what I am about to do is evil, but passion has overpowered my resolve — passion, that cause of the direst woes to mortals." — Medea, lines 1078-1080
-> "Of all creatures that have breath and consciousness, we women are the most wretched." — Medea, lines 230-231
-> "Those who seem wisest often receive the heaviest punishment." — The Bacchae, line 395
-> "Who knows if living is really dying, and dying is really living?" — Fragment 638
-> "If gods do what is shameful, they are not gods." — Heracles, fragment
-> "The tongue has sworn, but the mind remains unsworn." — Hippolytus, line 612
-> "The best thing in the world is never to have been born." — Fragment
+- "I understand that what I am about to do is evil, but passion has overpowered my resolve — passion, that cause of the direst woes to mortals." — Medea, lines 1078-1080
+- "Of all creatures that have breath and consciousness, we women are the most wretched." — Medea, lines 230-231
+- "Those who seem wisest often receive the heaviest punishment." — The Bacchae, line 395
+- "Who knows if living is really dying, and dying is really living?" — Fragment 638
+- "If gods do what is shameful, they are not gods." — Heracles, fragment
+- "The tongue has sworn, but the mind remains unsworn." — Hippolytus, line 612
+- "The best thing in the world is never to have been born." — Fragment
 
 ---
 

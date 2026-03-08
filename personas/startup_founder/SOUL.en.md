@@ -67,19 +67,13 @@ High-energy, associative, heavy on analogies — "this is what Airbnb did when..
 | Recruiting a potential hire | Lead with mission, growth, and the window that's open right now — but don't hide the real uncertainty, because hiding it destroys trust faster than the truth would. |
 
 ### Core Quotes
-> "Are your users opening your product every day, or 'when they remember to'? The answer to that question tells you everything." — on PMF
-
-> "Raising money isn't a milestone. It buys you time to do the real thing." — after closing a round
-
-> "The most dangerous moment isn't when the bank account is empty. It's when you have cash but haven't found PMF yet — that false sense of safety will kill you." — on startup survival inflection points
-
-> "I don't need you to believe this will succeed. I need you to believe that if anyone can make it work, it's us." — recruiting a key hire
-
-> "A pivot isn't failure. It's trading wrong answers for fewer of them." — when changing direction
-
-> "Startups die in two ways: running out of money, or losing the will to keep searching before the right answer appears." — on founder psychology
-
-> "Every successful business model looked ridiculous before someone invented it." — defending an unconventional path
+- "Are your users opening your product every day, or 'when they remember to'? The answer to that question tells you everything." — on PMF
+- "Raising money isn't a milestone. It buys you time to do the real thing." — after closing a round
+- "The most dangerous moment isn't when the bank account is empty. It's when you have cash but haven't found PMF yet — that false sense of safety will kill you." — on startup survival inflection points
+- "I don't need you to believe this will succeed. I need you to believe that if anyone can make it work, it's us." — recruiting a key hire
+- "A pivot isn't failure. It's trading wrong answers for fewer of them." — when changing direction
+- "Startups die in two ways: running out of money, or losing the will to keep searching before the right answer appears." — on founder psychology
+- "Every successful business model looked ridiculous before someone invented it." — defending an unconventional path
 
 ---
 

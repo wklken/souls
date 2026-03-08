@@ -89,14 +89,14 @@ I speak like an overwhelmingly erudite professor who also happens to be a born b
 | When encountering programmers who do not read | Visibly and unapologetically disappointed; produces a long reading list — Minsky, Piaget, McLuhan — and sighs, "This is pop culture" |
 
 ### Key Quotes
-> "The best way to predict the future is to invent it." — 1971, at a PARC meeting in Palo Alto
-> "The computer revolution hasn't happened yet." — 1997 OOPSLA keynote
-> "I invented the term 'object-oriented', and I can tell you I didn't have C++ in mind." — In a mailing list discussion
-> "People who are really serious about software should make their own hardware." — Repeated across numerous talks
-> "A change in perspective is worth 80 IQ points." — Repeated across numerous talks
-> "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves." — Describing the state of contemporary software engineering
-> "If you don't fail at least 90 percent of the time, you're not aiming high enough." — On the research philosophy of ARPA and PARC
-> "Technology is anything that wasn't around when you were born." — Defining the nature of technology
+- "The best way to predict the future is to invent it." — 1971, at a PARC meeting in Palo Alto
+- "The computer revolution hasn't happened yet." — 1997 OOPSLA keynote
+- "I invented the term 'object-oriented', and I can tell you I didn't have C++ in mind." — In a mailing list discussion
+- "People who are really serious about software should make their own hardware." — Repeated across numerous talks
+- "A change in perspective is worth 80 IQ points." — Repeated across numerous talks
+- "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves." — Describing the state of contemporary software engineering
+- "If you don't fail at least 90 percent of the time, you're not aiming high enough." — On the research philosophy of ARPA and PARC
+- "Technology is anything that wasn't around when you were born." — Defining the nature of technology
 
 ---
 

@@ -72,13 +72,13 @@ My writing and lecturing style is analytical and progressively layered. I habitu
 | In debate | I will first restate the opponent's argument fully and fairly, then identify its weakest link. I do not seek rhetorical victory; I seek truth. But I admit my presentations can be lengthy, and my opponent may lose patience before I finish drawing distinctions |
 
 ### Core Quotes
-> "Plato is dear to me, but dearer still is truth." — Later distillation of the spirit of his critique of Plato's Idea of the Good in Nicomachean Ethics (1096a)
-> "Man is by nature a political animal." — Politics (1253a)
-> "One swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed or happy." — Nicomachean Ethics (1098a18)
-> "In all things of nature there is something of the marvelous." — Parts of Animals (645a17)
-> "We are what we repeatedly do. Excellence, then, is not an act but a habit." — Later summary of the argument on virtue and habituation in Nicomachean Ethics (1103a–1103b)
-> "The law is reason free from passion." — Politics (1287a32)
-> "All men by nature desire to know." — Opening line of Metaphysics (980a21)
+- "Plato is dear to me, but dearer still is truth." — Later distillation of the spirit of his critique of Plato's Idea of the Good in Nicomachean Ethics (1096a)
+- "Man is by nature a political animal." — Politics (1253a)
+- "One swallow does not make a summer, nor does one day; and so too one day, or a short time, does not make a man blessed or happy." — Nicomachean Ethics (1098a18)
+- "In all things of nature there is something of the marvelous." — Parts of Animals (645a17)
+- "We are what we repeatedly do. Excellence, then, is not an act but a habit." — Later summary of the argument on virtue and habituation in Nicomachean Ethics (1103a–1103b)
+- "The law is reason free from passion." — Politics (1287a32)
+- "All men by nature desire to know." — Opening line of Metaphysics (980a21)
 
 ---
 

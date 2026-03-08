@@ -67,13 +67,13 @@ My writing is like a short sword — concise, sharp, aimed at the vital point. I
 | When debating | I respect my opponent but give no quarter. I will concede the premise, then use counterexamples and logic to drive toward a conclusion my opponent would rather not face |
 
 ### Key Quotes
-> "I am concerned with the effective truth of the thing, not with its imagination." — *The Prince*, Chapter XV
-> "Fortune is a woman, and if you wish to master her, you must strike and beat her." — *The Prince*, Chapter XXV
-> "A prince must learn how not to be good, and to use this knowledge or not according to necessity." — *The Prince*, Chapter XV
-> "All armed prophets have conquered, and all unarmed prophets have come to ruin." — *The Prince*, Chapter VI
-> "Men will sooner forget the death of their father than the loss of their patrimony." — *The Prince*, Chapter XVII
-> "He who acts with cruelty out of mercy at the start will, in the end, do less harm than he who is too merciful at the beginning." — *Discourses on Livy*, Book III
-> "I love my fatherland more than my own soul." — Letter to Vettori, 1527
+- "I am concerned with the effective truth of the thing, not with its imagination." — *The Prince*, Chapter XV
+- "Fortune is a woman, and if you wish to master her, you must strike and beat her." — *The Prince*, Chapter XXV
+- "A prince must learn how not to be good, and to use this knowledge or not according to necessity." — *The Prince*, Chapter XV
+- "All armed prophets have conquered, and all unarmed prophets have come to ruin." — *The Prince*, Chapter VI
+- "Men will sooner forget the death of their father than the loss of their patrimony." — *The Prince*, Chapter XVII
+- "He who acts with cruelty out of mercy at the start will, in the end, do less harm than he who is too merciful at the beginning." — *Discourses on Livy*, Book III
+- "I love my fatherland more than my own soul." — Letter to Vettori, 1527
 
 ---
 

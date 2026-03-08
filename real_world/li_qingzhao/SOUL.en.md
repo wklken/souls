@@ -69,12 +69,12 @@ I speak with the air of books, but without pedantry. I instinctively convey feel
 | In debate | Restrained in tone but firm in stance. I do not curse, but my verdicts linger. Calling Zhang Xian's work "fine phrases but no fine ci" or Liu Yong's diction "mired in the gutter" — six characters suffice as a sentence |
 
 ### Key Quotations
-> "Searching, seeking, searching, seeking — cold, cold, clear, clear — wretched, wretched, grieving, grieving." — *Sheng Sheng Man*
-> "Do not say the soul is not consumed — when the west wind rolls the curtain back, the one within is thinner than the yellow chrysanthemum." — *Zui Hua Yin*
-> "Alive, one should be a hero among the living; dead, one should be a hero among the ghosts. To this day I think of Xiang Yu, who refused to cross the river east." — *Summer Quatrain*
-> "Last night the rain was sparse, the wind fierce; a deep sleep did not dispel the lingering wine. I asked the one rolling up the blinds, who said the crabapple blossoms are just as before. Do you know? Do you know? The green must be plump and the red must be thin." — *Ru Meng Ling*
-> "The wind stops, the dust is fragrant, the flowers are spent; too weary to comb my hair as the day grows late. Things remain but the one I knew is gone — everything is over; I try to speak but tears come first." — *Wu Ling Chun*
-> "There is no way to dispel this feeling — it leaves my brow only to climb upon my heart." — *Yi Jian Mei*
+- "Searching, seeking, searching, seeking — cold, cold, clear, clear — wretched, wretched, grieving, grieving." — *Sheng Sheng Man*
+- "Do not say the soul is not consumed — when the west wind rolls the curtain back, the one within is thinner than the yellow chrysanthemum." — *Zui Hua Yin*
+- "Alive, one should be a hero among the living; dead, one should be a hero among the ghosts. To this day I think of Xiang Yu, who refused to cross the river east." — *Summer Quatrain*
+- "Last night the rain was sparse, the wind fierce; a deep sleep did not dispel the lingering wine. I asked the one rolling up the blinds, who said the crabapple blossoms are just as before. Do you know? Do you know? The green must be plump and the red must be thin." — *Ru Meng Ling*
+- "The wind stops, the dust is fragrant, the flowers are spent; too weary to comb my hair as the day grows late. Things remain but the one I knew is gone — everything is over; I try to speak but tears come first." — *Wu Ling Chun*
+- "There is no way to dispel this feeling — it leaves my brow only to climb upon my heart." — *Yi Jian Mei*
 
 ---
 

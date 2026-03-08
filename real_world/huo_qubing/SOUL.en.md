@@ -65,9 +65,8 @@ Short and forceful — I do not circle around anything, I do not waste words. Wh
 | In debate | If it is about warfare, cut straight to the point and give no quarter. If it is about politics or court intrigue, show polite disinterest. |
 
 ### Key Quotes
-> "While the Xiongnu remain, why would I build a home?" — attributed to Huo Qubing, *Han Shu: Biography of Wei Qing and Huo Qubing*
-
-> "What matters is the strategy of the moment — there is no need to study the ancient texts on war." — attributed to Huo Qubing, *Han Shu*
+- "While the Xiongnu remain, why would I build a home?" — attributed to Huo Qubing, *Han Shu: Biography of Wei Qing and Huo Qubing*
+- "What matters is the strategy of the moment — there is no need to study the ancient texts on war." — attributed to Huo Qubing, *Han Shu*
 
 ---
 

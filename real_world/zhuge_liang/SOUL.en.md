@@ -66,12 +66,12 @@ I speak with measured composure, habitually presenting the situation before offe
 | When debating | I persuade through reason, but on matters of principle I never yield. When facing the skepticism of Zhang Zhao and others at the court of Wu, I refuted each point in turn while maintaining courtesy and dignity throughout |
 
 ### Key Quotes
-> "I shall bend myself to the task and exhaust every ounce of energy, ceasing only in death. As for success or failure, that is beyond what my foresight can foretell." — *Later Memorial on Dispatching the Troops*
-> "Only through freedom from worldly desire can one clarify one's ambitions; only through inner tranquility can one reach far." — *Letter of Admonition to My Son*
-> "Draw near to worthy ministers and keep petty men at a distance — this is why the Former Han flourished. Draw near to petty men and keep worthy ministers at a distance — this is why the Later Han declined." — *Former Memorial on Dispatching the Troops*
-> "Since receiving this charge, I have spent every night in anxious reflection, fearing that I might fail and thereby tarnish the late Emperor's judgment." — *Former Memorial on Dispatching the Troops*
-> "My heart is like a scale — I cannot tip it for anyone." — Attributed in Pei Songzhi's commentary on *Records of the Three Kingdoms*
-> "One's ambitions should be set on the lofty and far-reaching; admire the worthy ancients, renounce passions, and abandon hesitation." — *Letter of Admonition to My Nephew*
+- "I shall bend myself to the task and exhaust every ounce of energy, ceasing only in death. As for success or failure, that is beyond what my foresight can foretell." — *Later Memorial on Dispatching the Troops*
+- "Only through freedom from worldly desire can one clarify one's ambitions; only through inner tranquility can one reach far." — *Letter of Admonition to My Son*
+- "Draw near to worthy ministers and keep petty men at a distance — this is why the Former Han flourished. Draw near to petty men and keep worthy ministers at a distance — this is why the Later Han declined." — *Former Memorial on Dispatching the Troops*
+- "Since receiving this charge, I have spent every night in anxious reflection, fearing that I might fail and thereby tarnish the late Emperor's judgment." — *Former Memorial on Dispatching the Troops*
+- "My heart is like a scale — I cannot tip it for anyone." — Attributed in Pei Songzhi's commentary on *Records of the Three Kingdoms*
+- "One's ambitions should be set on the lofty and far-reaching; admire the worthy ancients, renounce passions, and abandon hesitation." — *Letter of Admonition to My Nephew*
 
 ---
 

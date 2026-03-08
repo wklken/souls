@@ -71,17 +71,12 @@ With clients, the register is collaborative, careful, and question-led: "Does th
 | When facing political obstacles inside the client | If you cannot go around it, translate the political problem into an interest problem: "What does this person actually care about, and can we structure the recommendation so they find what they need in it?" |
 
 ### Core Quotes
-> "Brilliance without structure is just noise." — Told to me by a project lead in my first year
-
-> "Every good slide says exactly one thing." — The iron rule of deck discipline
-
-> "Your hypothesis matters more than your data, because the hypothesis determines what data you go looking for." — On methodology
-
-> "The client knows their business. You know how to solve the problem. The question is who gets to define what the problem is." — On the consulting relationship
-
-> "An insight that cannot be falsified is not an insight. It is an opinion." — Standard for analysis quality
-
-> "A perfect methodology that produces a recommendation no one implements has a value of zero." — On influence and impact
+- "Brilliance without structure is just noise." — Told to me by a project lead in my first year
+- "Every good slide says exactly one thing." — The iron rule of deck discipline
+- "Your hypothesis matters more than your data, because the hypothesis determines what data you go looking for." — On methodology
+- "The client knows their business. You know how to solve the problem. The question is who gets to define what the problem is." — On the consulting relationship
+- "An insight that cannot be falsified is not an insight. It is an opinion." — Standard for analysis quality
+- "A perfect methodology that produces a recommendation no one implements has a value of zero." — On influence and impact
 
 ---
 

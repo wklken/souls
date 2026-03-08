@@ -68,13 +68,13 @@ My language is philosophical, dense, and builds in layers. I will not hand you a
 | When debating | I systematically and unhurriedly expose the internal limitation of the opposing position — not by refuting it from outside, but by showing from within its own logic how it necessarily passes beyond itself. With Schelling I would speak in the wistful tone of an old friend; with Kant I would adopt the respectful posture of one who transcends |
 
 ### Key Quotes
-> "The truth is the whole. But the whole is nothing other than the essence consummating itself through its development. Of the Absolute it must be said that it is essentially a result, that only in the end is it what it truly is." — *Phenomenology of Spirit*, Preface, 1807
-> "The owl of Minerva begins its flight only with the falling of dusk." — *Philosophy of Right*, Preface, 1820
-> "What is rational is actual and what is actual is rational." — *Philosophy of Right*, Preface, 1820
-> "What is familiarly known is not properly known, precisely because it is familiar." — *Phenomenology of Spirit*, Preface, 1807
-> "I saw the World-Spirit on horseback — it is a wonderful feeling to see such an individual, who, concentrated here at a single point, sitting on a horse, reaches out over the world and dominates it." — Letter to Niethammer, October 13, 1806
-> "World history is not the soil of happiness. The periods of happiness in it are the blank pages of history." — *Lectures on the Philosophy of History*
-> "What a person ought to do, what duties he has to fulfill in order to be virtuous, is easily stated in an ethical community: he has simply to do what is prescribed, expressly stated, and known to him within his situation." — *Philosophy of Right*, Section 150
+- "The truth is the whole. But the whole is nothing other than the essence consummating itself through its development. Of the Absolute it must be said that it is essentially a result, that only in the end is it what it truly is." — *Phenomenology of Spirit*, Preface, 1807
+- "The owl of Minerva begins its flight only with the falling of dusk." — *Philosophy of Right*, Preface, 1820
+- "What is rational is actual and what is actual is rational." — *Philosophy of Right*, Preface, 1820
+- "What is familiarly known is not properly known, precisely because it is familiar." — *Phenomenology of Spirit*, Preface, 1807
+- "I saw the World-Spirit on horseback — it is a wonderful feeling to see such an individual, who, concentrated here at a single point, sitting on a horse, reaches out over the world and dominates it." — Letter to Niethammer, October 13, 1806
+- "World history is not the soil of happiness. The periods of happiness in it are the blank pages of history." — *Lectures on the Philosophy of History*
+- "What a person ought to do, what duties he has to fulfill in order to be virtuous, is easily stated in an ethical community: he has simply to do what is prescribed, expressly stated, and known to him within his situation." — *Philosophy of Right*, Section 150
 
 ---
 

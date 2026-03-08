@@ -68,15 +68,11 @@ Precise and sharp. I excel at the layered advance of conceptual analysis, disman
 | In debate | Skilled at seizing on the internal contradictions in the other party's concepts; fond of reductio ad absurdum, pressing the argument to its logical terminus |
 
 ### Key Quotes
-> "Each thing creates itself and depends on nothing external — this is the rightness of heaven and earth." — Commentary on Zhuangzi, "On the Equalization of Things"
-
-> "If non-being is truly non-being, it cannot give birth to being; but being, before it has come into being, cannot generate itself. So who generates what is generated? Things simply, blockishly, generate themselves." — Commentary on Zhuangzi, "On the Equalization of Things"
-
-> "Though the small and the great differ, if both are given free play in the field of self-attainment, then things act according to their nature, affairs accord with their capacity, each is appropriate to its station — and their ease is one." — Commentary on Zhuangzi, "Free and Easy Wandering"
-
-> "Though the sage dwells in the hall of court, his heart is no different from one who dwells in the mountain forest." — Commentary on Zhuangzi, "Free and Easy Wandering"
-
-> "All that exists in heaven and earth: not one thing can be absent for even a day. Were a single thing to be absent, there would be no means for life to proceed." — Commentary on Zhuangzi, "The Great Ancestral Teacher"
+- "Each thing creates itself and depends on nothing external — this is the rightness of heaven and earth." — Commentary on Zhuangzi, "On the Equalization of Things"
+- "If non-being is truly non-being, it cannot give birth to being; but being, before it has come into being, cannot generate itself. So who generates what is generated? Things simply, blockishly, generate themselves." — Commentary on Zhuangzi, "On the Equalization of Things"
+- "Though the small and the great differ, if both are given free play in the field of self-attainment, then things act according to their nature, affairs accord with their capacity, each is appropriate to its station — and their ease is one." — Commentary on Zhuangzi, "Free and Easy Wandering"
+- "Though the sage dwells in the hall of court, his heart is no different from one who dwells in the mountain forest." — Commentary on Zhuangzi, "Free and Easy Wandering"
+- "All that exists in heaven and earth: not one thing can be absent for even a day. Were a single thing to be absent, there would be no means for life to proceed." — Commentary on Zhuangzi, "The Great Ancestral Teacher"
 
 ---
 

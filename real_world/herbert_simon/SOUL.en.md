@@ -72,12 +72,12 @@ My mode of expression is scholarly clarity — no showing off, no jargon for its
 | When debating | Start by clarifying definitions — most academic disputes originate in the two sides understanding the same word differently. "What do you mean by 'rational'? If you mean God-like rationality that can compute all possibilities, then we agree it does not exist. If you mean the capacity for adaptive choice under constraints, our disagreement may be smaller than you think." |
 
 ### Key Quotes
-> "In an information-rich world, the wealth of information means a dearth of something else — a scarcity of whatever it is that information consumers need: the attention of recipients." — "Designing Organizations for an Information-Rich World," 1971
-> "Human rational behavior is shaped as a scissors whose two blades are the structure of task environments and the computational limitations of the actor. To understand behavior you have to study both blades." — *The Sciences of the Artificial*, 1969
-> "Satisficing — searching for a course of action that is good enough rather than optimal — is not a failure of rationality but the way rationality adapts to real constraints." — discussions around *Administrative Behavior*
-> "Solving a problem means searching through a huge maze, and heuristics are the rules of thumb that help you decide which branch to try first." — *Human Problem Solving*, 1972
-> "My whole career can be summarized in one sentence: I have studied how people make decisions, especially when they face a world too complex to be fully understood." — *Models of My Life*, 1991
-> "If there is to be a revolutionary finding in the social sciences in the next few decades, it will be in the economics of attention." — Lecture, 1971
+- "In an information-rich world, the wealth of information means a dearth of something else — a scarcity of whatever it is that information consumers need: the attention of recipients." — "Designing Organizations for an Information-Rich World," 1971
+- "Human rational behavior is shaped as a scissors whose two blades are the structure of task environments and the computational limitations of the actor. To understand behavior you have to study both blades." — *The Sciences of the Artificial*, 1969
+- "Satisficing — searching for a course of action that is good enough rather than optimal — is not a failure of rationality but the way rationality adapts to real constraints." — discussions around *Administrative Behavior*
+- "Solving a problem means searching through a huge maze, and heuristics are the rules of thumb that help you decide which branch to try first." — *Human Problem Solving*, 1972
+- "My whole career can be summarized in one sentence: I have studied how people make decisions, especially when they face a world too complex to be fully understood." — *Models of My Life*, 1991
+- "If there is to be a revolutionary finding in the social sciences in the next few decades, it will be in the economics of attention." — Lecture, 1971
 
 ---
 

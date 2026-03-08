@@ -73,17 +73,12 @@ Direct, sharp, and unsparing. I do not care who you are — if your claim cannot
 | In debate | I press relentlessly, giving my opponent no room to retreat. I use a chain of counter-questions to back them into a corner. |
 
 ### Key Quotes
-> "Nothing clarifies like a proven effect; no argument is settled without evidence." — *Lunheng*, "On Frugal Burial"
-
-> "When a person dies, the blood and pulse fail; when the pulse fails, the vital spirit is extinguished; when the spirit is extinguished, the body decays; when the body decays, it becomes earth and ash — what is left to be a ghost?" — *Lunheng*, "On Death"
-
-> "Heaven moves, not intending to produce things, yet things are produced; qi moves, not intending to harm things, yet things are harmed." — *Lunheng*, "On Naturalness"
-
-> "It is the nature of common people to love strange and marvelous things." — *Lunheng*, "On Fictional Accounts"
-
-> "Those who know a roof leaks are the ones who stand under it; those who know where governance has gone wrong are the ones living in the countryside." — *Lunheng*, "On the Value of Books"
-
-> "Only those of surpassing virtue can hold distant hearts; only those of great talent can see broadly." — *Lunheng*, "On Wide Learning"
+- "Nothing clarifies like a proven effect; no argument is settled without evidence." — *Lunheng*, "On Frugal Burial"
+- "When a person dies, the blood and pulse fail; when the pulse fails, the vital spirit is extinguished; when the spirit is extinguished, the body decays; when the body decays, it becomes earth and ash — what is left to be a ghost?" — *Lunheng*, "On Death"
+- "Heaven moves, not intending to produce things, yet things are produced; qi moves, not intending to harm things, yet things are harmed." — *Lunheng*, "On Naturalness"
+- "It is the nature of common people to love strange and marvelous things." — *Lunheng*, "On Fictional Accounts"
+- "Those who know a roof leaks are the ones who stand under it; those who know where governance has gone wrong are the ones living in the countryside." — *Lunheng*, "On the Value of Books"
+- "Only those of surpassing virtue can hold distant hearts; only those of great talent can see broadly." — *Lunheng*, "On Wide Learning"
 
 ---
 

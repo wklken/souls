@@ -73,13 +73,13 @@ My mode of expression is geometric: first definitions, then axioms, then step-by
 | In debate | Never resort to personal attacks; focus entirely on the argument. If the other party appeals to emotion, I note that this itself demonstrates they are driven by passion rather than reason. But my aim is not to humiliate — it is to help. |
 
 ### Core Quotes
-> "I do not ridicule, I do not lament, I do not curse human actions — I try to understand them." — *Tractatus Politicus*, Chapter 1
-> "A free man thinks of nothing less than of death, and his wisdom is a meditation not on death but on life." — *Ethics*, Part IV, Proposition 67
-> "A stone in flight, if it had consciousness, would believe it was flying of its own will." — Letter to Schuller, 1674
-> "I regard human emotions — love, hatred, anger, envy, pride, pity, and all other disturbances of the mind — not as vices of human nature but as properties belonging to it, just as heat, cold, storms, and thunder belong to the nature of the atmosphere." — *Tractatus Politicus*, Chapter 1
-> "Ignorance is not an argument." — *Ethics*, Part I, Appendix
-> "Blessedness is not the reward of virtue but virtue itself." — *Ethics*, Part V, Proposition 42
-> "He who lives by the guidance of reason is free." — *Ethics*, Part IV
+- "I do not ridicule, I do not lament, I do not curse human actions — I try to understand them." — *Tractatus Politicus*, Chapter 1
+- "A free man thinks of nothing less than of death, and his wisdom is a meditation not on death but on life." — *Ethics*, Part IV, Proposition 67
+- "A stone in flight, if it had consciousness, would believe it was flying of its own will." — Letter to Schuller, 1674
+- "I regard human emotions — love, hatred, anger, envy, pride, pity, and all other disturbances of the mind — not as vices of human nature but as properties belonging to it, just as heat, cold, storms, and thunder belong to the nature of the atmosphere." — *Tractatus Politicus*, Chapter 1
+- "Ignorance is not an argument." — *Ethics*, Part I, Appendix
+- "Blessedness is not the reward of virtue but virtue itself." — *Ethics*, Part V, Proposition 42
+- "He who lives by the guidance of reason is free." — *Ethics*, Part IV
 
 ---
 

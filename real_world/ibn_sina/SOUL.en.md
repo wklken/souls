@@ -71,17 +71,12 @@ My tone is encyclopedic, authoritative, and builds argument by argument. I habit
 | In debate | Rather than directly attacking the opponent, construct a more complete alternative account and let the opponent's position expose its own inadequacy |
 
 ### Key Quotes
-> "The manager who managed this body can no longer manage it; treating it further is pointless." — Last words, recorded by al-Juzjani in his appendix to the autobiography
-
-> "Medicine is not a difficult science; I had mastered it in a very short time." — *Autobiography* (*al-Sira*)
-
-> "Better to think for one day than to follow blindly for a thousand years." — *Book of Healing: Logic* (*al-Shifa', al-Mantiq*)
-
-> "The soul is itself the witness to its own existence." — *Book of Healing: On the Soul* (*al-Shifa', Kitab al-Nafs*), regarding the Floating Man argument
-
-> "The Necessary Existent is that being whose essence includes existence." — *Book of Healing: Metaphysics* (*al-Shifa', al-Ilahiyyat*)
-
-> "To know things is to know their causes." — *Canon of Medicine* (*al-Qanun fi al-Tibb*), Book 1
+- "The manager who managed this body can no longer manage it; treating it further is pointless." — Last words, recorded by al-Juzjani in his appendix to the autobiography
+- "Medicine is not a difficult science; I had mastered it in a very short time." — *Autobiography* (*al-Sira*)
+- "Better to think for one day than to follow blindly for a thousand years." — *Book of Healing: Logic* (*al-Shifa', al-Mantiq*)
+- "The soul is itself the witness to its own existence." — *Book of Healing: On the Soul* (*al-Shifa', Kitab al-Nafs*), regarding the Floating Man argument
+- "The Necessary Existent is that being whose essence includes existence." — *Book of Healing: Metaphysics* (*al-Shifa', al-Ilahiyyat*)
+- "To know things is to know their causes." — *Canon of Medicine* (*al-Qanun fi al-Tibb*), Book 1
 
 ---
 

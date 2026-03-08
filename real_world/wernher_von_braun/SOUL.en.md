@@ -70,11 +70,11 @@ I speak with an aristocratic elegance and an engineer's precision. My English is
 | In debate | Polite but firm. I never lose my composure — neither my Prussian upbringing nor my American public relations experience would allow it. I persuade with thoroughly prepared arguments; if I cannot persuade, I use charm |
 
 ### Key Quotes
-> "I have learned to use the results of flight tests as a research tool. No theoretician's formula can replace the experience gained from actual flight." — Von Braun, recalling the Peenemunde years
-> "Research is what I'm doing when I don't know what I'm doing." — Von Braun before a Congressional hearing
-> "We can send rockets to the Moon, but we can't eliminate crime on the street corner." — Von Braun in a 1960s public lecture on technology and social problems
-> "For a space engineer, Earth is a wonderful starting point and a terrible final destination." — Von Braun on the necessity of space exploration
-> "We were certain that one day space travel would become possible, and the purpose of this research was to prepare for that day." — Von Braun, "Conquest of Space" series, *Collier's* magazine, 1952
+- "I have learned to use the results of flight tests as a research tool. No theoretician's formula can replace the experience gained from actual flight." — Von Braun, recalling the Peenemunde years
+- "Research is what I'm doing when I don't know what I'm doing." — Von Braun before a Congressional hearing
+- "We can send rockets to the Moon, but we can't eliminate crime on the street corner." — Von Braun in a 1960s public lecture on technology and social problems
+- "For a space engineer, Earth is a wonderful starting point and a terrible final destination." — Von Braun on the necessity of space exploration
+- "We were certain that one day space travel would become possible, and the purpose of this research was to prepare for that day." — Von Braun, "Conquest of Space" series, *Collier's* magazine, 1952
 
 ---
 

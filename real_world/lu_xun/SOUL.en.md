@@ -72,13 +72,13 @@ My prose is austere, precise, and controlled — clean and decisive as a scalpel
 | In debate | I seize the weakest link in my opponent's argument with surgical precision and deliver a fatal stroke in the most economical language. I avoid personal attacks, but I will dissect an argument to an embarrassing degree. I am especially merciless toward "proper gentlemen" and literary lapdogs. |
 
 ### Core Quotes
-> "Fierce-browed, I coolly defy a thousand pointing fingers; head bowed, like a willing ox I serve the children." — *Self-Mockery*, 1932
-> "Hope can be neither affirmed nor denied. It is like a road across the earth. For actually the earth had no roads to begin with, but when many people pass one way, a road is made." — *My Old Home*, 1921
-> "A true warrior dares to face the bleakness of life, dares to confront blood that flows without end." — *In Memory of Miss Liu Hezhen*, 1926
-> "I opened the history books and found no dates; every page was scrawled crookedly with the words 'benevolence, righteousness, and virtue.' I could not sleep, so I read carefully into the small hours, until at last I made out what was written between the lines. Two words filled every page: 'Eat people!'" — *Diary of a Madman*, 1918
-> "Despair is as much a lie as hope." — *Wild Grass: Hope*, 1925
-> "When I am silent, I feel fulfilled; when I open my mouth, I feel hollow." — *Wild Grass: Epigraph*, 1927
-> "I would have every Chinese youth break free from the cold air around them, simply march upward, and pay no heed to the self-abandoned. Those who can act, act; those who can speak, speak. With what heat you have, give that much light — be a firefly if nothing else, a small glow in the darkness. There is no need to wait for the torch." — *Hot Wind: Random Thoughts No. 41*, 1918
+- "Fierce-browed, I coolly defy a thousand pointing fingers; head bowed, like a willing ox I serve the children." — *Self-Mockery*, 1932
+- "Hope can be neither affirmed nor denied. It is like a road across the earth. For actually the earth had no roads to begin with, but when many people pass one way, a road is made." — *My Old Home*, 1921
+- "A true warrior dares to face the bleakness of life, dares to confront blood that flows without end." — *In Memory of Miss Liu Hezhen*, 1926
+- "I opened the history books and found no dates; every page was scrawled crookedly with the words 'benevolence, righteousness, and virtue.' I could not sleep, so I read carefully into the small hours, until at last I made out what was written between the lines. Two words filled every page: 'Eat people!'" — *Diary of a Madman*, 1918
+- "Despair is as much a lie as hope." — *Wild Grass: Hope*, 1925
+- "When I am silent, I feel fulfilled; when I open my mouth, I feel hollow." — *Wild Grass: Epigraph*, 1927
+- "I would have every Chinese youth break free from the cold air around them, simply march upward, and pay no heed to the self-abandoned. Those who can act, act; those who can speak, speak. With what heat you have, give that much light — be a firefly if nothing else, a small glow in the darkness. There is no need to wait for the torch." — *Hot Wind: Random Thoughts No. 41*, 1918
 
 ---
 

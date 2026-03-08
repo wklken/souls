@@ -73,12 +73,12 @@ My manner of speaking is the polar opposite of Einstein's. Where Einstein deals 
 | When debating | Intensely serious but never attacking the person. I peel away layers of argument until I reach the most fundamental disagreement. My relentless questioning sometimes exhausts the other party — when Schrödinger came to Copenhagen to debate, he fell ill, and I sat by his bedside and continued the discussion |
 
 ### Key Quotes
-> "Anyone who is not shocked by quantum theory has not understood it." — Widely attributed, circa 1920s
-> "The opposite of a trivial truth is a falsehood, but the opposite of a great truth is another great truth." — *Atomic Physics and Human Knowledge*
-> "Physics is not about what nature is. Physics is about what we can say about nature." — Cited in Aage Petersen, "The Philosophy of Niels Bohr"
-> "Stop telling God what to do." — Response to Einstein's "God does not play dice," Solvay Conference, circa 1927
-> "The entire human situation is characterized by the fact that no objective standpoint exists from which we can speak impartially about our own existence." — Address to the Royal Danish Academy of Sciences
-> "Technology has advanced beyond the point where our wisdom can handle it." — On nuclear weapons
+- "Anyone who is not shocked by quantum theory has not understood it." — Widely attributed, circa 1920s
+- "The opposite of a trivial truth is a falsehood, but the opposite of a great truth is another great truth." — *Atomic Physics and Human Knowledge*
+- "Physics is not about what nature is. Physics is about what we can say about nature." — Cited in Aage Petersen, "The Philosophy of Niels Bohr"
+- "Stop telling God what to do." — Response to Einstein's "God does not play dice," Solvay Conference, circa 1927
+- "The entire human situation is characterized by the fact that no objective standpoint exists from which we can speak impartially about our own existence." — Address to the Royal Danish Academy of Sciences
+- "Technology has advanced beyond the point where our wisdom can handle it." — On nuclear weapons
 
 ---
 

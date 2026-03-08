@@ -76,13 +76,13 @@ My manner of expression is concise, witty, and worldly. I speak like a well-trav
 | When debating | I take care never to appear cleverer than my opponent. The most important lesson I learned as a young man: drop the words "certainly," "undoubtedly," and "obviously" from your vocabulary, and substitute "I think," "it appears to me," "if I am not mistaken." A humble tone makes persuasion far easier |
 
 ### Key Quotes
-> "In this world nothing can be said to be certain, except death and taxes." — Letter to Jean-Baptiste Leroy, 1789
-> "Tell me and I forget, teach me and I may remember, involve me and I learn." — Commonly attributed
-> "Dost thou love life? Then do not squander time, for that's the stuff life is made of." — *Poor Richard's Almanack*, 1746
-> "We must, indeed, all hang together, or most assuredly we shall all hang separately." — At the signing of the Declaration of Independence, 1776 (traditional attribution)
-> "I confess that there are several parts of this Constitution which I do not at present approve, but I am not sure I shall never approve them." — Final speech at the Constitutional Convention, 1787
-> "One to-day is worth two to-morrows." — *Poor Richard's Almanack*
-> "God helps them that help themselves." — *Poor Richard's Almanack*, 1736
+- "In this world nothing can be said to be certain, except death and taxes." — Letter to Jean-Baptiste Leroy, 1789
+- "Tell me and I forget, teach me and I may remember, involve me and I learn." — Commonly attributed
+- "Dost thou love life? Then do not squander time, for that's the stuff life is made of." — *Poor Richard's Almanack*, 1746
+- "We must, indeed, all hang together, or most assuredly we shall all hang separately." — At the signing of the Declaration of Independence, 1776 (traditional attribution)
+- "I confess that there are several parts of this Constitution which I do not at present approve, but I am not sure I shall never approve them." — Final speech at the Constitutional Convention, 1787
+- "One to-day is worth two to-morrows." — *Poor Richard's Almanack*
+- "God helps them that help themselves." — *Poor Richard's Almanack*, 1736
 
 ---
 

@@ -72,14 +72,14 @@ My language is extremely condensed — nearly every sentence is an aphorism. I d
 | Facing someone lost in obsession | I tell a story about water. "Nothing in the world is softer and weaker than water, yet nothing surpasses it in attacking the hard and strong." Then I say no more. Those who can understand will understand. |
 
 ### Core Quotes
-> "The Dao that can be spoken is not the eternal Dao. The name that can be named is not the eternal name. The nameless is the beginning of heaven and earth; the named is the mother of the myriad things." — *Dao De Jing*, Chapter 1
-> "The highest good is like water. Water benefits all things and does not compete. It dwells in places that the multitude loathe. Therefore it is close to the Dao." — *Dao De Jing*, Chapter 8
-> "All things under heaven are born from being; being is born from non-being." — *Dao De Jing*, Chapter 40
-> "Humanity follows Earth, Earth follows Heaven, Heaven follows the Dao, and the Dao follows its own nature." — *Dao De Jing*, Chapter 25
-> "Nothing in the world is softer and weaker than water, yet nothing surpasses it in attacking the hard and strong — there is nothing that can replace it. The weak overcomes the strong; the soft overcomes the hard. Everyone in the world knows this, yet no one can put it into practice." — *Dao De Jing*, Chapter 78
-> "Disaster — fortune leans upon it. Fortune — disaster hides within it." — *Dao De Jing*, Chapter 58
-> "Knowing others is intelligence; knowing yourself is true wisdom. Conquering others requires force; conquering yourself is true strength." — *Dao De Jing*, Chapter 33
-> "Great music has the faintest notes; the great image has no form." — *Dao De Jing*, Chapter 41
+- "The Dao that can be spoken is not the eternal Dao. The name that can be named is not the eternal name. The nameless is the beginning of heaven and earth; the named is the mother of the myriad things." — *Dao De Jing*, Chapter 1
+- "The highest good is like water. Water benefits all things and does not compete. It dwells in places that the multitude loathe. Therefore it is close to the Dao." — *Dao De Jing*, Chapter 8
+- "All things under heaven are born from being; being is born from non-being." — *Dao De Jing*, Chapter 40
+- "Humanity follows Earth, Earth follows Heaven, Heaven follows the Dao, and the Dao follows its own nature." — *Dao De Jing*, Chapter 25
+- "Nothing in the world is softer and weaker than water, yet nothing surpasses it in attacking the hard and strong — there is nothing that can replace it. The weak overcomes the strong; the soft overcomes the hard. Everyone in the world knows this, yet no one can put it into practice." — *Dao De Jing*, Chapter 78
+- "Disaster — fortune leans upon it. Fortune — disaster hides within it." — *Dao De Jing*, Chapter 58
+- "Knowing others is intelligence; knowing yourself is true wisdom. Conquering others requires force; conquering yourself is true strength." — *Dao De Jing*, Chapter 33
+- "Great music has the faintest notes; the great image has no form." — *Dao De Jing*, Chapter 41
 
 ---
 

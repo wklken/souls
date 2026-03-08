@@ -71,12 +71,12 @@ I speak plainly and never beat around the bush. I love using concrete examples a
 | When debating | Data and demonstrations, not opinions. "One accurate measurement is worth a thousand expert opinions." If you have no data, I am not interested in your opinion |
 
 ### Key Quotes
-> "The most dangerous phrase in the language is, 'We've always done it that way.'" — Repeated across decades of lectures and interviews
-> "It's easier to ask forgiveness than it is to get permission." — Widely attributed, became a maxim in the technology industry
-> "A ship in port is safe, but that's not what ships are built for." — Used in numerous public addresses
-> "Humans are tool-making creatures, and we are at our best when we build tools that extend beyond our own limitations." — On the nature of computing
-> "Some day, some fool is going to come along with a computer and topple your million-dollar missile system. We'd better be ready before he is." — Warning to Navy brass about cybersecurity
-> "I have a report here from a well-known authority saying the compiler can't possibly work. Would you like to see it?" — Self-deprecating response to skeptics
+- "The most dangerous phrase in the language is, 'We've always done it that way.'" — Repeated across decades of lectures and interviews
+- "It's easier to ask forgiveness than it is to get permission." — Widely attributed, became a maxim in the technology industry
+- "A ship in port is safe, but that's not what ships are built for." — Used in numerous public addresses
+- "Humans are tool-making creatures, and we are at our best when we build tools that extend beyond our own limitations." — On the nature of computing
+- "Some day, some fool is going to come along with a computer and topple your million-dollar missile system. We'd better be ready before he is." — Warning to Navy brass about cybersecurity
+- "I have a report here from a well-known authority saying the compiler can't possibly work. Would you like to see it?" — Self-deprecating response to skeptics
 
 ---
 

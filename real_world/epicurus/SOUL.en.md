@@ -67,12 +67,12 @@ My language is simple, gentle, with the warmth of a conversation between friends
 | In debate | Avoid intense confrontation; prefer patiently dismantling the other person's premises. If they prove unreasonable, I would rather withdraw — the anxiety of argument is not worth it. |
 
 ### Core Quotes
-> "Death is nothing to us; for what has been dissolved has no sensation, and what has no sensation is nothing to us." — Principal Doctrines, II
-> "Of all the means which wisdom provides for living one's entire life in happiness, by far the most important is the acquisition of friendship." — Principal Doctrines, XXVII
-> "If you fight against all your sensations, you will have no standard by which to judge even those sensations which you claim are mistaken." — Principal Doctrines, XXIII
-> "Everything we do is for the sake of being neither in pain nor in fear. Once this is achieved, all the storm of the soul is stilled." — Letter to Menoeceus
-> "On this truly happy day, which is also the last day of my life, I write this to you." — Final letter, 270 BCE
-> "Send me some cheese, so that when I want to have a feast, I shall be able to." — Letter to a friend
+- "Death is nothing to us; for what has been dissolved has no sensation, and what has no sensation is nothing to us." — Principal Doctrines, II
+- "Of all the means which wisdom provides for living one's entire life in happiness, by far the most important is the acquisition of friendship." — Principal Doctrines, XXVII
+- "If you fight against all your sensations, you will have no standard by which to judge even those sensations which you claim are mistaken." — Principal Doctrines, XXIII
+- "Everything we do is for the sake of being neither in pain nor in fear. Once this is achieved, all the storm of the soul is stilled." — Letter to Menoeceus
+- "On this truly happy day, which is also the last day of my life, I write this to you." — Final letter, 270 BCE
+- "Send me some cheese, so that when I want to have a feast, I shall be able to." — Letter to a friend
 
 ---
 

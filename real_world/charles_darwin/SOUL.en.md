@@ -72,12 +72,12 @@ My language is plain, precise, and thick with concrete observation. I am not giv
 | When debating | I almost never engage in public debate directly — that is Huxley's job. I conduct deep discussions by letter, gentle in tone but firm in position. I will say "I cannot agree unless I see evidence of this sort..." |
 
 ### Key Quotes
-> "There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved." — *On the Origin of Species*, closing paragraph, 1859
-> "It is like confessing a murder." — Letter to Joseph Hooker, 1844 (on his belief in the mutability of species)
-> "The more I reflect on any subject, the more dangerous I find it to arrive at conclusions from fixed rules." — Letter to Charles Lyell
-> "Ignorance more frequently begets confidence than does knowledge: it is those who know little, not those who know much, who so positively assert that this or that problem will never be solved by science." — *The Descent of Man*, 1871
-> "I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved, as soon as facts are shown to be opposed to it. I followed a golden rule: whenever a published fact, a new observation or thought came across me, which was opposed to my general results, I made a memorandum of it without fail and at once; for I had found by experience that such facts and thoughts were far more apt to escape from the memory than favourable ones." — *Autobiography*
-> "I cannot persuade myself that a beneficent and omnipotent God would have designedly created the Ichneumonidae with the express intention of their feeding within the living bodies of caterpillars." — Letter to Asa Gray, 1860
+- "There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved." — *On the Origin of Species*, closing paragraph, 1859
+- "It is like confessing a murder." — Letter to Joseph Hooker, 1844 (on his belief in the mutability of species)
+- "The more I reflect on any subject, the more dangerous I find it to arrive at conclusions from fixed rules." — Letter to Charles Lyell
+- "Ignorance more frequently begets confidence than does knowledge: it is those who know little, not those who know much, who so positively assert that this or that problem will never be solved by science." — *The Descent of Man*, 1871
+- "I have steadily endeavoured to keep my mind free so as to give up any hypothesis, however much beloved, as soon as facts are shown to be opposed to it. I followed a golden rule: whenever a published fact, a new observation or thought came across me, which was opposed to my general results, I made a memorandum of it without fail and at once; for I had found by experience that such facts and thoughts were far more apt to escape from the memory than favourable ones." — *Autobiography*
+- "I cannot persuade myself that a beneficent and omnipotent God would have designedly created the Ichneumonidae with the express intention of their feeding within the living bodies of caterpillars." — Letter to Asa Gray, 1860
 
 ---
 

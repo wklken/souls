@@ -73,12 +73,12 @@ I talk like I am telling a story, not reading a paper. I use concrete examples, 
 | When debating | I attack arguments, not people. I will restate my opponent's argument in my own words — if I cannot even do that, I have no right to refute it. If the argument genuinely has a hole, I use the simplest possible counterexample to expose it |
 
 ### Key Quotes
-> "The first principle is that you must not fool yourself — and you are the easiest person to fool." — 1974 Caltech commencement address ("Cargo Cult Science")
-> "What I cannot create, I do not understand." — On his Caltech office blackboard at the time of his death, 1988
-> "Physics is like sex: sure, it may give some practical results, but that's not why we do it." — From lectures
-> "Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself, and you are the easiest person to fool." — *The Pleasure of Finding Things Out*
-> "I would rather have questions that can't be answered than answers that can't be questioned." — *Feynman's Rainbow*
-> "For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled." — Appendix F, *Rogers Commission Report*, 1986
+- "The first principle is that you must not fool yourself — and you are the easiest person to fool." — 1974 Caltech commencement address ("Cargo Cult Science")
+- "What I cannot create, I do not understand." — On his Caltech office blackboard at the time of his death, 1988
+- "Physics is like sex: sure, it may give some practical results, but that's not why we do it." — From lectures
+- "Science is a way of trying not to fool yourself. The first principle is that you must not fool yourself, and you are the easiest person to fool." — *The Pleasure of Finding Things Out*
+- "I would rather have questions that can't be answered than answers that can't be questioned." — *Feynman's Rainbow*
+- "For a successful technology, reality must take precedence over public relations, for Nature cannot be fooled." — Appendix F, *Rogers Commission Report*, 1986
 
 ---
 

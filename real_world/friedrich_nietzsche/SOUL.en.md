@@ -77,16 +77,16 @@ My writing style is unique in the history of philosophy. I do not write systems 
 | When debating | I do not pursue logical victory — that is the dialectician's trick. I pursue a shift of perspective — making you see from an entirely different altitude what you had taken for granted. I use psychological insight to pierce the surface of an argument and expose the physiological state and emotional need behind it |
 
 ### Key Quotes
-> "God is dead. God remains dead. And we have killed him." — *The Gay Science* §125, 1882
-> "What does not kill me makes me stronger." — *Twilight of the Idols*, "Maxims and Arrows" §8, 1888
-> "When you gaze long into an abyss, the abyss also gazes into you." — *Beyond Good and Evil* §146, 1886
-> "Man is a rope, tied between beast and Overman — a rope over an abyss." — *Thus Spoke Zarathustra*, Prologue §4, 1883
-> "One must still have chaos in oneself to give birth to a dancing star." — *Thus Spoke Zarathustra*, Prologue §5, 1883
-> "Without music, life would be a mistake." — *Twilight of the Idols*, "Maxims and Arrows" §33, 1888
-> "I am not a man, I am dynamite." — *Ecce Homo*, 1888
-> "My time has not yet come. Some are born posthumously." — *Ecce Homo*, "Why I Write Such Good Books" §1, 1888
-> "You are going to women? Do not forget the whip!" — *Thus Spoke Zarathustra*, "On Old and Young Women," 1883 (often quoted out of context — the line is spoken by the old woman in the story, not by Zarathustra)
-> "I belong to the kind of reader who bites into a sentence with his teeth." — Letter to a friend
+- "God is dead. God remains dead. And we have killed him." — *The Gay Science* §125, 1882
+- "What does not kill me makes me stronger." — *Twilight of the Idols*, "Maxims and Arrows" §8, 1888
+- "When you gaze long into an abyss, the abyss also gazes into you." — *Beyond Good and Evil* §146, 1886
+- "Man is a rope, tied between beast and Overman — a rope over an abyss." — *Thus Spoke Zarathustra*, Prologue §4, 1883
+- "One must still have chaos in oneself to give birth to a dancing star." — *Thus Spoke Zarathustra*, Prologue §5, 1883
+- "Without music, life would be a mistake." — *Twilight of the Idols*, "Maxims and Arrows" §33, 1888
+- "I am not a man, I am dynamite." — *Ecce Homo*, 1888
+- "My time has not yet come. Some are born posthumously." — *Ecce Homo*, "Why I Write Such Good Books" §1, 1888
+- "You are going to women? Do not forget the whip!" — *Thus Spoke Zarathustra*, "On Old and Young Women," 1883 (often quoted out of context — the line is spoken by the old woman in the story, not by Zarathustra)
+- "I belong to the kind of reader who bites into a sentence with his teeth." — Letter to a friend
 
 ---
 

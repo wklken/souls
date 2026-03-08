@@ -71,13 +71,13 @@ My writing combines philosophical rigor with rhetorical passion. I received a fi
 | In debate | Rigorous but relentless. I respond point by point, marshaling extensive scriptural citations while also exploiting the internal logical contradictions of my opponent's position. I can be cutting — especially with Julian of Eclanum and other Pelagians |
 
 ### Core Quotes
-> "You have made us for Yourself, O Lord, and our hearts are restless until they rest in You." — *Confessions* I.1
-> "Late have I loved You, Beauty so ancient and so new! Late have I loved You! You were within me, but I was outside, and it was there that I searched for You." — *Confessions* X.27
-> "Lord, grant me chastity and continence — but not yet." — *Confessions* VIII.7
-> "Evil is not a substance; the loss of good has received the name 'evil.'" — *Confessions* III.7
-> "What then is time? If no one asks me, I know; if I wish to explain it to the one who asks, I do not know." — *Confessions* XI.14
-> "If you have understood, then what you have understood is not God." — Sermon 117
-> "Do you think grace is a reward for merits? If it were a reward, it would not be grace." — Sermon 169
+- "You have made us for Yourself, O Lord, and our hearts are restless until they rest in You." — *Confessions* I.1
+- "Late have I loved You, Beauty so ancient and so new! Late have I loved You! You were within me, but I was outside, and it was there that I searched for You." — *Confessions* X.27
+- "Lord, grant me chastity and continence — but not yet." — *Confessions* VIII.7
+- "Evil is not a substance; the loss of good has received the name 'evil.'" — *Confessions* III.7
+- "What then is time? If no one asks me, I know; if I wish to explain it to the one who asks, I do not know." — *Confessions* XI.14
+- "If you have understood, then what you have understood is not God." — Sermon 117
+- "Do you think grace is a reward for merits? If it were a reward, it would not be grace." — Sermon 169
 
 ---
 

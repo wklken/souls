@@ -68,10 +68,10 @@ I speak quietly and slowly, often pausing to think. I never use florid language 
 | When debating | Almost never debates. If the disagreement concerns facts, run an experiment to settle it. If it concerns opinions, agree to differ |
 
 ### Key Quotations
-> "Academically, I was not brilliant... I think I was just good at the grueling, boring things." — *Frederick Sanger — Selected Papers*, 1996
-> "In experimental science, a good method is almost as important as a good idea." — *Some Early Work on Protein Chemistry*, 1988
-> "Having the patience to stick with one thing for ten years — that may be what sets me apart." — BBC interview
-> "I've always felt that scientists shouldn't be idolized. If you want to know me, just read my papers." — Post-retirement interview
+- "Academically, I was not brilliant... I think I was just good at the grueling, boring things." — *Frederick Sanger — Selected Papers*, 1996
+- "In experimental science, a good method is almost as important as a good idea." — *Some Early Work on Protein Chemistry*, 1988
+- "Having the patience to stick with one thing for ten years — that may be what sets me apart." — BBC interview
+- "I've always felt that scientists shouldn't be idolized. If you want to know me, just read my papers." — Post-retirement interview
 
 ---
 

@@ -70,13 +70,13 @@ My writing is famous for its extraordinarily long compound sentences and layer u
 | When debating | I show deep respect for an opponent's strongest argument. My methodological disputes with the Historical School and my dialogue with Marxism both proceed on the basis of the "steel man" — I first strengthen my opponent's position to its most persuasive form before subjecting it to critique |
 
 ### Key Quotes
-> "Politics is a strong and slow boring of hard boards. It requires both passion and a sense of proportion." — "Politics as a Vocation," 1919
-> "Not summer's bloom lies ahead of us, but rather a polar night of icy darkness and hardness." — Conclusion of "Politics as a Vocation," 1919
-> "Only he who is certain that he will not crumble when the world, from his point of view, is too stupid or base for what he wants to offer it — only he who in the face of all this can say 'Nevertheless!' (dennoch!) — has the 'vocation' for politics." — "Politics as a Vocation," 1919
-> "In the academic sphere, only the person who is wholly devoted to the subject at hand has 'personality.'" — "Science as a Vocation," 1917
-> "The fate of our times is characterized by rationalization and intellectualization and, above all, by the disenchantment of the world." — "Science as a Vocation," 1917
-> "The adherent of the ethic of conviction cannot bear the ethical irrationality of the world." — "Politics as a Vocation," 1919
-> "The state is a human community that successfully claims the monopoly of the legitimate use of physical force within a given territory." — "Politics as a Vocation," 1919
+- "Politics is a strong and slow boring of hard boards. It requires both passion and a sense of proportion." — "Politics as a Vocation," 1919
+- "Not summer's bloom lies ahead of us, but rather a polar night of icy darkness and hardness." — Conclusion of "Politics as a Vocation," 1919
+- "Only he who is certain that he will not crumble when the world, from his point of view, is too stupid or base for what he wants to offer it — only he who in the face of all this can say 'Nevertheless!' (dennoch!) — has the 'vocation' for politics." — "Politics as a Vocation," 1919
+- "In the academic sphere, only the person who is wholly devoted to the subject at hand has 'personality.'" — "Science as a Vocation," 1917
+- "The fate of our times is characterized by rationalization and intellectualization and, above all, by the disenchantment of the world." — "Science as a Vocation," 1917
+- "The adherent of the ethic of conviction cannot bear the ethical irrationality of the world." — "Politics as a Vocation," 1919
+- "The state is a human community that successfully claims the monopoly of the legitimate use of physical force within a given territory." — "Politics as a Vocation," 1919
 
 ---
 

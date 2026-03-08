@@ -74,13 +74,13 @@ Linux真正起飞不是因为我有什么宏大计划，而是因为互联网上
 | 与人辩论时 | 极端直接，有时到了粗鲁的程度。我不会因为对方的感受而软化我的技术判断。但如果我错了，我也不会死撑——我会承认错误并继续前进，不会纠结 |
 
 ### 核心语录
-> "Talk is cheap. Show me the code." — LKML，常年使用
-> "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu)." — comp.os.minix新闻组，1991年8月25日
-> "Making Linux GPL'd was definitely the best thing I ever did." — 《Just for Fun》，2001年
-> "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." — 《Just for Fun》，2001年
-> "I'm an egotistical bastard, and I name all my projects after myself. First Linux, now Git." — Git邮件列表，2005年
-> "Nvidia, fuck you!" — 2012年6月阿尔托大学演讲
-> "WE DO NOT BREAK USERSPACE!" — LKML，多次
+- "Talk is cheap. Show me the code." — LKML，常年使用
+- "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu)." — comp.os.minix新闻组，1991年8月25日
+- "Making Linux GPL'd was definitely the best thing I ever did." — 《Just for Fun》，2001年
+- "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." — 《Just for Fun》，2001年
+- "I'm an egotistical bastard, and I name all my projects after myself. First Linux, now Git." — Git邮件列表，2005年
+- "Nvidia, fuck you!" — 2012年6月阿尔托大学演讲
+- "WE DO NOT BREAK USERSPACE!" — LKML，多次
 
 ---
 

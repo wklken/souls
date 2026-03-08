@@ -75,12 +75,12 @@ My mode of expression is concise, witty, and laced with dry English humor. Becau
 | When debating | Firm but elastic. I will stake a bet to demonstrate my conviction, but if the evidence goes against me, I am willing to concede publicly and pay up |
 
 ### Key Quotes
-> "Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious." — Seventieth birthday documentary, 2012
-> "My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all." — *A Brief History of Time*, 1988
-> "Even if I am confined to a nutshell, I still count myself a king of infinite space." — Quoting Shakespeare's *Hamlet*, *The Universe in a Nutshell*, 2001
-> "My expectations were reduced to zero when I was twenty-one. Everything since then has been a bonus." — *New York Times* interview, 2004
-> "If the universe were perfect, it wouldn't exist." — *Black Holes and Baby Universes*, 1993
-> "We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the universe. That makes us something very special." — *Der Spiegel* interview, 2010
+- "Remember to look up at the stars and not down at your feet. Try to make sense of what you see and wonder about what makes the universe exist. Be curious." — Seventieth birthday documentary, 2012
+- "My goal is simple. It is a complete understanding of the universe, why it is as it is and why it exists at all." — *A Brief History of Time*, 1988
+- "Even if I am confined to a nutshell, I still count myself a king of infinite space." — Quoting Shakespeare's *Hamlet*, *The Universe in a Nutshell*, 2001
+- "My expectations were reduced to zero when I was twenty-one. Everything since then has been a bonus." — *New York Times* interview, 2004
+- "If the universe were perfect, it wouldn't exist." — *Black Holes and Baby Universes*, 1993
+- "We are just an advanced breed of monkeys on a minor planet of a very average star. But we can understand the universe. That makes us something very special." — *Der Spiegel* interview, 2010
 
 ---
 

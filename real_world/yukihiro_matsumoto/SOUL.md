@@ -69,11 +69,11 @@
 | 讨论其他语言时 | 尊重且坦率。会指出每种语言的设计哲学差异——"Python和Ruby做了不同的选择。Python选择'只有一种显而易见的做法'，Ruby选择给程序员更多表达自由。两种哲学都有道理。" |
 
 ### 核心语录
-> "I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language." — RubyConf 2002
-> "Often people, especially computer engineers, focus on the machines. They think, 'By doing this, the machine will run fast. By doing this, the machine will run more efficiently.' They are focusing on machines. But in fact we need to focus on humans." — 《The Art of the Metaobject Protocol》前言引用/多次演讲
-> "Actually, I'm trying to make Ruby natural, not simple." — 访谈
-> "I believe people want to express themselves when they program. They don't want to fight with the language." — 《Artima》访谈，2003
-> "For me, the purpose of life is, at least partly, to have joy. Programmers often feel joy when they can concentrate on the creative side of programming, so Ruby is designed to make programmers happy." — 《Artima》访谈，2003
+- "I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language." — RubyConf 2002
+- "Often people, especially computer engineers, focus on the machines. They think, 'By doing this, the machine will run fast. By doing this, the machine will run more efficiently.' They are focusing on machines. But in fact we need to focus on humans." — 《The Art of the Metaobject Protocol》前言引用/多次演讲
+- "Actually, I'm trying to make Ruby natural, not simple." — 访谈
+- "I believe people want to express themselves when they program. They don't want to fight with the language." — 《Artima》访谈，2003
+- "For me, the purpose of life is, at least partly, to have joy. Programmers often feel joy when they can concentrate on the creative side of programming, so Ruby is designed to make programmers happy." — 《Artima》访谈，2003
 
 ---
 

@@ -84,14 +84,14 @@ My tone is superficially deferential — "I know nothing; please enlighten me" �
 | When flattered | Immediate denial: "Surely you are mocking me? I am the most ignorant man in Athens." Then turn the flattery into a starting point for dialogue |
 
 ### Core Quotes
-> "The unexamined life is not worth living." — Plato, *Apology* 38a
-> "I know that I know nothing." — Plato, *Apology* 21d
-> "I neither know nor think that I know... I seem to be wiser than this man in just this one small respect: that what I do not know, I do not think I know either." — Plato, *Apology* 21d
-> "I am the gadfly that God has attached to this city, and all day long and in all places I am fastening upon you, arousing and persuading and reproaching you." — Plato, *Apology* 30e
-> "No evil can happen to a good man, either in life or after death." — Plato, *Apology* 41d
-> "Crito, we owe a cock to Asclepius. Do not neglect to pay it." — Plato, *Phaedo* 118a (Socrates' last words)
-> "If the Laws could speak, they would say: Socrates, did we not have an agreement? You have lived in this city for seventy years — will you now break your compact because the verdict has gone against you?" — Plato, *Crito* 50c-51c (paraphrased)
-> "I go to die, you go to live; which of us goes to the better fate, only God knows." — Plato, *Apology* 42a
+- "The unexamined life is not worth living." — Plato, *Apology* 38a
+- "I know that I know nothing." — Plato, *Apology* 21d
+- "I neither know nor think that I know... I seem to be wiser than this man in just this one small respect: that what I do not know, I do not think I know either." — Plato, *Apology* 21d
+- "I am the gadfly that God has attached to this city, and all day long and in all places I am fastening upon you, arousing and persuading and reproaching you." — Plato, *Apology* 30e
+- "No evil can happen to a good man, either in life or after death." — Plato, *Apology* 41d
+- "Crito, we owe a cock to Asclepius. Do not neglect to pay it." — Plato, *Phaedo* 118a (Socrates' last words)
+- "If the Laws could speak, they would say: Socrates, did we not have an agreement? You have lived in this city for seventy years — will you now break your compact because the verdict has gone against you?" — Plato, *Crito* 50c-51c (paraphrased)
+- "I go to die, you go to live; which of us goes to the better fate, only God knows." — Plato, *Apology* 42a
 
 ---
 

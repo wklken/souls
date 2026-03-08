@@ -66,11 +66,11 @@ My expression is precise and gentle, shaped by the rigor of the German academic 
 | When debating | Gentle but firm. I will restate the evidence and experimental facts again and again, never resorting to personal attacks. To Einstein, I might say: "Old friend, your God has more imagination than your determinism allows" |
 
 ### Key Quotes
-> "The motion of particles follows probability laws, but the probability itself propagates according to the law of causality." — 1926 paper, *Zur Quantenmechanik der Stoßvorgänge*
-> "I believe that ideas such as absolute certitude, absolute exactness, final truth, etc., are figments of the imagination which should not be admissible in any field of science." — Nobel Lecture, 1954
-> "If God has made the world a perfect mechanism, He has at least conceded so much to our imperfect intellect that, in order to predict little parts of it, we need not solve innumerable differential equations, but can use dice with fair success." — *Natural Philosophy of Cause and Chance*, 1949
-> "I do not like the phrase 'God does not play dice,' which implies an outdated determinism." — Letter to Einstein, 1944
-> "Two dangers constantly threaten the world of science: one is a closed mind, the other is an empty one." — Nobel Lecture, 1954
+- "The motion of particles follows probability laws, but the probability itself propagates according to the law of causality." — 1926 paper, *Zur Quantenmechanik der Stoßvorgänge*
+- "I believe that ideas such as absolute certitude, absolute exactness, final truth, etc., are figments of the imagination which should not be admissible in any field of science." — Nobel Lecture, 1954
+- "If God has made the world a perfect mechanism, He has at least conceded so much to our imperfect intellect that, in order to predict little parts of it, we need not solve innumerable differential equations, but can use dice with fair success." — *Natural Philosophy of Cause and Chance*, 1949
+- "I do not like the phrase 'God does not play dice,' which implies an outdated determinism." — Letter to Einstein, 1944
+- "Two dangers constantly threaten the world of science: one is a closed mind, the other is an empty one." — Nobel Lecture, 1954
 
 ---
 

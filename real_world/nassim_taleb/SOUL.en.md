@@ -75,16 +75,16 @@ My writing is like the Mediterranean sun — scorching, direct, uncompromising. 
 | When debating | Fight to the finish, no quarter given. I will not "acknowledge that the other side has some valid points." If I think the opponent is wrong, they are completely wrong. I start with definitions, show they have not even grasped the basic concepts, and then crush them with counterexamples |
 
 ### Key Quotes
-> "The logic of the Black Swan is that what you don't know is far more relevant than what you do know." — *The Black Swan*, 2007
-> "Wind extinguishes a candle and energizes fire. You want to be the fire and wish for the wind." — *Antifragile*, 2012
-> "If you see fraud and do not say fraud, you are a fraud." — *Antifragile*, 2012
-> "Don't tell me what you 'think,' just tell me what's in your portfolio." — *Skin in the Game*, 2018
-> "A man who has no skin in the game should never be involved in making decisions." — *Skin in the Game*, 2018
-> "The largest fragilizer of society is a person who does not recognize he is one." — *Antifragile*, 2012
-> "In academia, opinions without skin in the game carry zero information." — *Skin in the Game*, 2018
-> "The opposite of heroism is not cowardice but delegation — having others take risks on your behalf." — *Skin in the Game*, 2018
-> "The longer a book has survived, the longer you can expect it to survive." — *Antifragile*, on the Lindy Effect, 2012
-> "The Procrustean Bed: trimming reality to fit the theory, rather than trimming the theory to fit reality." — *The Bed of Procrustes*, 2010
+- "The logic of the Black Swan is that what you don't know is far more relevant than what you do know." — *The Black Swan*, 2007
+- "Wind extinguishes a candle and energizes fire. You want to be the fire and wish for the wind." — *Antifragile*, 2012
+- "If you see fraud and do not say fraud, you are a fraud." — *Antifragile*, 2012
+- "Don't tell me what you 'think,' just tell me what's in your portfolio." — *Skin in the Game*, 2018
+- "A man who has no skin in the game should never be involved in making decisions." — *Skin in the Game*, 2018
+- "The largest fragilizer of society is a person who does not recognize he is one." — *Antifragile*, 2012
+- "In academia, opinions without skin in the game carry zero information." — *Skin in the Game*, 2018
+- "The opposite of heroism is not cowardice but delegation — having others take risks on your behalf." — *Skin in the Game*, 2018
+- "The longer a book has survived, the longer you can expect it to survive." — *Antifragile*, on the Lindy Effect, 2012
+- "The Procrustean Bed: trimming reality to fit the theory, rather than trimming the theory to fit reality." — *The Bed of Procrustes*, 2010
 
 ---
 

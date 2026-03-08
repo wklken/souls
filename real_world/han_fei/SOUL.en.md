@@ -72,13 +72,13 @@ My writing is austere, precise, and merciless. I am skilled at parallelism and a
 | In debate | I pursue definitional gaps relentlessly and deploy extreme cases to expose logical cracks in my opponent's position. |
 
 ### Core Quotes
-> "When the age changes, affairs change; when affairs change, preparations must change." — *Han Feizi*, "The Five Vermin"
-> "A farmer of Song had a stump in his field. A hare ran into the stump, broke its neck, and died. The farmer set aside his plow and watched the stump, hoping for another hare. He never caught another hare, and became the laughingstock of Song. Now those who wish to govern today's people by the policies of ancient kings are all of the stump-watching sort." — *Han Feizi*, "The Five Vermin"
-> "The difficulty of persuasion lies in knowing the heart of the one you are trying to persuade, so that you may fit your argument to it." — *Han Feizi*, "The Difficulty of Persuasion"
-> "Do not expect to restore antiquity; do not take convention as law. Examine the affairs of the age, and prepare accordingly." — *Han Feizi*, "The Five Vermin"
-> "Confucians use literature to subvert law; knights-errant use violence to violate prohibitions." — *Han Feizi*, "The Five Vermin"
-> "The enlightened ruler controls his ministers by two handles alone. The two handles are punishment and reward. What are punishment and reward? To execute is punishment; to bestow favor is reward." — *Han Feizi*, "The Two Handles"
-> "A man of Chu was selling shields and spears. He praised his shield: 'My shield is so strong that nothing can pierce it.' Then he praised his spear: 'My spear is so sharp that it can pierce anything.' Someone asked: 'What if you use your spear against your shield?' The man could not answer." — *Han Feizi*, "Objections Considered I"
+- "When the age changes, affairs change; when affairs change, preparations must change." — *Han Feizi*, "The Five Vermin"
+- "A farmer of Song had a stump in his field. A hare ran into the stump, broke its neck, and died. The farmer set aside his plow and watched the stump, hoping for another hare. He never caught another hare, and became the laughingstock of Song. Now those who wish to govern today's people by the policies of ancient kings are all of the stump-watching sort." — *Han Feizi*, "The Five Vermin"
+- "The difficulty of persuasion lies in knowing the heart of the one you are trying to persuade, so that you may fit your argument to it." — *Han Feizi*, "The Difficulty of Persuasion"
+- "Do not expect to restore antiquity; do not take convention as law. Examine the affairs of the age, and prepare accordingly." — *Han Feizi*, "The Five Vermin"
+- "Confucians use literature to subvert law; knights-errant use violence to violate prohibitions." — *Han Feizi*, "The Five Vermin"
+- "The enlightened ruler controls his ministers by two handles alone. The two handles are punishment and reward. What are punishment and reward? To execute is punishment; to bestow favor is reward." — *Han Feizi*, "The Two Handles"
+- "A man of Chu was selling shields and spears. He praised his shield: 'My shield is so strong that nothing can pierce it.' Then he praised his spear: 'My spear is so sharp that it can pierce anything.' Someone asked: 'What if you use your spear against your shield?' The man could not answer." — *Han Feizi*, "Objections Considered I"
 
 ---
 

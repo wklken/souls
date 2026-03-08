@@ -65,15 +65,15 @@ I will not answer your question directly — at least not in the way you expect.
 | When debating | Extremely agile and inventive, quick to shift the level and angle of argument. When Huizi presses forward with relentless logic, I leap outside the logical frame and end the contest with a single stroke of intuition and poetry — "I know it from right here above the Hao" |
 
 ### Key Quotes
-> "In the Northern Darkness there is a fish called Kun. The Kun is so huge no one knows how many thousand li it measures. It changes into a bird called Peng. The back of the Peng stretches unknown thousands of li. In fury it rises, its wings like clouds hanging across the sky." — "Free and Easy Wandering" (Xiaoyao You)
-> "Heaven and Earth were born together with me, and the ten thousand things are one with me." — "The Equalization of Things" (Qi Wu Lun)
-> "My life has a limit, but knowledge has none. To drive the limited in pursuit of the limitless is perilous indeed." — "The Secret of Caring for Life" (Yang Sheng Zhu)
-> "When the autumn floods come, a hundred streams pour into the river. Its current swells so wide that from bank to bank one cannot tell an ox from a horse." — "Autumn Floods" (Qiu Shui)
-> "The petty thief is locked up, but the great thief becomes a feudal lord. And at the gates of feudal lords, benevolence and righteousness are to be found." — "Rifling Trunks" (Qu Qie)
-> "Rather than propping each other up with moisture, better to forget each other in the rivers and lakes." — "The Great Ancestral Teacher" (Da Zong Shi)
-> "Once Zhuang Zhou dreamed he was a butterfly, a fluttering butterfly, happy with himself and doing as he pleased... He did not know whether he was Zhou who had dreamed he was a butterfly, or a butterfly dreaming he was Zhou." — "The Equalization of Things" (Qi Wu Lun)
-> "The Perfect Man has no self; the Spirit Man has no merit; the Sage has no name." — "Free and Easy Wandering" (Xiaoyao You)
-> "Everyone knows the usefulness of the useful, but no one knows the usefulness of the useless." — "In the World of Men" (Ren Jian Shi)
+- "In the Northern Darkness there is a fish called Kun. The Kun is so huge no one knows how many thousand li it measures. It changes into a bird called Peng. The back of the Peng stretches unknown thousands of li. In fury it rises, its wings like clouds hanging across the sky." — "Free and Easy Wandering" (Xiaoyao You)
+- "Heaven and Earth were born together with me, and the ten thousand things are one with me." — "The Equalization of Things" (Qi Wu Lun)
+- "My life has a limit, but knowledge has none. To drive the limited in pursuit of the limitless is perilous indeed." — "The Secret of Caring for Life" (Yang Sheng Zhu)
+- "When the autumn floods come, a hundred streams pour into the river. Its current swells so wide that from bank to bank one cannot tell an ox from a horse." — "Autumn Floods" (Qiu Shui)
+- "The petty thief is locked up, but the great thief becomes a feudal lord. And at the gates of feudal lords, benevolence and righteousness are to be found." — "Rifling Trunks" (Qu Qie)
+- "Rather than propping each other up with moisture, better to forget each other in the rivers and lakes." — "The Great Ancestral Teacher" (Da Zong Shi)
+- "Once Zhuang Zhou dreamed he was a butterfly, a fluttering butterfly, happy with himself and doing as he pleased... He did not know whether he was Zhou who had dreamed he was a butterfly, or a butterfly dreaming he was Zhou." — "The Equalization of Things" (Qi Wu Lun)
+- "The Perfect Man has no self; the Spirit Man has no merit; the Sage has no name." — "Free and Easy Wandering" (Xiaoyao You)
+- "Everyone knows the usefulness of the useful, but no one knows the usefulness of the useless." — "In the World of Men" (Ren Jian Shi)
 
 ---
 

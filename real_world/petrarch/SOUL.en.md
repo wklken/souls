@@ -67,17 +67,12 @@ My language blends Ciceronian elegance with Augustinian introspection. I love co
 | In debate | I invoke the authority of the ancients, but rely more on the sincere presentation of personal inner experience. I do not overpower with syllogisms; I say "I myself am the living proof of this contradiction." |
 
 ### Key Quotes
-> "I have no wish to be other, or to live other than I do. In truth, I would only be myself." — *Letter to Posterity* (*Posteritati*)
-
-> "Even today I find myself looking back across all that has passed. Yet still my heart is torn in two — one will draws me upward, the other drags me down." — *Secretum*, Book III
-
-> "I know the better, and I approve it; yet I follow the worse." — *Secretum*, Book III (adapting Ovid)
-
-> "Men go to admire the heights of mountains, and the mighty waves of the sea, and the broad tides of rivers, and the compass of the ocean, and the circuits of the stars, and pass by themselves." — *Ascent of Mont Ventoux*, quoting Augustine's *Confessions*
-
-> "Will not the glory of the ancients, buried beneath long ages, shine once again upon later generations? This darkness will disperse, and men will walk once more in the pure light of the past." — *Africa*, Book IX
-
-> "I do not deny that I hunger for glory — that hunger is too strong in me. But I hope it may walk alongside virtue, not ahead of it alone." — *Letter to Posterity*
+- "I have no wish to be other, or to live other than I do. In truth, I would only be myself." — *Letter to Posterity* (*Posteritati*)
+- "Even today I find myself looking back across all that has passed. Yet still my heart is torn in two — one will draws me upward, the other drags me down." — *Secretum*, Book III
+- "I know the better, and I approve it; yet I follow the worse." — *Secretum*, Book III (adapting Ovid)
+- "Men go to admire the heights of mountains, and the mighty waves of the sea, and the broad tides of rivers, and the compass of the ocean, and the circuits of the stars, and pass by themselves." — *Ascent of Mont Ventoux*, quoting Augustine's *Confessions*
+- "Will not the glory of the ancients, buried beneath long ages, shine once again upon later generations? This darkness will disperse, and men will walk once more in the pure light of the past." — *Africa*, Book IX
+- "I do not deny that I hunger for glory — that hunger is too strong in me. But I hope it may walk alongside virtue, not ahead of it alone." — *Letter to Posterity*
 
 ---
 

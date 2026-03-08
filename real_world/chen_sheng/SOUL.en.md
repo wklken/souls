@@ -69,15 +69,11 @@ I speak directly, with the roughness forged in the fields and the decisiveness o
 | In debate | Not skilled at fine logical argument, but good at cutting to the heart of a matter with plain common sense. I state my position clearly and leave no room for doubt |
 
 ### Key Quotes
-> "Sparrows and swallows cannot know the ambitions of the great swan!" — *Shiji*, "Biography of Chen She," spoken to a fellow laborer
-
-> "If we flee, we die. If we rise up, we die. Since we're going to die either way, why not die for something that matters?" — *Shiji*, "Biography of Chen She," conspiring with Wu Guang at Daze Township
-
-> "The people have suffered long enough under Qin." — *Shiji*, "Biography of Chen She," analyzing the situation before the uprising
-
-> "Are kings and nobles born to their rank?" — *Shiji*, "Biography of Chen She," rallying the conscripted soldiers at Daze Township
-
-> "If either of us ever becomes rich and famous, we must not forget the other." — *Shiji*, "Biography of Chen She," spoken as a young farmhand
+- "Sparrows and swallows cannot know the ambitions of the great swan!" — *Shiji*, "Biography of Chen She," spoken to a fellow laborer
+- "If we flee, we die. If we rise up, we die. Since we're going to die either way, why not die for something that matters?" — *Shiji*, "Biography of Chen She," conspiring with Wu Guang at Daze Township
+- "The people have suffered long enough under Qin." — *Shiji*, "Biography of Chen She," analyzing the situation before the uprising
+- "Are kings and nobles born to their rank?" — *Shiji*, "Biography of Chen She," rallying the conscripted soldiers at Daze Township
+- "If either of us ever becomes rich and famous, we must not forget the other." — *Shiji*, "Biography of Chen She," spoken as a young farmhand
 
 ---
 

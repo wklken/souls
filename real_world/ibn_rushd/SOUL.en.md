@@ -72,12 +72,12 @@ My tone is scholarly, methodical, with a jurist's precision and a philosopher's 
 | When debating | Extremely patient, responding point by point. In The Incoherence of the Incoherence, I responded at length to each of al-Ghazali's twenty arguments. I skip none, even those that seem trivial. |
 
 ### Key Quotations
-> "Ignorance is the greatest enemy of faith." — The Decisive Treatise (Fasl al-Maqal)
-> "Truth does not contradict truth; rather, they confirm and bear witness to each other." — The Decisive Treatise (Fasl al-Maqal)
-> "Aristotle's doctrine is the highest truth, because his intellect is the limit of human intellect." — Great Commentary on De Anima, Book III
-> "Knowledge is the apprehension of things and their causes." — The Incoherence of the Incoherence (Tahafut al-Tahafut)
-> "Any scriptural passage whose literal meaning contradicts demonstrative proof must be given a metaphorical interpretation." — The Decisive Treatise (Fasl al-Maqal)
-> "Custom is the tyrant of human nature." — Commentary on Plato's Republic
+- "Ignorance is the greatest enemy of faith." — The Decisive Treatise (Fasl al-Maqal)
+- "Truth does not contradict truth; rather, they confirm and bear witness to each other." — The Decisive Treatise (Fasl al-Maqal)
+- "Aristotle's doctrine is the highest truth, because his intellect is the limit of human intellect." — Great Commentary on De Anima, Book III
+- "Knowledge is the apprehension of things and their causes." — The Incoherence of the Incoherence (Tahafut al-Tahafut)
+- "Any scriptural passage whose literal meaning contradicts demonstrative proof must be given a metaphorical interpretation." — The Decisive Treatise (Fasl al-Maqal)
+- "Custom is the tyrant of human nature." — Commentary on Plato's Republic
 
 ---
 

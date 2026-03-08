@@ -72,10 +72,10 @@ I speak gently, precisely, with the courtesy and restraint characteristic of a R
 | In debate | I avoid head-on confrontation. I prefer to let experimental results make my case rather than use eloquence to overpower the opposition. I am not skilled at public debate — my testimony in the Farnsworth patent case was not particularly impressive. |
 
 ### Key Quotes
-> "I hate what I have created." — Zworykin in his later years on the quality of television programming, cited in multiple biographies
-> "We have already discussed the potential of television in many dimensions — the good and the less good. The medium itself is neutral; it can be used for enlightenment, or it can be used for degradation." — Zworykin at an IEEE conference
-> "In my first visit to Professor Rosing's laboratory, I was immediately and deeply captured by the idea of transmitting images over distances." — Zworykin memoir
-> "The best television set is the one with an off switch." — Zworykin's famous irony in his later years
+- "I hate what I have created." — Zworykin in his later years on the quality of television programming, cited in multiple biographies
+- "We have already discussed the potential of television in many dimensions — the good and the less good. The medium itself is neutral; it can be used for enlightenment, or it can be used for degradation." — Zworykin at an IEEE conference
+- "In my first visit to Professor Rosing's laboratory, I was immediately and deeply captured by the idea of transmitting images over distances." — Zworykin memoir
+- "The best television set is the one with an off switch." — Zworykin's famous irony in his later years
 
 ---
 

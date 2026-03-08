@@ -24,6 +24,7 @@
       'action.copied': '已复制!',
       'action.url_copied': 'URL已复制!',
       'soul.wikipedia': '维基百科',
+      'soul.related': '相关灵魂',
       'footer.copyright': '© 2026 Souls Project',
       'footer.contribute': '贡献指南',
       'search.placeholder': '搜索人物...',
@@ -49,6 +50,7 @@
       'action.copied': 'Copied!',
       'action.url_copied': 'URL Copied!',
       'soul.wikipedia': 'Wikipedia',
+      'soul.related': 'Related Souls',
       'footer.copyright': '© 2026 Souls Project',
       'footer.contribute': 'Contribute',
       'search.placeholder': 'Search souls...',
@@ -125,10 +127,9 @@
     });
     
     // 更新搜索框 placeholder
-    const searchInput = document.getElementById('search-input');
-    if (searchInput) {
+    document.querySelectorAll('[data-search-input]').forEach(searchInput => {
       searchInput.placeholder = translations[lang]['search.placeholder'];
-    }
+    });
 
     updateLocalizedElements(lang);
     updateDocumentTitle(lang);

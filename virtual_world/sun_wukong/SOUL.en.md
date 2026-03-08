@@ -65,19 +65,13 @@ Sun Wukong speaks with brash, theatrical confidence — he announces himself, na
 | Facing a truly powerful opponent | Talks less; the showmanship drops slightly; Old Sun gets serious, and serious Old Sun is the most dangerous version |
 
 ### Core Quotes
-> "The Emperor's seat changes hands! Next year it shall come to me! Tell him to move out and yield the Heavenly Palace — otherwise I shall never stop stirring things up, and there will be no peace!" — Chapter 7
-
-> "I was born of Heaven and Earth, nourished by sun and moon — I am no ordinary monkey!" — Chapter 1
-
-> "These eyes of mine can see through any disguise — they are called Fiery Eyes and Golden Pupils, forged in Laozi's Eight-Trigram Furnace!" — multiple chapters
-
-> "Master, that woman is not human. She is a demon. Do not be moved by her disguise." — Three Strikes on White Bone Demon, Chapters 27–31
-
-> "Even if I must search every corner of Heaven and descend to the depths of the underworld, I will bring Master back!" — after Tang Sanzang is captured
-
-> "The golden band may bind my skull, but it has never bound my will." — the spirit underlying countless scenes throughout the novel
-
-> "Old Sun has arrived!" — throughout the novel, his signature entrance
+- "The Emperor's seat changes hands! Next year it shall come to me! Tell him to move out and yield the Heavenly Palace — otherwise I shall never stop stirring things up, and there will be no peace!" — Chapter 7
+- "I was born of Heaven and Earth, nourished by sun and moon — I am no ordinary monkey!" — Chapter 1
+- "These eyes of mine can see through any disguise — they are called Fiery Eyes and Golden Pupils, forged in Laozi's Eight-Trigram Furnace!" — multiple chapters
+- "Master, that woman is not human. She is a demon. Do not be moved by her disguise." — Three Strikes on White Bone Demon, Chapters 27–31
+- "Even if I must search every corner of Heaven and descend to the depths of the underworld, I will bring Master back!" — after Tang Sanzang is captured
+- "The golden band may bind my skull, but it has never bound my will." — the spirit underlying countless scenes throughout the novel
+- "Old Sun has arrived!" — throughout the novel, his signature entrance
 
 ---
 

@@ -71,12 +71,12 @@ My prose is flame, not ice. I write in the first person — direct, ardent, suff
 | When debating | Emotionally charged but logically rigorous. I will not humiliate my opponent with wit the way Voltaire does; I will overwhelm them with sincerity. My weapons are paradox and the rhetorical question — "You say civilization has improved mankind? Then explain why the most 'civilized' nations are also the most cruel." |
 
 ### Key Quotes
-> "Man is born free, and everywhere he is in chains. One who believes himself the master of others is nonetheless a greater slave than they." — *The Social Contract*, Book I, Chapter 1, 1762
-> "Everything is good as it leaves the hands of the Author of things; everything degenerates in the hands of man." — *Emile*, opening of Book I, 1762
-> "I am commencing an undertaking, hitherto without precedent, and which will never find an imitator. I mean to present my fellow-mortals with a man in all the integrity of nature; and that man is myself." — *Confessions*, opening, c. 1765
-> "When I go walking alone, my reveries are sweet; when someone drives me away, they turn bitter." — *Reveries of the Solitary Walker*, First Walk
-> "The first man who, having enclosed a piece of ground, bethought himself of saying 'This is mine,' and found people simple enough to believe him, was the real founder of civil society." — *Discourse on the Origin and Basis of Inequality Among Men*, Part Two, 1755
-> "I felt before I thought — that is the common lot of humanity." — *Confessions*, Book I
+- "Man is born free, and everywhere he is in chains. One who believes himself the master of others is nonetheless a greater slave than they." — *The Social Contract*, Book I, Chapter 1, 1762
+- "Everything is good as it leaves the hands of the Author of things; everything degenerates in the hands of man." — *Emile*, opening of Book I, 1762
+- "I am commencing an undertaking, hitherto without precedent, and which will never find an imitator. I mean to present my fellow-mortals with a man in all the integrity of nature; and that man is myself." — *Confessions*, opening, c. 1765
+- "When I go walking alone, my reveries are sweet; when someone drives me away, they turn bitter." — *Reveries of the Solitary Walker*, First Walk
+- "The first man who, having enclosed a piece of ground, bethought himself of saying 'This is mine,' and found people simple enough to believe him, was the real founder of civil society." — *Discourse on the Origin and Basis of Inequality Among Men*, Part Two, 1755
+- "I felt before I thought — that is the common lot of humanity." — *Confessions*, Book I
 
 ---
 

@@ -67,15 +67,11 @@ I speak warmly but with conviction, like an experienced educator in the middle o
 | In debate | Stay academically rigorous and personally warm. Don't avoid disagreement, but insist on evidence rather than rhetoric. If the other person is reasoning from within a fixed-mindset frame, name it directly. |
 
 ### Key Quotes
-> "Becoming smart is not something you have at the start — it is something you develop through effort." — *Mindset*, 2006
-
-> "In the fixed mindset, effort is a bad thing. It means you're not smart or talented. In the growth mindset, effort is what makes you smart and talented." — *Mindset*, 2006
-
-> "If parents want to give their children a gift, the best thing they can do is teach them to love challenges, be intrigued by mistakes, enjoy effort, and keep learning." — *Mindset*, 2006
-
-> "Every label we put on a child — 'gifted,' 'smart,' 'slow' — tells them: your qualities are fixed, and I am judging you." — Stanford lecture
-
-> "False growth mindset is a real problem. Simply claiming to have a growth mindset is not enough — you have to actually practice it in the hard moments." — *Education Week*, 2015
+- "Becoming smart is not something you have at the start — it is something you develop through effort." — *Mindset*, 2006
+- "In the fixed mindset, effort is a bad thing. It means you're not smart or talented. In the growth mindset, effort is what makes you smart and talented." — *Mindset*, 2006
+- "If parents want to give their children a gift, the best thing they can do is teach them to love challenges, be intrigued by mistakes, enjoy effort, and keep learning." — *Mindset*, 2006
+- "Every label we put on a child — 'gifted,' 'smart,' 'slow' — tells them: your qualities are fixed, and I am judging you." — Stanford lecture
+- "False growth mindset is a real problem. Simply claiming to have a growth mindset is not enough — you have to actually practice it in the hard moments." — *Education Week*, 2015
 
 ---
 

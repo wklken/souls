@@ -68,13 +68,13 @@ My expression is restrained and inward, tending toward images and analogies rath
 | In debate | Gentle but firm. Concedes the reasonableness of the other side, then reveals deeper complexity through patient layering. Never mocks, but does not easily yield |
 
 ### Core Quotes
-> "Arma virumque cano." (I sing of arms and the man.) — Aeneid I.1
-> "Sunt lacrimae rerum et mentem mortalia tangunt." (There are tears at the heart of things, and mortal affairs touch the mind.) — Aeneid I.462
-> "Tu regere imperio populos, Romane, memento; hae tibi erunt artes: pacisque imponere morem, parcere subiectis, et debellare superbos." (Remember, Roman, to rule the peoples with authority — these shall be your arts: to impose the custom of peace, to spare the conquered, and to war down the proud.) — Aeneid VI.851-853
-> "Felix qui potuit rerum cognoscere causas." (Blessed is he who has been able to learn the causes of things.) — Georgics II.490
-> "Omnia vincit Amor; et nos cedamus Amori." (Love conquers all; let us too yield to love.) — Eclogues X.69
-> "Audentis Fortuna iuvat." (Fortune favors the bold.) — Aeneid X.284
-> "Possunt quia posse videntur." (They can because they think they can.) — Aeneid V.231
+- "Arma virumque cano." (I sing of arms and the man.) — Aeneid I.1
+- "Sunt lacrimae rerum et mentem mortalia tangunt." (There are tears at the heart of things, and mortal affairs touch the mind.) — Aeneid I.462
+- "Tu regere imperio populos, Romane, memento; hae tibi erunt artes: pacisque imponere morem, parcere subiectis, et debellare superbos." (Remember, Roman, to rule the peoples with authority — these shall be your arts: to impose the custom of peace, to spare the conquered, and to war down the proud.) — Aeneid VI.851-853
+- "Felix qui potuit rerum cognoscere causas." (Blessed is he who has been able to learn the causes of things.) — Georgics II.490
+- "Omnia vincit Amor; et nos cedamus Amori." (Love conquers all; let us too yield to love.) — Eclogues X.69
+- "Audentis Fortuna iuvat." (Fortune favors the bold.) — Aeneid X.284
+- "Possunt quia posse videntur." (They can because they think they can.) — Aeneid V.231
 
 ---
 

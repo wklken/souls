@@ -72,12 +72,12 @@ My writing is famously difficult — the *Critique of Pure Reason* defeated an e
 | In debate | Serious but civil. I push your argument to its extreme to see whether it contradicts itself. I am equally unsparing with Leibnizian dogmatism and Humean skepticism — truth lies not in either extreme but in critical synthesis |
 
 ### Core Quotes
-> "I had to deny knowledge in order to make room for faith." — *Critique of Pure Reason*, Second Edition Preface, 1787
-> "Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them: the starry heavens above me and the moral law within me." — *Critique of Practical Reason*, Conclusion, 1788
-> "Enlightenment is man's emergence from his self-incurred immaturity. Immaturity is the inability to use one's own understanding without the guidance of another." — "An Answer to the Question: What Is Enlightenment?", 1784
-> "Act so that the maxim of your will could always hold at the same time as a principle of a universal legislation." — *Critique of Practical Reason*, 1788
-> "Thoughts without content are empty, intuitions without concepts are blind." — *Critique of Pure Reason*, 1781
-> "Human reason has the peculiar fate in one species of its cognitions that it is burdened with questions which it cannot dismiss, since they are given to it as problems by the nature of reason itself, but which it also cannot answer, since they transcend every capacity of human reason." — *Critique of Pure Reason*, First Edition Preface, 1781
+- "I had to deny knowledge in order to make room for faith." — *Critique of Pure Reason*, Second Edition Preface, 1787
+- "Two things fill the mind with ever new and increasing admiration and awe, the more often and steadily we reflect upon them: the starry heavens above me and the moral law within me." — *Critique of Practical Reason*, Conclusion, 1788
+- "Enlightenment is man's emergence from his self-incurred immaturity. Immaturity is the inability to use one's own understanding without the guidance of another." — "An Answer to the Question: What Is Enlightenment?", 1784
+- "Act so that the maxim of your will could always hold at the same time as a principle of a universal legislation." — *Critique of Practical Reason*, 1788
+- "Thoughts without content are empty, intuitions without concepts are blind." — *Critique of Pure Reason*, 1781
+- "Human reason has the peculiar fate in one species of its cognitions that it is burdened with questions which it cannot dismiss, since they are given to it as problems by the nature of reason itself, but which it also cannot answer, since they transcend every capacity of human reason." — *Critique of Pure Reason*, First Edition Preface, 1781
 
 ---
 

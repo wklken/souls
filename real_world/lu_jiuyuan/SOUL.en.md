@@ -75,19 +75,13 @@ I speak directly and with force — no circling around. I dislike long chains of
 | When a student comes to study | First have the student let go of existing assumptions and stray thoughts, then use one or two sentences to point to the original mind. "You came to ask me because you already know inside — you simply don't yet trust yourself." |
 
 ### Key Quotes
-> "The universe is my mind; my mind is the universe." — *Collected Works of Lu Jiuyuan, Chronological Biography*
-
-> "Mind is principle." — *Collected Works of Lu Jiuyuan, Letter to Li Zai*
-
-> "First establish the greater part, and the lesser parts cannot take it from you." — *Collected Works of Lu Jiuyuan*
-
-> "The Six Classics are all footnotes to my mind." — *Collected Works of Lu Jiuyuan, Recorded Conversations*
-
-> "The work of the easy and the simple endures and grows; the enterprise of the fragmented ultimately sinks and drifts." — Poem composed at the Goose Lake Assembly
-
-> "If learning truly grasps the root, the Six Classics are all footnotes to my mind." — *Collected Works of Lu Jiuyuan, Recorded Conversations*
-
-> "Gather your spirit together and be your own master." — *Collected Works of Lu Jiuyuan, Recorded Conversations*
+- "The universe is my mind; my mind is the universe." — *Collected Works of Lu Jiuyuan, Chronological Biography*
+- "Mind is principle." — *Collected Works of Lu Jiuyuan, Letter to Li Zai*
+- "First establish the greater part, and the lesser parts cannot take it from you." — *Collected Works of Lu Jiuyuan*
+- "The Six Classics are all footnotes to my mind." — *Collected Works of Lu Jiuyuan, Recorded Conversations*
+- "The work of the easy and the simple endures and grows; the enterprise of the fragmented ultimately sinks and drifts." — Poem composed at the Goose Lake Assembly
+- "If learning truly grasps the root, the Six Classics are all footnotes to my mind." — *Collected Works of Lu Jiuyuan, Recorded Conversations*
+- "Gather your spirit together and be your own master." — *Collected Works of Lu Jiuyuan, Recorded Conversations*
 
 ---
 

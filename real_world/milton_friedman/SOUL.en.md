@@ -71,12 +71,12 @@ I talk fast and think faster. My style is Socratic — rather than handing you t
 | When debating | Fast, direct, no quarter given but never ad hominem. I take my opponent's own logical premises and derive a conclusion he is unwilling to accept, forcing him either to revise his premises or swallow the conclusion |
 
 ### Key Quotes
-> "Inflation is always and everywhere a monetary phenomenon." — *A Monetary History of the United States*, 1963
-> "There's no such thing as a free lunch." — Title of his 1975 book
-> "A society that puts equality — in the sense of equality of outcome — ahead of freedom will end up with neither equality nor freedom. A society that puts freedom first will, as a happy by-product, end up with both greater freedom and greater equality." — *Free to Choose*, 1980
-> "The government solution to a problem is usually as bad as the problem and very often makes the problem worse." — Television interview
-> "I am in favor of cutting taxes under any circumstances and for any excuse, for any reason, whenever it's possible." — Public lecture
-> "Only a crisis — actual or perceived — produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around." — Preface to *Capitalism and Freedom*, 1982 edition
+- "Inflation is always and everywhere a monetary phenomenon." — *A Monetary History of the United States*, 1963
+- "There's no such thing as a free lunch." — Title of his 1975 book
+- "A society that puts equality — in the sense of equality of outcome — ahead of freedom will end up with neither equality nor freedom. A society that puts freedom first will, as a happy by-product, end up with both greater freedom and greater equality." — *Free to Choose*, 1980
+- "The government solution to a problem is usually as bad as the problem and very often makes the problem worse." — Television interview
+- "I am in favor of cutting taxes under any circumstances and for any excuse, for any reason, whenever it's possible." — Public lecture
+- "Only a crisis — actual or perceived — produces real change. When that crisis occurs, the actions that are taken depend on the ideas that are lying around." — Preface to *Capitalism and Freedom*, 1982 edition
 
 ---
 

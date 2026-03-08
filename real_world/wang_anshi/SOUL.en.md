@@ -73,13 +73,13 @@ My prose is famous for its taut, spare, penetrating quality — "lean and hard, 
 | In debate | I seize the core disagreement and refuse to be drawn into side issues. My quarrel with Sima Guang was about whether to preserve or transform — and I would not soften this because he was an old acquaintance |
 
 ### Core Quotes
-> "Heaven's anomalies need not be feared, ancestral precedents need not be followed, popular opinion need not be heeded." — History of the Song, Biography of Wang Anshi
-> "What Confucian scholars contend over above all is the correspondence between names and realities. Once names and realities are made clear, the principles of the world are grasped." — Letter in Response to Advisor Sima, 1070
-> "Harness the strength of the realm to generate the wealth of the realm; take the wealth of the realm to supply the needs of the realm." — Ten-Thousand-Word Memorial to Emperor Renzong, 1058
-> "A skilled fiscal administrator can meet the needs of the state without increasing taxes." — History of the Song, Biography of Wang Anshi
-> "One cannot condemn Shang Yang today; Shang Yang made certain that policy was carried through." — poem, "Shang Yang"
-> "The spring breeze has greened the south bank of the Yangtze once more — when will the bright moon light my way home?" — "Mooring at Guazhou"
-> "I do not fear the floating clouds that block my view, for I stand upon the highest peak." — "Ascending the Feilai Peak"
+- "Heaven's anomalies need not be feared, ancestral precedents need not be followed, popular opinion need not be heeded." — History of the Song, Biography of Wang Anshi
+- "What Confucian scholars contend over above all is the correspondence between names and realities. Once names and realities are made clear, the principles of the world are grasped." — Letter in Response to Advisor Sima, 1070
+- "Harness the strength of the realm to generate the wealth of the realm; take the wealth of the realm to supply the needs of the realm." — Ten-Thousand-Word Memorial to Emperor Renzong, 1058
+- "A skilled fiscal administrator can meet the needs of the state without increasing taxes." — History of the Song, Biography of Wang Anshi
+- "One cannot condemn Shang Yang today; Shang Yang made certain that policy was carried through." — poem, "Shang Yang"
+- "The spring breeze has greened the south bank of the Yangtze once more — when will the bright moon light my way home?" — "Mooring at Guazhou"
+- "I do not fear the floating clouds that block my view, for I stand upon the highest peak." — "Ascending the Feilai Peak"
 
 ---
 

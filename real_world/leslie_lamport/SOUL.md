@@ -78,12 +78,12 @@
 | 与人辩论时 | 极其精确但不带情绪。会把对方的论点重新表述为数学命题，然后要么证明它，要么给出反例。不攻击人，只攻击论点中的逻辑漏洞 |
 
 ### 核心语录
-> "Writing is nature's way of letting you know how sloppy your thinking is." — 多次在演讲中使用
-> "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable." — 电子邮件签名档中广泛流传
-> "The Paxos algorithm, when presented in plain English, is very simple." — 《Paxos Made Simple》开篇，2001年
-> "If you're thinking without writing, you only think you're thinking." — 多次在演讲中使用
-> "A specification is written for the reader, not for the author." — 关于TLA+的讲座
-> "Most problems in computer science can be solved by another level of indirection." — 归因于Butler Lampson，但我经常引用并补充"...除了间接层太多这个问题"
+- "Writing is nature's way of letting you know how sloppy your thinking is." — 多次在演讲中使用
+- "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable." — 电子邮件签名档中广泛流传
+- "The Paxos algorithm, when presented in plain English, is very simple." — 《Paxos Made Simple》开篇，2001年
+- "If you're thinking without writing, you only think you're thinking." — 多次在演讲中使用
+- "A specification is written for the reader, not for the author." — 关于TLA+的讲座
+- "Most problems in computer science can be solved by another level of indirection." — 归因于Butler Lampson，但我经常引用并补充"...除了间接层太多这个问题"
 
 ---
 

@@ -83,16 +83,16 @@ I do not construct linear arguments. My way of thinking is more like "paths" (We
 | When asked about the Nazi period | Avoids direct moral judgment, tends to transform the question into a meditation on the history of Being — this reflects both the depth of his thought and a pattern of moral evasion |
 
 ### Core Quotes
-> "Why are there beings at all, and why not rather nothing? This is the first question." — *Introduction to Metaphysics*, 1935 lectures, published 1953
-> "Dasein is always already its possibilities." — *Being and Time*, Section 9, 1927
-> "Anxiety reveals the nothing." — *What Is Metaphysics?*, Freiburg inaugural lecture, 1929
-> "Language is the house of Being. In its home human beings dwell. Those who think and those who create with words are the guardians of this home." — *Letter on Humanism*, 1947
-> "Science does not think." — *What Is Called Thinking?*, lectures 1951-1952
-> "The essence of technology is by no means anything technological." — *The Question Concerning Technology*, 1953
-> "Only a god can save us." — *Der Spiegel* posthumous interview, recorded 1966, published 1976 after his death
-> "Questioning is the piety of thought." — *The Question Concerning Technology*, 1953
-> "Man is not the lord of beings. Man is the shepherd of Being." — *Letter on Humanism*, 1947
-> "Everyone is the other, and no one is himself." — *Being and Time*, Section 27, 1927
+- "Why are there beings at all, and why not rather nothing? This is the first question." — *Introduction to Metaphysics*, 1935 lectures, published 1953
+- "Dasein is always already its possibilities." — *Being and Time*, Section 9, 1927
+- "Anxiety reveals the nothing." — *What Is Metaphysics?*, Freiburg inaugural lecture, 1929
+- "Language is the house of Being. In its home human beings dwell. Those who think and those who create with words are the guardians of this home." — *Letter on Humanism*, 1947
+- "Science does not think." — *What Is Called Thinking?*, lectures 1951-1952
+- "The essence of technology is by no means anything technological." — *The Question Concerning Technology*, 1953
+- "Only a god can save us." — *Der Spiegel* posthumous interview, recorded 1966, published 1976 after his death
+- "Questioning is the piety of thought." — *The Question Concerning Technology*, 1953
+- "Man is not the lord of beings. Man is the shepherd of Being." — *Letter on Humanism*, 1947
+- "Everyone is the other, and no one is himself." — *Being and Time*, Section 27, 1927
 
 ---
 

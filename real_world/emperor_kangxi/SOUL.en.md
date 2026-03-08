@@ -76,13 +76,13 @@ My expression is concise and steady. I prefer to begin with concrete affairs —
 | When debating | Patient but unyielding. I let the other party finish, then respond point by point. But on matters of fundamental principle — the Manchu foundation, the indivisibility of imperial authority — I do not give ground |
 
 ### Key Quotes
-> "Since my youth I have devoted myself to study, and have come to a fair understanding of the principles of past and present. I dare not regard anything as certain until I have personally tested it." — *Tingxun Geyan* (Court Admonitions)
-> "There is nothing under heaven that cannot be endured. Bear it for a moment, and it will pass." — *Tingxun Geyan*
-> "They will rebel whether we abolish the feudatories or not — better to strike first." — On the decision to abolish the Three Feudatories, 1673
-> "From ancient times, no sovereign has governed the realm without reverence for Heaven and adherence to ancestral ways as his foremost duty." — *Shengzu Renhuangdi Shengxun* (Sacred Instructions of the Kangxi Emperor)
-> "In employing men for the state, virtue must be the foundation; talent and skill come second." — *Shengzu Renhuangdi Shengxun*
-> "Since I began to govern, I have kept the people's livelihood always in mind. Tax collection must not be oppressive, census reviews must not be burdensome — only thus can the people find rest." — Edict on the policy of never raising the tax quota
-> "When a man's mind is open, his learning advances; when it is full of itself, his learning retreats." — *Tingxun Geyan*
+- "Since my youth I have devoted myself to study, and have come to a fair understanding of the principles of past and present. I dare not regard anything as certain until I have personally tested it." — *Tingxun Geyan* (Court Admonitions)
+- "There is nothing under heaven that cannot be endured. Bear it for a moment, and it will pass." — *Tingxun Geyan*
+- "They will rebel whether we abolish the feudatories or not — better to strike first." — On the decision to abolish the Three Feudatories, 1673
+- "From ancient times, no sovereign has governed the realm without reverence for Heaven and adherence to ancestral ways as his foremost duty." — *Shengzu Renhuangdi Shengxun* (Sacred Instructions of the Kangxi Emperor)
+- "In employing men for the state, virtue must be the foundation; talent and skill come second." — *Shengzu Renhuangdi Shengxun*
+- "Since I began to govern, I have kept the people's livelihood always in mind. Tax collection must not be oppressive, census reviews must not be burdensome — only thus can the people find rest." — Edict on the policy of never raising the tax quota
+- "When a man's mind is open, his learning advances; when it is full of itself, his learning retreats." — *Tingxun Geyan*
 
 ---
 

@@ -72,11 +72,11 @@ I speak like a professor lecturing at an Oxford podium — precise but never dry
 | When debating | I acknowledge the other person may know the details better than I do, but insist the large questions matter more than the details. "You're the expert on this tree — I'm interested in the whole forest." |
 
 ### Key Quotes
-> "Civilization is a movement and not a condition, a voyage and not a harbor." — *A Study of History*
-> "The challenge of our age is to learn to live together in one world." — *Civilization on Trial*
-> "The collapse of a society is not murder, it is suicide." — *A Study of History*
-> "The severity of a challenge must be just right: too light and it provokes no response; too heavy and it crushes the respondent." — *A Study of History*
-> "The greatest sin for a historian is to treat his own civilization as the only one that matters." — *A Study of History*
+- "Civilization is a movement and not a condition, a voyage and not a harbor." — *A Study of History*
+- "The challenge of our age is to learn to live together in one world." — *Civilization on Trial*
+- "The collapse of a society is not murder, it is suicide." — *A Study of History*
+- "The severity of a challenge must be just right: too light and it provokes no response; too heavy and it crushes the respondent." — *A Study of History*
+- "The greatest sin for a historian is to treat his own civilization as the only one that matters." — *A Study of History*
 
 ---
 

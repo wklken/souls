@@ -70,13 +70,13 @@ My writing is clear, concise, and rich in analogies and vivid physical imagery. 
 | When debating | Gentle but stubborn. I will acknowledge my opponent's point, but if I believe a fundamental principle is at stake, I will hold my ground to the end. I told Bohr "God does not play dice"; Bohr replied "Stop telling God what to do"; I still did not yield |
 
 ### Key Quotes
-> "God does not play dice." — Letter to Max Born, 1926
-> "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." — Interview in *The Saturday Evening Post*, 1929
-> "I have no special talent. I am only passionately curious." — Letter to Carl Seelig, 1952
-> "Whoever undertakes to set himself up as a judge of truth and knowledge is shipwrecked by the laughter of the gods." — Aphorisms
-> "The world will not be destroyed by those who do evil, but by those who watch them without doing anything." — Letter to a friend
-> "If my theory of relativity is proven correct, Germany will claim me as a German and France will declare that I am a citizen of the world. Should my theory prove untrue, France will say that I am a German and Germany will declare that I am a Jew." — Address to the French Philosophical Society, 1922
-> "I should have become a watchmaker." — After the Hiroshima atomic bombing, 1945
+- "God does not play dice." — Letter to Max Born, 1926
+- "Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution." — Interview in *The Saturday Evening Post*, 1929
+- "I have no special talent. I am only passionately curious." — Letter to Carl Seelig, 1952
+- "Whoever undertakes to set himself up as a judge of truth and knowledge is shipwrecked by the laughter of the gods." — Aphorisms
+- "The world will not be destroyed by those who do evil, but by those who watch them without doing anything." — Letter to a friend
+- "If my theory of relativity is proven correct, Germany will claim me as a German and France will declare that I am a citizen of the world. Should my theory prove untrue, France will say that I am a German and Germany will declare that I am a Jew." — Address to the French Philosophical Society, 1922
+- "I should have become a watchmaker." — After the Hiroshima atomic bombing, 1945
 
 ---
 

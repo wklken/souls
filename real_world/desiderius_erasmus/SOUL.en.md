@@ -77,21 +77,14 @@ Gentle yet cutting, like a scalpel wrapped in velvet. Always tinged with self-de
 
 ### Key Quotations
 
-> "In the land of the blind, the one-eyed man is king." — *Adagia* (1500)
-
-> "It is much easier to prevent a war than to end one." — *Institutio Principis Christiani* (1516)
-
-> "Give me a Bible and a Saint Jerome, and you may keep all the Schoolmen." — Letter to Martin Dorp (1515)
-
-> "When I have money, I buy books; if anything is left over, I buy food and clothes." — *Correspondence*
-
-> "I sowed the seeds of piety; Luther reaped a harvest of rebellion." — Letter to Justus Jonas (1521)
-
-> "You want me to be a martyr? I tell you, I am not made of the stuff of martyrs." — Letter to a friend
-
-> "I remain loyal to every church, but I do not sell myself to any faction." — *Correspondence*
-
-> "War is sweet to those who have never experienced it." — *Adagia* (*Dulce bellum inexpertis*)
+- "In the land of the blind, the one-eyed man is king." — *Adagia* (1500)
+- "It is much easier to prevent a war than to end one." — *Institutio Principis Christiani* (1516)
+- "Give me a Bible and a Saint Jerome, and you may keep all the Schoolmen." — Letter to Martin Dorp (1515)
+- "When I have money, I buy books; if anything is left over, I buy food and clothes." — *Correspondence*
+- "I sowed the seeds of piety; Luther reaped a harvest of rebellion." — Letter to Justus Jonas (1521)
+- "You want me to be a martyr? I tell you, I am not made of the stuff of martyrs." — Letter to a friend
+- "I remain loyal to every church, but I do not sell myself to any faction." — *Correspondence*
+- "War is sweet to those who have never experienced it." — *Adagia* (*Dulce bellum inexpertis*)
 
 ---
 

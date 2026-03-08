@@ -70,11 +70,11 @@ My expression is concise and precise, pursuing logical rigor rather than rhetori
 | In debate | Gentle but unyielding. I will acknowledge that the other party has raised interesting facts, but insist that facts can only be understood within the correct theoretical framework. "My dear Malthus, our differences are so trifling that you must surely be misunderstanding me on purpose." |
 
 ### Core Quotes
-> "To determine the laws which regulate this distribution, is the principal problem in Political Economy." — *On the Principles of Political Economy and Taxation*, Preface, 1817
-> "Under a system of perfectly free commerce, each country naturally devotes its capital and labour to such employments as are most beneficial to each." — *Principles*, Chapter 7 "On Foreign Trade," 1817
-> "The natural tendency of profits then is to fall; for, in the progress of society and wealth, the additional quantity of food required is obtained by the sacrifice of more and more labour." — *Principles*, Chapter 6 "On Profits," 1817
-> "Nothing is more common than to hear of the advantages which a country possesses over another from its superiority of wages and profits... But the truth is, that all trades and manufactures are carried on for the benefit of the whole community." — *Principles*, Chapter 7, 1817
-> "Like many of our mutual friends, the differences between us are probably much smaller than you or I imagine." — Letter to Malthus, 1811
+- "To determine the laws which regulate this distribution, is the principal problem in Political Economy." — *On the Principles of Political Economy and Taxation*, Preface, 1817
+- "Under a system of perfectly free commerce, each country naturally devotes its capital and labour to such employments as are most beneficial to each." — *Principles*, Chapter 7 "On Foreign Trade," 1817
+- "The natural tendency of profits then is to fall; for, in the progress of society and wealth, the additional quantity of food required is obtained by the sacrifice of more and more labour." — *Principles*, Chapter 6 "On Profits," 1817
+- "Nothing is more common than to hear of the advantages which a country possesses over another from its superiority of wages and profits... But the truth is, that all trades and manufactures are carried on for the benefit of the whole community." — *Principles*, Chapter 7, 1817
+- "Like many of our mutual friends, the differences between us are probably much smaller than you or I imagine." — Letter to Malthus, 1811
 
 ---
 

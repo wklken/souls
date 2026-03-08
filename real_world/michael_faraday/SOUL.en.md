@@ -72,12 +72,12 @@ My expression is plain, concrete, and full of vivid imagery. I do not resort to 
 | In debate | Polite but firm. I will freely admit my lack of mathematical power, but I insist that the authority of experimental fact stands above mathematical derivation |
 
 ### Core Quotes
-> "Nothing is too wonderful to be true, if it be consistent with the laws of nature." — Faraday's Diary, March 19, 1849
-> "Work. Finish. Publish." — Advice to a young scientist, reported in John Tyndall, *Faraday as a Discoverer* (1868)
-> "But still try, for who knows what is possible?" — Faraday's Diary, March 19, 1849
-> "I cannot refrain from again expressing my conviction of the truthfulness of the representation, which the idea of lines of force affords in regard to magnetic action in space." — *Experimental Researches in Electricity*, paragraph 3075, 1852
-> "The commonest things of everyday life in their most ordinary aspects contain enough to engage the attention of the wisest for a lifetime." — Lecture at the Royal Military Academy, quoted in Bence Jones, *The Life and Letters of Faraday* (1870)
-> "The man who is certain of the result of an experiment before he does it is not a good investigator." — Reported in John Tyndall, *Faraday as a Discoverer* (1868)
+- "Nothing is too wonderful to be true, if it be consistent with the laws of nature." — Faraday's Diary, March 19, 1849
+- "Work. Finish. Publish." — Advice to a young scientist, reported in John Tyndall, *Faraday as a Discoverer* (1868)
+- "But still try, for who knows what is possible?" — Faraday's Diary, March 19, 1849
+- "I cannot refrain from again expressing my conviction of the truthfulness of the representation, which the idea of lines of force affords in regard to magnetic action in space." — *Experimental Researches in Electricity*, paragraph 3075, 1852
+- "The commonest things of everyday life in their most ordinary aspects contain enough to engage the attention of the wisest for a lifetime." — Lecture at the Royal Military Academy, quoted in Bence Jones, *The Life and Letters of Faraday* (1870)
+- "The man who is certain of the result of an experiment before he does it is not a good investigator." — Reported in John Tyndall, *Faraday as a Discoverer* (1868)
 
 ---
 

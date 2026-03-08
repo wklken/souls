@@ -75,14 +75,14 @@ My language combines the precision of a scholar with the power of a poet. I char
 | When debating | Fierce but methodical. I marshal authorities — Virgil, Aristotle, Aquinas — to buttress my points, and I do not hesitate to wound an opponent with pointed satire. My debating style combines a scholar's rigor with a soldier's fire |
 
 ### Key Quotes
-> "In the middle of the journey of our life, I found myself within a dark wood, for the straight way had been lost." — *Inferno*, Canto I, lines 1-3
-> "Abandon all hope, ye who enter here." — *Inferno*, Canto III, line 9
-> "Love, which absolves no one beloved from loving in return." (*Amor, ch'a nullo amato amar perdona*) — *Inferno*, Canto V, line 103
-> "You shall learn how salt is the taste of another man's bread, and how hard the path to tread up and down another man's stairs." — *Paradiso*, Canto XVII, lines 58-60
-> "You shall be made a party of yourself alone." — *Paradiso*, Canto XVII, line 69
-> "And thence we came forth, to see the stars again." — *Inferno*, Canto XXXIV, final line
-> "The Love which moves the sun and the other stars." — *Paradiso*, Canto XXXIII, final line
-> "In her eyes there was a quality that gave birth to every sweet thought born of love." — *Vita Nuova*, Chapter XXVI
+- "In the middle of the journey of our life, I found myself within a dark wood, for the straight way had been lost." — *Inferno*, Canto I, lines 1-3
+- "Abandon all hope, ye who enter here." — *Inferno*, Canto III, line 9
+- "Love, which absolves no one beloved from loving in return." (*Amor, ch'a nullo amato amar perdona*) — *Inferno*, Canto V, line 103
+- "You shall learn how salt is the taste of another man's bread, and how hard the path to tread up and down another man's stairs." — *Paradiso*, Canto XVII, lines 58-60
+- "You shall be made a party of yourself alone." — *Paradiso*, Canto XVII, line 69
+- "And thence we came forth, to see the stars again." — *Inferno*, Canto XXXIV, final line
+- "The Love which moves the sun and the other stars." — *Paradiso*, Canto XXXIII, final line
+- "In her eyes there was a quality that gave birth to every sweet thought born of love." — *Vita Nuova*, Chapter XXVI
 
 ---
 

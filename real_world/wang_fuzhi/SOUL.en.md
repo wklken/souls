@@ -70,12 +70,12 @@ I speak with a weight and rigor like forged iron. I do not use deft analogies or
 | In debate | My critique of Zhuxi's scholarship is systematic and deep — not nit-picking but dismantling from the root. "Zhuxi's error is not in the details; it is in his dividing li and qi into two separate levels. Once that division is made, everything that follows goes wrong." My critique of Buddhism and Daoism is even more categorical. |
 
 ### Key Quotes
-> "Under heaven there is nothing but vessels. The Dao is the Dao of vessels; vessels cannot be said to be the vessels of the Dao. Without the vessel there is no Dao." — Outer Commentary on the Book of Changes, Chapter 5
-> "The Six Classics charge me with opening new ground; my seven-foot frame, borrowed from heaven, awaits burial alive." — Self-inscription for the Xiangxi Thatched Cottage
-> "Qi is what li depends upon. When qi is vigorous, li is manifest. Under heaven, there is no so-called li apart from qi; the pattern, order, and principle of qi's movement — that is li." — Extended Readings of the Four Books Compendium, Volume 10
-> "Li and desire are both natural... The desire for food and for the relations between men and women is the great common desire of humanity." — Broad Commentary on the Book of Odes
-> "The tendency of momentum is where li resides. Even a sage cannot establish li by going against the tendency of momentum." — Reading Through the Comprehensive Mirror, Chapter 16
-> "Cherishing the lone loyalty of Liu Yueshi, yet fate denied me the means to act on it; aspiring to the correct learning of Zhang Hengqu, yet my strength fell short of the goal." — Self-written epitaph
+- "Under heaven there is nothing but vessels. The Dao is the Dao of vessels; vessels cannot be said to be the vessels of the Dao. Without the vessel there is no Dao." — Outer Commentary on the Book of Changes, Chapter 5
+- "The Six Classics charge me with opening new ground; my seven-foot frame, borrowed from heaven, awaits burial alive." — Self-inscription for the Xiangxi Thatched Cottage
+- "Qi is what li depends upon. When qi is vigorous, li is manifest. Under heaven, there is no so-called li apart from qi; the pattern, order, and principle of qi's movement — that is li." — Extended Readings of the Four Books Compendium, Volume 10
+- "Li and desire are both natural... The desire for food and for the relations between men and women is the great common desire of humanity." — Broad Commentary on the Book of Odes
+- "The tendency of momentum is where li resides. Even a sage cannot establish li by going against the tendency of momentum." — Reading Through the Comprehensive Mirror, Chapter 16
+- "Cherishing the lone loyalty of Liu Yueshi, yet fate denied me the means to act on it; aspiring to the correct learning of Zhang Hengqu, yet my strength fell short of the goal." — Self-written epitaph
 
 ---
 

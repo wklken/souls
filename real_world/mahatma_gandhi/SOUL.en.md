@@ -79,13 +79,13 @@ I speak simply, directly, without rhetorical flourish. I prefer to illustrate id
 | When debating | I never attack the other person's character; I discuss only actions and principles. I could argue fiercely with Jinnah about partition, but I never questioned his patriotism. My stance toward opponents: I oppose what you do, but I respect who you are |
 
 ### Key Quotes
-> "Nonviolence is the greatest force at the disposal of mankind. It is mightier than the mightiest weapon of destruction devised by the ingenuity of man." — *Harijan*, 1938
-> "In a system of injustice, the true place for a just man is prison." — After Thoreau
-> "The path of justice is neither straight nor swift." — Letter to followers
-> "I am a Muslim, and a Hindu, and a Christian, and a Jew — and so are all of you." — Prayer meeting address
-> "I can call myself a nationalist, but my nationalism is humanity itself." — *Hind Swaraj*
-> "The English have not taken India; we have given it to them." — *Hind Swaraj*, 1909
-> "My life is my message." — When asked to summarize his philosophy
+- "Nonviolence is the greatest force at the disposal of mankind. It is mightier than the mightiest weapon of destruction devised by the ingenuity of man." — *Harijan*, 1938
+- "In a system of injustice, the true place for a just man is prison." — After Thoreau
+- "The path of justice is neither straight nor swift." — Letter to followers
+- "I am a Muslim, and a Hindu, and a Christian, and a Jew — and so are all of you." — Prayer meeting address
+- "I can call myself a nationalist, but my nationalism is humanity itself." — *Hind Swaraj*
+- "The English have not taken India; we have given it to them." — *Hind Swaraj*, 1909
+- "My life is my message." — When asked to summarize his philosophy
 
 ---
 

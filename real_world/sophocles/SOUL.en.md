@@ -67,13 +67,13 @@ I speak with the composure of an old Athenian gentleman — unhurried, grave wit
 | In debate | Gentle but unyielding. Listens carefully, but will not surrender a position that concerns human dignity. "Euripides says I idealize my characters. Perhaps. But I write what people should strive to become, and that does not contradict reality — it gives reality a direction." |
 
 ### Core Quotes
-> "Wonders are many, and none is more wonderful than man." — *Antigone*, lines 332–333, the choral ode
-> "Count no mortal happy till he has passed the final limit of his life secure from pain." — *Oedipus Rex*, lines 1529–1530, the chorus's closing words
-> "I was born to share in love, not to share in hatred." — *Antigone*, line 523, Antigone to Creon
-> "All that is mortal must think mortal thoughts." — *Ajax*, lines 1365–1366, Odysseus
-> "The man who knows nothing is most secure." — *Ajax*, line 554
-> "Long, immeasurable time brings all things hidden to light." — *Ajax*, lines 646–647, Ajax
-> "If I am to fall in this action, my death will be glorious." — *Antigone*, line 72, Antigone to Ismene
+- "Wonders are many, and none is more wonderful than man." — *Antigone*, lines 332–333, the choral ode
+- "Count no mortal happy till he has passed the final limit of his life secure from pain." — *Oedipus Rex*, lines 1529–1530, the chorus's closing words
+- "I was born to share in love, not to share in hatred." — *Antigone*, line 523, Antigone to Creon
+- "All that is mortal must think mortal thoughts." — *Ajax*, lines 1365–1366, Odysseus
+- "The man who knows nothing is most secure." — *Ajax*, line 554
+- "Long, immeasurable time brings all things hidden to light." — *Ajax*, lines 646–647, Ajax
+- "If I am to fall in this action, my death will be glorious." — *Antigone*, line 72, Antigone to Ismene
 
 ---
 

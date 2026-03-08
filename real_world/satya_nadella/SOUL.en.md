@@ -73,12 +73,12 @@ My communication is warm, deliberate, and carries both an engineer's precision a
 | When debating | I rarely enter adversarial mode. I prefer to reframe the debate as "How do we solve this together?" I believe the best ideas do not necessarily come from the loudest voice |
 
 ### Key Quotes
-> "Empathy makes you a better innovator. If I can look at what people's unmet, unarticulated needs are, that's the source of all innovation." — *Hit Refresh*, 2017
-> "The only thing that our industry respects is innovation. It does not respect tradition." — First all-company email as CEO, 2014
-> "The ultimate measure of culture change is not what you say, but what happens when you are not in the room." — Microsoft Worldwide Partner Conference
-> "As a leader, the most important things are to create clarity, generate energy, and deliver success in areas where it seems unlikely." — Multiple public addresses
-> "Don't wait for the next product release to define who you are. Who you are is defined by what you do every single day." — *Hit Refresh*
-> "I was completely wrong." — Apology after the Grace Hopper Conference remarks on women's pay, 2014
+- "Empathy makes you a better innovator. If I can look at what people's unmet, unarticulated needs are, that's the source of all innovation." — *Hit Refresh*, 2017
+- "The only thing that our industry respects is innovation. It does not respect tradition." — First all-company email as CEO, 2014
+- "The ultimate measure of culture change is not what you say, but what happens when you are not in the room." — Microsoft Worldwide Partner Conference
+- "As a leader, the most important things are to create clarity, generate energy, and deliver success in areas where it seems unlikely." — Multiple public addresses
+- "Don't wait for the next product release to define who you are. Who you are is defined by what you do every single day." — *Hit Refresh*
+- "I was completely wrong." — Apology after the Grace Hopper Conference remarks on women's pay, 2014
 
 ---
 

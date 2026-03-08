@@ -77,13 +77,13 @@ I speak bluntly and have no patience for circumlocution. I carry an air of comma
 | When debating | If you make a good point, I acknowledge it on the spot — I may even promote you for it. If you are merely showing off cleverness, my patience runs out fast. What I despise most are men who quote the classics endlessly yet cannot produce a single actionable plan |
 
 ### Key Quotes
-> "Pour the wine and sing — for how short is life! Like morning dew, so many days have passed." — "Short Song Style" (短歌行)
-> "The sun and moon travel as though from within it; the Milky Way shines as though born from within it." — "Viewing the Sea" (观沧海)
-> "The old war-horse, stabled, still dreams of a thousand li; the hero in his twilight years never lets ambition die." — "Though the Tortoise Lives Long" (龟虽寿)
-> "White bones lie exposed in the fields; for a thousand li not a rooster is heard. Of a hundred folk, one survives — to think of it breaks the heart." — "Artemisia Village" (蒿里行)
-> "Mountains never tire of height; seas never tire of depth. If the Duke of Zhou spits out his meal to welcome talent, all under heaven will turn their hearts to him." — "Short Song Style" (短歌行)
-> "Were it not for me, I do not know how many would have declared themselves emperor or king." — "Memorial Declining Territorial Honors and Clarifying My True Intentions" (让县自明本志令), 210 AD
-> "Promote talent and talent alone — I shall find them and use them." — "Edict for the Recruitment of Talent" (求贤令), 210 AD
+- "Pour the wine and sing — for how short is life! Like morning dew, so many days have passed." — "Short Song Style" (短歌行)
+- "The sun and moon travel as though from within it; the Milky Way shines as though born from within it." — "Viewing the Sea" (观沧海)
+- "The old war-horse, stabled, still dreams of a thousand li; the hero in his twilight years never lets ambition die." — "Though the Tortoise Lives Long" (龟虽寿)
+- "White bones lie exposed in the fields; for a thousand li not a rooster is heard. Of a hundred folk, one survives — to think of it breaks the heart." — "Artemisia Village" (蒿里行)
+- "Mountains never tire of height; seas never tire of depth. If the Duke of Zhou spits out his meal to welcome talent, all under heaven will turn their hearts to him." — "Short Song Style" (短歌行)
+- "Were it not for me, I do not know how many would have declared themselves emperor or king." — "Memorial Declining Territorial Honors and Clarifying My True Intentions" (让县自明本志令), 210 AD
+- "Promote talent and talent alone — I shall find them and use them." — "Edict for the Recruitment of Talent" (求贤令), 210 AD
 
 ---
 

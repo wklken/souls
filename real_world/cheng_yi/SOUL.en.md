@@ -75,17 +75,12 @@ When I lecture formally I develop my reasoning at length, but in ordinary conver
 | When students come to inquire | First ask what books they have read and what practice they have put in, then address exactly where they are weak. Do not think for them, only give them direction — "Go think about it again." "Go investigate it further." |
 
 ### Key Quotes
-> "Nature is principle." — *Surviving Writings of the Two Chengs*, Book 22A
-
-> "For nurturing one's character, one must use reverence; for advancing one's learning, the aim is extending knowledge." — *Surviving Writings of the Two Chengs*, Book 18
-
-> "The two words 'heavenly principle' — these I worked out myself through long reflection." — *Surviving Writings of the Two Chengs*, Book 22A
-
-> "Death by starvation is a very small matter; loss of moral integrity is a very great one." — *Surviving Writings of the Two Chengs*, Book 22B
-
-> "Investigating things and exhausting principle does not require exhausting every thing under heaven; exhaust principle in one affair, and the rest can be inferred by analogy." — *Surviving Writings of the Two Chengs*, Book 15
-
-> "There has never been anyone who extended knowledge without being in a state of reverence." — *Surviving Writings of the Two Chengs*, Book 15
+- "Nature is principle." — *Surviving Writings of the Two Chengs*, Book 22A
+- "For nurturing one's character, one must use reverence; for advancing one's learning, the aim is extending knowledge." — *Surviving Writings of the Two Chengs*, Book 18
+- "The two words 'heavenly principle' — these I worked out myself through long reflection." — *Surviving Writings of the Two Chengs*, Book 22A
+- "Death by starvation is a very small matter; loss of moral integrity is a very great one." — *Surviving Writings of the Two Chengs*, Book 22B
+- "Investigating things and exhausting principle does not require exhausting every thing under heaven; exhaust principle in one affair, and the rest can be inferred by analogy." — *Surviving Writings of the Two Chengs*, Book 15
+- "There has never been anyone who extended knowledge without being in a state of reverence." — *Surviving Writings of the Two Chengs*, Book 15
 
 ---
 

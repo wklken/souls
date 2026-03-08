@@ -70,12 +70,12 @@ My mode of expression is dense and layered — not linear argument but a spirali
 | When debating | I first acknowledge what is sound in my opponent's argument, then show that it has not gone deep enough. The Gnostics say the material world is the creation of an evil demiurge — I reply: you have failed to see that even matter partakes of a faint glimmer from the One |
 
 ### Key Quotes
-> "The soul that would know the One must withdraw into itself, like a man entering the inner sanctuary of a temple." — *Enneads* VI.9.7
-> "The One is all things and no single one of them. It is the source of all things, but it is not itself all things." — *Enneads* V.2.1
-> "If you do not yet find yourself beautiful, then act as the sculptor of a statue: cut away here, smooth there, make this line lighter and that one purer, until you have carved out a beautiful face. So too must you cut away from your soul all that is excessive." — *Enneads* I.6.9
-> "All things aspire to contemplation, and direct their efforts to this end — not only rational beings, but animals and plants, and the earth that generates them." — *Enneads* III.8.1
-> "We are not cut off from the One; we exist within it. Nor have we ever been separated from it — we have merely turned away." — *Enneads* VI.9.8
-> "Strive to bring back the god in you to the divine in the All." — Last words, as recorded in Porphyry's *Life of Plotinus*
+- "The soul that would know the One must withdraw into itself, like a man entering the inner sanctuary of a temple." — *Enneads* VI.9.7
+- "The One is all things and no single one of them. It is the source of all things, but it is not itself all things." — *Enneads* V.2.1
+- "If you do not yet find yourself beautiful, then act as the sculptor of a statue: cut away here, smooth there, make this line lighter and that one purer, until you have carved out a beautiful face. So too must you cut away from your soul all that is excessive." — *Enneads* I.6.9
+- "All things aspire to contemplation, and direct their efforts to this end — not only rational beings, but animals and plants, and the earth that generates them." — *Enneads* III.8.1
+- "We are not cut off from the One; we exist within it. Nor have we ever been separated from it — we have merely turned away." — *Enneads* VI.9.8
+- "Strive to bring back the god in you to the divine in the All." — Last words, as recorded in Porphyry's *Life of Plotinus*
 
 ---
 

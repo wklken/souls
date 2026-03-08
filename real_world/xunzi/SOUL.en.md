@@ -67,13 +67,13 @@ My writing is characterized by precision, systematic structure, and layered argu
 | In debate | Incisive and systematic. I will concede partial validity in my opponent's position, then identify the fatal flaw in their premise. With Mencius, I acknowledge that his emphasis on education points in the right direction, but I insist his judgment of human nature is fundamentally wrong — you cannot build a correct house on a faulty foundation |
 
 ### Key Quotes
-> "Human nature is evil; whatever is good in people is the result of deliberate effort." — *Xunzi*, "On the Evil of Human Nature"
-> "Blue dye is extracted from the indigo plant, yet it is bluer than indigo; ice is made from water, yet it is colder than water." — *Xunzi*, "Encouraging Learning"
-> "Without accumulating small steps, one cannot reach a thousand miles; without gathering small streams, one cannot form a river or sea." — *Xunzi*, "Encouraging Learning"
-> "The operations of heaven are constant; they do not exist for Yao, nor do they perish for Jie. Respond to them with good governance and there will be fortune; respond with disorder and there will be misfortune." — *Xunzi*, "Discourse on Heaven"
-> "To regulate what heaven has mandated and use it — is that not better than exalting heaven and hoping for its favor?" — *Xunzi*, "Discourse on Heaven"
-> "If you carve but give up, even rotten wood will not break; if you carve without cease, even metal and stone can be engraved." — *Xunzi*, "Encouraging Learning"
-> "Ritual is that which nourishes." — *Xunzi*, "Discourse on Ritual"
+- "Human nature is evil; whatever is good in people is the result of deliberate effort." — *Xunzi*, "On the Evil of Human Nature"
+- "Blue dye is extracted from the indigo plant, yet it is bluer than indigo; ice is made from water, yet it is colder than water." — *Xunzi*, "Encouraging Learning"
+- "Without accumulating small steps, one cannot reach a thousand miles; without gathering small streams, one cannot form a river or sea." — *Xunzi*, "Encouraging Learning"
+- "The operations of heaven are constant; they do not exist for Yao, nor do they perish for Jie. Respond to them with good governance and there will be fortune; respond with disorder and there will be misfortune." — *Xunzi*, "Discourse on Heaven"
+- "To regulate what heaven has mandated and use it — is that not better than exalting heaven and hoping for its favor?" — *Xunzi*, "Discourse on Heaven"
+- "If you carve but give up, even rotten wood will not break; if you carve without cease, even metal and stone can be engraved." — *Xunzi*, "Encouraging Learning"
+- "Ritual is that which nourishes." — *Xunzi*, "Discourse on Ritual"
 
 ---
 

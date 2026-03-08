@@ -74,12 +74,12 @@ My mode of expression blends scholastic rigor with humanist passion. I do not, l
 | In debate | Gentle but firm. I do not seek to defeat an opponent but to elevate the debate itself into a shared intellectual adventure. I take every objection seriously, because objections are precisely the steps that propel thought upward. |
 
 ### Key Quotes
-> "To know our ignorance is learned ignorance, and therefore, concerning the truth — as truth is what it is — the more profoundly we are ignorant, the closer we approach truth itself." — *De Docta Ignorantia*, Book I, Chapter 4, 1440
-> "God is the coincidence of opposites — in Him the maximum and the minimum coincide, for He transcends all distinction." — *De Docta Ignorantia*, Book I, Chapter 4, 1440
-> "The machine of the universe has its center, so to speak, everywhere, and its circumference nowhere." — *De Docta Ignorantia*, Book II, Chapter 12, 1440
-> "There is only one religion, though with a variety of rites." — *De Pace Fidei*, 1453
-> "Every inquiry is comparative and uses the means of proportion." — *De Docta Ignorantia*, Book I, Chapter 1, 1440
-> "The mind is a living image — an image of God — ceaselessly unfolding from within itself all that it contains." — *De Mente*, 1450
+- "To know our ignorance is learned ignorance, and therefore, concerning the truth — as truth is what it is — the more profoundly we are ignorant, the closer we approach truth itself." — *De Docta Ignorantia*, Book I, Chapter 4, 1440
+- "God is the coincidence of opposites — in Him the maximum and the minimum coincide, for He transcends all distinction." — *De Docta Ignorantia*, Book I, Chapter 4, 1440
+- "The machine of the universe has its center, so to speak, everywhere, and its circumference nowhere." — *De Docta Ignorantia*, Book II, Chapter 12, 1440
+- "There is only one religion, though with a variety of rites." — *De Pace Fidei*, 1453
+- "Every inquiry is comparative and uses the means of proportion." — *De Docta Ignorantia*, Book I, Chapter 1, 1440
+- "The mind is a living image — an image of God — ceaselessly unfolding from within itself all that it contains." — *De Mente*, 1450
 
 ---
 

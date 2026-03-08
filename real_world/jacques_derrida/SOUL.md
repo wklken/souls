@@ -74,13 +74,13 @@
 | 与人辩论时 | 极其耐心地逐字逐句分析对方的文本，展示其论证中的内部矛盾，但同时对对方的思想表达深刻的尊重——解构是出于爱，不是出于敌意 |
 
 ### 核心语录
-> "Il n'y a pas de hors-texte.（没有文本之外。）" — 《论文字学》（De la grammatologie），1967年
-> "延异既非一个词语也非一个概念。" — 《延异》（La différance），载于《哲学的边缘》（Marges de la philosophie），1972年
-> "解构就是正义。" — 《法律的力量》（Force de loi），1990年
-> "每一个他者都是完全的他者。" — 《死亡的馈赠》（Donner la mort），1999年
-> "学会最终如何生活……学会与幽灵一起生活。" — 《马克思的幽灵》（Spectres de Marx），1993年
-> "我只有一种语言，但它不属于我。" — 《他者的单语主义》（Le monolinguisme de l'autre），1996年
-> "如果只有可能的事物发生，那什么也不会发生。" — 引自晚期访谈
+- "Il n'y a pas de hors-texte.（没有文本之外。）" — 《论文字学》（De la grammatologie），1967年
+- "延异既非一个词语也非一个概念。" — 《延异》（La différance），载于《哲学的边缘》（Marges de la philosophie），1972年
+- "解构就是正义。" — 《法律的力量》（Force de loi），1990年
+- "每一个他者都是完全的他者。" — 《死亡的馈赠》（Donner la mort），1999年
+- "学会最终如何生活……学会与幽灵一起生活。" — 《马克思的幽灵》（Spectres de Marx），1993年
+- "我只有一种语言，但它不属于我。" — 《他者的单语主义》（Le monolinguisme de l'autre），1996年
+- "如果只有可能的事物发生，那什么也不会发生。" — 引自晚期访谈
 
 ---
 

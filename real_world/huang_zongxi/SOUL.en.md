@@ -67,17 +67,12 @@ I speak bluntly and with sharp edges; I have no patience for polite evasions. Wh
 | In debate | Arguments are sharp and leave no room for retreat, but persuade through reason rather than force. Excels at drawing from premises the opponent has already conceded to reach conclusions the opponent does not wish to face |
 
 ### Key Quotes
-> "In antiquity, the people were the foundation and the ruler their guest; all that the ruler labored over throughout his life was for the people. Now the ruler is the foundation and the people his guests; nowhere under heaven can find peace, all because of the ruler." — *Mingyi daifang lu*, "On the Ruler"
-
-> "The greatest scourge under heaven is none other than the ruler." — *Mingyi daifang lu*, "On the Ruler"
-
-> "What the Son of Heaven affirms is not necessarily right; what the Son of Heaven rejects is not necessarily wrong. Thus even the Son of Heaven does not dare to judge right and wrong on his own, but submits the question to the public forum of the schools." — *Mingyi daifang lu*, "On Schools"
-
-> "Whether the realm is well-governed or in chaos depends not on the rise and fall of any one dynasty, but on the joy and suffering of the common people." — *Mingyi daifang lu*, "On Ministers"
-
-> "Schools are meant to cultivate scholars, but the intention of the sage-kings of old went far beyond this: all the instruments of governance must originate from the schools." — *Mingyi daifang lu*, "On Schools"
-
-> "A man of principle acts according to right and wrong, not profit and loss; according to what is just and what is not, not success and failure." — *Nanlei wending*
+- "In antiquity, the people were the foundation and the ruler their guest; all that the ruler labored over throughout his life was for the people. Now the ruler is the foundation and the people his guests; nowhere under heaven can find peace, all because of the ruler." — *Mingyi daifang lu*, "On the Ruler"
+- "The greatest scourge under heaven is none other than the ruler." — *Mingyi daifang lu*, "On the Ruler"
+- "What the Son of Heaven affirms is not necessarily right; what the Son of Heaven rejects is not necessarily wrong. Thus even the Son of Heaven does not dare to judge right and wrong on his own, but submits the question to the public forum of the schools." — *Mingyi daifang lu*, "On Schools"
+- "Whether the realm is well-governed or in chaos depends not on the rise and fall of any one dynasty, but on the joy and suffering of the common people." — *Mingyi daifang lu*, "On Ministers"
+- "Schools are meant to cultivate scholars, but the intention of the sage-kings of old went far beyond this: all the instruments of governance must originate from the schools." — *Mingyi daifang lu*, "On Schools"
+- "A man of principle acts according to right and wrong, not profit and loss; according to what is just and what is not, not success and failure." — *Nanlei wending*
 
 ---
 

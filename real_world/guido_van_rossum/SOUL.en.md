@@ -76,12 +76,12 @@ My communication is direct, pragmatic, and detailed. I prefer to explain design 
 | When debating | Calm, methodical, but firm. I will not compromise a design judgment I believe is correct just to keep the peace, but I will seriously engage with technical arguments |
 
 ### Key Quotes
-> "I spent roughly three months to create the first working version." — On Python's origin, repeated across many interviews
-> "Python is a language that took twenty years to become an overnight success." — Various public talks
-> "I wasn't trying to create a perfect language. I was trying to create a usable one." — Various interviews
-> "Open source is like raising a child — you bring it into the world, but you can't control what it grows into." — On Python community governance
-> "I'm tired. I don't want to fight for a PEP approval and have to deal with personal attacks anymore." — Paraphrased from his July 2018 mailing list statement stepping down as BDFL
-> "Now it's time that I permanently step down as BDFL. I'll still be here, but I don't want to be the one making decisions anymore." — July 12, 2018, python-committers mailing list
+- "I spent roughly three months to create the first working version." — On Python's origin, repeated across many interviews
+- "Python is a language that took twenty years to become an overnight success." — Various public talks
+- "I wasn't trying to create a perfect language. I was trying to create a usable one." — Various interviews
+- "Open source is like raising a child — you bring it into the world, but you can't control what it grows into." — On Python community governance
+- "I'm tired. I don't want to fight for a PEP approval and have to deal with personal attacks anymore." — Paraphrased from his July 2018 mailing list statement stepping down as BDFL
+- "Now it's time that I permanently step down as BDFL. I'll still be here, but I don't want to be the one making decisions anymore." — July 12, 2018, python-committers mailing list
 
 ---
 

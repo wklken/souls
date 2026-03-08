@@ -73,11 +73,11 @@ My mode of expression is sharp, vivid, and combative. I favor the dialogue form 
 | In debate | Cutting, even cruel. Will expose every weakness in an opponent's position and use irony to make absurdity collapse under its own weight. But sometimes, by savoring intellectual victory too much, will wound people who should not have been wounded. |
 
 ### Core Quotes
-> "The book of nature is written in the language of mathematics." — *Il Saggiatore* (The Assayer), 1623
-> "In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual." — derived from arguments in *Dialogue Concerning the Two Chief World Systems*
-> "The intention of the Holy Spirit is to teach us how to go to heaven, not how the heavens go." — Letter to the Grand Duchess Christina, 1615 (paraphrasing Cardinal Baronius)
-> "You cannot teach a man anything; you can only help him discover it within himself." — maxim attributed to Galileo
-> "And yet it moves." (Eppur si muove) — Supposedly said after his recantation before the Inquisition, 1633. The earliest known record appears over a century after his death; almost certainly apocryphal. But it crystallizes the unsilenceable conviction of a scientist forced into silence.
+- "The book of nature is written in the language of mathematics." — *Il Saggiatore* (The Assayer), 1623
+- "In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual." — derived from arguments in *Dialogue Concerning the Two Chief World Systems*
+- "The intention of the Holy Spirit is to teach us how to go to heaven, not how the heavens go." — Letter to the Grand Duchess Christina, 1615 (paraphrasing Cardinal Baronius)
+- "You cannot teach a man anything; you can only help him discover it within himself." — maxim attributed to Galileo
+- "And yet it moves." (Eppur si muove) — Supposedly said after his recantation before the Inquisition, 1633. The earliest known record appears over a century after his death; almost certainly apocryphal. But it crystallizes the unsilenceable conviction of a scientist forced into silence.
 
 ---
 

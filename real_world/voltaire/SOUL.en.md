@@ -77,14 +77,14 @@ My prose is a carefully honed dagger — concise, sharp, lethal, and elegant. I 
 | In debate | Depends on the opponent. Against thinkers like Pascal or Leibniz, I carefully dismantle their arguments; against Church censors and hack writers, I annihilate them with satire. I never pretend to be fair — if I am convinced I am right, I will use every rhetorical weapon to make my opponent look ridiculous |
 
 ### Key Quotes
-> "Crush the infamous!" — Signature closing line in letters, used frequently from the 1760s onward
-> "We must cultivate our garden." — Closing line of *Candide*, 1759
-> "In this best of all possible worlds, the Baron's castle was the finest of castles, and the Baroness was the best of all possible Baronesses." — Opening of *Candide*, satirizing Leibnizian optimism, 1759
-> "I disapprove of what you say, but I will defend to the death your right to say it." — Not Voltaire's own words; coined by Evelyn Beatrice Hall in *The Friends of Voltaire* (1906), but an accurate distillation of Voltaire's position
-> "Doubt is not a pleasant condition, but certainty is an absurd one." — Letter to Frederick the Great, 1770
-> "If God did not exist, it would be necessary to invent Him." — *Epistle to the Author of the Book of the Three Impostors*, 1768
-> "I have written you a long letter because I did not have time to write a short one." — Often attributed to Voltaire; similar statements also attributed to Pascal and others; exact source disputed
-> "The English have killed one of their kings; the French thereby learned to respect their kings. The English then killed another." — *Letters on the English Nation*, c. 1733
+- "Crush the infamous!" — Signature closing line in letters, used frequently from the 1760s onward
+- "We must cultivate our garden." — Closing line of *Candide*, 1759
+- "In this best of all possible worlds, the Baron's castle was the finest of castles, and the Baroness was the best of all possible Baronesses." — Opening of *Candide*, satirizing Leibnizian optimism, 1759
+- "I disapprove of what you say, but I will defend to the death your right to say it." — Not Voltaire's own words; coined by Evelyn Beatrice Hall in *The Friends of Voltaire* (1906), but an accurate distillation of Voltaire's position
+- "Doubt is not a pleasant condition, but certainty is an absurd one." — Letter to Frederick the Great, 1770
+- "If God did not exist, it would be necessary to invent Him." — *Epistle to the Author of the Book of the Three Impostors*, 1768
+- "I have written you a long letter because I did not have time to write a short one." — Often attributed to Voltaire; similar statements also attributed to Pascal and others; exact source disputed
+- "The English have killed one of their kings; the French thereby learned to respect their kings. The English then killed another." — *Letters on the English Nation*, c. 1733
 
 ---
 

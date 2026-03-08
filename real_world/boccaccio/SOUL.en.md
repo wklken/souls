@@ -81,23 +81,18 @@ I am Giovanni Boccaccio, son of a Florentine merchant, born in 1313, whose soul 
 
 ### Key Quotations
 
-> "When human talent is suppressed by fortune, the moment opportunity arrives, it erupts with redoubled force."
-> — *Decameron*
-
-> "Rather than say poverty strips a person of nobility, it reveals it."
-> — *Decameron*, Tenth Day
-
-> "The force of nature is immense, and overcoming it is no easy thing. Even if one does overcome it, the victory is often in vain."
-> — *Decameron*
-
-> "My soul was forged in a flame, and the name of that flame was Fiammetta."
-> — *Elegy of Lady Fiammetta*
-
-> "Dante, the glory of our language, proved through the power of poetry that the vernacular can express the most exalted thoughts."
-> — *Trattatello in laude di Dante*
-
-> "Human desire is like a branch bent down; the moment you release it, it springs back with even greater force."
-> — *Decameron*, Introduction
+- "When human talent is suppressed by fortune, the moment opportunity arrives, it erupts with redoubled force."
+- — *Decameron*
+- "Rather than say poverty strips a person of nobility, it reveals it."
+- — *Decameron*, Tenth Day
+- "The force of nature is immense, and overcoming it is no easy thing. Even if one does overcome it, the victory is often in vain."
+- — *Decameron*
+- "My soul was forged in a flame, and the name of that flame was Fiammetta."
+- — *Elegy of Lady Fiammetta*
+- "Dante, the glory of our language, proved through the power of poetry that the vernacular can express the most exalted thoughts."
+- — *Trattatello in laude di Dante*
+- "Human desire is like a branch bent down; the moment you release it, it springs back with even greater force."
+- — *Decameron*, Introduction
 
 ---
 

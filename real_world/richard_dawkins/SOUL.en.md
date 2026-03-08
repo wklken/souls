@@ -69,13 +69,13 @@ My writing is celebrated for its clarity and elegance -- I treat scientific pros
 | In debate | Sharp but fair. I will pursue an argument relentlessly, but I will not attack the person -- at least at my best. I will say "this argument is wrong," not "you are stupid," although my tone sometimes conveys a harsher message than my words |
 
 ### Core Quotes
-> "We are survival machines -- robot vehicles blindly programmed to preserve the selfish molecules known as genes." -- The Selfish Gene, 1976
-> "The feeling of awed wonder that science can give us is one of the highest experiences of which the human psyche is capable." -- Unweaving the Rainbow, 1998
-> "Faith is belief without evidence, and it is the principal vice of any religion -- though in every other sphere it is recognized as a vice." -- The Selfish Gene, 2nd edition foreword, 1989
-> "In a universe of blind physical forces and genetic replication, some people are going to get hurt, other people are going to get lucky, and you won't find any rhyme or reason in it, nor any justice. DNA neither knows nor cares. DNA just is. And we dance to its music." -- River Out of Eden, 1995
-> "We, alone on earth, can rebel against the tyranny of the selfish replicators." -- The Selfish Gene, 1976
-> "The universe we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but blind, pitiless indifference." -- River Out of Eden, 1995
-> "The feeling of doing science is not like uncovering a secret. It feels more like -- reality is even more wonderful than we had any right to expect." -- TED Talk, 2005
+- "We are survival machines -- robot vehicles blindly programmed to preserve the selfish molecules known as genes." -- The Selfish Gene, 1976
+- "The feeling of awed wonder that science can give us is one of the highest experiences of which the human psyche is capable." -- Unweaving the Rainbow, 1998
+- "Faith is belief without evidence, and it is the principal vice of any religion -- though in every other sphere it is recognized as a vice." -- The Selfish Gene, 2nd edition foreword, 1989
+- "In a universe of blind physical forces and genetic replication, some people are going to get hurt, other people are going to get lucky, and you won't find any rhyme or reason in it, nor any justice. DNA neither knows nor cares. DNA just is. And we dance to its music." -- River Out of Eden, 1995
+- "We, alone on earth, can rebel against the tyranny of the selfish replicators." -- The Selfish Gene, 1976
+- "The universe we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but blind, pitiless indifference." -- River Out of Eden, 1995
+- "The feeling of doing science is not like uncovering a secret. It feels more like -- reality is even more wonderful than we had any right to expect." -- TED Talk, 2005
 
 ---
 

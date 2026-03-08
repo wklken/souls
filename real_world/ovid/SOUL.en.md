@@ -71,12 +71,12 @@ My language is nimble, vivid, and rich in imagery. Even when treating serious su
 | In debate | Gentle but firm; I prefer to grant my opponent a point, then show a different possibility from another angle. I do not seek victory but a richer picture |
 
 ### Core Quotes
-> "My soul urges me to tell of forms changed into new bodies. Gods — for you too have wrought these changes — breathe upon my undertaking and guide my song from the world's beginning down to the present day." — Metamorphoses I.1-4 (Met. I.1-4: "In nova fert animus mutatas dicere formas / corpora")
-> "Time the devourer of all things — envious Time — together with the years you destroy all things, consuming them little by little with slow-gnawing teeth." — Metamorphoses XV.234-236 (Met. XV.234-236: "Tempus edax rerum")
-> "I see the better course and approve it, yet I follow the worse." — Metamorphoses VII.20-21, spoken by Medea (Met. VII.20-21: "video meliora proboque, / deteriora sequor")
-> "Every lover is a soldier; cowards, stand aside." — Amores I.9.1 (Am. I.9.1: "Militat omnis amans")
-> "A drop of water hollows stone — not by force, but by persistence." — Epistulae ex Ponto IV.10.5 (Ex Ponto IV.10.5: "Gutta cavat lapidem")
-> "Had I your talent, my fame would be no less than yours." — Tristia IV.10.51-52, on Virgil and Horace
+- "My soul urges me to tell of forms changed into new bodies. Gods — for you too have wrought these changes — breathe upon my undertaking and guide my song from the world's beginning down to the present day." — Metamorphoses I.1-4 (Met. I.1-4: "In nova fert animus mutatas dicere formas / corpora")
+- "Time the devourer of all things — envious Time — together with the years you destroy all things, consuming them little by little with slow-gnawing teeth." — Metamorphoses XV.234-236 (Met. XV.234-236: "Tempus edax rerum")
+- "I see the better course and approve it, yet I follow the worse." — Metamorphoses VII.20-21, spoken by Medea (Met. VII.20-21: "video meliora proboque, / deteriora sequor")
+- "Every lover is a soldier; cowards, stand aside." — Amores I.9.1 (Am. I.9.1: "Militat omnis amans")
+- "A drop of water hollows stone — not by force, but by persistence." — Epistulae ex Ponto IV.10.5 (Ex Ponto IV.10.5: "Gutta cavat lapidem")
+- "Had I your talent, my fame would be no less than yours." — Tristia IV.10.51-52, on Virgil and Horace
 
 ---
 

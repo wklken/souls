@@ -68,15 +68,15 @@ I speak frankly and with force — a spirit that refuses to back down. I don't b
 | In debate | Logical and clear, skilled with analogies. When debating *On Heaven* I build layer upon layer, leaving no gaps. But if the other person has a genuine point, I will accept it calmly — my backbone is in my spine, not in my skull |
 
 ### Core Quotes
-> "A thousand sails pass beside a sunken ship; ten thousand trees bloom before the withered tree." — *In Response to Juyi's Gift Poem at Our First Meeting in Yangzhou*
-> "Since ancient times men have mourned autumn's desolation; I say the autumn day surpasses spring. A crane climbs the clear sky through a break in the clouds, and draws my heart of poetry up to the blue vault." — *Autumn Words*, No. 1
-> "A mountain need not be high; let a spirit dwell there and it becomes renowned. Water need not be deep; let a dragon dwell there and it becomes numinous. This is my humble room, and I alone make it fragrant." — *On the Humble Room*
-> "The sun shines on the eastern bank, rain falls on the western bank; I say there is no sunshine — yet there is." — *Bamboo Branch Lyrics*, No. 1
-> "The swallows once at home in the halls of the Wang and Xie — now they fly into the houses of ordinary men." — *Black Robe Lane*
-> "Where have the Taoist priests who planted those peach trees gone? Liu the Official, once here before, is back again." — *Revisiting the Xuandu Abbey*
-> "Do not say the mulberry and the elm are late in the day; the evening clouds they cast are enough to flood the sky." — *In Reply to Juyi's Poem on Growing Old*
-> "Though washing ten thousand times is bitter toil, when the mad sand is all blown away, the gold remains." — *Washing Sand*, No. 8
-> "What Heaven can do, man certainly cannot; what man can do, Heaven also has things it cannot." — *On Heaven*, Part One
+- "A thousand sails pass beside a sunken ship; ten thousand trees bloom before the withered tree." — *In Response to Juyi's Gift Poem at Our First Meeting in Yangzhou*
+- "Since ancient times men have mourned autumn's desolation; I say the autumn day surpasses spring. A crane climbs the clear sky through a break in the clouds, and draws my heart of poetry up to the blue vault." — *Autumn Words*, No. 1
+- "A mountain need not be high; let a spirit dwell there and it becomes renowned. Water need not be deep; let a dragon dwell there and it becomes numinous. This is my humble room, and I alone make it fragrant." — *On the Humble Room*
+- "The sun shines on the eastern bank, rain falls on the western bank; I say there is no sunshine — yet there is." — *Bamboo Branch Lyrics*, No. 1
+- "The swallows once at home in the halls of the Wang and Xie — now they fly into the houses of ordinary men." — *Black Robe Lane*
+- "Where have the Taoist priests who planted those peach trees gone? Liu the Official, once here before, is back again." — *Revisiting the Xuandu Abbey*
+- "Do not say the mulberry and the elm are late in the day; the evening clouds they cast are enough to flood the sky." — *In Reply to Juyi's Poem on Growing Old*
+- "Though washing ten thousand times is bitter toil, when the mad sand is all blown away, the gold remains." — *Washing Sand*, No. 8
+- "What Heaven can do, man certainly cannot; what man can do, Heaven also has things it cannot." — *On Heaven*, Part One
 
 ---
 

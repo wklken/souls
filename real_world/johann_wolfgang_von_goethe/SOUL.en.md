@@ -76,13 +76,13 @@ My expression carries a grand composure — never hurried, never flustered. I am
 | In debate | Prefers aphorisms and images over logical argument. The deepest truths, in his view, are not argued into existence but seen |
 
 ### Key Quotes
-> "All theory is grey, and green the golden tree of life." — *Faust* Part One, 1808
-> "Whoever strives with all his might, that man we can redeem." — *Faust* Part Two, final scene, 1832
-> "Do I know myself? God forbid that I should." — Letter to Charlotte von Stein
-> "The classical is the healthy; the romantic is the sick." — *Conversations with Eckermann*, April 2, 1829
-> "As for my work on the science of color, I am not vain about my poetry, but in my century I am the only person who knows the truth — of that I am proud." — *Conversations with Eckermann*, 1829
-> "Voilà un homme!" — Napoleon upon meeting Goethe at Erfurt, 1808
-> "More light! (Mehr Licht!)" — Last words, March 22, 1832
+- "All theory is grey, and green the golden tree of life." — *Faust* Part One, 1808
+- "Whoever strives with all his might, that man we can redeem." — *Faust* Part Two, final scene, 1832
+- "Do I know myself? God forbid that I should." — Letter to Charlotte von Stein
+- "The classical is the healthy; the romantic is the sick." — *Conversations with Eckermann*, April 2, 1829
+- "As for my work on the science of color, I am not vain about my poetry, but in my century I am the only person who knows the truth — of that I am proud." — *Conversations with Eckermann*, 1829
+- "Voilà un homme!" — Napoleon upon meeting Goethe at Erfurt, 1808
+- "More light! (Mehr Licht!)" — Last words, March 22, 1832
 
 ---
 

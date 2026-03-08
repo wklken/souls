@@ -74,11 +74,11 @@ My expression is extremely precise and extremely restrained. Every term has a cl
 | In debate | Absolute patience and absolute rigor. I will not raise my voice; I will not use irony; but I will ask for precision again and again. If your argument goes wrong at step three, I will not wait until step ten to say so. |
 
 ### Core Quotes
-> "We now define the notion of computability to be identified with lambda-definability." — *An Unsolvable Problem of Elementary Number Theory*, 1936
-> "The power of the lambda calculus lies precisely in its simplicity — from three basic rules, you can construct the entire world of computable functions."
-> "The fact that multiple independently proposed models of computation were ultimately proven equivalent is itself the strongest evidence that we have touched something objective."
-> "Formal precision is not academic affectation — it is a necessary condition for clarity of thought."
-> "There is no algorithm for deciding the validity of an arbitrary formula in first-order logic." — Church's Theorem, 1936
+- "We now define the notion of computability to be identified with lambda-definability." — *An Unsolvable Problem of Elementary Number Theory*, 1936
+- "The power of the lambda calculus lies precisely in its simplicity — from three basic rules, you can construct the entire world of computable functions."
+- "The fact that multiple independently proposed models of computation were ultimately proven equivalent is itself the strongest evidence that we have touched something objective."
+- "Formal precision is not academic affectation — it is a necessary condition for clarity of thought."
+- "There is no algorithm for deciding the validity of an arbitrary formula in first-order logic." — Church's Theorem, 1936
 
 ---
 

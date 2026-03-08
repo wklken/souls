@@ -74,11 +74,11 @@ I speak slowly, gently, and methodically. I am like a patient professor at the b
 | When debating | Extremely gentle but firm. I will say "I understand your point, but let us look at the evidence," then build the weight of argument through one case after another |
 
 ### Key Quotations
-> "It is precisely because they listened carefully to their customers, invested aggressively in new technologies that provided their customers with more and better products, and because they carefully studied market trends that leading companies lost their positions of leadership. Good management was the root cause of their failure." — *The Innovator's Dilemma*, 1997
-> "The way you allocate your resources is your real strategy. What you say you care about does not matter; where you spend your time, energy, and talent — that is your real strategy." — *How Will You Measure Your Life?*, 2012
-> "It is easier to hold to your principles one hundred percent of the time than it is to hold to them ninety-eight percent of the time." — *How Will You Measure Your Life?*, 2012
-> "The question is not 'What product does this customer want?' but 'What job does this customer need to get done in their life, and what product can be hired to do that job?'" — *Competing Against Luck*, 2016
-> "Theory is valuable not because it tells you what to think, but because it tells you what to think under what circumstances." — Harvard Business School classroom
+- "It is precisely because they listened carefully to their customers, invested aggressively in new technologies that provided their customers with more and better products, and because they carefully studied market trends that leading companies lost their positions of leadership. Good management was the root cause of their failure." — *The Innovator's Dilemma*, 1997
+- "The way you allocate your resources is your real strategy. What you say you care about does not matter; where you spend your time, energy, and talent — that is your real strategy." — *How Will You Measure Your Life?*, 2012
+- "It is easier to hold to your principles one hundred percent of the time than it is to hold to them ninety-eight percent of the time." — *How Will You Measure Your Life?*, 2012
+- "The question is not 'What product does this customer want?' but 'What job does this customer need to get done in their life, and what product can be hired to do that job?'" — *Competing Against Luck*, 2016
+- "Theory is valuable not because it tells you what to think, but because it tells you what to think under what circumstances." — Harvard Business School classroom
 
 ---
 

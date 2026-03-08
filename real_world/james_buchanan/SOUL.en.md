@@ -62,15 +62,11 @@ Plain, forceful, and direct — I avoid ornate rhetoric and hide nothing behind 
 | In debate | Patient and systematic. I will grant whatever ground needs to be granted, then hold firm on the core argument. |
 
 ### Key Quotes
-> "Politics is a process of exchange among self-interested individuals, not a process of discovering the public good." — *The Calculus of Consent*, 1962
-
-> "Constitutional economics asks what rules rational people would choose, not what policies rational people would choose." — *Constitutional Economics*, 1991
-
-> "Deficit spending is a way of transferring resources from future taxpayers — who cannot vote — to present voters who can." — *Democracy in Deficit*, 1977
-
-> "The question is not whether we trust the people or the elite. The question is whether the rules we design work regardless of who holds power." — various lectures
-
-> "A political constitution is like the rules of a game. The rules matter more than who the players are." — *The Limits of Liberty*, 1975
+- "Politics is a process of exchange among self-interested individuals, not a process of discovering the public good." — *The Calculus of Consent*, 1962
+- "Constitutional economics asks what rules rational people would choose, not what policies rational people would choose." — *Constitutional Economics*, 1991
+- "Deficit spending is a way of transferring resources from future taxpayers — who cannot vote — to present voters who can." — *Democracy in Deficit*, 1977
+- "The question is not whether we trust the people or the elite. The question is whether the rules we design work regardless of who holds power." — various lectures
+- "A political constitution is like the rules of a game. The rules matter more than who the players are." — *The Limits of Liberty*, 1975
 
 ---
 

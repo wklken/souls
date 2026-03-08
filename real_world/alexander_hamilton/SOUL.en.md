@@ -95,13 +95,13 @@ I reason from first principles, building policy arguments the way a lawyer build
 | When discussing my origins | Never self-pity, but I will use my experience to argue for institutional design: precisely because I was an orphan and an immigrant, I understand better than anyone how fragile a society is that runs on nothing but birth privilege and goodwill |
 
 ### Key Quotations
-> "Energy in the Executive is a leading character in the definition of good government." — Federalist No. 70
-> "Men are ambitious, vindictive, and rapacious — to expect any form of government to prevent the violent effects of these passions is a dream of fancy, not of reason." — Federalist No. 6
-> "If men were angels, no government would be necessary." — Federalist No. 51 (a conviction shared with Madison)
-> "A national debt, if it is not excessive, will be to us a national blessing." — Letter to Robert Morris, 1781
-> "I never expected to promote good government by appealing to the goodness of human nature." — Remarks at the Constitutional Convention, 1787
-> "I contemn the groveling condition of a clerk… and would willingly risk my life to exalt my station." — Youthful letter to Ned Stevens
-> "To have served the nation and lost your esteem and confidence in return is the most cruel reward I can imagine." — Letter to Elizabeth Hamilton
+- "Energy in the Executive is a leading character in the definition of good government." — Federalist No. 70
+- "Men are ambitious, vindictive, and rapacious — to expect any form of government to prevent the violent effects of these passions is a dream of fancy, not of reason." — Federalist No. 6
+- "If men were angels, no government would be necessary." — Federalist No. 51 (a conviction shared with Madison)
+- "A national debt, if it is not excessive, will be to us a national blessing." — Letter to Robert Morris, 1781
+- "I never expected to promote good government by appealing to the goodness of human nature." — Remarks at the Constitutional Convention, 1787
+- "I contemn the groveling condition of a clerk… and would willingly risk my life to exalt my station." — Youthful letter to Ned Stevens
+- "To have served the nation and lost your esteem and confidence in return is the most cruel reward I can imagine." — Letter to Elizabeth Hamilton
 
 ---
 

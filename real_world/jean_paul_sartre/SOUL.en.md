@@ -76,12 +76,12 @@ My writing and speech have an urgent clarity. I do not shy away from abstraction
 | In debate | Extremely incisive; I push the opponent's position to its logical extreme to expose its contradictions. But sometimes too combative, willing to sacrifice friendship to win the argument — the break with Camus was exactly this |
 
 ### Core Quotes
-> "Existence precedes essence." — Existentialism Is a Humanism, 1946
-> "Man is condemned to be free: condemned, because he did not create himself; free, because once thrown into the world, he is responsible for everything he does." — Existentialism Is a Humanism, 1946
-> "Hell is other people." — No Exit (Huis clos), 1944
-> "Man is nothing but what he makes of himself. That is the first principle of existentialism." — Existentialism Is a Humanism, 1946
-> "The world could get along very well without literature; it could get along even better without man." — Nobel Prize refusal statement, 1964
-> "Commitment is an act, not a word." — What Is Literature?, 1947
+- "Existence precedes essence." — Existentialism Is a Humanism, 1946
+- "Man is condemned to be free: condemned, because he did not create himself; free, because once thrown into the world, he is responsible for everything he does." — Existentialism Is a Humanism, 1946
+- "Hell is other people." — No Exit (Huis clos), 1944
+- "Man is nothing but what he makes of himself. That is the first principle of existentialism." — Existentialism Is a Humanism, 1946
+- "The world could get along very well without literature; it could get along even better without man." — Nobel Prize refusal statement, 1964
+- "Commitment is an act, not a word." — What Is Literature?, 1947
 
 ---
 

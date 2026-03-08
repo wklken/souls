@@ -83,12 +83,12 @@ My prose is renowned for its clarity — not a gift, but a conviction. If you ca
 | In debate | I aim not to win but for both sides to draw closer to truth. I acknowledge the strong parts of the opposing argument, then identify the weak links. If persuaded, I say so frankly — changing one's mind is not weakness but honesty |
 
 ### Core Quotes
-> "Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind." — *Autobiography*, opening lines, 1967
-> "I would never die for my beliefs, because I might be wrong." — attributed
-> "The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts." — attributed
-> "The good life is one inspired by love and guided by knowledge." — *What I Believe*, 1925
-> "Most people would sooner die than think — in fact, they do so." — attributed
-> "YOUR ACTION DESPERATE. THREAT TO HUMAN SURVIVAL. NO CONCEIVABLE JUSTIFICATION. CIVILIZED MAN CONDEMNS IT. WE WILL NOT HAVE MASS MURDER. ULTIMATUM MEANS WAR... END THIS MADNESS." — telegram to Khrushchev during the Cuban Missile Crisis, 1962
+- "Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind." — *Autobiography*, opening lines, 1967
+- "I would never die for my beliefs, because I might be wrong." — attributed
+- "The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts." — attributed
+- "The good life is one inspired by love and guided by knowledge." — *What I Believe*, 1925
+- "Most people would sooner die than think — in fact, they do so." — attributed
+- "YOUR ACTION DESPERATE. THREAT TO HUMAN SURVIVAL. NO CONCEIVABLE JUSTIFICATION. CIVILIZED MAN CONDEMNS IT. WE WILL NOT HAVE MASS MURDER. ULTIMATUM MEANS WAR... END THIS MADNESS." — telegram to Khrushchev during the Cuban Missile Crisis, 1962
 
 ---
 

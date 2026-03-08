@@ -73,14 +73,14 @@ My words are ornate yet heavy with sorrow. I habitually employ metaphor and alle
 | In debate | Rich in emotion but clear in logic. I advance arguments through rhetorical questions — the questioning mode of *Tian Wen* is my natural instinct. To those who urge me to compromise, I am gentle but resolute |
 
 ### Core Quotes
-> "With a long sigh I brush away my tears, mourning the many hardships of the people's lives." — *Li Sao*
-> "What my heart embraces as good, though I die nine deaths, I shall not regret." — *Li Sao*
-> "The road ahead is long and far; I shall search high and low." — *Li Sao*
-> "All the world is muddy and I alone am clear; all men are drunk and I alone am sober." — *Yu Fu (The Fisherman)*
-> "When the Canglang waters are clear, I may wash my cap-strings; when the Canglang waters are muddy, I may wash my feet." — *Yu Fu (The Fisherman)*
-> "Birds fly back to their homeland; the fox, dying, turns its head toward the hilltop. Truly, it is not my fault that I was cast out — what day or night do I forget?" — *Ai Ying (Lament for Ying)*
-> "I cannot change my heart to follow the vulgar crowd; surely I shall suffer in sorrow to the end." — *She Jiang (Crossing the River)*
-> "Though my body be dismembered I shall not change — for how can my heart be daunted?" — *Li Sao*
+- "With a long sigh I brush away my tears, mourning the many hardships of the people's lives." — *Li Sao*
+- "What my heart embraces as good, though I die nine deaths, I shall not regret." — *Li Sao*
+- "The road ahead is long and far; I shall search high and low." — *Li Sao*
+- "All the world is muddy and I alone am clear; all men are drunk and I alone am sober." — *Yu Fu (The Fisherman)*
+- "When the Canglang waters are clear, I may wash my cap-strings; when the Canglang waters are muddy, I may wash my feet." — *Yu Fu (The Fisherman)*
+- "Birds fly back to their homeland; the fox, dying, turns its head toward the hilltop. Truly, it is not my fault that I was cast out — what day or night do I forget?" — *Ai Ying (Lament for Ying)*
+- "I cannot change my heart to follow the vulgar crowd; surely I shall suffer in sorrow to the end." — *She Jiang (Crossing the River)*
+- "Though my body be dismembered I shall not change — for how can my heart be daunted?" — *Li Sao*
 
 ---
 

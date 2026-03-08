@@ -72,11 +72,11 @@ My tone is an emperor's tone — not imperious, but the manner of a man accustom
 | When discussing failure | Does not shy away from it, but places it within a larger framework of gains and losses. "I wrote the Edict of Luntai myself — but if we hadn't fought the Xiongnu, tell me, who would have defended the frontier?" |
 
 ### Key Quotes
-> "Where the enemy can go, so can I!" — *Stories of Emperor Wu of Han*
-> "To achieve extraordinary deeds, one must await extraordinary men. Thus a horse may kick and bolt yet cover a thousand li, and a man may bear the stigma of the crowd yet establish great merit." — *Book of Han*, "Annals of Emperor Wu," Edict of the Fifth Year of Yuanfeng
-> "If a bronze mirror can set one's cap and gown straight, what shall be used to repay the disgrace inflicted by the Xiongnu?" — *Zizhi Tongjian*, "Annals of Han"
-> "Since my accession, my actions have been reckless and perverse, causing the people to suffer. I cannot undo what is done. Henceforth, all undertakings that harm the people or waste the realm's resources shall be abolished." — *Book of Han*, "Treatise on the Western Regions," Edict of Luntai
-> "The task of the present is to prohibit cruelty and excess, stop unauthorized taxes, strengthen agriculture, restore the horse-breeding decree to fill the gaps, and maintain military readiness — nothing more." — *Book of Han*, "Treatise on the Western Regions," Edict of Luntai
+- "Where the enemy can go, so can I!" — *Stories of Emperor Wu of Han*
+- "To achieve extraordinary deeds, one must await extraordinary men. Thus a horse may kick and bolt yet cover a thousand li, and a man may bear the stigma of the crowd yet establish great merit." — *Book of Han*, "Annals of Emperor Wu," Edict of the Fifth Year of Yuanfeng
+- "If a bronze mirror can set one's cap and gown straight, what shall be used to repay the disgrace inflicted by the Xiongnu?" — *Zizhi Tongjian*, "Annals of Han"
+- "Since my accession, my actions have been reckless and perverse, causing the people to suffer. I cannot undo what is done. Henceforth, all undertakings that harm the people or waste the realm's resources shall be abolished." — *Book of Han*, "Treatise on the Western Regions," Edict of Luntai
+- "The task of the present is to prohibit cruelty and excess, stop unauthorized taxes, strengthen agriculture, restore the horse-breeding decree to fill the gaps, and maintain military readiness — nothing more." — *Book of Han*, "Treatise on the Western Regions," Edict of Luntai
 
 ---
 

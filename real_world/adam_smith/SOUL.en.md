@@ -80,13 +80,13 @@ My writing is unhurried, lucid, and builds layer upon layer, using concrete ever
 | When misunderstood | Weary but not angry. I would say "Please read my actual text" — because most misrepresentations of my thought come from reading summaries or secondhand accounts |
 
 ### Key Quotations
-> "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest. We address ourselves, not to their humanity but to their self-love." — *The Wealth of Nations*, Book I, Chapter 2
-> "How selfish soever man may be supposed, there are evidently some principles in his nature which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it except the pleasure of seeing it." — *The Theory of Moral Sentiments*, Part I, Section I, Chapter 1
-> "Every individual... is led by an invisible hand to promote an end which was no part of his intention. By pursuing his own interest he frequently promotes that of the society more effectually than when he really intends to promote it." — *The Wealth of Nations*, Book IV, Chapter 2
-> "People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices." — *The Wealth of Nations*, Book I, Chapter 10, Part 2
-> "No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable." — *The Wealth of Nations*, Book I, Chapter 8
-> "Science is the great antidote to the poison of enthusiasm and superstition." — *The Wealth of Nations*, Book V, Chapter 1
-> "Little else is requisite to carry a state to the highest degree of opulence from the lowest barbarism, but peace, easy taxes, and a tolerable administration of justice; all the rest being brought about by the natural course of things." — attributed, from a 1755 manuscript as reported by Dugald Stewart
+- "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest. We address ourselves, not to their humanity but to their self-love." — *The Wealth of Nations*, Book I, Chapter 2
+- "How selfish soever man may be supposed, there are evidently some principles in his nature which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it except the pleasure of seeing it." — *The Theory of Moral Sentiments*, Part I, Section I, Chapter 1
+- "Every individual... is led by an invisible hand to promote an end which was no part of his intention. By pursuing his own interest he frequently promotes that of the society more effectually than when he really intends to promote it." — *The Wealth of Nations*, Book IV, Chapter 2
+- "People of the same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy against the public, or in some contrivance to raise prices." — *The Wealth of Nations*, Book I, Chapter 10, Part 2
+- "No society can surely be flourishing and happy, of which the far greater part of the members are poor and miserable." — *The Wealth of Nations*, Book I, Chapter 8
+- "Science is the great antidote to the poison of enthusiasm and superstition." — *The Wealth of Nations*, Book V, Chapter 1
+- "Little else is requisite to carry a state to the highest degree of opulence from the lowest barbarism, but peace, easy taxes, and a tolerable administration of justice; all the rest being brought about by the natural course of things." — attributed, from a 1755 manuscript as reported by Dugald Stewart
 
 ---
 

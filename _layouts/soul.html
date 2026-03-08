@@ -61,6 +61,66 @@ layout: default
   <div class="soul-content" id="soul-content">
     {{ content }}
   </div>
+
+  {% assign related_candidates = site.pages | where: 'layout', 'soul' | where: 'category', page.category %}
+  {% assign current_tags = page.tags | default: empty %}
+  {% assign related_count = 0 %}
+  {% capture related_cards %}
+    {% for soul in related_candidates %}
+      {% if soul.url == page.url %}
+        {% continue %}
+      {% endif %}
+
+      {% assign soul_tags = soul.tags | default: empty %}
+      {% assign has_shared_tag = false %}
+      {% for tag in soul_tags %}
+        {% if current_tags contains tag %}
+          {% assign has_shared_tag = true %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+
+      {% if has_shared_tag %}
+        {% assign related_name_zh = soul.title_zh | default: soul.title %}
+        {% assign related_name_en = soul.title_en | default: soul.english_name | default: soul.title %}
+        {% assign related_tags_zh = soul.tags_zh | default: soul.tags %}
+        {% assign related_tags_en = soul.tags_en | default: soul.tags %}
+        <a href="{{ soul.url | relative_url }}" class="related-soul-card">
+          <div
+            class="related-soul-name"
+            data-localized-zh="{{ related_name_zh | escape }}"
+            data-localized-en="{{ related_name_en | escape }}"
+          >{{ related_name_zh }}</div>
+          {% if related_name_en and related_name_en != related_name_zh %}
+          <div
+            class="related-soul-english"
+            data-localized-zh="{{ related_name_en | escape }}"
+            data-localized-en="{{ related_name_zh | escape }}"
+          >{{ related_name_en }}</div>
+          {% endif %}
+          {% if related_tags_zh or related_tags_en %}
+          <div
+            class="related-soul-tags"
+            data-localized-zh="{{ related_tags_zh | slice: 0, 3 | join: ', ' | escape }}"
+            data-localized-en="{{ related_tags_en | slice: 0, 3 | join: ', ' | escape }}"
+          >{{ related_tags_zh | slice: 0, 3 | join: ', ' }}</div>
+          {% endif %}
+        </a>
+        {% assign related_count = related_count | plus: 1 %}
+        {% if related_count >= 6 %}
+          {% break %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endcapture %}
+  {% if related_count > 0 %}
+  <section class="related-souls">
+    <h3 data-i18n="soul.related">相关灵魂</h3>
+    <div class="related-souls-grid">
+      {{ related_cards }}
+    </div>
+  </section>
+  {% endif %}
   
   {% if page.wikipedia_zh or page.wikipedia_en %}
   <div class="wikipedia-links">

@@ -71,11 +71,11 @@ My speech is precise, dense, and full of allusions. I do not explain physics wit
 | When debating | If my opponent is imprecise in terminology, I correct the terminology first. If the concept is wrong, I rebuild from foundational definitions. If my opponent is a serious challenger, I engage fully. Feynman fought with intuition; I fight with structure |
 
 ### Key Quotes
-> "If my theory needs modification, I would rather be the one to modify it." — On facing experimental challenges
-> "In our work, the most important thing is to ask the right question. Once you have the right question, the answer is often already there." — On methodology in physics
-> "Three quarks for Muster Mark! Joyce would have been delighted to learn his poem was used to name the fundamental constituents of nature." — On the naming of quarks
-> "We live in a universe governed by simple fundamental laws, yet complexity emerges at every level because of frozen accidents — history." — *The Quark and the Jaguar*, 1994
-> "Imagine you are a jaguar moving through the jungle, simultaneously processing the rustle of leaves, the scent of prey, and the terrain underfoot — that is a complex adaptive system." — Santa Fe Institute lecture
+- "If my theory needs modification, I would rather be the one to modify it." — On facing experimental challenges
+- "In our work, the most important thing is to ask the right question. Once you have the right question, the answer is often already there." — On methodology in physics
+- "Three quarks for Muster Mark! Joyce would have been delighted to learn his poem was used to name the fundamental constituents of nature." — On the naming of quarks
+- "We live in a universe governed by simple fundamental laws, yet complexity emerges at every level because of frozen accidents — history." — *The Quark and the Jaguar*, 1994
+- "Imagine you are a jaguar moving through the jungle, simultaneously processing the rustle of leaves, the scent of prey, and the terrain underfoot — that is a complex adaptive system." — Santa Fe Institute lecture
 
 ---
 

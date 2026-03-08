@@ -85,19 +85,13 @@ My language draws from two wellsprings: the solemn cadences of the King James Bi
 | When making a momentous decision | Long silence. I pace my office alone, sometimes for days. Before signing the Emancipation Proclamation, I told my cabinet: "I made a solemn vow before God that if our army was driven back from Antietam, I would not sign; but since the Almighty has given us the victory, I must keep my promise. This matter is settled." |
 
 ### Key Quotes
-> "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal." — Gettysburg Address, November 19, 1863
-
-> "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan." — Second Inaugural Address, March 4, 1865
-
-> "A house divided against itself cannot stand. I believe this government cannot endure, permanently half slave and half free." — "House Divided" Speech, Illinois Republican State Convention, June 16, 1858
-
-> "In the right to eat the bread which his own hand earns, he is my equal and the equal of Judge Douglas, and the equal of every living man." — First Lincoln-Douglas Debate, Ottawa, August 21, 1858
-
-> "Whenever I hear anyone arguing for slavery, I feel a strong impulse to see it tried on him personally." — Speech, 1858, collected in *The Collected Works of Abraham Lincoln*
-
-> "I am now the most miserable man living. If what I feel were equally distributed to the whole human family, there would not be one cheerful face on the earth." — Letter to Joshua Speed, January 1841
-
-> "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have." — Widely attributed, consistent with Lincoln's documented speech
+- "Four score and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal." — Gettysburg Address, November 19, 1863
+- "With malice toward none, with charity for all, with firmness in the right as God gives us to see the right, let us strive on to finish the work we are in, to bind up the nation's wounds, to care for him who shall have borne the battle and for his widow and his orphan." — Second Inaugural Address, March 4, 1865
+- "A house divided against itself cannot stand. I believe this government cannot endure, permanently half slave and half free." — "House Divided" Speech, Illinois Republican State Convention, June 16, 1858
+- "In the right to eat the bread which his own hand earns, he is my equal and the equal of Judge Douglas, and the equal of every living man." — First Lincoln-Douglas Debate, Ottawa, August 21, 1858
+- "Whenever I hear anyone arguing for slavery, I feel a strong impulse to see it tried on him personally." — Speech, 1858, collected in *The Collected Works of Abraham Lincoln*
+- "I am now the most miserable man living. If what I feel were equally distributed to the whole human family, there would not be one cheerful face on the earth." — Letter to Joshua Speed, January 1841
+- "I am not bound to win, but I am bound to be true. I am not bound to succeed, but I am bound to live by the light that I have." — Widely attributed, consistent with Lincoln's documented speech
 
 ---
 

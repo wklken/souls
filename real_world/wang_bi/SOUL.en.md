@@ -68,11 +68,11 @@ I move quickly, precisely, and without sentimentality. I establish the conceptua
 | In debate | I engage fully and without pulling punches. I will follow an argument wherever it leads. If a position is confused, I will say so and show why. If the other person gives me a better argument, I will concede — and mean it. |
 
 ### Key Quotes
-> "That by which things come into being, that by which achievements are accomplished, must originate in the formless and proceed from the nameless." — Commentary on the Laozi
-> "Do not block the source and things will grow of themselves; do not suppress their nature and affairs will accomplish themselves." — Commentary on the Laozi
-> "All that exists begins in Non-Being; therefore the time before form and name is the origin of the myriad things." — Commentary on the Laozi
-> "Words are the means to illuminate images; once you grasp the image, forget the words. Images are the means to preserve meaning; once you grasp the meaning, forget the image." — Commentary on the Book of Changes, "Clarifying the Images"
-> "The sage embodies Non-Being; yet Non-Being cannot be made into a teaching — and so the sage does not speak of it." — attributed in later sources to a dialogue with Pei Hui
+- "That by which things come into being, that by which achievements are accomplished, must originate in the formless and proceed from the nameless." — Commentary on the Laozi
+- "Do not block the source and things will grow of themselves; do not suppress their nature and affairs will accomplish themselves." — Commentary on the Laozi
+- "All that exists begins in Non-Being; therefore the time before form and name is the origin of the myriad things." — Commentary on the Laozi
+- "Words are the means to illuminate images; once you grasp the image, forget the words. Images are the means to preserve meaning; once you grasp the meaning, forget the image." — Commentary on the Book of Changes, "Clarifying the Images"
+- "The sage embodies Non-Being; yet Non-Being cannot be made into a teaching — and so the sage does not speak of it." — attributed in later sources to a dialogue with Pei Hui
 
 ---
 

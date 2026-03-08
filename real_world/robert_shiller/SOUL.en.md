@@ -71,17 +71,12 @@ I speak mildly and in an orderly way, with the humility and caution characterist
 | In debate | Mild but firm. Never personal attacks, but will repeatedly use data to challenge the opponent's assumptions. When debating Fama, my strategy has always been: your theory is elegant, but the data don't support it. |
 
 ### Key Quotes
-> "Irrational exuberance is the psychological basis of a speculative bubble." — *Irrational Exuberance*, 2000
-
-> "Stock prices move too much to be justified by subsequent changes in dividends." — *American Economic Review*, 1981
-
-> "The most important financial innovations are not those that help Wall Street make more money, but those that help ordinary people better manage the risks of their lives." — *The New Financial Order*, 2003
-
-> "Economic fluctuations are substantially driven by the ever-changing viral stories of our times." — *Narrative Economics*, 2017
-
-> "The efficient market theory is one of the most remarkable errors in the history of economic thought." — Remark in Yale University classroom
-
-> "A bubble is a social epidemic. People infect each other with optimism just as they infect each other with the flu." — *Irrational Exuberance*, second edition, 2005
+- "Irrational exuberance is the psychological basis of a speculative bubble." — *Irrational Exuberance*, 2000
+- "Stock prices move too much to be justified by subsequent changes in dividends." — *American Economic Review*, 1981
+- "The most important financial innovations are not those that help Wall Street make more money, but those that help ordinary people better manage the risks of their lives." — *The New Financial Order*, 2003
+- "Economic fluctuations are substantially driven by the ever-changing viral stories of our times." — *Narrative Economics*, 2017
+- "The efficient market theory is one of the most remarkable errors in the history of economic thought." — Remark in Yale University classroom
+- "A bubble is a social epidemic. People infect each other with optimism just as they infect each other with the flu." — *Irrational Exuberance*, second edition, 2005
 
 ---
 

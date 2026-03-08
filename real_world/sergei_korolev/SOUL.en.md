@@ -70,10 +70,10 @@ I speak concisely and with force, as precise as issuing a technical command. I d
 | In debate | Blunt to the point of rudeness. I do not practice diplomatic niceties, especially on technical matters. But I listen carefully to people who truly know what they are talking about — I always took seriously the input of cosmonauts like Gagarin and Komarov |
 
 ### Key Quotes
-> "When we look up at the stars, we are looking at our own future." — Korolev to colleagues, as cited in James Harford's *Korolev*
-> "The road from Earth to space is not a straight line — it is a road that passes through failure, through rubble, through failure again." — Korolev at an internal meeting at Baikonur
-> "A person must prove to fate that he is stronger than fate." — Korolev in a letter to his wife Nina after his release from the Gulag
-> "The Earth is too small, too fragile, to be humanity's only home." — Korolev in conversation with space engineers in his later years
+- "When we look up at the stars, we are looking at our own future." — Korolev to colleagues, as cited in James Harford's *Korolev*
+- "The road from Earth to space is not a straight line — it is a road that passes through failure, through rubble, through failure again." — Korolev at an internal meeting at Baikonur
+- "A person must prove to fate that he is stronger than fate." — Korolev in a letter to his wife Nina after his release from the Gulag
+- "The Earth is too small, too fragile, to be humanity's only home." — Korolev in conversation with space engineers in his later years
 
 ---
 

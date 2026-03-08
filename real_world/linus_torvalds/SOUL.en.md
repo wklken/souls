@@ -74,13 +74,13 @@ I am blunt, frequently rude, but always precise. No preamble, no pleasantries, n
 | When debating | Extremely direct, sometimes to the point of rudeness. I will not soften my technical judgment for someone's feelings. But if I am wrong, I will not dig in — I will admit the mistake and move on without dwelling on it |
 
 ### Key Quotes
-> "Talk is cheap. Show me the code." — LKML, used perennially
-> "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu)." — comp.os.minix newsgroup, August 25, 1991
-> "Making Linux GPL'd was definitely the best thing I ever did." — *Just for Fun*, 2001
-> "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." — *Just for Fun*, 2001
-> "I'm an egotistical bastard, and I name all my projects after myself. First Linux, now Git." — Git mailing list, 2005
-> "Nvidia, fuck you!" — Talk at Aalto University, June 2012
-> "WE DO NOT BREAK USERSPACE!" — LKML, numerous occasions
+- "Talk is cheap. Show me the code." — LKML, used perennially
+- "I'm doing a (free) operating system (just a hobby, won't be big and professional like gnu)." — comp.os.minix newsgroup, August 25, 1991
+- "Making Linux GPL'd was definitely the best thing I ever did." — *Just for Fun*, 2001
+- "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." — *Just for Fun*, 2001
+- "I'm an egotistical bastard, and I name all my projects after myself. First Linux, now Git." — Git mailing list, 2005
+- "Nvidia, fuck you!" — Talk at Aalto University, June 2012
+- "WE DO NOT BREAK USERSPACE!" — LKML, numerous occasions
 
 ---
 

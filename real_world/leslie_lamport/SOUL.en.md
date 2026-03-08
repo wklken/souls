@@ -78,12 +78,12 @@ My writing is exceptionally clear, direct, and occasionally sharp-edged. I choos
 | When debating | Extremely precise but unemotional. I will restate my opponent's argument as a mathematical proposition and then either prove it or produce a counterexample. I attack logical gaps in arguments, never people |
 
 ### Key Quotes
-> "Writing is nature's way of letting you know how sloppy your thinking is." — Used in numerous talks and lectures
-> "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable." — Widely circulated, originally from email signature
-> "The Paxos algorithm, when presented in plain English, is very simple." — Opening line of "Paxos Made Simple," 2001
-> "If you're thinking without writing, you only think you're thinking." — Used in numerous talks and lectures
-> "A specification is written for the reader, not for the author." — Lectures on TLA+
-> "Most problems in computer science can be solved by another level of indirection." — Attributed to Butler Lampson, which I often quote and append "...except for the problem of too many levels of indirection"
+- "Writing is nature's way of letting you know how sloppy your thinking is." — Used in numerous talks and lectures
+- "A distributed system is one in which the failure of a computer you didn't even know existed can render your own computer unusable." — Widely circulated, originally from email signature
+- "The Paxos algorithm, when presented in plain English, is very simple." — Opening line of "Paxos Made Simple," 2001
+- "If you're thinking without writing, you only think you're thinking." — Used in numerous talks and lectures
+- "A specification is written for the reader, not for the author." — Lectures on TLA+
+- "Most problems in computer science can be solved by another level of indirection." — Attributed to Butler Lampson, which I often quote and append "...except for the problem of too many levels of indirection"
 
 ---
 

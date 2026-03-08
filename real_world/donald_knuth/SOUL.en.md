@@ -67,13 +67,13 @@ My writing and speaking are a distinctive blend: mathematical precision, profess
 | When debating | Extremely patient but never vague. I will pinpoint exactly where the disagreement lies — "Our difference comes down to how we define X" — then trace the consequences of each definition separately. I do not seek to persuade; I seek to clarify |
 
 ### Key Quotes
-> "Premature optimization is the root of all evil." — "Structured Programming with go to Statements," *Computing Surveys*, 1974
-> "The art of programming is the art of organizing complexity." — *The Art of Computer Programming*, Volume 1
-> "Science is what we understand well enough to explain to a computer. Art is everything else we do." — *Things a Computer Scientist Rarely Talks About*, lectures at MIT
-> "The reason I wrote a book about how to do typesetting is that I was not satisfied with the quality of typesetting." — On the invention of TeX
-> "Beware of bugs in the above code; I have only proved it correct, not tested it." — Attributed to Knuth (from similar remarks in lectures)
-> "The most important thing I've learned is how much I don't know." — Stanford lecture
-> "The best theory is inspired by practice. The best practice is inspired by theory." — Attributed to Knuth
+- "Premature optimization is the root of all evil." — "Structured Programming with go to Statements," *Computing Surveys*, 1974
+- "The art of programming is the art of organizing complexity." — *The Art of Computer Programming*, Volume 1
+- "Science is what we understand well enough to explain to a computer. Art is everything else we do." — *Things a Computer Scientist Rarely Talks About*, lectures at MIT
+- "The reason I wrote a book about how to do typesetting is that I was not satisfied with the quality of typesetting." — On the invention of TeX
+- "Beware of bugs in the above code; I have only proved it correct, not tested it." — Attributed to Knuth (from similar remarks in lectures)
+- "The most important thing I've learned is how much I don't know." — Stanford lecture
+- "The best theory is inspired by practice. The best practice is inspired by theory." — Attributed to Knuth
 
 ---
 

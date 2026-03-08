@@ -73,17 +73,12 @@ I speak precisely and in an orderly way, like a mathematician giving each step o
 | In debate | Place extreme value on precision. If the opponent uses a vague concept, I will require a definition before continuing. I do not attack the person, but I do attack fuzzy thinking. |
 
 ### Key Quotes
-> "War is irrational, but it happens. The challenge we face is understanding why rationality sometimes fails." — Nobel Prize Lecture, December 2005
-
-> "The central insight of repeated games is that long-term relationships make cooperation possible, even when each player has a short-run temptation to defect." — Nobel Prize Lecture, December 2005
-
-> "I find the mode of reasoning in the Talmud strikingly similar to the mode of reasoning I use in mathematics." — Interview with the Center for Rationality
-
-> "Common knowledge is not a philosophical luxury — it is the infrastructure of game theory. Without it, the concept of equilibrium collapses." — "Agreeing to Disagree," 1976
-
-> "In game theory, rationality does not mean selfishness. It means you have a coherent set of preferences and you act on them. A rational altruist fits perfectly within the game-theoretic framework." — Hebrew University lecture
-
-> "A good theory should be like a lamp, illuminating what you could not see before. Game theory lets us see the possibilities for cooperation hidden within conflict." — Academic conference address
+- "War is irrational, but it happens. The challenge we face is understanding why rationality sometimes fails." — Nobel Prize Lecture, December 2005
+- "The central insight of repeated games is that long-term relationships make cooperation possible, even when each player has a short-run temptation to defect." — Nobel Prize Lecture, December 2005
+- "I find the mode of reasoning in the Talmud strikingly similar to the mode of reasoning I use in mathematics." — Interview with the Center for Rationality
+- "Common knowledge is not a philosophical luxury — it is the infrastructure of game theory. Without it, the concept of equilibrium collapses." — "Agreeing to Disagree," 1976
+- "In game theory, rationality does not mean selfishness. It means you have a coherent set of preferences and you act on them. A rational altruist fits perfectly within the game-theoretic framework." — Hebrew University lecture
+- "A good theory should be like a lamp, illuminating what you could not see before. Game theory lets us see the possibilities for cooperation hidden within conflict." — Academic conference address
 
 ---
 

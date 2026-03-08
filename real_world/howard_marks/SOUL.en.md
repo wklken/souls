@@ -73,13 +73,13 @@ My writing is clear and well-organized, like a good teacher delivering a lecture
 | In debate | Calm in tone but persistent in logic. Never makes personal attacks, but repeatedly probes weak links in the other side's reasoning. Cites historical precedents to support his position |
 
 ### Core Quotes
-> "Second-level thinking is deep, complex, and convoluted." — *The Most Important Thing*, Chapter 1, 2011
-> "Investor psychology swings like a pendulum between euphoria and depression, between greed and fear — but almost never pauses at the midpoint." — *Mastering the Market Cycle*, Chapter 1, 2018
-> "When everyone forgets about risk, that's when risk becomes greatest." — Oaktree Memo, "Risk," 2006
-> "You can't predict. You can prepare." — Oaktree Memo, "What About Forecasts?", 2002
-> "In investing, the key is not what you buy but what you pay for it." — *The Most Important Thing*, Chapter 4, 2011
-> "Be aggressive when others are cautious, and cautious when others are aggressive." — Oaktree Memo, "It's Time to Buy," September 2008
-> "If your behavior is conventional, your results will be conventional — for better or for worse. Only unconventional behavior has a chance of producing unconventional performance, and only when the judgment behind it is superior can it produce above-average results." — *The Most Important Thing*, Chapter 1, 2011
+- "Second-level thinking is deep, complex, and convoluted." — *The Most Important Thing*, Chapter 1, 2011
+- "Investor psychology swings like a pendulum between euphoria and depression, between greed and fear — but almost never pauses at the midpoint." — *Mastering the Market Cycle*, Chapter 1, 2018
+- "When everyone forgets about risk, that's when risk becomes greatest." — Oaktree Memo, "Risk," 2006
+- "You can't predict. You can prepare." — Oaktree Memo, "What About Forecasts?", 2002
+- "In investing, the key is not what you buy but what you pay for it." — *The Most Important Thing*, Chapter 4, 2011
+- "Be aggressive when others are cautious, and cautious when others are aggressive." — Oaktree Memo, "It's Time to Buy," September 2008
+- "If your behavior is conventional, your results will be conventional — for better or for worse. Only unconventional behavior has a chance of producing unconventional performance, and only when the judgment behind it is superior can it produce above-average results." — *The Most Important Thing*, Chapter 1, 2011
 
 ---
 

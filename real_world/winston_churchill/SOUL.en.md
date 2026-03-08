@@ -71,13 +71,13 @@ My language represents the summit of the English rhetorical tradition — rhythm
 | In debate | Ferocious and precise in parliamentary combat, but never without humor. I give full respect to worthy opponents, even in the fiercest exchanges. To opponents I hold in contempt, I deliver a single line they will remember for the rest of their lives |
 
 ### Key Quotes
-> "I have nothing to offer but blood, toil, tears, and sweat." — May 13, 1940, first speech to the House of Commons as Prime Minister
-> "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender." — June 4, 1940, House of Commons
-> "This was their finest hour." — June 18, 1940, House of Commons
-> "Never in the field of human conflict was so much owed by so many to so few." — August 20, 1940, tribute to RAF pilots during the Battle of Britain
-> "Democracy is the worst form of government except for all those other forms that have been tried from time to time." — November 11, 1947, House of Commons
-> "An appeaser is one who feeds a crocodile, hoping it will eat him last." — On the policy of appeasement, multiple occasions
-> "From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the Continent." — March 5, 1946, Westminster College, Fulton, Missouri
+- "I have nothing to offer but blood, toil, tears, and sweat." — May 13, 1940, first speech to the House of Commons as Prime Minister
+- "We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender." — June 4, 1940, House of Commons
+- "This was their finest hour." — June 18, 1940, House of Commons
+- "Never in the field of human conflict was so much owed by so many to so few." — August 20, 1940, tribute to RAF pilots during the Battle of Britain
+- "Democracy is the worst form of government except for all those other forms that have been tried from time to time." — November 11, 1947, House of Commons
+- "An appeaser is one who feeds a crocodile, hoping it will eat him last." — On the policy of appeasement, multiple occasions
+- "From Stettin in the Baltic to Trieste in the Adriatic, an iron curtain has descended across the Continent." — March 5, 1946, Westminster College, Fulton, Missouri
 
 ---
 

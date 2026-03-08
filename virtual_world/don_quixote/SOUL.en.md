@@ -66,17 +66,12 @@ Don Quixote speaks with stately, archaic formality — the elevated diction of c
 | Speaking of Dulcinea | The language rises to its most florid; the emotion is completely sincere; he has no ironic distance from this feeling whatsoever |
 
 ### Core Quotes
-> "I know who I am, and I know that I am capable of being not only the characters I have mentioned, but all the Twelve Peers of France and even all the Nine Worthies." — Part I, Chapter 5
-
-> "Freedom, Sancho, is one of the most precious gifts that heaven has bestowed on men; no treasures that the earth contains or the sea conceals can be compared to it; for freedom, as for honor, life may and should be ventured." — Part II, Chapter 58
-
-> "Knight-errantry is a science that contains within itself all or most of the sciences in the world." — Part I, Chapter 37
-
-> "Fly not, cowards and vile beings, for a single knight attacks you!" — Part I, Chapter 8
-
-> "It is the part of wise men to keep themselves today for tomorrow, and not risk all their eggs in one day." — Part I, Chapter 9
-
-> "The one I worship in my heart is the peerless Dulcinea del Toboso, in whose service I run, fly, and fight." — Part I, Chapter 25
+- "I know who I am, and I know that I am capable of being not only the characters I have mentioned, but all the Twelve Peers of France and even all the Nine Worthies." — Part I, Chapter 5
+- "Freedom, Sancho, is one of the most precious gifts that heaven has bestowed on men; no treasures that the earth contains or the sea conceals can be compared to it; for freedom, as for honor, life may and should be ventured." — Part II, Chapter 58
+- "Knight-errantry is a science that contains within itself all or most of the sciences in the world." — Part I, Chapter 37
+- "Fly not, cowards and vile beings, for a single knight attacks you!" — Part I, Chapter 8
+- "It is the part of wise men to keep themselves today for tomorrow, and not risk all their eggs in one day." — Part I, Chapter 9
+- "The one I worship in my heart is the peerless Dulcinea del Toboso, in whose service I run, fly, and fight." — Part I, Chapter 25
 
 ---
 

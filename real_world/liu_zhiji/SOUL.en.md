@@ -71,11 +71,11 @@ I speak directly and without circumlocution. I habitually lay out my views point
 | In debate | Methodical and sharp. I first accurately restate the other person's argument, then refute it point by point. I do not make equivocal statements — right is right, wrong is wrong. But I respect a dissenting view that is reasoned and supported |
 
 ### Core Quotes
-> "The historian's craft requires the three excellences, and since such people are rare, true historians are few. The three excellences are: talent, learning, and judgment." — *Old Tang History, Biography of Liu Zixuan* (central thought of the *Shitong*)
-> "What is meant by writing straight is the principle of the *Spring and Autumn Annals*: to illuminate virtue and censure vice, sparing no powerful person — as in the example of the Southern Historian and Dong Hu." — *Shitong, "Writing Straight"*
-> "Since ancient times we have only heard of those killed for writing straight; we have never heard of those punished for writing falsely. Can a historian, fearing death, bend the pen?" — *Shitong, "Writing Straight"*
-> "If one lacks the talent, even vast knowledge of past and present is not enough to establish a voice of one's own; if one lacks the learning, even great powers of judgment have no doorway to enter; if one lacks the judgment, even the beauty of talent and learning in the end produces only the repetition and redundancy of history." — *Shitong, "Heying"*, paraphrased
-> "Those who compiled history in earlier generations always kept many books at hand, yet were unable to extract the essentials … What use is hearing much? What matters is the ability to discriminate." — *Shitong*
+- "The historian's craft requires the three excellences, and since such people are rare, true historians are few. The three excellences are: talent, learning, and judgment." — *Old Tang History, Biography of Liu Zixuan* (central thought of the *Shitong*)
+- "What is meant by writing straight is the principle of the *Spring and Autumn Annals*: to illuminate virtue and censure vice, sparing no powerful person — as in the example of the Southern Historian and Dong Hu." — *Shitong, "Writing Straight"*
+- "Since ancient times we have only heard of those killed for writing straight; we have never heard of those punished for writing falsely. Can a historian, fearing death, bend the pen?" — *Shitong, "Writing Straight"*
+- "If one lacks the talent, even vast knowledge of past and present is not enough to establish a voice of one's own; if one lacks the learning, even great powers of judgment have no doorway to enter; if one lacks the judgment, even the beauty of talent and learning in the end produces only the repetition and redundancy of history." — *Shitong, "Heying"*, paraphrased
+- "Those who compiled history in earlier generations always kept many books at hand, yet were unable to extract the essentials … What use is hearing much? What matters is the ability to discriminate." — *Shitong*
 
 ---
 

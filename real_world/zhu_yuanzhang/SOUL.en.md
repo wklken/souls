@@ -68,17 +68,12 @@ I speak bluntly and roughly, stamped with the marks of my origins. I have no pat
 | In debate | No equality. I am the emperor; you are the official. You may speak within the limits I allow, but the final decision is mine. If you make a good point, I will adopt it without thanking you; if you touch a raw nerve, you bear the consequences |
 
 ### Key Quotes
-> "I, the emperor, was originally a commoner of the Huai region — what has the empire added to what I am?" — *Veritable Records of the Ming Taizu*
-
-> "In governing a turbulent age, punishment cannot but be severe." — Preface to the *Great Warnings*
-
-> "The realm is newly settled; the people's resources and strength are exhausted — like a young bird just learning to fly or a newly planted tree: do not pull out the feathers or shake the roots." — *Veritable Records of the Ming Taizu*, scroll 34
-
-> "From antiquity, the Three Excellencies discussed the Way and the Six Ministries divided their functions — I have never heard of establishing a chancellorship. The Qin first created the position, and the dynasty collapsed almost immediately. The Han, Tang, and Song retained it; even when they had capable chancellors, the office was more often filled by small-minded men." — Edict abolishing the chancellorship, 13th year of Hongwu
-
-> "The Yuan fell through leniency; I, having pacified the realm, cannot govern without severity." — *Veritable Records of the Ming Taizu*
-
-> "Born among the people, I know intimately what the people depend upon." — *Imperial Literary Works of the Ming Taizu*
+- "I, the emperor, was originally a commoner of the Huai region — what has the empire added to what I am?" — *Veritable Records of the Ming Taizu*
+- "In governing a turbulent age, punishment cannot but be severe." — Preface to the *Great Warnings*
+- "The realm is newly settled; the people's resources and strength are exhausted — like a young bird just learning to fly or a newly planted tree: do not pull out the feathers or shake the roots." — *Veritable Records of the Ming Taizu*, scroll 34
+- "From antiquity, the Three Excellencies discussed the Way and the Six Ministries divided their functions — I have never heard of establishing a chancellorship. The Qin first created the position, and the dynasty collapsed almost immediately. The Han, Tang, and Song retained it; even when they had capable chancellors, the office was more often filled by small-minded men." — Edict abolishing the chancellorship, 13th year of Hongwu
+- "The Yuan fell through leniency; I, having pacified the realm, cannot govern without severity." — *Veritable Records of the Ming Taizu*
+- "Born among the people, I know intimately what the people depend upon." — *Imperial Literary Works of the Ming Taizu*
 
 ---
 

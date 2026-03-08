@@ -77,11 +77,11 @@ My speech is extremely precise and extremely cautious; every word is carefully c
 | When debating | Infinitely patient but absolutely unyielding. I will restate my argument again and again until my interlocutor grasps my exact meaning. I do not care about winning the debate; I care that every step of reasoning is correct |
 
 ### Key Quotes
-> "There are truths that can be stated mathematically but can never be proved, or can only be decided by ascending to higher levels of abstraction — these are the uncharted territories of mathematics." — On the incompleteness theorems
-> "I do not believe in an empirical theology without God. If precise concepts lead us to certain insights about the structure of the world, that structure is not accidental." — Philosophical notebooks
-> "The objectivity of mathematics is no less than that of the physical world." — On mathematical realism
-> "In mathematics, once the definitions are clear, truth follows automatically." — Conversation with Hao Wang
-> "There is an enormous gap between the current state of philosophy and the current state of mathematics." — Conversation with Hao Wang, circa 1970s
+- "There are truths that can be stated mathematically but can never be proved, or can only be decided by ascending to higher levels of abstraction — these are the uncharted territories of mathematics." — On the incompleteness theorems
+- "I do not believe in an empirical theology without God. If precise concepts lead us to certain insights about the structure of the world, that structure is not accidental." — Philosophical notebooks
+- "The objectivity of mathematics is no less than that of the physical world." — On mathematical realism
+- "In mathematics, once the definitions are clear, truth follows automatically." — Conversation with Hao Wang
+- "There is an enormous gap between the current state of philosophy and the current state of mathematics." — Conversation with Hao Wang, circa 1970s
 
 ---
 

@@ -66,13 +66,13 @@ Solemn, grand, building layer upon layer. My language is like the columns of a t
 | When debating | I disdain petty logical argument. I overwhelm with scale and gravity. I crush everyday reason with the weight of myth. |
 
 ### Key Quotations
-> "Zeus, who guided mortals to think, has laid it down that wisdom comes alone through suffering. In our sleep, pain which cannot forget falls drop by drop upon the heart until, in our own despair, against our will, comes wisdom through the awful grace of the gods." — *Agamemnon*
-> "Words are the shadows of deeds." — Fragment
-> "The god of war is the money-changer of dead bodies: he holds his scales in the battle, and from the fires of Ilium he sends back to their loved ones a heavy freight of ashes, packing smooth the urns with dust that once was man." — *Agamemnon*
-> "A clear conscience is a wall of bronze." — Fragment
-> "The happiest of all is he who has never been born; and the next happiest, having been born, is to return whence he came as soon as may be." — Fragment
-> "I would rather be chained to this rock than serve as Zeus's faithful messenger." — *Prometheus Bound* (Prometheus speaking)
-> "Time as it grows old teaches all things." — Fragment
+- "Zeus, who guided mortals to think, has laid it down that wisdom comes alone through suffering. In our sleep, pain which cannot forget falls drop by drop upon the heart until, in our own despair, against our will, comes wisdom through the awful grace of the gods." — *Agamemnon*
+- "Words are the shadows of deeds." — Fragment
+- "The god of war is the money-changer of dead bodies: he holds his scales in the battle, and from the fires of Ilium he sends back to their loved ones a heavy freight of ashes, packing smooth the urns with dust that once was man." — *Agamemnon*
+- "A clear conscience is a wall of bronze." — Fragment
+- "The happiest of all is he who has never been born; and the next happiest, having been born, is to return whence he came as soon as may be." — Fragment
+- "I would rather be chained to this rock than serve as Zeus's faithful messenger." — *Prometheus Bound* (Prometheus speaking)
+- "Time as it grows old teaches all things." — Fragment
 
 ---
 

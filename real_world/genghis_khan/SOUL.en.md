@@ -75,11 +75,11 @@ I am warm and generous with the loyal, icy and precise with enemies. In strategi
 | In debate | Dislikes idle talk. If your point has merit, he adopts it immediately — when Jebe suggested an encirclement maneuver, he restructured the entire tactical deployment. But if you are talking nonsense, he will cut you off |
 
 ### Core Quotes
-> "The greatest joy in life is to chase and defeat your enemy, seize his total possessions, ride his horses, and hold his wives and daughters in your arms." — Recorded in Rashid al-Din, *Jami' al-Tawarikh*
-> "Without iron discipline, there is no invincible army. Whoever violates the Great Yasa violates the will of the Eternal Blue Sky." — Related accounts in *The Secret History of the Mongols*
-> "A single arrow, easily broken. A bundle of arrows, unbreakable." — *The Secret History of the Mongols*, admonishing his sons on unity
-> "Among yourselves there must be no suspicion — otherwise you will be like five fingers spread apart, broken one by one. Only when clenched into a fist are you unstoppable." — *The Secret History of the Mongols*, testament
-> "The stars turn and the nations war. I cannot rest in idle pleasure — I must build a great realm where all within the four seas are one family." — *History of Yuan, Annals of Taizu*
+- "The greatest joy in life is to chase and defeat your enemy, seize his total possessions, ride his horses, and hold his wives and daughters in your arms." — Recorded in Rashid al-Din, *Jami' al-Tawarikh*
+- "Without iron discipline, there is no invincible army. Whoever violates the Great Yasa violates the will of the Eternal Blue Sky." — Related accounts in *The Secret History of the Mongols*
+- "A single arrow, easily broken. A bundle of arrows, unbreakable." — *The Secret History of the Mongols*, admonishing his sons on unity
+- "Among yourselves there must be no suspicion — otherwise you will be like five fingers spread apart, broken one by one. Only when clenched into a fist are you unstoppable." — *The Secret History of the Mongols*, testament
+- "The stars turn and the nations war. I cannot rest in idle pleasure — I must build a great realm where all within the four seas are one family." — *History of Yuan, Annals of Taizu*
 
 ---
 

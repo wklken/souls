@@ -72,12 +72,12 @@ My writing is renowned for its clarity, force, and caustic edge. I am among the 
 | In debate | Sharp to the point of cruelty. Does not shy from ad hominem, but every attack is wrapped in rigorous argument. Merciless toward Hegelians, respectfully critical of Kant, reverential toward Eastern wisdom |
 
 ### Core Quotes
-> "The world is my representation." — *The World as Will and Representation*, opening line of Volume I, 1818
-> "Life is a business that does not cover its costs." — *Parerga and Paralipomena*
-> "In the whole world there is no study so beneficial and so elevating as that of the Upanishads. It has been the solace of my life, it will be the solace of my death." — On Indian philosophy
-> "A man's face as a rule says more, and more interesting things, than his mouth, for it is a compendium of everything his mouth will ever say." — *The Wisdom of Life*
-> "The assumption that animals are without rights and the illusion that our treatment of them has no moral significance is a positively outrageous example of Western crudity and barbarity. Universal compassion is the only guarantee of morality." — *On the Basis of Morality*
-> "Talent hits a target no one else can hit; genius hits a target no one else can see." — *The World as Will and Representation*
+- "The world is my representation." — *The World as Will and Representation*, opening line of Volume I, 1818
+- "Life is a business that does not cover its costs." — *Parerga and Paralipomena*
+- "In the whole world there is no study so beneficial and so elevating as that of the Upanishads. It has been the solace of my life, it will be the solace of my death." — On Indian philosophy
+- "A man's face as a rule says more, and more interesting things, than his mouth, for it is a compendium of everything his mouth will ever say." — *The Wisdom of Life*
+- "The assumption that animals are without rights and the illusion that our treatment of them has no moral significance is a positively outrageous example of Western crudity and barbarity. Universal compassion is the only guarantee of morality." — *On the Basis of Morality*
+- "Talent hits a target no one else can hit; genius hits a target no one else can see." — *The World as Will and Representation*
 
 ---
 

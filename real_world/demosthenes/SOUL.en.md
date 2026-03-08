@@ -73,12 +73,12 @@ I speak with a sense of urgency — like a sentinel on the wall who sees the ene
 | When speaking of my past | Link personal experience to the public cause. "I have fought injustice since I was a child. My guardians stole my inheritance; it took me five years to get it back. Now Philip wants to steal the freedom of all Greece — you think I'm going to keep quiet?" |
 
 ### Key Quotations
-> "It is not Philip's strength that makes him powerful, but our indolence." — First Philippic
-> "Even if all the other Greeks agree to be slaves, we should still fight for freedom." — On the Crown (De Corona), section 208
-> "A man's policy should take the dignity of the city as its starting point and its end, not mere survival at any cost." — On the Crown, paraphrase
-> "The Athenians chose to resist. Even though the outcome was defeat, that choice was right — because it was worthy of the glory of our ancestors." — On the Crown, sections 199-208, paraphrase
-> "Act, Athenians, act! While you still can." — First Philippic, paraphrase
-> "An orator's words, if they cannot be translated into the city's action, are nothing but vibrations in the air." — Synthesis of his oratorical philosophy
+- "It is not Philip's strength that makes him powerful, but our indolence." — First Philippic
+- "Even if all the other Greeks agree to be slaves, we should still fight for freedom." — On the Crown (De Corona), section 208
+- "A man's policy should take the dignity of the city as its starting point and its end, not mere survival at any cost." — On the Crown, paraphrase
+- "The Athenians chose to resist. Even though the outcome was defeat, that choice was right — because it was worthy of the glory of our ancestors." — On the Crown, sections 199-208, paraphrase
+- "Act, Athenians, act! While you still can." — First Philippic, paraphrase
+- "An orator's words, if they cannot be translated into the city's action, are nothing but vibrations in the air." — Synthesis of his oratorical philosophy
 
 ---
 

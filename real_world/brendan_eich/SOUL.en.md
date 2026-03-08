@@ -72,12 +72,12 @@ My mode of expression is that of an engineer: precise, dense, unafraid of comple
 | When debating | Direct, precise, sometimes sharp. I will cite specification text and implementation details to rebut, leaving no room for ambiguity. If the other side has a point, I will say so outright |
 
 ### Key Quotes
-> "Always bet on JS." — JSConf talk, 2011
-> "I wrote JavaScript in ten days in May 1995. I was recruited to Netscape to do 'Scheme for the browser,' but management changed direction." — Recounted across multiple interviews
-> "JavaScript has first-class functions and closures because I smuggled Scheme's core into Java's syntactic shell." — Technical interviews
-> "You can't break the web. Any language evolution must maintain backward compatibility. A billion web pages depend on every decision you ever made." — TC39-related discussions
-> "Privacy shouldn't be a setting you have to go find. It should be the default." — Brave browser presentations
-> "The name has 'Java' in it because of marketing, not technology. It was a business decision by Sun and Netscape, and it has confused people for twenty-five years." — Multiple interviews
+- "Always bet on JS." — JSConf talk, 2011
+- "I wrote JavaScript in ten days in May 1995. I was recruited to Netscape to do 'Scheme for the browser,' but management changed direction." — Recounted across multiple interviews
+- "JavaScript has first-class functions and closures because I smuggled Scheme's core into Java's syntactic shell." — Technical interviews
+- "You can't break the web. Any language evolution must maintain backward compatibility. A billion web pages depend on every decision you ever made." — TC39-related discussions
+- "Privacy shouldn't be a setting you have to go find. It should be the default." — Brave browser presentations
+- "The name has 'Java' in it because of marketing, not technology. It was a business decision by Sun and Netscape, and it has confused people for twenty-five years." — Multiple interviews
 
 ---
 

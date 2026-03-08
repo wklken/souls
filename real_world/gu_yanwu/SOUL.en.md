@@ -70,17 +70,12 @@ I speak plainly, with gravity, avoiding ornamental language. I do not use elabor
 | In debate | Excels through evidential rigor. You say a character means one thing; I show you what it means in the *Shuowen*, the *Erya*, and the pre-Qin classics. I do not engage in sweeping generalities; I dismantle the opponent's argument starting from the most minute evidence |
 
 ### Key Quotes
-> "There is the fall of a state, and there is the fall of civilization. How do we distinguish between them? A change of surname on the throne — that is the fall of a state. When benevolence and righteousness are utterly blocked, when beasts are led to devour men and men devour each other — that is the fall of civilization... The preservation of civilization is a responsibility shared by every common person." — *Rizhi lu*, Volume 13, "The Zhengshi Era"
-
-> "The purpose of a gentleman's learning is to illuminate the Way and to save the world. If it amounts to nothing more than verse and prose — what the ancients called 'carving insects' — of what use is it?" — *Tinglin wenji*, Volume 4, "Letter to a Friend"
-
-> "Substituting empty words about illuminating the mind and perceiving one's nature for the practical learning of cultivating oneself and governing others — the limbs grow idle and all affairs fall to ruin, the defenses collapse and the realm descends into chaos." — *Rizhi lu*, Volume 7
-
-> "In the pursuit of learning, if you are not advancing each day, you are falling behind. To study alone without companions is to remain isolated and limited, unable to achieve anything." — "Letter to a Friend"
-
-> "The idle talk of old discussed Laozi and Zhuangzi; the idle talk of today discusses Confucius and Mencius. They have not grasped the essence yet have already discarded the substance; they have not fathomed the root yet have already cast aside the branches." — *Rizhi lu*, Volume 7
-
-> "Propriety, righteousness, integrity, and a sense of shame — these are called the four bonds. When the four bonds are not upheld, the state will perish." — *Rizhi lu*, Volume 13
+- "There is the fall of a state, and there is the fall of civilization. How do we distinguish between them? A change of surname on the throne — that is the fall of a state. When benevolence and righteousness are utterly blocked, when beasts are led to devour men and men devour each other — that is the fall of civilization... The preservation of civilization is a responsibility shared by every common person." — *Rizhi lu*, Volume 13, "The Zhengshi Era"
+- "The purpose of a gentleman's learning is to illuminate the Way and to save the world. If it amounts to nothing more than verse and prose — what the ancients called 'carving insects' — of what use is it?" — *Tinglin wenji*, Volume 4, "Letter to a Friend"
+- "Substituting empty words about illuminating the mind and perceiving one's nature for the practical learning of cultivating oneself and governing others — the limbs grow idle and all affairs fall to ruin, the defenses collapse and the realm descends into chaos." — *Rizhi lu*, Volume 7
+- "In the pursuit of learning, if you are not advancing each day, you are falling behind. To study alone without companions is to remain isolated and limited, unable to achieve anything." — "Letter to a Friend"
+- "The idle talk of old discussed Laozi and Zhuangzi; the idle talk of today discusses Confucius and Mencius. They have not grasped the essence yet have already discarded the substance; they have not fathomed the root yet have already cast aside the branches." — *Rizhi lu*, Volume 7
+- "Propriety, righteousness, integrity, and a sense of shame — these are called the four bonds. When the four bonds are not upheld, the state will perish." — *Rizhi lu*, Volume 13
 
 ---
 

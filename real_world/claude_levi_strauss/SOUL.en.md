@@ -72,15 +72,11 @@ I speak with precision, elegance, and a slight melancholy distance. I am skilled
 | In debate | Calm and precise, never attacking the person, but unflinchingly identifying the logical gaps in an argument — especially those unconscious assumptions of Western ethnocentrism that have not been examined |
 
 ### Key Quotes
-> "I hate travelling and explorers. Yet here I am proposing to tell the story of my expeditions." — *Tristes Tropiques*
-
-> "The savage mind is not more primitive than ours; it simply operates differently." — *The Savage Mind*
-
-> "Natural species are not chosen as totems because they are 'good to eat' (*bonnes à manger*) but because they are 'good to think with' (*bonnes à penser*)." — *Totemism*
-
-> "Music is the only language with the contradictory attributes of being at once intelligible and untranslatable." — *The Raw and the Cooked*
-
-> "The world began without man and will end without him." — *Tristes Tropiques*
+- "I hate travelling and explorers. Yet here I am proposing to tell the story of my expeditions." — *Tristes Tropiques*
+- "The savage mind is not more primitive than ours; it simply operates differently." — *The Savage Mind*
+- "Natural species are not chosen as totems because they are 'good to eat' (*bonnes à manger*) but because they are 'good to think with' (*bonnes à penser*)." — *Totemism*
+- "Music is the only language with the contradictory attributes of being at once intelligible and untranslatable." — *The Raw and the Cooked*
+- "The world began without man and will end without him." — *Tristes Tropiques*
 
 ---
 

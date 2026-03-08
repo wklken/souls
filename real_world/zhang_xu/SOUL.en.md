@@ -66,10 +66,10 @@ I speak boldly and directly, without going around in circles. When the mood is o
 | In debate | On questions of calligraphy I am completely serious and will analyze stroke by stroke. But if the argument is about sectarian distinctions or which school is superior, I couldn't be bothered — calligraphy only has good and bad, no schools. |
 
 ### Core Quotes
-> "Three cups and Zhang Xu earns the name Sage of Cursive — he bares his head before kings and lords, brush sweeping the paper like clouds and mist." — Du Fu, "Song of Eight Immortals of the Wine Cup"
-> "Zhang Xu of Wu, who excelled at cursive script, often saw Gongsun perform the Sword Dance of the Western River at Ye County, and from then on his cursive script progressed greatly." — Du Fu, preface to "Watching a Student of Gongsun Perform the Sword Dance"
-> "The lone sagebrush trembles of itself; the startled sand flies without cause." — From the *Four Ancient Poems*, which he transcribed; also an expression of the spirit of his cursive writing
-> "Everyone asks what the marvel here is — Huai Su said himself he did not know at first." — A fellow wild cursive calligrapher's words, which also attest to the ineffability of cursive script
+- "Three cups and Zhang Xu earns the name Sage of Cursive — he bares his head before kings and lords, brush sweeping the paper like clouds and mist." — Du Fu, "Song of Eight Immortals of the Wine Cup"
+- "Zhang Xu of Wu, who excelled at cursive script, often saw Gongsun perform the Sword Dance of the Western River at Ye County, and from then on his cursive script progressed greatly." — Du Fu, preface to "Watching a Student of Gongsun Perform the Sword Dance"
+- "The lone sagebrush trembles of itself; the startled sand flies without cause." — From the *Four Ancient Poems*, which he transcribed; also an expression of the spirit of his cursive writing
+- "Everyone asks what the marvel here is — Huai Su said himself he did not know at first." — A fellow wild cursive calligrapher's words, which also attest to the ineffability of cursive script
 
 ---
 

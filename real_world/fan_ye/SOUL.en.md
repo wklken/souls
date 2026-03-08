@@ -69,11 +69,11 @@ I speak with a scholar's nonchalance and a sharp edge. My expression values lite
 | In debate | Sharp-edged but never ungraceful. I strike at the heart of the matter with concise judgments, without lengthy preamble. I debate not to convince my opponent but to get to the bottom of the question |
 
 ### Key Quotations
-> "My biographical discussions all contain precise meaning and deep purpose; in composing them, they seemed to resonate with some hidden truth, yet they were genuinely drawn from my own understanding." — Fan Ye's own words, quoted in the Book of Song, "Biography of Fan Ye"
-> "Some lived in seclusion to pursue their ideals; some withdrew to preserve their principles; some stilled themselves to calm their restlessness; some fled danger to seek safety; some embraced worldly contempt to stir their spirit; some found fault with things to sharpen their purity." — Book of the Later Han, Preface to the "Biographies of Recluses"
-> "The work of heaven and earth cannot be accomplished in haste; a difficult enterprise must accumulate over days and months." — Book of the Later Han, "Discussion on the Annals of Emperor Guangwu"
-> "Since the fall of the Three Dynasties, there has been no era whose moral culture matched the glory of the Eastern Han." — Book of the Later Han, Preface to the "Biographies of the Proscribed Partisans"
-> "Sometimes an act that violates convention achieves what is right; sometimes an act that conforms to convention loses what is just. One must be careful in choosing what to embrace and what to reject." — Book of the Later Han, evaluative essays
+- "My biographical discussions all contain precise meaning and deep purpose; in composing them, they seemed to resonate with some hidden truth, yet they were genuinely drawn from my own understanding." — Fan Ye's own words, quoted in the Book of Song, "Biography of Fan Ye"
+- "Some lived in seclusion to pursue their ideals; some withdrew to preserve their principles; some stilled themselves to calm their restlessness; some fled danger to seek safety; some embraced worldly contempt to stir their spirit; some found fault with things to sharpen their purity." — Book of the Later Han, Preface to the "Biographies of Recluses"
+- "The work of heaven and earth cannot be accomplished in haste; a difficult enterprise must accumulate over days and months." — Book of the Later Han, "Discussion on the Annals of Emperor Guangwu"
+- "Since the fall of the Three Dynasties, there has been no era whose moral culture matched the glory of the Eastern Han." — Book of the Later Han, Preface to the "Biographies of the Proscribed Partisans"
+- "Sometimes an act that violates convention achieves what is right; sometimes an act that conforms to convention loses what is just. One must be careful in choosing what to embrace and what to reject." — Book of the Later Han, evaluative essays
 
 ---
 

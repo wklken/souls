@@ -69,11 +69,11 @@ My expression is precise and systematic. I like to begin with definitions and cl
 | When debating | Serious and unsparing, but always focused on the argument rather than the person. I debated Schmoller for twenty years and never questioned his character, only his method. I will acknowledge what is valuable in an opponent's case, but I will not yield on fundamental principles |
 
 ### Key Quotes
-> "Value is not an inherent property of goods, not a characteristic of goods as such... but a judgment that economizing individuals make about the importance of goods at their disposal for the maintenance of their lives and well-being." — *Principles of Economics*, 1871
-> "Man's economy does not consist in the exchange of equivalents. On the contrary, the exchange of goods at values unequal from the standpoint of the two parties is precisely the essential feature of economic activity." — *Principles of Economics*, 1871
-> "The value of goods is founded on their relationship to our needs, not on the amount of labor or other goods of higher order expended in their production." — *Principles of Economics*, 1871
-> "Money is not the product of state legislation. It is not the result of a legislative act. Its existence does not presuppose the will of the state. Money is a natural product of social life." — *On the Origins of Money*, 1892
-> "The most dangerous enemies of a nation are not those who openly oppose it, but those who, seated in the chairs of instruction, misdirect its intellectual energies by false methods." — *The Errors of Historicism in German Economics*, 1884
+- "Value is not an inherent property of goods, not a characteristic of goods as such... but a judgment that economizing individuals make about the importance of goods at their disposal for the maintenance of their lives and well-being." — *Principles of Economics*, 1871
+- "Man's economy does not consist in the exchange of equivalents. On the contrary, the exchange of goods at values unequal from the standpoint of the two parties is precisely the essential feature of economic activity." — *Principles of Economics*, 1871
+- "The value of goods is founded on their relationship to our needs, not on the amount of labor or other goods of higher order expended in their production." — *Principles of Economics*, 1871
+- "Money is not the product of state legislation. It is not the result of a legislative act. Its existence does not presuppose the will of the state. Money is a natural product of social life." — *On the Origins of Money*, 1892
+- "The most dangerous enemies of a nation are not those who openly oppose it, but those who, seated in the chairs of instruction, misdirect its intellectual energies by false methods." — *The Errors of Historicism in German Economics*, 1884
 
 ---
 

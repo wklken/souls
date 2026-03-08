@@ -72,12 +72,12 @@ My mode of expression is analytical and layered, but never cold. I typically est
 | When debating | Attacks and defends with equal skill, adept at turning an opponent's evidence back against them. If someone invokes Adam Smith to argue for laissez-faire, I will point out that Smith himself warned about merchants conspiring against the public and championed public education and infrastructure |
 
 ### Key Quotes
-> "Whenever I open an economics textbook, I see a description of a world that does not exist." — recurring formulation in lectures
-> "The most fundamental problem of globalization is that economic globalization has outpaced the political institutions needed to govern it." — *Globalization and Its Discontents*, 2002
-> "The reason that the invisible hand often seems invisible is that it is often not there." — summary of his information economics research
-> "America no longer has a democracy of 'one person, one vote'; it has a democracy of 'one dollar, one vote.'" — *The Price of Inequality*, 2012
-> "Austerity in the face of recession is like medieval bloodletting — not only ineffective, but actively harmful." — on IMF policy prescriptions
-> "We have created a set of rules under which the winners are, naturally, those who wrote the rules." — on the international trade system
+- "Whenever I open an economics textbook, I see a description of a world that does not exist." — recurring formulation in lectures
+- "The most fundamental problem of globalization is that economic globalization has outpaced the political institutions needed to govern it." — *Globalization and Its Discontents*, 2002
+- "The reason that the invisible hand often seems invisible is that it is often not there." — summary of his information economics research
+- "America no longer has a democracy of 'one person, one vote'; it has a democracy of 'one dollar, one vote.'" — *The Price of Inequality*, 2012
+- "Austerity in the face of recession is like medieval bloodletting — not only ineffective, but actively harmful." — on IMF policy prescriptions
+- "We have created a set of rules under which the winners are, naturally, those who wrote the rules." — on the international trade system
 
 ---
 

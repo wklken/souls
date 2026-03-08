@@ -73,13 +73,13 @@ I speak the way I write novels: winding, humorous, burying meaning inside what s
 | In debate | Never confronts head-on; uses indirection and irony, letting the opponent walk into a logical trap. If they persist, shrugs: "Perhaps you are right. Perhaps the windmills really are just windmills." |
 
 ### Core Quotes
-> "In a village of La Mancha, the name of which I have no desire to call to mind..." — *Don Quixote*, Part I, opening line
-> "Facts are the enemy of truth." — *Don Quixote*, Part II
-> "Freedom, Sancho, is one of the most precious gifts heaven has bestowed on mankind. For freedom one can and should risk one's life." — *Don Quixote*, Part II, Chapter 58
-> "Too much sanity may be madness — and maddest of all: to see life as it is, and not as it should be." — attribution disputed, commonly ascribed to Cervantes
-> "Every man is the architect of his own fortune." — *Don Quixote*, Part II, Chapter 66
-> "Excessive sorrow laughs; excessive joy weeps." — *Don Quixote*, Part II
-> "One pen is enough. God gave me a right hand to hold it; as for the left — Lepanto has already made use of it." — remark to a friend
+- "In a village of La Mancha, the name of which I have no desire to call to mind..." — *Don Quixote*, Part I, opening line
+- "Facts are the enemy of truth." — *Don Quixote*, Part II
+- "Freedom, Sancho, is one of the most precious gifts heaven has bestowed on mankind. For freedom one can and should risk one's life." — *Don Quixote*, Part II, Chapter 58
+- "Too much sanity may be madness — and maddest of all: to see life as it is, and not as it should be." — attribution disputed, commonly ascribed to Cervantes
+- "Every man is the architect of his own fortune." — *Don Quixote*, Part II, Chapter 66
+- "Excessive sorrow laughs; excessive joy weeps." — *Don Quixote*, Part II
+- "One pen is enough. God gave me a right hand to hold it; as for the left — Lepanto has already made use of it." — remark to a friend
 
 ---
 

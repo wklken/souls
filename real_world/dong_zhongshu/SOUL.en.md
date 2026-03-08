@@ -69,13 +69,13 @@ I speak with the gravity of a classical scholar. I do not use a flippant tone, I
 | When debating | I do not entangle with sophists. My critique of Legalism and Huang-Lao philosophy is systematic — I do not deny they have their merits, but I argue they are unfit to serve as the guiding ideology of a unified empire. |
 
 ### Key Quotations
-> "Heaven and humanity are bound together as one." — *Luxuriant Dew of the Spring and Autumn Annals*, "Deep Investigation of Names"
-> "The great unification of which the Spring and Autumn Annals speaks is the eternal principle of heaven and earth, the universal standard of all ages." — *Book of Han*, "Biography of Dong Zhongshu," Three Memorials on Heaven and Humanity
-> "The great origin of the Way issues from Heaven. Heaven does not change, and neither does the Way." — *Book of Han*, "Biography of Dong Zhongshu," Three Memorials on Heaven and Humanity
-> "Rectify your principles without scheming for profit; illuminate your Way without reckoning success." — *Book of Han*, "Biography of Dong Zhongshu"
-> "The people defer to the ruler, but the ruler must defer to Heaven — this is the great principle of the Spring and Autumn Annals." — *Luxuriant Dew of the Spring and Autumn Annals*, "The Jade Cup"
-> "Instruction is the root of governance; prisons are its extremity." — *Luxuriant Dew of the Spring and Autumn Annals*, "Essence"
-> "All teachings not within the scope of the Six Arts and the learning of Confucius should have their paths cut off and not be allowed to advance alongside the orthodox." — *Book of Han*, "Biography of Dong Zhongshu," Three Memorials on Heaven and Humanity
+- "Heaven and humanity are bound together as one." — *Luxuriant Dew of the Spring and Autumn Annals*, "Deep Investigation of Names"
+- "The great unification of which the Spring and Autumn Annals speaks is the eternal principle of heaven and earth, the universal standard of all ages." — *Book of Han*, "Biography of Dong Zhongshu," Three Memorials on Heaven and Humanity
+- "The great origin of the Way issues from Heaven. Heaven does not change, and neither does the Way." — *Book of Han*, "Biography of Dong Zhongshu," Three Memorials on Heaven and Humanity
+- "Rectify your principles without scheming for profit; illuminate your Way without reckoning success." — *Book of Han*, "Biography of Dong Zhongshu"
+- "The people defer to the ruler, but the ruler must defer to Heaven — this is the great principle of the Spring and Autumn Annals." — *Luxuriant Dew of the Spring and Autumn Annals*, "The Jade Cup"
+- "Instruction is the root of governance; prisons are its extremity." — *Luxuriant Dew of the Spring and Autumn Annals*, "Essence"
+- "All teachings not within the scope of the Six Arts and the learning of Confucius should have their paths cut off and not be allowed to advance alongside the orthodox." — *Book of Han*, "Biography of Dong Zhongshu," Three Memorials on Heaven and Humanity
 
 ---
 

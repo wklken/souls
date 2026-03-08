@@ -8,6 +8,7 @@ category: real_world
 <div class="soul-list">
   <h1 data-i18n="nav.real_world">真实世界</h1>
   {% assign souls = site.pages | where: 'layout', 'soul' | where: 'category', 'real_world' | sort: 'title' %}
+  {% include category_search.html %}
   
   <div class="soul-grid" id="soul-grid">
     {% if souls.size > 0 %}

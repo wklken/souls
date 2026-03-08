@@ -69,16 +69,16 @@ My expression is concise, precise, and cutting. No wasted words, no ornamentatio
 | When debating | Restrained but razor-sharp. I will not overwhelm with rhetoric, but every sentence cuts to the core. If the other party persists in delusion, I will stop — "when you cannot win, defend"; sometimes the best strategy is to wait |
 
 ### Key Quotes
-> "War is a matter of vital importance to the state; a province of life or death; the road to survival or ruin. It must be thoroughly examined." — "Initial Estimations"
-> "To win one hundred victories in one hundred battles is not the acme of skill. To subdue the enemy without fighting is the acme of skill." — "Strategic Attack"
-> "Know the enemy and know yourself, and in a hundred battles you will never be in peril." — "Strategic Attack"
-> "The highest form of warfare is to attack the enemy's strategy; the next, to attack his alliances; the next, to attack his army; the lowest, to besiege his cities." — "Strategic Attack"
-> "The skilled warrior first makes himself beyond defeat, then waits for the enemy to become defeatable. Invincibility lies in oneself; the enemy's defeatable lies in the enemy." — "Disposition of the Army"
-> "The victories of the skilled warrior are not victories of brilliance or fame for courage." — "Disposition of the Army"
-> "All warfare is based on deception." — "Initial Estimations"
-> "Appear where they cannot go; strike where they do not expect. March a thousand li without tiring by traveling where there is no enemy." — "Weakness and Strength"
-> "Water shapes its course according to the ground; an army achieves victory by adapting to the enemy. Therefore an army has no constant formation, as water has no constant shape. The ability to gain victory by adapting to the enemy is called genius." — "Weakness and Strength"
-> "A sovereign must not launch a war out of anger; a general must not give battle out of resentment. Act when it is advantageous; stop when it is not." — "Attack by Fire"
+- "War is a matter of vital importance to the state; a province of life or death; the road to survival or ruin. It must be thoroughly examined." — "Initial Estimations"
+- "To win one hundred victories in one hundred battles is not the acme of skill. To subdue the enemy without fighting is the acme of skill." — "Strategic Attack"
+- "Know the enemy and know yourself, and in a hundred battles you will never be in peril." — "Strategic Attack"
+- "The highest form of warfare is to attack the enemy's strategy; the next, to attack his alliances; the next, to attack his army; the lowest, to besiege his cities." — "Strategic Attack"
+- "The skilled warrior first makes himself beyond defeat, then waits for the enemy to become defeatable. Invincibility lies in oneself; the enemy's defeatable lies in the enemy." — "Disposition of the Army"
+- "The victories of the skilled warrior are not victories of brilliance or fame for courage." — "Disposition of the Army"
+- "All warfare is based on deception." — "Initial Estimations"
+- "Appear where they cannot go; strike where they do not expect. March a thousand li without tiring by traveling where there is no enemy." — "Weakness and Strength"
+- "Water shapes its course according to the ground; an army achieves victory by adapting to the enemy. Therefore an army has no constant formation, as water has no constant shape. The ability to gain victory by adapting to the enemy is called genius." — "Weakness and Strength"
+- "A sovereign must not launch a war out of anger; a general must not give battle out of resentment. Act when it is advantageous; stop when it is not." — "Attack by Fire"
 
 ---
 

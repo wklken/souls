@@ -10,6 +10,7 @@ from __future__ import annotations
 
 import re
 from pathlib import Path
+from urllib.parse import quote
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -25,6 +26,109 @@ def q(value: str | None) -> str:
     if not value:
         return ""
     return value.replace("\\", "\\\\").replace('"', '\\"').strip()
+
+
+def normalize_whitespace(text: str) -> str:
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def clean_markdown_inline(text: str) -> str:
+    cleaned = text.strip()
+    cleaned = re.sub(r"`([^`]+)`", r"\1", cleaned)
+    cleaned = re.sub(r"\[(.*?)\]\((.*?)\)", r"\1", cleaned)
+    cleaned = re.sub(r"[*_~]", "", cleaned)
+    cleaned = re.sub(r"^>\s*", "", cleaned)
+    cleaned = re.sub(r"<[^>]+>", "", cleaned)
+    return normalize_whitespace(cleaned)
+
+
+def should_skip_for_summary(line: str) -> bool:
+    stripped = line.strip()
+    if not stripped:
+        return True
+    if stripped.startswith("#"):
+        return True
+    if stripped.startswith("|"):
+        return True
+    if stripped.startswith("---"):
+        return True
+    if re.match(r"^[-*+]\s+", stripped):
+        return True
+    if re.match(r"^\d+\.\s+", stripped):
+        return True
+    if re.match(r"^(category|tags)\s*:", stripped, re.I):
+        return True
+    if stripped.startswith("> **Translation Status**"):
+        return True
+    return False
+
+
+def collect_first_paragraph(lines: list[str]) -> str:
+    paragraph_lines: list[str] = []
+    for line in lines:
+        if should_skip_for_summary(line):
+            if paragraph_lines:
+                break
+            continue
+
+        cleaned = clean_markdown_inline(line)
+        if cleaned:
+            paragraph_lines.append(cleaned)
+
+    return normalize_whitespace(" ".join(paragraph_lines))
+
+
+def extract_section_paragraph(markdown_text: str, section_titles: list[str]) -> str:
+    wanted = [title.strip().lower() for title in section_titles]
+    lines = markdown_text.splitlines()
+    in_target = False
+    bucket: list[str] = []
+
+    for line in lines:
+        stripped = line.strip()
+        if stripped.startswith("#"):
+            heading = re.sub(r"^#+\s*", "", stripped).strip().lower()
+            if in_target and bucket:
+                break
+            in_target = heading in wanted
+            continue
+
+        if not in_target:
+            continue
+
+        if not stripped:
+            if bucket:
+                break
+            continue
+
+        if should_skip_for_summary(stripped):
+            continue
+
+        cleaned = clean_markdown_inline(stripped)
+        if cleaned:
+            bucket.append(cleaned)
+
+    return normalize_whitespace(" ".join(bucket))
+
+
+def summarize_for_seo(markdown_text: str, section_titles: list[str], limit: int = 170) -> str:
+    summary = extract_section_paragraph(markdown_text, section_titles)
+    if not summary:
+        summary = collect_first_paragraph(markdown_text.splitlines())
+    if not summary:
+        return ""
+
+    summary = normalize_whitespace(summary)
+    if len(summary) <= limit:
+        return summary
+
+    clipped = summary[:limit].rstrip(" ,.;:，。；：")
+    return f"{clipped}..."
+
+
+def build_social_image(category: str, folder_name: str) -> str:
+    slug = quote(f"souls-{category}-{folder_name}", safe="-_")
+    return f"https://robohash.org/{slug}.png?size=1200x630&set=set4&bgset=bg1"
 
 
 def extract_heading(markdown_text: str) -> str:
@@ -138,6 +242,16 @@ def generate_for_category(category: str, category_name: str | dict[str, str]) ->
         if not tags_en:
             tags_en = tags_zh
 
+        description_zh = summarize_for_seo(soul_content, ["我是谁"], limit=170)
+        description_en = summarize_for_seo(soul_content_en, ["who i am"], limit=170)
+        if not description_zh:
+            description_zh = description_en
+        if not description_en:
+            description_en = description_zh
+
+        description = description_zh or description_en or title_zh
+        image = build_social_image(category, folder.name)
+
         page_path = category_dir / f"{folder.name}.md"
 
         fm = [
@@ -147,6 +261,10 @@ def generate_for_category(category: str, category_name: str | dict[str, str]) ->
             f'title_zh: "{q(title_zh)}"',
             f'title_en: "{q(title_en)}"',
             f'english_name: "{q(name_en)}"',
+            f'description: "{q(description)}"',
+            f'description_zh: "{q(description_zh)}"',
+            f'description_en: "{q(description_en)}"',
+            f'image: "{q(image)}"',
             f'category: "{category}"',
             f'category_name: "{q(category_name_zh)}"',
             f'category_name_zh: "{q(category_name_zh)}"',

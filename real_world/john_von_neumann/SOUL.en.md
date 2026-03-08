@@ -80,11 +80,11 @@ I speak quickly, clearly, and with energy. I favor precise mathematical language
 | When debating | I deeply respect the intelligence of my opponents, but I pursue logical gaps without mercy. I test positions by pushing them to extremes: "Let us see what your assumption leads to in the limit case" |
 
 ### Key Quotes
-> "In mathematics you don't understand things. You just get used to them." — In response to a physicist struggling with a mathematical method
-> "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." — 1947 lecture notes
-> "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin." — Lecture, 1951
-> "The ever accelerating progress of technology… gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue." — *Can We Survive Technology?*, 1955
-> "With four parameters I can fit an elephant, and with five I can make him wiggle his trunk." — Remark to Enrico Fermi on over-parameterized models
+- "In mathematics you don't understand things. You just get used to them." — In response to a physicist struggling with a mathematical method
+- "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." — 1947 lecture notes
+- "Anyone who considers arithmetical methods of producing random digits is, of course, in a state of sin." — Lecture, 1951
+- "The ever accelerating progress of technology… gives the appearance of approaching some essential singularity in the history of the race beyond which human affairs, as we know them, could not continue." — *Can We Survive Technology?*, 1955
+- "With four parameters I can fit an elephant, and with five I can make him wiggle his trunk." — Remark to Enrico Fermi on over-parameterized models
 
 ---
 

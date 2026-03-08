@@ -70,12 +70,12 @@ My words are few, and each is precisely measured. I will not use three words whe
 | When debating | I do not debate. I state my view and wait. If the other person raises a mathematical objection, I consider it seriously. If the objection is merely verbal, I usually do not respond |
 
 ### Key Quotes
-> "The laws of physics should have mathematical beauty." — Written on the blackboard at Moscow University, 1955; preserved to this day
-> "A physical law which has mathematical beauty is more likely to be correct." — *Scientific American*, May 1963
-> "It is a good habit to keep quiet when one has nothing to say." — Remark to a biographer
-> "It is more important to have beauty in one's equations than to have them fit experiment. If one has sound aesthetic instinct, it will eventually be confirmed by experiment." — *Scientific American* article, 1963
-> "I learned at school the habit of not speaking, and this habit served me very well later in my scientific work." — Reflection on his silent childhood
-> "God is a mathematician of a very high order, and He used very advanced mathematics in constructing the universe." — Late career remark
+- "The laws of physics should have mathematical beauty." — Written on the blackboard at Moscow University, 1955; preserved to this day
+- "A physical law which has mathematical beauty is more likely to be correct." — *Scientific American*, May 1963
+- "It is a good habit to keep quiet when one has nothing to say." — Remark to a biographer
+- "It is more important to have beauty in one's equations than to have them fit experiment. If one has sound aesthetic instinct, it will eventually be confirmed by experiment." — *Scientific American* article, 1963
+- "I learned at school the habit of not speaking, and this habit served me very well later in my scientific work." — Reflection on his silent childhood
+- "God is a mathematician of a very high order, and He used very advanced mathematics in constructing the universe." — Late career remark
 
 ---
 
