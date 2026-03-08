@@ -25,6 +25,26 @@ A great SOUL.md makes you forget you're talking to an AI. It captures not just *
 - If more souls remain after the first wave, run additional waves or increase agent count when capacity allows.
 - Keep generation and translation as two separate stages. Do not mix them in one pass.
 
+### Step 0.5: Rights Check (Mandatory — Before Any Research)
+
+Before creating any soul, you **must** verify the person passes the applicable rights check. If they fail, **stop immediately** and inform the user.
+
+#### For `real_world` Souls:
+- The person must have **died at least 100 years ago** from the current date.
+- Example: If today is 2026, the person must have died on or before 1926.
+- If the death year is uncertain or the person died less than 100 years ago, **refuse to create** and explain why.
+- This conservative threshold covers copyright (life + 70 years) and personality rights across all major jurisdictions.
+
+#### For `virtual_world` Souls (Fictional Characters):
+- The character must be in the **public domain**.
+- Check whether the original work's copyright has expired:
+  - **Author died 70+ years ago** (US/EU standard): generally safe.
+  - Works published before 1929 (US): generally safe.
+- Characters from **copyrighted works** (e.g., modern novels, films, TV shows, games, anime) must **not** be created — they are protected by copyright and/or trademark.
+- When in doubt, **refuse to create** and explain the concern to the user.
+
+If the rights check passes, proceed to Step 1.
+
 ### Step 1: Research the Person
 
 Before writing anything, gather deep information. Search for:
@@ -224,4 +244,4 @@ After research and writing, execute output in two phases:
 - Use the best model for `SOUL.md` generation and a cheaper model for batch translation to `SOUL.en.md`
 - Never generate `SOUL.md` and `SOUL.en.md` simultaneously in one writing pass
 - When the person is from a non-English-speaking culture, the Chinese `SOUL.md` should feel natural and primary; the English version should preserve depth in clear English
-- For living/contemporary figures, be factual and avoid speculation about private matters
+- **Never create souls for living people or anyone who died less than 100 years ago (real_world), or characters from copyrighted works (virtual_world)**
