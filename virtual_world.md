@@ -7,6 +7,10 @@ category: virtual_world
 
 <div class="soul-list">
   <h1 data-i18n="nav.virtual_world">非真实世界</h1>
+
+  <div class="search-section">
+    {% include search.html %}
+  </div>
   {% assign souls = site.pages | where: 'layout', 'soul' | where: 'category', 'virtual_world' | sort: 'title' %}
   
   <div class="soul-grid" id="soul-grid">
