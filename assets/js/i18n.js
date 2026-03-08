@@ -28,7 +28,13 @@
       'footer.copyright': '© 2026 Souls Project',
       'footer.contribute': '贡献指南',
       'search.placeholder': '搜索人物...',
-      'search.no_results': '未找到匹配的人物'
+      'search.no_results': '未找到匹配的人物',
+      'disclaimer.ai_generated': '本内容为 AI 生成，与真实人物无关',
+      'disclaimer.ai_generated_en': 'This content is AI-generated and is not affiliated with real persons',
+      'disclaimer.historical': '基于公开资料的 AI 模拟',
+      'disclaimer.historical_en': 'AI simulation based on public information',
+      'disclaimer.home_notice': '本网站所有内容均为 AI 生成，仅供娱乐和学习参考',
+      'disclaimer.home_notice_en': 'All content on this site is AI-generated for entertainment and educational purposes'
     },
     en: {
       'site.title': 'Souls',
@@ -54,7 +60,13 @@
       'footer.copyright': '© 2026 Souls Project',
       'footer.contribute': 'Contribute',
       'search.placeholder': 'Search souls...',
-      'search.no_results': 'No matching souls found'
+      'search.no_results': 'No matching souls found',
+      'disclaimer.ai_generated': '本内容为 AI 生成，与真实人物无关',
+      'disclaimer.ai_generated_en': 'This content is AI-generated and is not affiliated with real persons',
+      'disclaimer.historical': '基于公开资料的 AI 模拟',
+      'disclaimer.historical_en': 'AI simulation based on public information',
+      'disclaimer.home_notice': '本网站所有内容均为 AI 生成，仅供娱乐和学习参考',
+      'disclaimer.home_notice_en': 'All content on this site is AI-generated for entertainment and educational purposes'
     }
   };
   
