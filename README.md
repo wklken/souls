@@ -2,7 +2,7 @@
 
 > it's a vibe-coding project, welcome to commit more souls
 
-SITE: http://agent-souls.com/
+http://agent-souls.com/
 
 ## IMPORTANT
 
