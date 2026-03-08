@@ -88,12 +88,18 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertIn('"tags_zh"', template)
         self.assertIn('"tags_en"', template)
 
-    def test_home_stats_use_data_count(self):
+    def test_home_stats_use_dynamic_directory_counts(self):
         home_layout = (self.repo_root / "_layouts" / "home.html").read_text(encoding="utf-8")
-        self.assertIn('data-count="{{ site.stats.total }}"', home_layout)
-        self.assertIn('data-count="{{ site.stats.real_world }}"', home_layout)
-        self.assertIn('data-count="{{ site.stats.virtual_world }}"', home_layout)
-        self.assertIn('data-count="{{ site.stats.personas }}"', home_layout)
+        self.assertIn("site.static_files", home_layout)
+        self.assertIn("file.name == 'SOUL.md'", home_layout)
+        self.assertIn("file.path contains '/real_world/'", home_layout)
+        self.assertIn("file.path contains '/virtual_world/'", home_layout)
+        self.assertIn("file.path contains '/personas/'", home_layout)
+        self.assertIn('data-count="{{ total_count }}"', home_layout)
+        self.assertIn('data-count="{{ real_world_count }}"', home_layout)
+        self.assertIn('data-count="{{ virtual_world_count }}"', home_layout)
+        self.assertIn('data-count="{{ personas_count }}"', home_layout)
+        self.assertNotIn("site.stats.total", home_layout)
 
     def test_default_layout_includes_json_ld(self):
         default_layout = (self.repo_root / "_layouts" / "default.html").read_text(encoding="utf-8")
@@ -188,11 +194,11 @@ class SoulMarkdownTableSpacingRegressionTest(unittest.TestCase):
             f"Expected a blank line between '{heading}' and '{table_header}'.",
         )
 
-    def test_john_von_neumann_tables_have_required_blank_line(self):
-        zh = (self.repo_root / "real_world" / "john_von_neumann" / "SOUL.md").read_text(
+    def test_hamlet_tables_have_required_blank_line(self):
+        zh = (self.repo_root / "virtual_world" / "hamlet" / "SOUL.md").read_text(
             encoding="utf-8"
         )
-        en = (self.repo_root / "real_world" / "john_von_neumann" / "SOUL.en.md").read_text(
+        en = (self.repo_root / "virtual_world" / "hamlet" / "SOUL.en.md").read_text(
             encoding="utf-8"
         )
 

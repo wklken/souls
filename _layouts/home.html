@@ -2,6 +2,11 @@
 layout: default
 ---
 
+{% assign real_world_count = site.static_files | where_exp: "file", "file.path contains '/real_world/' and file.name == 'SOUL.md'" | size %}
+{% assign virtual_world_count = site.static_files | where_exp: "file", "file.path contains '/virtual_world/' and file.name == 'SOUL.md'" | size %}
+{% assign personas_count = site.static_files | where_exp: "file", "file.path contains '/personas/' and file.name == 'SOUL.md'" | size %}
+{% assign total_count = real_world_count | plus: virtual_world_count | plus: personas_count %}
+
 <div class="home-container">
   <div class="hero">
     <h1 class="hero-title" data-i18n="site.title">Souls</h1>
@@ -17,11 +22,11 @@ layout: default
     </div>
     
     <div class="stats-bar">
-      <span data-i18n="stats.total" data-count="{{ site.stats.total }}">共收录 {{ site.stats.total }} 位人物</span>
+      <span data-i18n="stats.total" data-count="{{ total_count }}">共收录 {{ total_count }} 位人物</span>
       <span class="stats-detail">
-        <span data-i18n="stats.real" data-count="{{ site.stats.real_world }}">{{ site.stats.real_world }} 位历史人物</span> ·
-        <span data-i18n="stats.virtual" data-count="{{ site.stats.virtual_world }}">{{ site.stats.virtual_world }} 位虚构角色</span> ·
-        <span data-i18n="stats.personas" data-count="{{ site.stats.personas }}">{{ site.stats.personas }} 位专家角色</span>
+        <span data-i18n="stats.real" data-count="{{ real_world_count }}">{{ real_world_count }} 位历史人物</span> ·
+        <span data-i18n="stats.virtual" data-count="{{ virtual_world_count }}">{{ virtual_world_count }} 位虚构角色</span> ·
+        <span data-i18n="stats.personas" data-count="{{ personas_count }}">{{ personas_count }} 位专家角色</span>
       </span>
     </div>
   </div>
