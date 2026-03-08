@@ -62,6 +62,18 @@ class GenerateSoulPagesBilingualTest(unittest.TestCase):
             page,
         )
 
+    def test_generated_page_contains_seo_description_and_image_metadata(self):
+        self.module.generate_for_category("personas", "专家角色")
+        page = (self.root / "personas" / "er_doctor.md").read_text(encoding="utf-8")
+
+        self.assertIn('description: "中文内容。"', page)
+        self.assertIn('description_zh: "中文内容。"', page)
+        self.assertIn('description_en: "English content."', page)
+        self.assertIn(
+            'image: "https://robohash.org/souls-personas-er_doctor.png?size=1200x630&set=set4&bgset=bg1"',
+            page,
+        )
+
 
 class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
     def setUp(self):
@@ -82,6 +94,22 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertIn('data-count="{{ site.stats.real_world }}"', home_layout)
         self.assertIn('data-count="{{ site.stats.virtual_world }}"', home_layout)
         self.assertIn('data-count="{{ site.stats.personas }}"', home_layout)
+
+    def test_default_layout_includes_json_ld(self):
+        default_layout = (self.repo_root / "_layouts" / "default.html").read_text(encoding="utf-8")
+        self.assertIn("{% include json_ld.html %}", default_layout)
+
+    def test_json_ld_include_contains_required_schema_types(self):
+        json_ld_include = (self.repo_root / "_includes" / "json_ld.html").read_text(encoding="utf-8")
+        self.assertIn("SearchAction", json_ld_include)
+        self.assertIn("BreadcrumbList", json_ld_include)
+        self.assertIn("ProfilePage", json_ld_include)
+        self.assertIn('"@type": "Person"', json_ld_include)
+
+    def test_soul_layout_contains_related_souls_section(self):
+        soul_layout = (self.repo_root / "_layouts" / "soul.html").read_text(encoding="utf-8")
+        self.assertIn('class="related-souls"', soul_layout)
+        self.assertIn('data-i18n="soul.related"', soul_layout)
 
 
 class DeployWorkflowBaseurlRegressionTest(unittest.TestCase):

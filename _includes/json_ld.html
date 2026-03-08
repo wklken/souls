@@ -1,0 +1,71 @@
+{% assign site_root_url = site.url | append: site.baseurl %}
+{% assign page_absolute_url = page.url | absolute_url %}
+{% assign page_name_zh = page.title_zh | default: page.title | default: site.title %}
+{% assign page_name_en = page.title_en | default: page.english_name | default: page.title | default: site.title %}
+
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": {{ site.title | jsonify }},
+  "url": {{ site_root_url | jsonify }},
+  "description": {{ site.description | strip_html | strip_newlines | normalize_whitespace | jsonify }},
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {{ site_root_url | append: "/?q={search_term_string}" | jsonify }},
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
+{% endif %}
+
+{% if page.layout == "soul" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": {{ site.title | jsonify }},
+      "item": {{ "/" | absolute_url | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ page.category_name_en | default: page.category_name | jsonify }},
+      "item": {{ page.category_url | absolute_url | jsonify }}
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": {{ page_name_en | jsonify }},
+      "item": {{ page_absolute_url | jsonify }}
+    }
+  ]
+}
+</script>
+{% endif %}
+
+{% if page.layout == "soul" and page.category == "real_world" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "name": {{ page_name_en | jsonify }},
+  "url": {{ page_absolute_url | jsonify }},
+  "mainEntity": {
+    "@type": "Person",
+    "name": {{ page_name_en | jsonify }},
+    "alternateName": {{ page_name_zh | jsonify }},
+    "description": {{ page.description_en | default: page.description | default: site.description | jsonify }},
+    "url": {{ page_absolute_url | jsonify }},
+    "keywords": {{ page.tags_en | default: page.tags | join: ", " | jsonify }}{% if page.wikipedia_zh or page.wikipedia_en %},
+    "sameAs": [{% if page.wikipedia_zh %}{{ page.wikipedia_zh | jsonify }}{% endif %}{% if page.wikipedia_zh and page.wikipedia_en %}, {% endif %}{% if page.wikipedia_en %}{{ page.wikipedia_en | jsonify }}{% endif %}]
+    {% endif %}
+  }
+}
+</script>
+{% endif %}

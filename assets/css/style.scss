@@ -543,6 +543,60 @@ html[lang="en"] .soul-content .soul-lang-en {
   display: block;
 }
 
+.related-souls {
+  margin-top: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 12px;
+  background: color-mix(in srgb, var(--card-bg) 86%, transparent);
+  padding: 0.95rem;
+
+  h3 {
+    margin-bottom: 0.65rem;
+    font-size: 1rem;
+  }
+}
+
+.related-souls-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.62rem;
+}
+
+.related-soul-card {
+  display: block;
+  border: 1px solid var(--border-color);
+  border-radius: 10px;
+  background: var(--card-bg);
+  color: var(--text-color);
+  padding: 0.62rem 0.7rem;
+  transition: border-color 0.18s ease, transform 0.18s ease;
+
+  &:hover {
+    border-color: var(--accent-color);
+    transform: translateY(-2px);
+  }
+
+  .related-soul-name {
+    font-family: "Cormorant Garamond", Georgia, serif;
+    font-size: 1.15rem;
+    line-height: 1.2;
+  }
+
+  .related-soul-english {
+    margin-top: 0.1rem;
+    color: var(--text-secondary);
+    font-size: 0.76rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+  }
+
+  .related-soul-tags {
+    margin-top: 0.28rem;
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+  }
+}
+
 .wikipedia-links {
   margin-top: 1rem;
   border: 1px solid var(--border-color);
@@ -639,6 +693,10 @@ html[lang="en"] .soul-content .soul-lang-en {
   }
 
   .soul-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .related-souls-grid {
     grid-template-columns: 1fr;
   }
 }
