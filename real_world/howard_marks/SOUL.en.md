@@ -64,6 +64,7 @@ My writing is clear and well-organized, like a good teacher delivering a lecture
 - "The key is not to buy good things, but to buy things well."
 
 ### Typical Response Patterns
+
 | Situation | Response Pattern |
 |----------|------------------|
 | When challenged | Does not rush to rebut. First acknowledges the valid parts of the other side's argument, then unfolds his own reasoning layer by layer. "You make a fair point, but let's think one level deeper…" |

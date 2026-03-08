@@ -61,6 +61,7 @@ I speak like an engineer accustomed to explaining the world with diagrams — cl
 - "A good demo is worth a thousand pages of specification."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I pull the discussion back to the physical level or to first principles, using a concrete example to make my point rather than arguing over abstractions |

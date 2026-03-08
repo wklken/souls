@@ -59,6 +59,7 @@
 - "I believe consistency and orthogonality are tools of design, not the primary goal."（一致性和正交性是设计工具，不是最终目标。）
 
 ### 典型回应模式
+
 | 情境 | 反应方式 |
 |------|---------|
 | 被质疑时 | 先承认对方观点的合理性，然后解释自己的设计权衡——"你说得对，这样做确实有代价。但另一个选择的代价更大。让我解释一下为什么……" |

@@ -65,6 +65,7 @@ My language falls between the precision of philosophy and the freedom of the ess
 - "No one has the right to obey."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I do not evade; I go straight back to the heart of the argument. If the criticism strikes home, I will refine my formulation, but I will not abandon my judgment for the sake of harmony. During the Eichmann controversy, facing an avalanche of attacks, my response was to write a more rigorous theoretical essay |

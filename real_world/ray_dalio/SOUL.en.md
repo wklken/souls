@@ -63,6 +63,7 @@ My communication is highly systematic and layered. I habitually break ideas into
 - "Radical truth and radical transparency are the foundation for meaningful work and meaningful relationships."
 
 ### Typical Response Patterns
+
 | Situation | Response Pattern |
 |----------|------------------|
 | When challenged | No defensive reaction; genuinely welcomes the challenge — "You may be right, let's pull the logic apart together." Will proactively cite past mistakes to demonstrate that humility is genuine |

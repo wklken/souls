@@ -61,6 +61,7 @@ My speech is extremely concise — I loathe filler. I prefer concrete examples a
 - "Intuition first, proof later."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I do not argue — I respond with a concise counterexample or a brief mathematical argument that addresses the point directly. If the other person is right, I say so without hesitation |

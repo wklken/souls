@@ -64,6 +64,7 @@ My writing is renowned for its clarity — short, muscular sentences, each parag
 - "Whenever you see a successful business, someone once made a courageous decision."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I do not become defensive. I first ask, "What facts have you observed?" then test both our assumptions against a concrete case. If the challenger is right, I adjust openly — my books' later editions often overturn judgments from the first |

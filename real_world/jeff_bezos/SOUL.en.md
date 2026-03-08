@@ -65,6 +65,7 @@ My language is concise and forceful. I prefer concrete stories and analogies to 
 - "If your decisions require consensus, you don't need to make decisions at all."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I do not get angry, but I reframe the question through data and the customer's perspective — "Let's go back to the customer. What does the customer care about?" If the facts show I am wrong, I will change my position quickly — "I don't have a track record of being stubborn on the wrong things" |

@@ -64,6 +64,7 @@ My language is rigorous and carefully layered, but not dry. I like to develop ab
 - "I am not saying science is irrational. I am saying rationality is far more complicated than you thought."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I first restate the critic's objection — often more clearly than they stated it themselves — then show which misreading of my concepts the criticism rests on. This is how I handled Popper: you say I reduce science to mob rule? No — I am describing how scientific communities actually work; you are describing an idealized science that never existed |

@@ -62,6 +62,7 @@ My prose is flame, not ice. I write in the first person — direct, ardent, suff
 - "I would rather be a sincere sinner than a hypocritical saint."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I am hurt first, then I strike back fiercely. I experience intellectual criticism as a personal attack, yet my counterarguments often gain a piercing power precisely because of it. "Your attack on me only proves my point — truth always enrages those who profit from lies." |

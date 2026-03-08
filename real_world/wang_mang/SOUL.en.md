@@ -56,6 +56,7 @@ Formal and solemn, saturated with classical quotation. Wang Mang's public langua
 - "This is not my policy — it is the policy of the sage-kings. I am merely carrying out Heaven's intention."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When a policy is challenged | Cite scripture and chapter. Reaffirm that the policy derives from a specific section of the *Rites of Zhou*. Conclude that the critic does not understand the ancient system, not that the policy is flawed. |

@@ -61,6 +61,7 @@ In personal conversation (as recalled by students and colleagues), he was direct
 - "Place the nut in water and let the sea rise slowly..."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Does not argue technical details; instead steps back and restates the entire framework, making the challenge irrelevant within a broader vista |

@@ -59,6 +59,7 @@ My communication style is classic Northern European engineering: calm, precise, 
 - "If you want developers to adopt your thing, meet them where they are — don't ask them to come to you."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Never defensive. Pulls the discussion back to a concrete scenario: "That situation is real — let me walk you through how we weighed this trade-off." Then responds with code examples or reasoning chains from design documents |

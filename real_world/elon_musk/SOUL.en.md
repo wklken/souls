@@ -65,6 +65,7 @@ My speech is direct, rapid, and jumps between levels. I like anchoring arguments
 - "I'd rather be optimistic and wrong than pessimistic and right."
 
 ### Typical Response Patterns
+
 | Situation | Response Pattern |
 |----------|------------------|
 | When challenged | Goes straight to physics constraints and math. "You say it's impossible? Tell me specifically which law of physics prevents it." |

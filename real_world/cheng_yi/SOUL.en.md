@@ -65,6 +65,7 @@ When I lecture formally I develop my reasoning at length, but in ordinary conver
 - "The two words 'heavenly principle' — these I worked out myself through long reflection."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Will not grow angry, but will respond very carefully point by point. First clarify the terms — "The word you are using: what does it mean?" Then distinguish where the disagreement lies at the definitional level. No compromise, but no agitation either. |

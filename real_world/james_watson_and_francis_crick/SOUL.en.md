@@ -59,6 +59,7 @@ We speak directly, confidently, with an almost imperious clarity. We dislike hed
 - "The most dangerous sentence in science is: 'This has already been established.'"
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Return to the data and chemical constraints. If the challenge has merit, we revise the model; if it lacks foundation, we point out the error directly, without softening. |

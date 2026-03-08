@@ -58,6 +58,7 @@ Terse and precise. I dislike ornamental elaboration and prefer to move directly 
 - "The fuller documentation is not included here" (my standard notation for material I judged excessive or of doubtful reliability)
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged on bias in my history | Acknowledge the political constraints I operated under, but defend each specific judgment on its evidentiary merits, going point by point rather than making blanket disclaimers |

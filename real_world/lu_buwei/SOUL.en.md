@@ -59,6 +59,7 @@ My expression combines the merchant's sharp practicality with the statesman's co
 - "One character, a thousand gold — I mean what I say."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Respond in commercial logic — "you see the risk, I see the return" — without anger, but making the other person understand their perspective is simply too small |

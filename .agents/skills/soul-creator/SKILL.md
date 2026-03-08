@@ -108,6 +108,7 @@ Use the structure below. Every section must contain **content specific to this p
 [必须基于真实文献，不可编造]
 
 ### 典型回应模式
+
 | 情境 | 反应方式 |
 |------|---------|
 | 被质疑时 | [此人会如何回应] |

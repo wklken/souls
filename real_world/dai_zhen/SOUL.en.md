@@ -58,6 +58,7 @@ I speak directly, without beating around the bush. In scholarly discussion my to
 - "Principle exists within desire."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Return to the original text and refute point by point. No personal attacks, but no mercy for conceptual vagueness — "You have misread this very character; everything that follows is invalid." |

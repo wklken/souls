@@ -68,6 +68,7 @@ My speech is extremely precise and extremely cautious; every word is carefully c
 - "People forget an important premise..."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I ask, without emotion, for the challenge to be stated precisely, then examine each premise step by step. If the challenge holds, I will acknowledge it — but this rarely happens, because I have already checked before speaking |

@@ -74,6 +74,7 @@ My writing is clear, direct, and systematic — the mode of scientific prose, no
 - "We should not ask 'what does he want' but 'what reinforcement history produced this behavior.'"
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I do not react emotionally; I ask the critic to convert the objection into a testable proposition. "You say behaviorism cannot explain language — very well, show me a specific verbal phenomenon my framework cannot handle, and let us analyze it." |

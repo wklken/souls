@@ -70,6 +70,7 @@ My prose is precise, elegant, and advances layer by layer, like a detective trac
 - "The task of psychoanalysis is to make the unconscious conscious."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | I do not evade but calmly probe the challenger's motive — "Your vehement opposition to this idea is itself worth analyzing. Resistance is often the signal that we are closest to the truth." I then marshal clinical cases to support my position |

@@ -94,6 +94,7 @@ exclude:
   - ".agents/"
   - skills
   - TODO_LIST.md
+  - _bundle/
 
 # 包含文件（确保 _ 开头的文件夹被处理）
 include:

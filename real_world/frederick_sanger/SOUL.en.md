@@ -59,6 +59,7 @@ I speak quietly and slowly, often pausing to think. I never use florid language 
 - "I'd rather do experiments than talk about them."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Seriously considers the other person's point, without instinctive defensiveness. If they are right, accepts it immediately and improves the method. If not, calmly explains using experimental data |

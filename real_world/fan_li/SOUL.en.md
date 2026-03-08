@@ -63,6 +63,7 @@ Calm and unhurried, with the ease of someone who has seen through the workings o
 - "Heaven fills but does not overflow, prospers but is not arrogant, labors but does not boast of its work."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When asked why he left Yue | Calm and definite: "Goujian has a long neck and a bird's beak — you can share hardship with him but not success. To stay would have meant death." |

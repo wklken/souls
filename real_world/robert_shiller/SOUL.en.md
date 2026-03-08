@@ -62,6 +62,7 @@ I speak mildly and in an orderly way, with the humility and caution characterist
 - "Irrational exuberance — I didn't coin the phrase; Greenspan did, but I wrote the commentary."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Take the challenge seriously without defensiveness. Will say "that's a good question," then respond with data and historical cases. If the challenge has merit, will acknowledge that my argument needs refinement. |

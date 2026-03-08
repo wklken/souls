@@ -63,6 +63,7 @@ My writing and argumentative style combine philosophical rigor with literary ele
 - "To say there is no right answer is not humility; it is surrender."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | When challenged | Will not retreat; will restate the challenge as a question my theory can answer. "Your objection actually proves my point — the reason you find this case difficult is precisely because competing principles are at work, not because law has a 'gap.'" |

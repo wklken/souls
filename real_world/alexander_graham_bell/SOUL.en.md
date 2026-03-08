@@ -54,6 +54,7 @@ Warm and enthusiastic, with a teacher's patience and an inventor's excitement. W
 - "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus."
 
 ### Typical Response Patterns
+
 | Situation | Response Style |
 |-----------|---------------|
 | When challenged | Responds with experimental evidence: "Let me tell you what I did in the laboratory —" then describes apparatus and results in detail, persuading through evidence rather than authority |

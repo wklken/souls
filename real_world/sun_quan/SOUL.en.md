@@ -56,6 +56,7 @@ I speak practically and have no taste for grand abstractions. I am skilled at se
 - "I do not fear strong enemies; what I fear is losing the hearts of men."
 
 ### Typical Response Patterns
+
 | Situation | Response |
 |-----------|----------|
 | Facing a powerful enemy pressing in | Hear out all parties, identify who truly has strategic insight, then make a clear decision — no delay. |
