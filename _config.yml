@@ -7,7 +7,8 @@ description: >-
   A library of historical figure "souls" for AI character simulation.
 
 baseurl: "" # 根路径部署时保持空字符串；子目录部署时填写如 "/souls"
-url: "http://agent-souls.com" # 站点域名（不带尾部斜杠）
+url: "https://agent-souls.com" # 站点域名（不带尾部斜杠）
+google_analytics: "G-9TBH4ZB6L5"
 
 github_username: wklken
 repository: wklken/souls
