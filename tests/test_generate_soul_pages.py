@@ -126,10 +126,19 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         for page_name in ("real_world.md", "virtual_world.md", "personas.md"):
             page = (self.repo_root / page_name).read_text(encoding="utf-8")
             self.assertIn("{% include category_search.html %}", page)
+            self.assertNotIn("{% include search.html %}", page)
 
     def test_i18n_updates_all_search_input_placeholders(self):
         i18n_script = (self.repo_root / "assets" / "js" / "i18n.js").read_text(encoding="utf-8")
         self.assertIn("querySelectorAll('[data-search-input]')", i18n_script)
+
+    def test_category_search_script_has_normalized_matching(self):
+        script = (self.repo_root / "assets" / "js" / "category-search.js").read_text(
+            encoding="utf-8"
+        )
+        self.assertIn("normalizeForSearch", script)
+        self.assertIn("rebuildSearchCache", script)
+        self.assertIn("searchInput.addEventListener('search', filterCards)", script)
 
 
 class DeployWorkflowBaseurlRegressionTest(unittest.TestCase):

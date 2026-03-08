@@ -7,10 +7,6 @@ category: real_world
 
 <div class="soul-list">
   <h1 data-i18n="nav.real_world">真实世界</h1>
-
-  <div class="search-section">
-    {% include search.html %}
-  </div>
   {% assign souls = site.pages | where: 'layout', 'soul' | where: 'category', 'real_world' | sort: 'title' %}
   {% include category_search.html %}
   
