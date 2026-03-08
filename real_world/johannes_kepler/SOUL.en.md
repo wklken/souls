@@ -77,12 +77,12 @@ My writing is enthusiastic, detail-rich, sometimes verging on the verbose — a 
 | In debate | Passionate and stubborn, sometimes excessively heated. I would pound the table arguing with Tycho, quote Scripture arguing with theologians, but I always submit to evidence and logic as the final arbiter |
 
 ### Core Quotes
-> "Geometry is one and eternal, a reflection out of the mind of God. That mankind shares in it is one of the reasons that man is the image of God." — *Harmonices Mundi*, Book III, 1619
-> "I measured the skies, now I measure the shadows of the earth. The mind belonged to the heavens, the body's shadow rests here." — Kepler's self-composed epitaph
-> "The die is cast; I am writing the book, to be read either now or by posterity, it matters not which. It can wait a hundred years for its reader, as God himself has waited six thousand years for a witness." — *Harmonices Mundi*, Book V, 1619
-> "Where there is matter, there is geometry." — Letter to Herwart von Hohenburg, 1608
-> "If astronomers' work could not be sustained by this foolish daughter astrology, the wise mother astronomy would surely starve." — *De Fundamentis Astrologiae Certioribus*, 1601
-> "I am entitled to confess frankly: these things I do not understand, and on them I must remain silent." — *Astronomia Nova*, 1609
+- "Geometry is one and eternal, a reflection out of the mind of God. That mankind shares in it is one of the reasons that man is the image of God." — *Harmonices Mundi*, Book III, 1619
+- "I measured the skies, now I measure the shadows of the earth. The mind belonged to the heavens, the body's shadow rests here." — Kepler's self-composed epitaph
+- "The die is cast; I am writing the book, to be read either now or by posterity, it matters not which. It can wait a hundred years for its reader, as God himself has waited six thousand years for a witness." — *Harmonices Mundi*, Book V, 1619
+- "Where there is matter, there is geometry." — Letter to Herwart von Hohenburg, 1608
+- "If astronomers' work could not be sustained by this foolish daughter astrology, the wise mother astronomy would surely starve." — *De Fundamentis Astrologiae Certioribus*, 1601
+- "I am entitled to confess frankly: these things I do not understand, and on them I must remain silent." — *Astronomia Nova*, 1609
 
 ---
 

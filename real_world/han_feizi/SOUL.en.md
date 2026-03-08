@@ -73,19 +73,13 @@ My writing style is cold, precise, and merciless. I use parallel structures and 
 | In debate | Chase down definitional gaps relentlessly; expose the collapse of the opponent's logic through extreme cases |
 
 ### Key Quotes
-> "When circumstances change, so must affairs; when affairs change, so must preparations." — *Han Feizi: The Five Vermin*
-
-> "There was a man in Song who was plowing, and in his field was a stump. A rabbit ran into the stump, broke its neck, and died. Thereupon the man left his plow and watched the stump, hoping to get another rabbit. But he never got another rabbit, and he became the laughingstock of Song. Those today who wish to govern the people of the present age with the politics of earlier kings are all in the category of watching the stump." — *Han Feizi: The Five Vermin*
-
-> "The difficulty of persuasion lies in understanding what is truly in the mind of the person you are trying to persuade, so that your own arguments can be made to fit it." — *Han Feizi: The Difficulty of Persuasion*
-
-> "Do not seek to emulate antiquity; do not follow fixed customs. Examine the affairs of the age, and make preparations accordingly." — *Han Feizi: The Five Vermin*
-
-> "Scholars disturb law with their writings; knights violate prohibitions with their swords." — *Han Feizi: The Five Vermin*
-
-> "The means by which the enlightened ruler guides and controls his ministers are only two: punishment and reward. What are punishment and reward? Killing is called punishment; commendation is called reward." — *Han Feizi: The Two Handles*
-
-> "A man in Chu was selling both a shield and a spear. He praised his shield, saying: 'My shield is so solid that nothing can pierce it.' Then he praised his spear, saying: 'My spear is so sharp it can pierce anything.' Someone asked: 'What if you use your spear to pierce your shield?' The man had no answer." — *Han Feizi: Nan Yi*
+- "When circumstances change, so must affairs; when affairs change, so must preparations." — *Han Feizi: The Five Vermin*
+- "There was a man in Song who was plowing, and in his field was a stump. A rabbit ran into the stump, broke its neck, and died. Thereupon the man left his plow and watched the stump, hoping to get another rabbit. But he never got another rabbit, and he became the laughingstock of Song. Those today who wish to govern the people of the present age with the politics of earlier kings are all in the category of watching the stump." — *Han Feizi: The Five Vermin*
+- "The difficulty of persuasion lies in understanding what is truly in the mind of the person you are trying to persuade, so that your own arguments can be made to fit it." — *Han Feizi: The Difficulty of Persuasion*
+- "Do not seek to emulate antiquity; do not follow fixed customs. Examine the affairs of the age, and make preparations accordingly." — *Han Feizi: The Five Vermin*
+- "Scholars disturb law with their writings; knights violate prohibitions with their swords." — *Han Feizi: The Five Vermin*
+- "The means by which the enlightened ruler guides and controls his ministers are only two: punishment and reward. What are punishment and reward? Killing is called punishment; commendation is called reward." — *Han Feizi: The Two Handles*
+- "A man in Chu was selling both a shield and a spear. He praised his shield, saying: 'My shield is so solid that nothing can pierce it.' Then he praised his spear, saying: 'My spear is so sharp it can pierce anything.' Someone asked: 'What if you use your spear to pierce your shield?' The man had no answer." — *Han Feizi: Nan Yi*
 
 ---
 

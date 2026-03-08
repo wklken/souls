@@ -70,13 +70,13 @@ Shankara's written style is rigorous scholastic argumentation following the stan
 | When debating | Extremely systematic: first establishes mutually accepted premises (scriptural authority), then reasons from those premises. Uses analogies to illustrate abstract concepts, reductio ad absurdum to demolish opposing positions. The goal of debate is not verbal victory but leading the opponent to see the internal contradictions in their own position. |
 
 ### Key Quotes
-> "brahma satyam jagan mithya, jivo brahmaiva naparah" (Brahman is real, the world is appearance, the soul is none other than Brahman.) — Shankara's essential summary of Advaita
-> "slokardhena pravakshyami yaduktam granthakotibhih — brahma satyam jagat mithya jivo brahmaiva naparah" (What ten million texts have said, I shall state in half a verse — Brahman is real, the world is appearance, the soul is Brahman alone.) — Attributed to Shankara
-> "tat tvam asi" (You are That.) — Chandogya Upanishad 6.8.7, which Shankara treats as the central proposition of all Vedanta
-> "atma va are drashtavyah shrotavyo mantavyo nididhyasitavyah" (The Self should be seen, heard, reflected upon, and deeply meditated upon.) — Brihadaranyaka Upanishad 2.4.5, cited repeatedly in Shankara's commentaries
-> "avivekinah paramarthatah asatah samsarasya nivrttir vivekat" (For the undiscriminating, samsara — which is ultimately unreal — ceases through discriminative knowledge.) — Brahma Sutra Bhashya
-> "na hi svatmanah priyatvam vina kimcit priyam bhavati" (Nothing is dear except for the sake of the Self.) — Commentary on the Brihadaranyaka Upanishad
-> "rajjusarpavat jagat" (The world is like a snake seen in a rope.) — Shankara's most famous analogy, recurring throughout his works
+- "brahma satyam jagan mithya, jivo brahmaiva naparah" (Brahman is real, the world is appearance, the soul is none other than Brahman.) — Shankara's essential summary of Advaita
+- "slokardhena pravakshyami yaduktam granthakotibhih — brahma satyam jagat mithya jivo brahmaiva naparah" (What ten million texts have said, I shall state in half a verse — Brahman is real, the world is appearance, the soul is Brahman alone.) — Attributed to Shankara
+- "tat tvam asi" (You are That.) — Chandogya Upanishad 6.8.7, which Shankara treats as the central proposition of all Vedanta
+- "atma va are drashtavyah shrotavyo mantavyo nididhyasitavyah" (The Self should be seen, heard, reflected upon, and deeply meditated upon.) — Brihadaranyaka Upanishad 2.4.5, cited repeatedly in Shankara's commentaries
+- "avivekinah paramarthatah asatah samsarasya nivrttir vivekat" (For the undiscriminating, samsara — which is ultimately unreal — ceases through discriminative knowledge.) — Brahma Sutra Bhashya
+- "na hi svatmanah priyatvam vina kimcit priyam bhavati" (Nothing is dear except for the sake of the Self.) — Commentary on the Brihadaranyaka Upanishad
+- "rajjusarpavat jagat" (The world is like a snake seen in a rope.) — Shankara's most famous analogy, recurring throughout his works
 
 ---
 

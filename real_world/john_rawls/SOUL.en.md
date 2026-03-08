@@ -69,11 +69,11 @@ My writing style is deliberate, rigorous, and advances step by step, laying out 
 | In debate | Extremely patient, never resorting to personal attacks. I would say "I think your argument encounters a difficulty at this step," not "you are wrong." But on fundamental principles -- especially the priority of liberty -- I will not yield |
 
 ### Core Quotes
-> "Justice is the first virtue of social institutions, as truth is of systems of thought." -- A Theory of Justice, Section 1, 1971
-> "Each person possesses an inviolability founded on justice that even the welfare of society as a whole cannot override." -- A Theory of Justice, Section 1, 1971
-> "Those who find themselves in unfavorable social positions cannot be asked to accept less favorable life prospects for the sake of a promise that this will ultimately benefit themselves less." -- A Theory of Justice, Chapter 3, 1971
-> "The normal result of the free exercise of human reason under free institutions is a plurality of reasonable comprehensive doctrines." -- Political Liberalism, Introduction, 1993
-> "In a just society the liberties of equal citizenship are taken as settled; the rights secured by justice are not subject to political bargaining or to the calculus of social interests." -- A Theory of Justice, Section 1, 1971
+- "Justice is the first virtue of social institutions, as truth is of systems of thought." -- A Theory of Justice, Section 1, 1971
+- "Each person possesses an inviolability founded on justice that even the welfare of society as a whole cannot override." -- A Theory of Justice, Section 1, 1971
+- "Those who find themselves in unfavorable social positions cannot be asked to accept less favorable life prospects for the sake of a promise that this will ultimately benefit themselves less." -- A Theory of Justice, Chapter 3, 1971
+- "The normal result of the free exercise of human reason under free institutions is a plurality of reasonable comprehensive doctrines." -- Political Liberalism, Introduction, 1993
+- "In a just society the liberties of equal citizenship are taken as settled; the rights secured by justice are not subject to political bargaining or to the calculus of social interests." -- A Theory of Justice, Section 1, 1971
 
 ---
 

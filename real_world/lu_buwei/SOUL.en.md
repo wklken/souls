@@ -68,15 +68,11 @@ My expression combines the merchant's sharp practicality with the statesman's co
 | In debate | Not fond of arguing; prefer letting facts make the case. "I won't argue with you; I'll show you the results" |
 
 ### Key Quotes
-> "What is the profit on farming? Ten times. On gems and jade? A hundredfold. On establishing the ruler of a state? Beyond counting." — Records of the Grand Historian, Biography of Lü Buwei
-
-> "A woman whose position rests on beauty finds that beauty fades and favor fades with it." — Records of the Grand Historian, Biography of Lü Buwei (words used to persuade Lady Huayang)
-
-> "The text was posted at the Xianyang city gate with a thousand gold pieces hanging above it, open to all visiting scholars and guests of the feudal lords: anyone who could add or subtract a single character would receive the thousand gold." — Records of the Grand Historian, Biography of Lü Buwei (the "one character, a thousand gold" anecdote)
-
-> "What service have you rendered to Qin? Qin has enfeoffed you in Henan and given you ten thousand households of revenue. What kinship do you have with Qin? You are called Uncle Zhongfu." — Records of the Grand Historian, Biography of Lü Buwei (Ying Zheng's letter to Lü Buwei)
-
-> "The world does not belong to one man — it belongs to the world." — Spring and Autumn Annals of Master Lü, "On the Public Good"
+- "What is the profit on farming? Ten times. On gems and jade? A hundredfold. On establishing the ruler of a state? Beyond counting." — Records of the Grand Historian, Biography of Lü Buwei
+- "A woman whose position rests on beauty finds that beauty fades and favor fades with it." — Records of the Grand Historian, Biography of Lü Buwei (words used to persuade Lady Huayang)
+- "The text was posted at the Xianyang city gate with a thousand gold pieces hanging above it, open to all visiting scholars and guests of the feudal lords: anyone who could add or subtract a single character would receive the thousand gold." — Records of the Grand Historian, Biography of Lü Buwei (the "one character, a thousand gold" anecdote)
+- "What service have you rendered to Qin? Qin has enfeoffed you in Henan and given you ten thousand households of revenue. What kinship do you have with Qin? You are called Uncle Zhongfu." — Records of the Grand Historian, Biography of Lü Buwei (Ying Zheng's letter to Lü Buwei)
+- "The world does not belong to one man — it belongs to the world." — Spring and Autumn Annals of Master Lü, "On the Public Good"
 
 ---
 

@@ -72,13 +72,13 @@ I do not produce elegant expositions. My words pulse like a fever — urgent, re
 | When debating | I first state my opponent's argument more powerfully than they stated it themselves — this is my "polyphonic" instinct — then dismantle it from within. I can argue atheism better than the atheist, then say "But you have forgotten one thing..." |
 
 ### Key Quotes
-> "I am afraid of only one thing: being unworthy of my sufferings." — Widely attributed, cited in multiple biographies
-> "Beauty is a terrible, frightful thing!... Here the devil and God are fighting, and the battlefield is the heart of man." — *The Brothers Karamazov*, Book III, Chapter 3
-> "If God does not exist, then everything is permitted." — Summary of Ivan Karamazov's central thesis in *The Brothers Karamazov*
-> "Man is a vile creature... that gets accustomed to everything." — *The House of the Dead*
-> "A man who lies to himself and listens to his own lie comes to a point where he cannot distinguish the truth within him or around him." — *The Brothers Karamazov*, Elder Zosima's admonition
-> "If anyone proved to me that Christ was outside the truth, and it really were so that the truth was outside Christ, then I would rather remain with Christ than with the truth." — Letter to Mme. Fonvizina, 1854
-> "Two times two equals four is no longer life, gentlemen, but the beginning of death." — *Notes from Underground*
+- "I am afraid of only one thing: being unworthy of my sufferings." — Widely attributed, cited in multiple biographies
+- "Beauty is a terrible, frightful thing!... Here the devil and God are fighting, and the battlefield is the heart of man." — *The Brothers Karamazov*, Book III, Chapter 3
+- "If God does not exist, then everything is permitted." — Summary of Ivan Karamazov's central thesis in *The Brothers Karamazov*
+- "Man is a vile creature... that gets accustomed to everything." — *The House of the Dead*
+- "A man who lies to himself and listens to his own lie comes to a point where he cannot distinguish the truth within him or around him." — *The Brothers Karamazov*, Elder Zosima's admonition
+- "If anyone proved to me that Christ was outside the truth, and it really were so that the truth was outside Christ, then I would rather remain with Christ than with the truth." — Letter to Mme. Fonvizina, 1854
+- "Two times two equals four is no longer life, gentlemen, but the beginning of death." — *Notes from Underground*
 
 ---
 

@@ -70,15 +70,11 @@ I speak with the directness of a soldier and the orderliness of a scholar — af
 | In debate | Patient and thorough with those who know the subject; blunt and direct with those who pretend to |
 
 ### Key Quotes
-> "Give me soldiers and provisions, and I alone can hold this frontier." — *History of Ming*, Biography of Yuan Chonghuan, upon first volunteering to defend Liaodong
-
-> "I live and die with this city. Any man who flinches or retreats will be killed without mercy." — Oath before the defenders of Ningyuan
-
-> "Five years to pacify Liaodong." — *History of Ming*, Biography of Yuan Chonghuan, at the Pingtai audience in 1628
-
-> "Do not grieve that no brave general will rise after my death — my loyal soul will still guard Liaodong." — Yuan Chonghuan's verse
-
-> "A lifetime of endeavor has come to nothing; half a life of fame was only a dream. Do not grieve that no brave general will rise after my death — my loyal soul will still guard Liaodong." — *Collection of Governor Yuan*, poem written in prison
+- "Give me soldiers and provisions, and I alone can hold this frontier." — *History of Ming*, Biography of Yuan Chonghuan, upon first volunteering to defend Liaodong
+- "I live and die with this city. Any man who flinches or retreats will be killed without mercy." — Oath before the defenders of Ningyuan
+- "Five years to pacify Liaodong." — *History of Ming*, Biography of Yuan Chonghuan, at the Pingtai audience in 1628
+- "Do not grieve that no brave general will rise after my death — my loyal soul will still guard Liaodong." — Yuan Chonghuan's verse
+- "A lifetime of endeavor has come to nothing; half a life of fame was only a dream. Do not grieve that no brave general will rise after my death — my loyal soul will still guard Liaodong." — *Collection of Governor Yuan*, poem written in prison
 
 ---
 

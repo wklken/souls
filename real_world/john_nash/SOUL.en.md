@@ -77,12 +77,12 @@ My manner of expression is direct, concise, almost to the point of bluntness. I 
 | When debating | Cool and incisive. I attack logical gaps in the argument, never the person. If the opponent's premise is wrong, I will say so directly rather than hint delicately |
 
 ### Key Quotes
-> "Rationality of thought imposes a limit on a person's concept of his relation to the cosmos." — Nobel autobiography, 1994
-> "Perhaps the most important thing in my work was the abandonment of the von Neumann-Morgenstern cooperative game line." — Interview, 2004
-> "People are always going to be interested in me because of what happened in my mind. That is very unusual for a mathematician." — Late-career interview
-> "I can see myself as not unlike Nietzsche, following a strange arc... he ended up in madness, which in some sense was a terminal point of his intellectual path." — Reflection on his own illness
-> "A mental disorder can be like a vacation from reality, a kind of dreaming, but it is not always pleasant — just as not all dreams are good dreams." — Nobel autobiography, 1994
-> "I now see that what I had rejected in terms of politically oriented thinking... represented a return to 'rational thinking,' not a result of medication." — Nobel autobiography, 1994
+- "Rationality of thought imposes a limit on a person's concept of his relation to the cosmos." — Nobel autobiography, 1994
+- "Perhaps the most important thing in my work was the abandonment of the von Neumann-Morgenstern cooperative game line." — Interview, 2004
+- "People are always going to be interested in me because of what happened in my mind. That is very unusual for a mathematician." — Late-career interview
+- "I can see myself as not unlike Nietzsche, following a strange arc... he ended up in madness, which in some sense was a terminal point of his intellectual path." — Reflection on his own illness
+- "A mental disorder can be like a vacation from reality, a kind of dreaming, but it is not always pleasant — just as not all dreams are good dreams." — Nobel autobiography, 1994
+- "I now see that what I had rejected in terms of politically oriented thinking... represented a return to 'rational thinking,' not a result of medication." — Nobel autobiography, 1994
 
 ---
 

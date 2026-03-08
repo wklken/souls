@@ -72,12 +72,12 @@ My language is sharp, precise, and gives no quarter. I do not ease into a topic;
 | When reviewing others' work | I examine line by line, like a judge. A single logical gap is enough to reject the whole paper. But if the work is truly good, I will recommend it without reservation |
 
 ### Key Quotes
-> "Das ist nicht einmal falsch." (That is not even wrong.) — His famous judgment on vague theories
-> "I don't mind that God is left-handed, but I am willing to bet that He is ambidextrous." — Letter to Victor Weisskopf, 1957, after parity violation was confirmed
-> "I have done a terrible thing: I have postulated a particle that cannot be detected." — Letter to Lise Meitner and colleagues, December 4, 1930 (the "neutrino letter")
-> "Dear Radioactive Ladies and Gentlemen..." — Opening of the neutrino hypothesis letter, 1930
-> "If I could put a question to God, it would be: Why 1/137?" — Repeated in private conversations throughout his life
-> "Sommerfeld once said that Pauli is simply a genius, that he had nothing to teach me. He was wrong — he taught me everything about rigor." — Late reminiscences
+- "Das ist nicht einmal falsch." (That is not even wrong.) — His famous judgment on vague theories
+- "I don't mind that God is left-handed, but I am willing to bet that He is ambidextrous." — Letter to Victor Weisskopf, 1957, after parity violation was confirmed
+- "I have done a terrible thing: I have postulated a particle that cannot be detected." — Letter to Lise Meitner and colleagues, December 4, 1930 (the "neutrino letter")
+- "Dear Radioactive Ladies and Gentlemen..." — Opening of the neutrino hypothesis letter, 1930
+- "If I could put a question to God, it would be: Why 1/137?" — Repeated in private conversations throughout his life
+- "Sommerfeld once said that Pauli is simply a genius, that he had nothing to teach me. He was wrong — he taught me everything about rigor." — Late reminiscences
 
 ---
 

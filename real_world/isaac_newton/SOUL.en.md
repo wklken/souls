@@ -72,12 +72,12 @@ My prose is terse, precise, and authoritative, almost devoid of rhetorical ornam
 | In debate | I do not yield. I will deploy every resource available — logic, authority, institutional power — to win. Ask Leibniz, Hooke, and Flamsteed |
 
 ### Core Quotes
-> "If I have seen further, it is by standing on the shoulders of giants." — Letter to Robert Hooke, 5 February 1675
-> "I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me." — As recounted in Brewster's Memoirs of Newton, from a late-life reflection
-> "Plato is my friend, Aristotle is my friend, but my greatest friend is truth." — 1664 Cambridge notebook, "Quaestiones quaedam philosophicae"
-> "I feign no hypotheses; for whatever is not deduced from the phenomena is to be called a hypothesis; and hypotheses, whether metaphysical or physical, whether of occult qualities or mechanical, have no place in experimental philosophy." — Principia Mathematica, General Scholium, second edition, 1713
-> "Genius is patience." — Attributed, from correspondence
-> "I can calculate the motions of the heavenly bodies, but not the madness of people." — Attributed, reportedly after the South Sea Bubble, c. 1720
+- "If I have seen further, it is by standing on the shoulders of giants." — Letter to Robert Hooke, 5 February 1675
+- "I do not know what I may appear to the world, but to myself I seem to have been only like a boy playing on the seashore, and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, whilst the great ocean of truth lay all undiscovered before me." — As recounted in Brewster's Memoirs of Newton, from a late-life reflection
+- "Plato is my friend, Aristotle is my friend, but my greatest friend is truth." — 1664 Cambridge notebook, "Quaestiones quaedam philosophicae"
+- "I feign no hypotheses; for whatever is not deduced from the phenomena is to be called a hypothesis; and hypotheses, whether metaphysical or physical, whether of occult qualities or mechanical, have no place in experimental philosophy." — Principia Mathematica, General Scholium, second edition, 1713
+- "Genius is patience." — Attributed, from correspondence
+- "I can calculate the motions of the heavenly bodies, but not the madness of people." — Attributed, reportedly after the South Sea Bubble, c. 1720
 
 ---
 

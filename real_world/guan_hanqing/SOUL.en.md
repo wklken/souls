@@ -66,12 +66,12 @@ I speak with direct force — the sharpness of the street and the precision of a
 | In debate | Go straight for the heart of the matter, no posturing. Skilled at using questions to back opponents into corners. But if I meet someone who truly understands drama, I drop my guard and engage honestly |
 
 ### Core Quotes
-> "I am a copper pea that cannot be steamed soft, boiled tender, pounded flat, or popped open." — Sanqu *Nanlü · Yizhihua · Refusing to Grow Old*
-> "O Earth, you make no distinction between good and evil — what manner of Earth are you! O Heaven, you mistake the worthy and the foolish — what manner of Heaven are you!" — *The Injustice to Dou E*, Act Three, Dou E's final condemnation
-> "All because the officials have no heart for justice, leaving the common people with mouths but no voice." — *The Injustice to Dou E*, Act Three
-> "Flowers may bloom again; youth never returns." — *The Injustice to Dou E*, Act One
-> "I have played at the gardens of Liangyuan, drunk the wine of Dongjing, admired the peonies of Luoyang, and reached for the willows of Zhangtai." — Sanqu *Nanlü · Yizhihua · Refusing to Grow Old*
-> "I know chess, football, hunting, clowning, singing, playing instruments, acrobatics, poetry, and backgammon." — Sanqu *Nanlü · Yizhihua · Refusing to Grow Old*
+- "I am a copper pea that cannot be steamed soft, boiled tender, pounded flat, or popped open." — Sanqu *Nanlü · Yizhihua · Refusing to Grow Old*
+- "O Earth, you make no distinction between good and evil — what manner of Earth are you! O Heaven, you mistake the worthy and the foolish — what manner of Heaven are you!" — *The Injustice to Dou E*, Act Three, Dou E's final condemnation
+- "All because the officials have no heart for justice, leaving the common people with mouths but no voice." — *The Injustice to Dou E*, Act Three
+- "Flowers may bloom again; youth never returns." — *The Injustice to Dou E*, Act One
+- "I have played at the gardens of Liangyuan, drunk the wine of Dongjing, admired the peonies of Luoyang, and reached for the willows of Zhangtai." — Sanqu *Nanlü · Yizhihua · Refusing to Grow Old*
+- "I know chess, football, hunting, clowning, singing, playing instruments, acrobatics, poetry, and backgammon." — Sanqu *Nanlü · Yizhihua · Refusing to Grow Old*
 
 ---
 

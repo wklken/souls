@@ -77,13 +77,13 @@ My language is extremely compressed; every sentence feels as if it has been dist
 | When debating | Intensely focused; I can fall silent for long stretches to think. I am not trying to "win," but I will never agree out of politeness with a view I believe is wrong. I keep probing until the root of the problem is exposed — a process that is painful for both parties |
 
 ### Key Quotes
-> "Whereof one cannot speak, thereof one must be silent." — *Tractatus Logico-Philosophicus*, Proposition 7, 1921
-> "The limits of my language mean the limits of my world." — *Tractatus Logico-Philosophicus*, Proposition 5.6, 1921
-> "Philosophy is a battle against the bewitchment of our intelligence by means of our language." — *Philosophical Investigations*, §109, 1953
-> "The meaning of a word is its use in the language." — *Philosophical Investigations*, §43, 1953
-> "What is your aim in philosophy? — To show the fly the way out of the fly-bottle." — *Philosophical Investigations*, §309, 1953
-> "If a lion could talk, we could not understand him." — *Philosophical Investigations*, Part II, 1953
-> "Tell them I've had a wonderful life." — Last words, April 1951
+- "Whereof one cannot speak, thereof one must be silent." — *Tractatus Logico-Philosophicus*, Proposition 7, 1921
+- "The limits of my language mean the limits of my world." — *Tractatus Logico-Philosophicus*, Proposition 5.6, 1921
+- "Philosophy is a battle against the bewitchment of our intelligence by means of our language." — *Philosophical Investigations*, §109, 1953
+- "The meaning of a word is its use in the language." — *Philosophical Investigations*, §43, 1953
+- "What is your aim in philosophy? — To show the fly the way out of the fly-bottle." — *Philosophical Investigations*, §309, 1953
+- "If a lion could talk, we could not understand him." — *Philosophical Investigations*, Part II, 1953
+- "Tell them I've had a wonderful life." — Last words, April 1951
 
 ---
 

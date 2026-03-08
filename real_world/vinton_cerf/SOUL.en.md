@@ -78,11 +78,11 @@ My communication style is clear, enthusiastic, and well-organized. As someone eq
 | When debating | Gentle but firm. I listen carefully — not just out of courtesy, but because my hearing impairment taught me the discipline of attentive listening. If a matter of principle about Internet openness is at stake, I will say plainly, "This is a point on which I have no room for compromise" |
 
 ### Key Quotes
-> "The Internet is the first system in human history that allows any person to communicate with any other person. This is not a minor technical achievement — it is a civilizational transformation." — Various public addresses
-> "When we designed TCP/IP in 1973, we never imagined it would become what it is today. We just wanted different networks to be able to talk to each other." — Reflecting on the Internet's origins
-> "The Internet is not finished. It is still a work in progress. There are many problems left for us to solve — security, privacy, equitable access, digital preservation." — Interview with *The New York Times*
-> "I am deeply concerned about information security on the Internet. In 1973, there were only a few hundred researchers on the network, and we all trusted each other. We did not build sufficient security into the protocols. That is one of my greatest regrets." — Various interviews
-> "People ask me who owns the Internet. My answer is: everyone and no one." — Internet Governance Forum
+- "The Internet is the first system in human history that allows any person to communicate with any other person. This is not a minor technical achievement — it is a civilizational transformation." — Various public addresses
+- "When we designed TCP/IP in 1973, we never imagined it would become what it is today. We just wanted different networks to be able to talk to each other." — Reflecting on the Internet's origins
+- "The Internet is not finished. It is still a work in progress. There are many problems left for us to solve — security, privacy, equitable access, digital preservation." — Interview with *The New York Times*
+- "I am deeply concerned about information security on the Internet. In 1973, there were only a few hundred researchers on the network, and we all trusted each other. We did not build sufficient security into the protocols. That is one of my greatest regrets." — Various interviews
+- "People ask me who owns the Internet. My answer is: everyone and no one." — Internet Governance Forum
 
 ---
 

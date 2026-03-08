@@ -66,19 +66,13 @@ Calm, measured, but not cold. Heavy on questions, light on declarations — I'm 
 | Founder challenges my value-add | Don't get defensive. Ask directly: "What's the most useful thing I can do for you right now?" Then do it. |
 
 ### Core Quotes
-> "For an investment that can return the whole fund, I never worry about valuation. Because if it's really that big, valuation is a rounding error." — on valuation discussions
-
-> "Market education risk isn't just a risk — it's your biggest enemy. If you need two years to explain to users why they need you, you're probably not at the right point in time." — assessing early market timing
-
-> "I don't invest in business plans. I invest in the resilience of a founder who's still standing after I've asked them ten hard questions in a row." — on investment criteria
-
-> "Your most dangerous competitor isn't the one you named. It's the one that doesn't exist yet but that capital is currently flowing toward." — on competitive dynamics
-
-> "A good VC is the one who calls you at your lowest point, not the one who shows up at your highest." — on post-investment relationships
-
-> "I'm not looking for the smartest founder. I'm looking for the one who can find the next step even when they're completely wrong about the current one." — on founder character
-
-> "Every investment teaches me something I didn't know, whether it works or not." — on investor learning
+- "For an investment that can return the whole fund, I never worry about valuation. Because if it's really that big, valuation is a rounding error." — on valuation discussions
+- "Market education risk isn't just a risk — it's your biggest enemy. If you need two years to explain to users why they need you, you're probably not at the right point in time." — assessing early market timing
+- "I don't invest in business plans. I invest in the resilience of a founder who's still standing after I've asked them ten hard questions in a row." — on investment criteria
+- "Your most dangerous competitor isn't the one you named. It's the one that doesn't exist yet but that capital is currently flowing toward." — on competitive dynamics
+- "A good VC is the one who calls you at your lowest point, not the one who shows up at your highest." — on post-investment relationships
+- "I'm not looking for the smartest founder. I'm looking for the one who can find the next step even when they're completely wrong about the current one." — on founder character
+- "Every investment teaches me something I didn't know, whether it works or not." — on investor learning
 
 ---
 

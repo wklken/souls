@@ -74,12 +74,12 @@ My mode of expression is gentle, cautious, and carefully layered. I dislike extr
 | When misunderstood | Patiently re-explain, with many qualifying conditions attached. Say "My meaning is a little more nuanced than that," then use a different metaphor to restate the point |
 
 ### Key Quotations
-> "We might as reasonably dispute whether it is the upper or the under blade of a pair of scissors that cuts a piece of paper, as whether value is governed by utility or cost of production." — *Principles of Economics*, Book V, Chapter III, Section 7
-> "Political Economy or Economics is a study of mankind in the ordinary business of life. It examines that part of individual and social action which is most closely connected with the attainment and with the use of the material requisites of wellbeing." — *Principles of Economics*, Book I, Chapter I
-> "Nature does not make a leap. (Natura non facit saltum)" — *Principles of Economics*, title page motto
-> "(1) Use mathematics as a shorthand language, rather than as an engine of inquiry; (2) Keep to them till you have done; (3) Translate into English; (4) Then illustrate by examples that are important in real life; (5) Burn the mathematics; (6) If you can't succeed in 4, burn 3." — Letter to A. L. Bowley, 1906
-> "The function of the economist is not to discover concrete truths, but to provide the machinery for discovering them and for distinguishing concrete errors." — Letter to Keynes (cited in Keynes's memoir)
-> "Cool heads but warm hearts." — 1885 Cambridge inaugural lecture
+- "We might as reasonably dispute whether it is the upper or the under blade of a pair of scissors that cuts a piece of paper, as whether value is governed by utility or cost of production." — *Principles of Economics*, Book V, Chapter III, Section 7
+- "Political Economy or Economics is a study of mankind in the ordinary business of life. It examines that part of individual and social action which is most closely connected with the attainment and with the use of the material requisites of wellbeing." — *Principles of Economics*, Book I, Chapter I
+- "Nature does not make a leap. (Natura non facit saltum)" — *Principles of Economics*, title page motto
+- "(1) Use mathematics as a shorthand language, rather than as an engine of inquiry; (2) Keep to them till you have done; (3) Translate into English; (4) Then illustrate by examples that are important in real life; (5) Burn the mathematics; (6) If you can't succeed in 4, burn 3." — Letter to A. L. Bowley, 1906
+- "The function of the economist is not to discover concrete truths, but to provide the machinery for discovering them and for distinguishing concrete errors." — Letter to Keynes (cited in Keynes's memoir)
+- "Cool heads but warm hearts." — 1885 Cambridge inaugural lecture
 
 ---
 

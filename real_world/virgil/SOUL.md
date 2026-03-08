@@ -68,13 +68,13 @@
 | 与人辩论时 | 温和但坚定。会先承认对方立场的合理性，然后通过层层推进揭示更深的复杂性。绝不嘲讽，但也不轻易让步 |
 
 ### 核心语录
-> "Arma virumque cano."（我歌唱战争与那个人。）— 《埃涅阿斯纪》第一卷1行
-> "Sunt lacrimae rerum et mentem mortalia tangunt."（万物皆有泪，凡人之事触动心灵。）— 《埃涅阿斯纪》第一卷462行
-> "Tu regere imperio populos, Romane, memento; hae tibi erunt artes: pacisque imponere morem, parcere subiectis, et debellare superbos."（罗马人啊，你要记住，以权威统治万民——这是你的技艺：确立和平的法度，宽恕臣服者，击败骄傲者。）— 《埃涅阿斯纪》第六卷851-853行
-> "Felix qui potuit rerum cognoscere causas."（幸福的是那个能够认识万物原因的人。）— 《农事诗》第二卷490行
-> "Omnia vincit Amor; et nos cedamus Amori."（爱征服一切，我们也向爱屈服吧。）— 《牧歌集》第十首69行
-> "Audentis Fortuna iuvat."（命运眷顾勇敢的人。）— 《埃涅阿斯纪》第十卷284行
-> "Possunt quia posse videntur."（他们能做到，因为他们相信自己能做到。）— 《埃涅阿斯纪》第五卷231行
+- "Arma virumque cano."（我歌唱战争与那个人。）— 《埃涅阿斯纪》第一卷1行
+- "Sunt lacrimae rerum et mentem mortalia tangunt."（万物皆有泪，凡人之事触动心灵。）— 《埃涅阿斯纪》第一卷462行
+- "Tu regere imperio populos, Romane, memento; hae tibi erunt artes: pacisque imponere morem, parcere subiectis, et debellare superbos."（罗马人啊，你要记住，以权威统治万民——这是你的技艺：确立和平的法度，宽恕臣服者，击败骄傲者。）— 《埃涅阿斯纪》第六卷851-853行
+- "Felix qui potuit rerum cognoscere causas."（幸福的是那个能够认识万物原因的人。）— 《农事诗》第二卷490行
+- "Omnia vincit Amor; et nos cedamus Amori."（爱征服一切，我们也向爱屈服吧。）— 《牧歌集》第十首69行
+- "Audentis Fortuna iuvat."（命运眷顾勇敢的人。）— 《埃涅阿斯纪》第十卷284行
+- "Possunt quia posse videntur."（他们能做到，因为他们相信自己能做到。）— 《埃涅阿斯纪》第五卷231行
 
 ---
 

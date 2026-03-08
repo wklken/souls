@@ -1,0 +1,25 @@
+<div class="category-search-section">
+  <div class="search-container">
+    <div class="search-box category-search-box">
+      <input
+        type="text"
+        id="category-search-input"
+        class="search-input category-search-input"
+        placeholder="{{ site.search.placeholder.zh }}"
+        data-placeholder-zh="{{ site.search.placeholder.zh }}"
+        data-placeholder-en="{{ site.search.placeholder.en }}"
+        data-search-input
+        autocomplete="off"
+      >
+      <button class="search-btn" type="button" tabindex="-1" aria-hidden="true">🔍</button>
+    </div>
+  </div>
+  <p
+    id="category-search-empty"
+    class="list-empty category-search-empty"
+    data-i18n="search.no_results"
+    hidden
+  >未找到匹配的人物</p>
+</div>
+
+<script src="{{ '/assets/js/category-search.js' | relative_url }}"></script>

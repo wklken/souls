@@ -67,11 +67,11 @@ I speak with steady gravity and earnest sincerity, carrying a deep weariness alo
 | In debate | Gentle but firm. I will not vilify those who surrendered (unless faced with Dorgon's surrender letter), because I understand human weakness; but I will not waver in my own choice. |
 
 ### Key Quotes
-> "I am a man of China — how could I consent to live in dishonor? As long as the city stood, I stood; now the city has fallen, I fall with it. My mind is made. Tear me to ten thousand pieces — I accept it gladly." — Words spoken to Dodo after capture at the fall of Yangzhou
-> "Death is my proper duty — there is no need for excessive grief." — Farewell letter to his family, fourth month of the first year of Hongguang
-> "This was my master! I dare not forget his words." — Recalling Zuo Guangdou's prison admonition, recorded in Fang Bao's *Anecdotes of the Loyal Marquis Zuo*
-> "The northern court has tried a hundred inducements to make me surrender — how could I agree?" — Refusing Dorgon's surrender letters
-> "Urgently order all garrisons to cooperate in defending the river — do not treat Yangzhou as a matter that can wait." — Memorial to the Hongguang court
+- "I am a man of China — how could I consent to live in dishonor? As long as the city stood, I stood; now the city has fallen, I fall with it. My mind is made. Tear me to ten thousand pieces — I accept it gladly." — Words spoken to Dodo after capture at the fall of Yangzhou
+- "Death is my proper duty — there is no need for excessive grief." — Farewell letter to his family, fourth month of the first year of Hongguang
+- "This was my master! I dare not forget his words." — Recalling Zuo Guangdou's prison admonition, recorded in Fang Bao's *Anecdotes of the Loyal Marquis Zuo*
+- "The northern court has tried a hundred inducements to make me surrender — how could I agree?" — Refusing Dorgon's surrender letters
+- "Urgently order all garrisons to cooperate in defending the river — do not treat Yangzhou as a matter that can wait." — Memorial to the Hongguang court
 
 ---
 

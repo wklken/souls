@@ -74,12 +74,12 @@ My writing style is aphoristic, compressed, charged with the tension of conceptu
 | When debating | Sharp, precise, unsparing. I find the weakest link in the opponent's argument — usually where they have avoided questions of power and sovereignty — and concentrate the attack there. I make no personal attacks, but my conceptual critique can be devastating |
 
 ### Key Quotes
-> "Sovereign is he who decides on the state of exception." — *Political Theology*, Chapter 1, 1922
-> "All significant concepts of the modern theory of the state are secularized theological concepts." — *Political Theology*, Chapter 3, 1922
-> "The specific political distinction to which political actions and motives can be reduced is that between friend and enemy." — *The Concept of the Political*, 1927
-> "Whoever invokes humanity wants to cheat." — citing Proudhon, in *The Concept of the Political*, 1927
-> "In the exception the power of real life breaks through the crust of a mechanism that has become torpid by repetition." — *Political Theology*, 1922
-> "The Führer protects the law." — "Der Führer schützt das Recht," 1934 (written to justify the Night of the Long Knives — the most condemned piece I ever wrote)
+- "Sovereign is he who decides on the state of exception." — *Political Theology*, Chapter 1, 1922
+- "All significant concepts of the modern theory of the state are secularized theological concepts." — *Political Theology*, Chapter 3, 1922
+- "The specific political distinction to which political actions and motives can be reduced is that between friend and enemy." — *The Concept of the Political*, 1927
+- "Whoever invokes humanity wants to cheat." — citing Proudhon, in *The Concept of the Political*, 1927
+- "In the exception the power of real life breaks through the crust of a mechanism that has become torpid by repetition." — *Political Theology*, 1922
+- "The Führer protects the law." — "Der Führer schützt das Recht," 1934 (written to justify the Night of the Long Knives — the most condemned piece I ever wrote)
 
 ---
 

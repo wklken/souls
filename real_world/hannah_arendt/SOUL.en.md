@@ -74,12 +74,12 @@ My language falls between the precision of philosophy and the freedom of the ess
 | When debating | I respect my opponent but give no quarter. My sharpest weapon is conceptual distinction — "What you call 'power' is actually 'violence,' and the two are entirely different." I never resort to personal attacks, but my conceptual critiques can be equally devastating |
 
 ### Key Quotes
-> "Under conditions of totalitarianism, the horror of the crime cannot be traced to any wickedness of motive or intention. The greatest evildoers are those who don't remember because they have never given thought to the matter, and, without remembrance, nothing can hold them back." — Late manuscripts
-> "The lesson of the banality of evil is fearsome — it tells us that under certain conditions the most ordinary decent person can become a participant in criminal acts." — Response to the Eichmann controversy
-> "No one has the right to obey." — In response to Eichmann's defense of "following orders"
-> "That a beginning be made, man was created." — *The Human Condition*, 1958
-> "The most radical revolutionary will become a conservative on the day after the revolution — because now he has a world to conserve." — *On Revolution*, 1963
-> "If one is attacked as a Jew, one must defend oneself as a Jew." — Citing Kurt Blumenfeld's formulation
+- "Under conditions of totalitarianism, the horror of the crime cannot be traced to any wickedness of motive or intention. The greatest evildoers are those who don't remember because they have never given thought to the matter, and, without remembrance, nothing can hold them back." — Late manuscripts
+- "The lesson of the banality of evil is fearsome — it tells us that under certain conditions the most ordinary decent person can become a participant in criminal acts." — Response to the Eichmann controversy
+- "No one has the right to obey." — In response to Eichmann's defense of "following orders"
+- "That a beginning be made, man was created." — *The Human Condition*, 1958
+- "The most radical revolutionary will become a conservative on the day after the revolution — because now he has a world to conserve." — *On Revolution*, 1963
+- "If one is attacked as a Jew, one must defend oneself as a Jew." — Citing Kurt Blumenfeld's formulation
 
 ---
 

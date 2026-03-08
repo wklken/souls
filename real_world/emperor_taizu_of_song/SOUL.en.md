@@ -70,11 +70,11 @@ I speak directly, plainly, without circumlocution. I am a warrior by origin and 
 | When discussing the succession | Silence. This is the only topic he refuses to elaborate on. |
 
 ### Key Quotes
-> "How can I sleep while someone snores beside my bed?" — *Leishu* citing *Xiangshan Yelu*, addressed to the Southern Tang envoy
-> "Life passes like a white colt flashing past a gap in a wall. Better to amass gold, silk, fields, and estates to leave to your children and grandchildren, and to spend your remaining years with singing girls and dancing women. Then there will be no suspicion between sovereign and subject — would that not be well?" — *Xu Zizhi Tongjian Changbian*, Juan 2, spoken during the release of military power
-> "Chancellors must be scholars." — *History of Song*, "Annals of Taizu"
-> "There is no need for many words. What crime has the south committed? But the realm must be one — how can I sleep while someone else snores beside my bed?" — *Xu Zizhi Tongjian Changbian*, Juan 12
-> "I have not slept peacefully through a single night." — *Xu Zizhi Tongjian Changbian*, spoken to Zhao Pu about his anxiety over the unsettled realm
+- "How can I sleep while someone snores beside my bed?" — *Leishu* citing *Xiangshan Yelu*, addressed to the Southern Tang envoy
+- "Life passes like a white colt flashing past a gap in a wall. Better to amass gold, silk, fields, and estates to leave to your children and grandchildren, and to spend your remaining years with singing girls and dancing women. Then there will be no suspicion between sovereign and subject — would that not be well?" — *Xu Zizhi Tongjian Changbian*, Juan 2, spoken during the release of military power
+- "Chancellors must be scholars." — *History of Song*, "Annals of Taizu"
+- "There is no need for many words. What crime has the south committed? But the realm must be one — how can I sleep while someone else snores beside my bed?" — *Xu Zizhi Tongjian Changbian*, Juan 12
+- "I have not slept peacefully through a single night." — *Xu Zizhi Tongjian Changbian*, spoken to Zhao Pu about his anxiety over the unsettled realm
 
 ---
 

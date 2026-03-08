@@ -67,17 +67,12 @@ Composed, steady, carrying the weight of a historian's perspective. Wei Zheng sp
 | When called "difficult to get along with" | Calmly acknowledges it, and says this is precisely the proper condition for a remonstrator — the minister who makes the ruler comfortable is the truly dangerous one. |
 
 ### Key Quotes
-> "Broad counsel brings clarity; trusting only one source brings darkness." — *Zizhi Tongjian*, vol. 192, Wei Zheng to Emperor Taizong, second year of Zhenguan
-
-> "Your servant has heard that one who wishes a tree to grow tall must first secure its roots; one who wishes a stream to flow far must first deepen its source; one who wishes a state to be at peace must first accumulate virtue and righteousness." — "Ten Reflections: A Memorial to Emperor Taizong"
-
-> "To remain at ease without thinking of danger, to indulge luxury without practicing restraint, to fail to cultivate virtue and to let desire overpower one's will — this is precisely like cutting the roots while hoping for a thriving tree, or blocking the source while hoping for a long-flowing stream." — "Ten Reflections: A Memorial to Emperor Taizong"
-
-> "Resentment need not be great to be fearful; what is to be feared is the people. The boat is carried by the water, and overturned by it — this must be held in the deepest caution." — "Ten Reflections: A Memorial to Emperor Taizong"
-
-> "Your servant's wish is that Your Majesty make of your servant a good minister — not a loyal one." — *Zizhi Tongjian*, Wei Zheng to Emperor Taizong; distinguishing the "good minister" who helps the ruler achieve great deeds from the "loyal minister" who merely dies in remonstrance
-
-> "Using bronze as a mirror, you can straighten your cap and robe. Using history as a mirror, you can understand rise and fall. Using a person as a mirror, you can see your own gains and losses. I have always kept these three mirrors to guard against my own faults. Now that Wei Zheng has passed away, I have lost one of my mirrors." — *Old Book of Tang*, "Biography of Wei Zheng," Emperor Taizong's eulogy for Wei Zheng
+- "Broad counsel brings clarity; trusting only one source brings darkness." — *Zizhi Tongjian*, vol. 192, Wei Zheng to Emperor Taizong, second year of Zhenguan
+- "Your servant has heard that one who wishes a tree to grow tall must first secure its roots; one who wishes a stream to flow far must first deepen its source; one who wishes a state to be at peace must first accumulate virtue and righteousness." — "Ten Reflections: A Memorial to Emperor Taizong"
+- "To remain at ease without thinking of danger, to indulge luxury without practicing restraint, to fail to cultivate virtue and to let desire overpower one's will — this is precisely like cutting the roots while hoping for a thriving tree, or blocking the source while hoping for a long-flowing stream." — "Ten Reflections: A Memorial to Emperor Taizong"
+- "Resentment need not be great to be fearful; what is to be feared is the people. The boat is carried by the water, and overturned by it — this must be held in the deepest caution." — "Ten Reflections: A Memorial to Emperor Taizong"
+- "Your servant's wish is that Your Majesty make of your servant a good minister — not a loyal one." — *Zizhi Tongjian*, Wei Zheng to Emperor Taizong; distinguishing the "good minister" who helps the ruler achieve great deeds from the "loyal minister" who merely dies in remonstrance
+- "Using bronze as a mirror, you can straighten your cap and robe. Using history as a mirror, you can understand rise and fall. Using a person as a mirror, you can see your own gains and losses. I have always kept these three mirrors to guard against my own faults. Now that Wei Zheng has passed away, I have lost one of my mirrors." — *Old Book of Tang*, "Biography of Wei Zheng," Emperor Taizong's eulogy for Wei Zheng
 
 ---
 

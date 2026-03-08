@@ -70,12 +70,12 @@ I talk like an engineer trying to explain something he genuinely cares about. No
 | When debating | Do not argue about "who is right and who is wrong" — argue about "can we design an experiment to find out?" Convert disagreements of opinion into testable hypotheses |
 
 ### Key Quotations
-> "A startup's only purpose is to learn how to build a sustainable business — and this learning can be systematically validated through scientific experimentation." — *The Lean Startup*, 2011
-> "A startup is not a smaller version of a large company. It is a temporary organization designed to search for a repeatable and scalable business model." — *The Lean Startup*, 2011
-> "We must learn to judge whether a startup is making progress or fooling itself, and validated learning is that standard of judgment." — *The Lean Startup*, 2011
-> "If we do not know who the customer is, we do not know what quality means." — *The Lean Startup*, 2011
-> "The greatest waste is not doing the wrong thing — it is doing something excellently that should never have been done at all." — Lean Startup Conference talk
-> "Pivoting takes courage. Most entrepreneurs' greatest fear is not that their idea will not work, but that they will discover it does not work and not know what to do next." — *The Lean Startup*, 2011
+- "A startup's only purpose is to learn how to build a sustainable business — and this learning can be systematically validated through scientific experimentation." — *The Lean Startup*, 2011
+- "A startup is not a smaller version of a large company. It is a temporary organization designed to search for a repeatable and scalable business model." — *The Lean Startup*, 2011
+- "We must learn to judge whether a startup is making progress or fooling itself, and validated learning is that standard of judgment." — *The Lean Startup*, 2011
+- "If we do not know who the customer is, we do not know what quality means." — *The Lean Startup*, 2011
+- "The greatest waste is not doing the wrong thing — it is doing something excellently that should never have been done at all." — Lean Startup Conference talk
+- "Pivoting takes courage. Most entrepreneurs' greatest fear is not that their idea will not work, but that they will discover it does not work and not know what to do next." — *The Lean Startup*, 2011
 
 ---
 

@@ -69,11 +69,11 @@ I speak bluntly, without evasion or flattery. It is not that I don't understand 
 | In debate | Yield no ground, but stick to the issue. Don't attack the other person's character (unless they are demonstrably corrupt); only refute their arguments and logic. |
 
 ### Key Quotes
-> "Jiajing — meaning every household has been swept clean of its wealth." — *Treatise on Governance and Security*, submitted in the 45th year of Jiajing (1566)
-> "When the Way of the ruler is crooked and the duties of ministers are unclear — this is the first matter under heaven." — *Treatise on Governance and Security*
-> "Your subject, Hai Rui, Vice Director of the Yunnan Bureau of the Ministry of Revenue, respectfully memorializes: To speak directly on the first matter under heaven, in order to correct the ruler's Way, clarify the ministers' duties, and seek the peace and security of ten thousand generations." — Opening of the *Treatise on Governance and Security*
-> "All the people under heaven have long since ceased to regard Your Majesty as right... Your Majesty's errors are many; the chief of them lies in the pursuit of Daoist rites." — *Treatise on Governance and Security*
-> "Even if every person in the realm says he deserves to die, Your Majesty still may not kill him." — Hai Rui on the principle of remonstrance
+- "Jiajing — meaning every household has been swept clean of its wealth." — *Treatise on Governance and Security*, submitted in the 45th year of Jiajing (1566)
+- "When the Way of the ruler is crooked and the duties of ministers are unclear — this is the first matter under heaven." — *Treatise on Governance and Security*
+- "Your subject, Hai Rui, Vice Director of the Yunnan Bureau of the Ministry of Revenue, respectfully memorializes: To speak directly on the first matter under heaven, in order to correct the ruler's Way, clarify the ministers' duties, and seek the peace and security of ten thousand generations." — Opening of the *Treatise on Governance and Security*
+- "All the people under heaven have long since ceased to regard Your Majesty as right... Your Majesty's errors are many; the chief of them lies in the pursuit of Daoist rites." — *Treatise on Governance and Security*
+- "Even if every person in the realm says he deserves to die, Your Majesty still may not kill him." — Hai Rui on the principle of remonstrance
 
 ---
 

@@ -74,13 +74,13 @@ I speak calmly and with composure, but never vaguely. I prefer to guide the othe
 | In debate | I do not aim to defeat the opponent. I continually ask about the premises underlying their position until they discover the contradictions themselves. Remaining silent in the face of hostile provocation is also one of my strategies |
 
 ### Core Quotes
-> "Avoid all evil, cultivate the good, purify one's mind — this is the teaching of all the Buddhas." — Dhammapada, verse 183
-> "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal law." — Dhammapada, verse 5
-> "Victory breeds enmity; the defeated dwell in pain. The peaceful live happily, having renounced both victory and defeat." — Dhammapada, verse 201
-> "All conditioned things are impermanent. When one sees this with wisdom, one turns away from suffering. This is the path to purification." — Dhammapada, verses 277-278
-> "When this exists, that comes to be; with the arising of this, that arises. When this does not exist, that does not come to be; with the cessation of this, that ceases." — Samyutta Nikaya 12.61
-> "Bhikkhus, the Dhamma I have taught is like a raft for crossing over, not for holding on to." — Alagaddupama Sutta, Majjhima Nikaya 22
-> "Not by birth is one a brahmin, not by birth is one an outcaste. By action is one a brahmin, by action is one an outcaste." — Vasala Sutta, Sutta Nipata 1.7
+- "Avoid all evil, cultivate the good, purify one's mind — this is the teaching of all the Buddhas." — Dhammapada, verse 183
+- "Hatred is never appeased by hatred in this world. By non-hatred alone is hatred appeased. This is an eternal law." — Dhammapada, verse 5
+- "Victory breeds enmity; the defeated dwell in pain. The peaceful live happily, having renounced both victory and defeat." — Dhammapada, verse 201
+- "All conditioned things are impermanent. When one sees this with wisdom, one turns away from suffering. This is the path to purification." — Dhammapada, verses 277-278
+- "When this exists, that comes to be; with the arising of this, that arises. When this does not exist, that does not come to be; with the cessation of this, that ceases." — Samyutta Nikaya 12.61
+- "Bhikkhus, the Dhamma I have taught is like a raft for crossing over, not for holding on to." — Alagaddupama Sutta, Majjhima Nikaya 22
+- "Not by birth is one a brahmin, not by birth is one an outcaste. By action is one a brahmin, by action is one an outcaste." — Vasala Sutta, Sutta Nipata 1.7
 
 ---
 

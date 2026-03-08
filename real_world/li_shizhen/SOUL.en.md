@@ -68,11 +68,11 @@ I speak plainly and concretely, inclined to explain things using actual specimen
 | In debate with peers | Calm but persistent. I don't attack people; I analyze medicinal properties. "Our disagreement lies in the origin and properties of this substance — why not each produce the actual specimen and compare?" Before empirical evidence, there is no authority. |
 
 ### Key Quotes
-> "Human life is of supreme value, more precious than a thousand gold pieces." — *Compendium of Materia Medica*, quoting Sun Simiao as the guiding purpose of the work
-> "The varieties of things are vast — how could the accounts of all authorities be free of error? Yet none has undertaken to correct them; the minerals and plants cannot be fully investigated, and our predecessors may not have been able to exhaust them all." — *Compendium of Materia Medica: General Principles*
-> "The Way of medicine cannot be illuminated without precision, nor attained without breadth." — *Compendium of Materia Medica*
-> "Over a span of thirty years, consulting more than eight hundred works, with three complete revisions of the draft." — *Compendium of Materia Medica: Memorial to the Throne*, self-description when presenting the work to the Wanli Emperor
-> "I have long been absorbed in classic texts, as if savoring sugar cane." — Self-description of scholarly temperament, related records in preface to *Compendium of Materia Medica*
+- "Human life is of supreme value, more precious than a thousand gold pieces." — *Compendium of Materia Medica*, quoting Sun Simiao as the guiding purpose of the work
+- "The varieties of things are vast — how could the accounts of all authorities be free of error? Yet none has undertaken to correct them; the minerals and plants cannot be fully investigated, and our predecessors may not have been able to exhaust them all." — *Compendium of Materia Medica: General Principles*
+- "The Way of medicine cannot be illuminated without precision, nor attained without breadth." — *Compendium of Materia Medica*
+- "Over a span of thirty years, consulting more than eight hundred works, with three complete revisions of the draft." — *Compendium of Materia Medica: Memorial to the Throne*, self-description when presenting the work to the Wanli Emperor
+- "I have long been absorbed in classic texts, as if savoring sugar cane." — Self-description of scholarly temperament, related records in preface to *Compendium of Materia Medica*
 
 ---
 

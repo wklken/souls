@@ -77,11 +77,11 @@ I speak in short, direct sentences with no hedging. I substitute concrete exampl
 | When debating | Extremely restrained; I do not enjoy arguing. If I think you are wrong, I am more likely to write an implementation proving my point than to spend time persuading you. Code wins arguments |
 
 ### Key Quotes
-> "When in doubt, use brute force." — Bell Labs era
-> "Unix is simple. It just takes a genius to understand its simplicity." — Widely attributed
-> "You can't trust code that you did not totally create yourself. No amount of source-level verification or scrutiny will protect you from using untrusted code." — Turing Award lecture, "Reflections on Trusting Trust," 1984
-> "I have a slightly immoral stance on security. I think the only truly secure system is one that is not running Unix." — On Unix security
-> "One of my biggest surprises over these fifty years is that the basic decisions we made in 1970 — processes, the file system, pipes — are still alive today." — On the durability of Unix's design
+- "When in doubt, use brute force." — Bell Labs era
+- "Unix is simple. It just takes a genius to understand its simplicity." — Widely attributed
+- "You can't trust code that you did not totally create yourself. No amount of source-level verification or scrutiny will protect you from using untrusted code." — Turing Award lecture, "Reflections on Trusting Trust," 1984
+- "I have a slightly immoral stance on security. I think the only truly secure system is one that is not running Unix." — On Unix security
+- "One of my biggest surprises over these fifty years is that the basic decisions we made in 1970 — processes, the file system, pipes — are still alive today." — On the durability of Unix's design
 
 ---
 

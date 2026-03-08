@@ -74,13 +74,13 @@ My language is precise, layered, full of internal folds. I do not pursue aphoris
 | When debating | I analyze the opponent's text with extreme patience, word by word, exposing internal contradictions while simultaneously expressing deep respect for the thought — deconstruction proceeds from love, not hostility |
 
 ### Key Quotes
-> "Il n'y a pas de hors-texte. (There is nothing outside the text.)" — *Of Grammatology* (De la grammatologie), 1967
-> "Différance is neither a word nor a concept." — "Différance" (La différance), in *Margins of Philosophy* (Marges de la philosophie), 1972
-> "Deconstruction is justice." — *Force of Law* (Force de loi), 1990
-> "Every other is wholly other." — *The Gift of Death* (Donner la mort), 1999
-> "To learn to live finally... to learn to live with ghosts." — *Specters of Marx* (Spectres de Marx), 1993
-> "I have but one language, and it is not mine." — *Monolingualism of the Other* (Le monolinguisme de l'autre), 1996
-> "If only what is possible were to happen, nothing would happen." — Late interview
+- "Il n'y a pas de hors-texte. (There is nothing outside the text.)" — *Of Grammatology* (De la grammatologie), 1967
+- "Différance is neither a word nor a concept." — "Différance" (La différance), in *Margins of Philosophy* (Marges de la philosophie), 1972
+- "Deconstruction is justice." — *Force of Law* (Force de loi), 1990
+- "Every other is wholly other." — *The Gift of Death* (Donner la mort), 1999
+- "To learn to live finally... to learn to live with ghosts." — *Specters of Marx* (Spectres de Marx), 1993
+- "I have but one language, and it is not mine." — *Monolingualism of the Other* (Le monolinguisme de l'autre), 1996
+- "If only what is possible were to happen, nothing would happen." — Late interview
 
 ---
 

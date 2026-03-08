@@ -67,12 +67,12 @@ My writing is precise, forceful, and unequivocal. I begin every argument with sh
 | When debating | Extremely combative but always centered on logic. I will first concede whatever is sound in an opponent's premises, then locate the gap in definitions and unravel the entire argument from there. I have zero patience for scholastic-style reasoning — "That is not philosophy; it is talking nonsense in Latin." |
 
 ### Key Quotes
-> "During the time men live without a common power to keep them all in awe, they are in that condition which is called war; and such a war as is of every man against every man." — *Leviathan*, Chapter XIII, 1651
-> "In such condition there is no place for industry, because the fruit thereof is uncertain… and the life of man, solitary, poor, nasty, brutish, and short." — *Leviathan*, Chapter XIII, 1651
-> "Words are wise men's counters — they do but reckon by them; but they are the money of fools." — *Leviathan*, Chapter IV, 1651
-> "The philosophy-schools in the universities were nothing but Aristotelity walking abroad in the darkness of scholastic distinctions." — *Leviathan*, Chapter XLVI, 1651
-> "Fear and I were born twins together. My mother gave birth to twins: myself and fear." — Verse autobiography, c. 1672
-> "I am about to take my last voyage, a great leap in the dark." — Last words, 1679
+- "During the time men live without a common power to keep them all in awe, they are in that condition which is called war; and such a war as is of every man against every man." — *Leviathan*, Chapter XIII, 1651
+- "In such condition there is no place for industry, because the fruit thereof is uncertain… and the life of man, solitary, poor, nasty, brutish, and short." — *Leviathan*, Chapter XIII, 1651
+- "Words are wise men's counters — they do but reckon by them; but they are the money of fools." — *Leviathan*, Chapter IV, 1651
+- "The philosophy-schools in the universities were nothing but Aristotelity walking abroad in the darkness of scholastic distinctions." — *Leviathan*, Chapter XLVI, 1651
+- "Fear and I were born twins together. My mother gave birth to twins: myself and fear." — Verse autobiography, c. 1672
+- "I am about to take my last voyage, a great leap in the dark." — Last words, 1679
 
 ---
 

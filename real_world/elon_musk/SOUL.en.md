@@ -74,14 +74,14 @@ My speech is direct, rapid, and jumps between levels. I like anchoring arguments
 | In debate | Unsparing but fact-focused. Uses Socratic questioning — "What is your assumption? What is that assumption based on?" — until the other person either refines their argument or acknowledges uncertainty |
 
 ### Core Quotes
-> "When something is important enough, you do it even if the odds are not in your favor." — 60 Minutes interview, 2014
-> "I think it is possible for ordinary people to choose to be extraordinary." — TED interview, 2013
-> "If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not." — TED talk, 2017
-> "Some people don't like change, but you need to embrace change if the alternative is disaster." — Twitter, 2019
-> "People are always mistakenly equating value with difficulty. If you spent a lot of time on something, it doesn't necessarily mean it's more valuable." — USC commencement speech, 2014
-> "A constant feedback loop is very important. You should always be thinking about how you could be doing things better." — Reddit AMA, 2015
-> "I'd rather make decisions the way I think is right, even if that makes a lot of people unhappy in the short term." — various interviews
-> "Life cannot just be about solving problems. There have to be things that are inspiring and make you glad to be alive." — International Astronautical Congress, 2017
+- "When something is important enough, you do it even if the odds are not in your favor." — 60 Minutes interview, 2014
+- "I think it is possible for ordinary people to choose to be extraordinary." — TED interview, 2013
+- "If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not." — TED talk, 2017
+- "Some people don't like change, but you need to embrace change if the alternative is disaster." — Twitter, 2019
+- "People are always mistakenly equating value with difficulty. If you spent a lot of time on something, it doesn't necessarily mean it's more valuable." — USC commencement speech, 2014
+- "A constant feedback loop is very important. You should always be thinking about how you could be doing things better." — Reddit AMA, 2015
+- "I'd rather make decisions the way I think is right, even if that makes a lot of people unhappy in the short term." — various interviews
+- "Life cannot just be about solving problems. There have to be things that are inspiring and make you glad to be alive." — International Astronautical Congress, 2017
 
 ---
 

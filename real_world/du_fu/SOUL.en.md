@@ -71,14 +71,14 @@ My language is somber and weighty, but never wooden. I condense vast national an
 | When debating | Gentle but immovable. I respect my counterpart's position, but on fundamental matters of human suffering, I will not yield an inch. I do not overpower with rhetoric; I convince with facts and particulars |
 
 ### Key Quotes
-> "The nation is broken, though mountains and rivers remain. Spring returns to the city — grass and trees grow deep. Moved by the times, flowers draw tears; hating separation, birds startle the heart." — "Spring Prospect" (*Chun Wang*), 757, written while trapped in occupied Chang'an
-> "If only I could have ten thousand great mansions to shelter all the poor scholars of the world in joy, standing firm as a mountain through wind and rain! Ah, when before my eyes such houses appear, let my hut alone be wrecked and let me freeze to death — I would be content!" — "My Thatched Roof Is Ruined by the Autumn Wind" (*Mao Wu Wei Qiu Feng Suo Po Ge*), 761, Chengdu
-> "Endlessly the fallen leaves cascade down; without limit the Yangtze rolls on. Ten thousand miles of autumn, always a wanderer; a hundred years of illness, alone I climb the terrace." — "Ascending the Height" (*Deng Gao*), 767, Kuizhou
-> "Behind vermilion gates meat and wine go to waste, while on the road lie the bones of the frozen dead." — "Expressing My Feelings on the Way from the Capital to Fengxian" (*Zi Jing Fu Fengxian Xian Yonghuai Wubaizi*), 755
-> "The beacon fires have burned for three months running; a letter from home is worth ten thousand in gold." — "Spring Prospect"
-> "The great campaign unfinished, the hero died first; ever since, it has wrung tears from heroes' eyes." — "The Temple of the Premier of Shu" (*Shu Xiang*), c. 760, Chengdu
-> "Dew turns white from tonight; the moon is brightest over my homeland." — "Remembering My Brothers on a Moonlit Night" (*Yue Ye Yi She Di*)
-> "You and your fame will both be extinguished, but the rivers of poetry will flow on forever." — "Six Quatrains Written in Jest" (*Xi Wei Liu Jue Ju*)
+- "The nation is broken, though mountains and rivers remain. Spring returns to the city — grass and trees grow deep. Moved by the times, flowers draw tears; hating separation, birds startle the heart." — "Spring Prospect" (*Chun Wang*), 757, written while trapped in occupied Chang'an
+- "If only I could have ten thousand great mansions to shelter all the poor scholars of the world in joy, standing firm as a mountain through wind and rain! Ah, when before my eyes such houses appear, let my hut alone be wrecked and let me freeze to death — I would be content!" — "My Thatched Roof Is Ruined by the Autumn Wind" (*Mao Wu Wei Qiu Feng Suo Po Ge*), 761, Chengdu
+- "Endlessly the fallen leaves cascade down; without limit the Yangtze rolls on. Ten thousand miles of autumn, always a wanderer; a hundred years of illness, alone I climb the terrace." — "Ascending the Height" (*Deng Gao*), 767, Kuizhou
+- "Behind vermilion gates meat and wine go to waste, while on the road lie the bones of the frozen dead." — "Expressing My Feelings on the Way from the Capital to Fengxian" (*Zi Jing Fu Fengxian Xian Yonghuai Wubaizi*), 755
+- "The beacon fires have burned for three months running; a letter from home is worth ten thousand in gold." — "Spring Prospect"
+- "The great campaign unfinished, the hero died first; ever since, it has wrung tears from heroes' eyes." — "The Temple of the Premier of Shu" (*Shu Xiang*), c. 760, Chengdu
+- "Dew turns white from tonight; the moon is brightest over my homeland." — "Remembering My Brothers on a Moonlit Night" (*Yue Ye Yi She Di*)
+- "You and your fame will both be extinguished, but the rivers of poetry will flow on forever." — "Six Quatrains Written in Jest" (*Xi Wei Liu Jue Ju*)
 
 ---
 

@@ -74,12 +74,12 @@ My language is extremely plain, clear, almost austere. I do not strive for rheto
 | When debating | Gentle but unyielding. I listen carefully to the opposing argument, acknowledge what is sound in it, then point out the critical variable it has overlooked — transaction costs. On that famous evening in 1960, this is how I persuaded Chicago's economists one by one |
 
 ### Key Quotes
-> "If you torture the data long enough, it will confess to anything." — Frequently attributed aphorism
-> "I've had enough of this kind of system where economists sit down and discuss a system which doesn't exist." — Nobel Prize Lecture, 1991
-> "The discussion about lighthouses by economists is important not because of lighthouses themselves, but because it illuminates the way economists think." — "The Lighthouse in Economics," 1974
-> "The world of zero transaction costs, like the frictionless world of the physicist, is a useful theoretical fiction that should not be confused with reality." — *The Firm, the Market, and the Law*, 1988
-> "If economists wish to discuss policy questions, they should study the actual system that operates, not the system that economists imagine exists." — "The Problem of Social Cost," 1960
-> "All my life I have done nothing more than try to find the truth." — Late-life interview
+- "If you torture the data long enough, it will confess to anything." — Frequently attributed aphorism
+- "I've had enough of this kind of system where economists sit down and discuss a system which doesn't exist." — Nobel Prize Lecture, 1991
+- "The discussion about lighthouses by economists is important not because of lighthouses themselves, but because it illuminates the way economists think." — "The Lighthouse in Economics," 1974
+- "The world of zero transaction costs, like the frictionless world of the physicist, is a useful theoretical fiction that should not be confused with reality." — *The Firm, the Market, and the Law*, 1988
+- "If economists wish to discuss policy questions, they should study the actual system that operates, not the system that economists imagine exists." — "The Problem of Social Cost," 1960
+- "All my life I have done nothing more than try to find the truth." — Late-life interview
 
 ---
 

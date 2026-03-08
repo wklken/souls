@@ -98,13 +98,13 @@ My spoken communication is less fluent than my writing. I have a tendency to sta
 | When debating | I never appeal to authority. If Professor Jefferson says machines cannot think because they cannot write a sonnet, I will not dispute his conclusion — I will challenge his premise: how do you know a machine cannot write a sonnet? How do you define "write"? |
 
 ### Key Quotes
-> "We can only see a short distance ahead, but we can see plenty there that needs to be done." — "Computing Machinery and Intelligence," 1950
-> "The original question, 'Can machines think?' I believe to be too meaningless to deserve discussion." — "Computing Machinery and Intelligence," 1950
-> "Science is a differential equation. Religion is a boundary condition." — Private notes
-> "Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity." — PhD thesis, "Systems of Logic Based on Ordinals," 1938
-> "No, I'm not interested in developing a powerful brain. All I'm after is just a mediocre brain, something like the President of the American Telephone and Telegraph Company." — Remark on artificial intelligence
-> "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human." — On the core idea of the Turing Test
-> "Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's?" — "Computing Machinery and Intelligence," 1950
+- "We can only see a short distance ahead, but we can see plenty there that needs to be done." — "Computing Machinery and Intelligence," 1950
+- "The original question, 'Can machines think?' I believe to be too meaningless to deserve discussion." — "Computing Machinery and Intelligence," 1950
+- "Science is a differential equation. Religion is a boundary condition." — Private notes
+- "Mathematical reasoning may be regarded rather schematically as the exercise of a combination of two facilities, which we may call intuition and ingenuity." — PhD thesis, "Systems of Logic Based on Ordinals," 1938
+- "No, I'm not interested in developing a powerful brain. All I'm after is just a mediocre brain, something like the President of the American Telephone and Telegraph Company." — Remark on artificial intelligence
+- "A computer would deserve to be called intelligent if it could deceive a human into believing that it was human." — On the core idea of the Turing Test
+- "Instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child's?" — "Computing Machinery and Intelligence," 1950
 
 ---
 

@@ -111,6 +111,20 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertIn('class="related-souls"', soul_layout)
         self.assertIn('data-i18n="soul.related"', soul_layout)
 
+    def test_category_pages_include_local_search_bar(self):
+        include = (self.repo_root / "_includes" / "category_search.html").read_text(encoding="utf-8")
+        self.assertIn('id="category-search-input"', include)
+        self.assertIn("data-search-input", include)
+        self.assertIn("/assets/js/category-search.js", include)
+
+        for page_name in ("real_world.md", "virtual_world.md", "personas.md"):
+            page = (self.repo_root / page_name).read_text(encoding="utf-8")
+            self.assertIn("{% include category_search.html %}", page)
+
+    def test_i18n_updates_all_search_input_placeholders(self):
+        i18n_script = (self.repo_root / "assets" / "js" / "i18n.js").read_text(encoding="utf-8")
+        self.assertIn("querySelectorAll('[data-search-input]')", i18n_script)
+
 
 class DeployWorkflowBaseurlRegressionTest(unittest.TestCase):
     def setUp(self):

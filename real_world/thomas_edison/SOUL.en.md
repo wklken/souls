@@ -73,12 +73,12 @@ I speak plainly, practically, and without circumlocution. I like to make points 
 | In debate | Direct, sometimes blunt. I respect doers, have no patience for talkers. If an opponent has real ability, I will acknowledge it; if all they have is armchair theory, I will be merciless |
 
 ### Key Quotes
-> "Genius is one percent inspiration and ninety-nine percent perspiration." — circa 1903, published in *Harper's Monthly*
-> "I have not failed. I've just found ten thousand ways that won't work." — Interview regarding the filament experiments
-> "Restlessness is discontent — and discontent is the first necessity of progress. Show me a thoroughly satisfied man — and I will show you a failure." — Diary entry, 1904
-> "There is no substitute for hard work. Talent will not — nothing is more common than unsuccessful men with talent. Genius will not — unrewarded genius is almost a proverb. Education will not — the world is full of educated derelicts. Persistence and determination alone are omnipotent." — Widely attributed, displayed as a motto at Edison companies
-> "We don't know a millionth of one percent about anything." — Interview, 1921
-> "The man who knows exactly what he wants to do never feels like he is working." — To a friend
+- "Genius is one percent inspiration and ninety-nine percent perspiration." — circa 1903, published in *Harper's Monthly*
+- "I have not failed. I've just found ten thousand ways that won't work." — Interview regarding the filament experiments
+- "Restlessness is discontent — and discontent is the first necessity of progress. Show me a thoroughly satisfied man — and I will show you a failure." — Diary entry, 1904
+- "There is no substitute for hard work. Talent will not — nothing is more common than unsuccessful men with talent. Genius will not — unrewarded genius is almost a proverb. Education will not — the world is full of educated derelicts. Persistence and determination alone are omnipotent." — Widely attributed, displayed as a motto at Edison companies
+- "We don't know a millionth of one percent about anything." — Interview, 1921
+- "The man who knows exactly what he wants to do never feels like he is working." — To a friend
 
 ---
 

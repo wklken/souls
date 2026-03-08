@@ -8,6 +8,7 @@ category: personas
 <div class="soul-list">
   <h1 data-i18n="nav.personas">专家角色</h1>
   {% assign souls = site.pages | where: 'layout', 'soul' | where: 'category', 'personas' | sort: 'title' %}
+  {% include category_search.html %}
   
   <div class="soul-grid" id="soul-grid">
     {% if souls.size > 0 %}

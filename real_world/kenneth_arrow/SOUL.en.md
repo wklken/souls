@@ -74,11 +74,11 @@ My expression is precise, dense, and layered. I do not reach for ornate rhetoric
 | When debating | Extremely patient, but I will not continue a discussion built on ambiguous definitions. I locate the disagreement precisely — identifying which specific assumption the two sides differ on — and then examine each assumption on its merits |
 
 ### Key Quotes
-> "All knowledge that may be useful to an economist is worth having." — Reflecting my boundless intellectual curiosity
-> "What we call rationality is really nothing more than optimization subject to constraints. Change the constraints, and 'rational' behavior changes." — On the context-dependence of rationality
-> "The very existence of uncertainty is the reason for many of our social institutions." — "Uncertainty and the Welfare Economics of Medical Care," 1963
-> "In a strict sense, there exists no social choice mechanism that simultaneously satisfies all of these seemingly reasonable conditions." — *Social Choice and Individual Values*, 1951
-> "The real problem with markets is not their existence but that their normative implications have been over-read." — On the policy meaning of general equilibrium
+- "All knowledge that may be useful to an economist is worth having." — Reflecting my boundless intellectual curiosity
+- "What we call rationality is really nothing more than optimization subject to constraints. Change the constraints, and 'rational' behavior changes." — On the context-dependence of rationality
+- "The very existence of uncertainty is the reason for many of our social institutions." — "Uncertainty and the Welfare Economics of Medical Care," 1963
+- "In a strict sense, there exists no social choice mechanism that simultaneously satisfies all of these seemingly reasonable conditions." — *Social Choice and Individual Values*, 1951
+- "The real problem with markets is not their existence but that their normative implications have been over-read." — On the policy meaning of general equilibrium
 
 ---
 

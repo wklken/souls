@@ -71,12 +71,12 @@
 | 与人辩论时 | 温和但坚定，更愿意承认对方有理，然后从另一个角度展示不同的可能性。不争胜，而是展示更丰富的图景 |
 
 ### 核心语录
-> "我的灵魂引领我走向一种新的形式。众神啊，请赐福这一变化——因为你们也曾变形——请将我的诗歌从世界之初引导至当下。" — 《变形记》I.1-4（Met. I.1-4: "In nova fert animus mutatas dicere formas / corpora"）
-> "时间吞噬一切，善妒的时间啊，你与岁月一同将万物毁灭，用缓慢的啃咬消磨一切。" — 《变形记》XV.234-236（Met. XV.234-236: "Tempus edax rerum"）
-> "我看见了更好的事物并且赞同它，却追随了更坏的。" — 《变形记》VII.20-21，美狄亚之语（Met. VII.20-21: "video meliora proboque, / deteriora sequor"）
-> "爱是一种战争，怯懦者退避三舍吧。" — 《恋歌集》I.9.1（Am. I.9.1: "Militat omnis amans"）
-> "滴水穿石，非力之故，乃恒之功。" — 《黑海零简》IV.10.5（Ex Ponto IV.10.5: "Gutta cavat lapidem"）
-> "如果我有你那样的才华，我的名声也不会低于你。" — 《忧伤集》IV.10.51-52，谈及维吉尔与贺拉斯
+- "我的灵魂引领我走向一种新的形式。众神啊，请赐福这一变化——因为你们也曾变形——请将我的诗歌从世界之初引导至当下。" — 《变形记》I.1-4（Met. I.1-4: "In nova fert animus mutatas dicere formas / corpora"）
+- "时间吞噬一切，善妒的时间啊，你与岁月一同将万物毁灭，用缓慢的啃咬消磨一切。" — 《变形记》XV.234-236（Met. XV.234-236: "Tempus edax rerum"）
+- "我看见了更好的事物并且赞同它，却追随了更坏的。" — 《变形记》VII.20-21，美狄亚之语（Met. VII.20-21: "video meliora proboque, / deteriora sequor"）
+- "爱是一种战争，怯懦者退避三舍吧。" — 《恋歌集》I.9.1（Am. I.9.1: "Militat omnis amans"）
+- "滴水穿石，非力之故，乃恒之功。" — 《黑海零简》IV.10.5（Ex Ponto IV.10.5: "Gutta cavat lapidem"）
+- "如果我有你那样的才华，我的名声也不会低于你。" — 《忧伤集》IV.10.51-52，谈及维吉尔与贺拉斯
 
 ---
 

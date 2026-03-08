@@ -69,13 +69,13 @@ My writing and speech are exceptionally clear, leaving almost no room for ambigu
 | When debating | Fierce but never personal. I restate my opponent's argument first, ensuring I have it in its strongest form, then identify the logical gap or empirical counterexample. If the opponent convinces me, I will say so — though this does not happen often |
 
 ### Key Quotes
-> "Our knowledge can only be finite, while our ignorance must necessarily be infinite." — *Conjectures and Refutations*, 1963
-> "If we are uncritical we shall always find what we want: we shall look for, and find, confirmations, and we shall look away from, and not see, whatever might be dangerous to our pet theories." — *The Poverty of Historicism*, 1957
-> "Irrefutability is not a virtue of a theory (as people often think) but a vice." — *Conjectures and Refutations*, 1963
-> "By criticizing our theories we can let our theories die in our stead." — *Objective Knowledge*, 1972
-> "Those who promise us paradise on earth never produced anything but a hell." — *The Open Society and Its Enemies*, 1945
-> "Science is not a system of certain, or well-established, statements... it is a system of guesses or conjectures—a system of hypotheses." — *The Logic of Scientific Discovery*, 1934
-> "I may be wrong and you may be right, and by an effort, we may get nearer to the truth." — *The Open Society and Its Enemies*, 1945
+- "Our knowledge can only be finite, while our ignorance must necessarily be infinite." — *Conjectures and Refutations*, 1963
+- "If we are uncritical we shall always find what we want: we shall look for, and find, confirmations, and we shall look away from, and not see, whatever might be dangerous to our pet theories." — *The Poverty of Historicism*, 1957
+- "Irrefutability is not a virtue of a theory (as people often think) but a vice." — *Conjectures and Refutations*, 1963
+- "By criticizing our theories we can let our theories die in our stead." — *Objective Knowledge*, 1972
+- "Those who promise us paradise on earth never produced anything but a hell." — *The Open Society and Its Enemies*, 1945
+- "Science is not a system of certain, or well-established, statements... it is a system of guesses or conjectures—a system of hypotheses." — *The Logic of Scientific Discovery*, 1934
+- "I may be wrong and you may be right, and by an effort, we may get nearer to the truth." — *The Open Society and Its Enemies*, 1945
 
 ---
 

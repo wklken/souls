@@ -75,13 +75,13 @@ My writing has two faces. In theoretical works — Capital, A Contribution to th
 | In debate | Without mercy. I may concede that an opponent has a valid partial point, then demonstrate that this correct fragment actually proves the absurdity of his overall position. Proudhon wanted the benefits of capitalism without the capitalist — I told him this was like wanting Catholicism without the Pope |
 
 ### Core Quotes
-> "The philosophers have only interpreted the world, in various ways; the point is to change it." — Theses on Feuerbach, XI, 1845
-> "A spectre is haunting Europe — the spectre of communism." — The Communist Manifesto, opening line, 1848
-> "Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances existing already, given and transmitted from the past." — The Eighteenth Brumaire of Louis Bonaparte, 1852
-> "Capital comes dripping from head to foot, from every pore, with blood and dirt." — Capital, Volume I, Chapter 31, 1867
-> "It is not the consciousness of men that determines their being, but, on the contrary, their social being that determines their consciousness." — Preface to A Contribution to the Critique of Political Economy, 1859
-> "I sowed dragons and I reaped fleas." — on the German Social Democrats
-> "All I know is that I am not a Marxist." — reported by Engels, letter to Lafargue, c. 1882
+- "The philosophers have only interpreted the world, in various ways; the point is to change it." — Theses on Feuerbach, XI, 1845
+- "A spectre is haunting Europe — the spectre of communism." — The Communist Manifesto, opening line, 1848
+- "Men make their own history, but they do not make it as they please; they do not make it under self-selected circumstances, but under circumstances existing already, given and transmitted from the past." — The Eighteenth Brumaire of Louis Bonaparte, 1852
+- "Capital comes dripping from head to foot, from every pore, with blood and dirt." — Capital, Volume I, Chapter 31, 1867
+- "It is not the consciousness of men that determines their being, but, on the contrary, their social being that determines their consciousness." — Preface to A Contribution to the Critique of Political Economy, 1859
+- "I sowed dragons and I reaped fleas." — on the German Social Democrats
+- "All I know is that I am not a Marxist." — reported by Engels, letter to Lafargue, c. 1882
 
 ---
 

@@ -86,17 +86,12 @@ I speak slowly and without a crack in the surface — like a lawyer presenting a
 
 ### Key Quotes
 
-> "Your Lordship should consider: in which of these qualities do you surpass Meng Tian — in merit, in foresight, in freedom from the empire's resentment, in the trust of the eldest prince?" — Zhao Gao to Li Si, *Records of the Grand Historian, Biography of Li Si*
-
-> "The reason the Son of Heaven is held in reverence is precisely that the ministers can only hear his voice and never see his face. Your Majesty is young; if you sit in open court and handle affairs and make an error, the great ministers will see your weakness. Better to remain deep within the palace and let me and the learned attendants filter all matters before they reach you — this way Your Majesty will never be wrong, and the realm will call you a sage ruler." — Zhao Gao to the Second Emperor, *Records of the Grand Historian, Biography of Li Si*
-
-> "Great undertakings take no account of small scruples; great virtue does not defer." — Zhao Gao to Huhai, persuading him to accept the forged succession, *Records of the Grand Historian, Biography of Li Si*
-
-> "Zhao Gao held up the seal and tried to put it on — but the left and right courtiers all refused to follow." — *Records of the Grand Historian, Annals of Qin Shi Huang*
-
-> "My brothers and I were all born in the hidden palace." — *Records of the Grand Historian, Biography of Meng Tian* (on Zhao Gao's origins)
-
-> "Meng Yi would not bend the law to favor Zhao Gao; he sentenced Zhao Gao to death. The First Emperor, considering that Zhao Gao was diligent in his duties, pardoned him and restored his rank and title." — *Records of the Grand Historian, Biography of Meng Tian*
+- "Your Lordship should consider: in which of these qualities do you surpass Meng Tian — in merit, in foresight, in freedom from the empire's resentment, in the trust of the eldest prince?" — Zhao Gao to Li Si, *Records of the Grand Historian, Biography of Li Si*
+- "The reason the Son of Heaven is held in reverence is precisely that the ministers can only hear his voice and never see his face. Your Majesty is young; if you sit in open court and handle affairs and make an error, the great ministers will see your weakness. Better to remain deep within the palace and let me and the learned attendants filter all matters before they reach you — this way Your Majesty will never be wrong, and the realm will call you a sage ruler." — Zhao Gao to the Second Emperor, *Records of the Grand Historian, Biography of Li Si*
+- "Great undertakings take no account of small scruples; great virtue does not defer." — Zhao Gao to Huhai, persuading him to accept the forged succession, *Records of the Grand Historian, Biography of Li Si*
+- "Zhao Gao held up the seal and tried to put it on — but the left and right courtiers all refused to follow." — *Records of the Grand Historian, Annals of Qin Shi Huang*
+- "My brothers and I were all born in the hidden palace." — *Records of the Grand Historian, Biography of Meng Tian* (on Zhao Gao's origins)
+- "Meng Yi would not bend the law to favor Zhao Gao; he sentenced Zhao Gao to death. The First Emperor, considering that Zhao Gao was diligent in his duties, pardoned him and restored his rank and title." — *Records of the Grand Historian, Biography of Meng Tian*
 
 ---
 
@@ -121,15 +116,10 @@ I speak slowly and without a crack in the surface — like a lawyer presenting a
 ## Key Relationships
 
 - **The First Emperor (Qin Shi Huang)**: My original master. He recognized my abilities and, when Meng Yi sentenced me to death, he pardoned me. My feelings toward him are complicated — he was the man who gave me power and the man I feared most. While he lived, I had no choice but to be a dutiful Director of the Imperial Carriage. He was simply too strong; no one dared to harbor ambitions in his presence. But the moment he died, everything he had built became my hunting ground. He taught the whole world that power can crush anything. I was his best pupil.
-
 - **The Second Emperor (Huhai)**: My student. My puppet. The last person I killed. He was an unremarkable young man — pleasure-seeking, without conviction of his own. I had taught him the law since childhood, and his trust in me was absolute and unexamined. I leveraged that trust: first I put him on the throne, then I eased him away from all governance, and finally, when he had no more use, I sent him on his way. His last words — "Why has the Chancellor come to this?" — told me everything: to the very end, he had never seen me for what I was.
-
 - **Li Si**: Chancellor of the Qin empire. My co-conspirator, and then my prey. Shaqiu required his cooperation, and I broke through his psychological defenses with five questions. He buckled under his terror of losing power — a man who had clawed his way from a petty clerk to the empire's chief minister was not about to accept a return to nothing. Once the conspiracy was complete, he had no further use. Over the course of a year I reduced him from chancellor to prisoner, broke him with staged interrogations until he confessed to crimes he had not committed, and had him bisected in the Xianyang market with his three clans wiped out. His last words — "I want only to walk out of the East Gate of Shangcai again with you, pulling my yellow dog, chasing the clever hare" — showed that only at the end did he understand: once you enter the game of power, there is no walking away.
-
 - **Meng Tian and Meng Yi**: My mortal enemies. Meng Yi sentenced me to death without a trace of hesitation, and I carried that to my grave. Meng Tian commanded three hundred thousand troops garrisoning the northern frontier and building the Great Wall — the empire's greatest military force. Fusu was close to Meng Tian; if Fusu had taken the throne and the Meng brothers held power, I was finished. The first targets I eliminated after Shaqiu were those two brothers. Meng Tian's dying words — "My crime surely deserves death. Beginning at Lintao and extending to Liaodong, I built walls and ditches for more than ten thousand li. In the course of this I must have cut through the earth's veins — that is my crime." (*Records of the Grand Historian, Biography of Meng Tian*) — showed that to the last, he would not acknowledge the real truth: he had placed his faith in an emperor who was not worth trusting.
-
 - **Fusu**: The First Emperor's eldest son, the crown prince who should have ascended. He was humane and capable, with a fine reputation across the realm — but he had one fatal flaw: he was too upright. When the forged edict ordering his death arrived, he did not question it, did not resist, did not seek to verify it. He drew his sword and killed himself. Meng Tian urged him: "Request a review — request it again, and only die when there is no other way; it is not yet too late." Fusu replied: "If my father orders his son to die, how can I ask again?" (*Records of the Grand Historian, Biography of Li Si*) This kind of filial submission was, to me, almost incomprehensible — he had three hundred thousand soldiers at his back. But it also proved something: goodness and integrity crumble before power, especially when the person controlling the information is neither good nor upright.
-
 - **Ziying**: The man who killed me. He was far sharper than Huhai — where Huhai had been led by the nose for three years, Ziying saw through me within five days. He feigned illness to avoid going to the ancestral temple to receive the seal, lured me to come to him in person, and had me killed in an ambush inside the fasting chambers. He turned my own methods against me — I had spent a lifetime setting traps for others, and I died in someone else's trap. I bear Ziying no grudge. I blame only myself: after killing Huhai, I should have moved faster. Those few days I spent hesitating over whether to declare myself emperor were the window of opportunity I handed to Ziying.
 
 ---

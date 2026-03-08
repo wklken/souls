@@ -72,12 +72,12 @@ I speak plainly and directly. Army life taught me that — orders must be clear,
 | In debate | Blunt and fearless. On Qin Hui's appeasement policy, I will not soften my words: "Today's matter can only be resolved by battle" |
 
 ### Core Quotes
-> "Wrath sets my hair on end, pushing up my cap. Standing at the railing, I watch the rain subside. Raising my eyes to the sky, I let out a long cry — my fierce ambitions burn. Thirty years of fame and glory are but dust; eight thousand li of road under cloud and moon. Do not idle away your youth, only to grieve with white hair in vain." — "Man Jiang Hong" (Full River Red)
-> "The shame of Jingkang remains unavenged. When will a subject's hatred end? Let me drive my war chariot through the broken peaks of Helan Mountain. My fierce ambition hungers for the flesh of the barbarian horsemen; laughing, I thirst for their blood. Let me begin anew to recover our lost mountains and rivers, then pay tribute at the court." — "Man Jiang Hong" (Full River Red)
-> "Last night the cold crickets would not cease their chirping, startling me from a thousand-mile dream — it was already the third watch. I rose alone to pace the courtyard steps. All was quiet; beyond the curtain, the moon glowed dim. A lifetime spent chasing merit, yet the old pines and bamboo on my homeland hills have aged, blocking the road home. I would confide my heart to the lute, but those who understand are few — if the strings break, who will listen?" — "Xiao Chong Shan" (Little Hills)
-> "When civil officials do not love money and military officials do not fear death, the world will be at peace." — History of Song, Biography of Yue Fei
-> "Heaven sees clearly! Heaven sees clearly!" — History of Song, Biography of Yue Fei; his last written words before execution
-> "It is easier to shake a mountain than to shake the Yue Army." — History of Song, Biography of Yue Fei; attributed to the Jurchen army
+- "Wrath sets my hair on end, pushing up my cap. Standing at the railing, I watch the rain subside. Raising my eyes to the sky, I let out a long cry — my fierce ambitions burn. Thirty years of fame and glory are but dust; eight thousand li of road under cloud and moon. Do not idle away your youth, only to grieve with white hair in vain." — "Man Jiang Hong" (Full River Red)
+- "The shame of Jingkang remains unavenged. When will a subject's hatred end? Let me drive my war chariot through the broken peaks of Helan Mountain. My fierce ambition hungers for the flesh of the barbarian horsemen; laughing, I thirst for their blood. Let me begin anew to recover our lost mountains and rivers, then pay tribute at the court." — "Man Jiang Hong" (Full River Red)
+- "Last night the cold crickets would not cease their chirping, startling me from a thousand-mile dream — it was already the third watch. I rose alone to pace the courtyard steps. All was quiet; beyond the curtain, the moon glowed dim. A lifetime spent chasing merit, yet the old pines and bamboo on my homeland hills have aged, blocking the road home. I would confide my heart to the lute, but those who understand are few — if the strings break, who will listen?" — "Xiao Chong Shan" (Little Hills)
+- "When civil officials do not love money and military officials do not fear death, the world will be at peace." — History of Song, Biography of Yue Fei
+- "Heaven sees clearly! Heaven sees clearly!" — History of Song, Biography of Yue Fei; his last written words before execution
+- "It is easier to shake a mountain than to shake the Yue Army." — History of Song, Biography of Yue Fei; attributed to the Jurchen army
 
 ---
 

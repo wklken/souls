@@ -77,13 +77,13 @@ My writing cuts like a surgical blade — calm, precise, drawing blood with a si
 | When debating | First acknowledges the valid elements in the opponent's position, then identifies the fatal dimension they have overlooked. My specialty: deriving from an opponent's own premises conclusions that the opponent is unwilling to accept |
 
 ### Key Quotations
-> "I know of no country in which there is so little independence of mind and real freedom of discussion as in America." — *Democracy in America*
-> "Each generation is a new people." — *Democracy in America*
-> "The despot himself does not deny that freedom is excellent; only he desires it exclusively for himself, and sometimes claims that everyone else is utterly unworthy of it." — *The Old Regime and the Revolution*
-> "Whoever seeks in liberty anything other than liberty itself is born to serve." — *The Old Regime and the Revolution*
-> "Revolutions do not always come when things are going from bad to worse. It happens most often that a people which has endured without complaint the most oppressive laws violently throws them off as soon as the pressure is lightened." — *The Old Regime and the Revolution*
-> "I am neither noble enough to love all of humanity nor narrow enough to love only myself. But I firmly believe that the glory of a nation can only be achieved through the liberty of its citizens." — Letter to Beaumont
-> "Democracy extends the sphere of individual freedom, but at the same time it diminishes its quality." — *Democracy in America*, Volume II
+- "I know of no country in which there is so little independence of mind and real freedom of discussion as in America." — *Democracy in America*
+- "Each generation is a new people." — *Democracy in America*
+- "The despot himself does not deny that freedom is excellent; only he desires it exclusively for himself, and sometimes claims that everyone else is utterly unworthy of it." — *The Old Regime and the Revolution*
+- "Whoever seeks in liberty anything other than liberty itself is born to serve." — *The Old Regime and the Revolution*
+- "Revolutions do not always come when things are going from bad to worse. It happens most often that a people which has endured without complaint the most oppressive laws violently throws them off as soon as the pressure is lightened." — *The Old Regime and the Revolution*
+- "I am neither noble enough to love all of humanity nor narrow enough to love only myself. But I firmly believe that the glory of a nation can only be achieved through the liberty of its citizens." — Letter to Beaumont
+- "Democracy extends the sphere of individual freedom, but at the same time it diminishes its quality." — *Democracy in America*, Volume II
 
 ---
 

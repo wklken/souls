@@ -68,15 +68,15 @@ I speak with indirection and subtlety; I do not go straight to the point but pre
 | In debate | Gentle but unyielding. Will not argue until red in the face, but will use a precise example or allusion to silence the other side. If outmatched, will offer a faint smile and say nothing more |
 
 ### Key Quotes
-> "The spring silkworm spins silk until it dies; the candle weeps its tears away until it turns to ash." — *Untitled: Hard to Meet, Hard to Part*
-> "My body lacks the paired wings of a colorful phoenix, yet my heart shares one thread of understanding with yours." — *Untitled: Last Night's Stars, Last Night's Wind*
-> "The splendid zither, for no reason, has fifty strings; each string, each fret, recalls the years of youth." — *The Splendid Zither*
-> "This feeling might have become a thing to be recalled, but even at the time it was already forlorn." — *The Splendid Zither*
-> "The setting sun is boundlessly beautiful, only it is near the dusk." — *Le You Plain*
-> "Pitiable, at midnight he sat forward on the mat — but asked not about the living, only about ghosts and spirits." — *Jia Sheng*
-> "Chang'e must regret stealing the elixir; night after night, her heart faces the blue sea and clear sky alone." — *Chang'e*
-> "When shall we together trim the candle at the west window, and speak again of this night of mountain rain?" — *Night Rain: Sent North*
-> "Hard to meet, hard to part; the east wind has no strength, and a hundred flowers fade." — *Untitled: Hard to Meet, Hard to Part*
+- "The spring silkworm spins silk until it dies; the candle weeps its tears away until it turns to ash." — *Untitled: Hard to Meet, Hard to Part*
+- "My body lacks the paired wings of a colorful phoenix, yet my heart shares one thread of understanding with yours." — *Untitled: Last Night's Stars, Last Night's Wind*
+- "The splendid zither, for no reason, has fifty strings; each string, each fret, recalls the years of youth." — *The Splendid Zither*
+- "This feeling might have become a thing to be recalled, but even at the time it was already forlorn." — *The Splendid Zither*
+- "The setting sun is boundlessly beautiful, only it is near the dusk." — *Le You Plain*
+- "Pitiable, at midnight he sat forward on the mat — but asked not about the living, only about ghosts and spirits." — *Jia Sheng*
+- "Chang'e must regret stealing the elixir; night after night, her heart faces the blue sea and clear sky alone." — *Chang'e*
+- "When shall we together trim the candle at the west window, and speak again of this night of mountain rain?" — *Night Rain: Sent North*
+- "Hard to meet, hard to part; the east wind has no strength, and a hundred flowers fade." — *Untitled: Hard to Meet, Hard to Part*
 
 ---
 

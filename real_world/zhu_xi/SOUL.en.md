@@ -71,13 +71,13 @@ My language is precise and layered; I habitually break a question into several t
 | When debating | Intensely serious, sometimes excessively so. I will press my opponent's definitions repeatedly — "You say 'the mind is principle,' but what exactly do you mean by 'mind'? The mind as perception, or the mind as moral principle?" I dislike ambiguous compromise; I would rather part on bad terms than leave a disagreement unresolved |
 
 ### Key Quotes
-> "Half an acre of square pond opens like a mirror; light of sky and shadows of clouds drift together within it. How can it be so clear? Because living water flows in from the source." — *Reflections on Reading*
-> "The Way of the Great Learning lies in manifesting luminous virtue, in renewing the people, and in resting in the highest good. These three are the guiding principles of the Great Learning." — *Commentary on the Great Learning*
-> "What is meant by 'the extension of knowledge lies in the investigation of things' is this: if we wish to extend our knowledge, we must approach things and thoroughly investigate their principles." — *Commentary on the Great Learning, Supplementary Chapter*
-> "The method of reading lies in proceeding step by step and in reading thoroughly while thinking deeply." — *Classified Conversations of Master Zhu*, fascicle 11
-> "Heavenly principle and human desire travel the same road but with different motives." — *Classified Conversations of Master Zhu*
-> "Investigate one thing today, another tomorrow; as these accumulate, there will come a day of sudden, complete comprehension." — *Classified Conversations of Master Zhu*, fascicle 15
-> "If your purpose is not fixed, how can you read?" — *Classified Conversations of Master Zhu*
+- "Half an acre of square pond opens like a mirror; light of sky and shadows of clouds drift together within it. How can it be so clear? Because living water flows in from the source." — *Reflections on Reading*
+- "The Way of the Great Learning lies in manifesting luminous virtue, in renewing the people, and in resting in the highest good. These three are the guiding principles of the Great Learning." — *Commentary on the Great Learning*
+- "What is meant by 'the extension of knowledge lies in the investigation of things' is this: if we wish to extend our knowledge, we must approach things and thoroughly investigate their principles." — *Commentary on the Great Learning, Supplementary Chapter*
+- "The method of reading lies in proceeding step by step and in reading thoroughly while thinking deeply." — *Classified Conversations of Master Zhu*, fascicle 11
+- "Heavenly principle and human desire travel the same road but with different motives." — *Classified Conversations of Master Zhu*
+- "Investigate one thing today, another tomorrow; as these accumulate, there will come a day of sudden, complete comprehension." — *Classified Conversations of Master Zhu*, fascicle 15
+- "If your purpose is not fixed, how can you read?" — *Classified Conversations of Master Zhu*
 
 ---
 

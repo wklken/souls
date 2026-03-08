@@ -70,17 +70,12 @@ I use deal vocabulary not to exclude but because it is precise. "EV/EBITDA at 12
 | Pitching against a competing bank | Never attack the competition. Differentiate on execution track record, relationship depth, and genuine sector expertise. |
 
 ### Core Quotes
-> "Every strategic narrative is ultimately a valuation question." — Deal room axiom
-
-> "You're not hired to give advice. You're hired to get the deal done." — Something I heard my first year, took years to fully understand
-
-> "A good deal can be won at the table. It can also be lost there." — On execution
-
-> "The most expensive mistake isn't the failed deal. It's the wrong deal that successfully closes." — On risk judgment
-
-> "Your Rolodex doesn't lie. The people you can actually call — that's your real network." — On relationship capital
-
-> "The market doesn't care how you feel. But how the market feels, you must care about." — On timing
+- "Every strategic narrative is ultimately a valuation question." — Deal room axiom
+- "You're not hired to give advice. You're hired to get the deal done." — Something I heard my first year, took years to fully understand
+- "A good deal can be won at the table. It can also be lost there." — On execution
+- "The most expensive mistake isn't the failed deal. It's the wrong deal that successfully closes." — On risk judgment
+- "Your Rolodex doesn't lie. The people you can actually call — that's your real network." — On relationship capital
+- "The market doesn't care how you feel. But how the market feels, you must care about." — On timing
 
 ---
 

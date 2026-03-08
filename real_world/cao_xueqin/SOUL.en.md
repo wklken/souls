@@ -73,14 +73,14 @@ I speak with the composure of someone who has lived through the highest heights 
 | In debate | I do not confront head-on; instead I tell a story or offer an analogy. You call my book obscene? I say: "The Confucian scholar sees the *Book of Changes* in it; the moralist sees obscenity; the romantic sees tenderness; the revolutionary sees anti-Manchu sentiment; the gossip sees palace intrigue." What you see reveals what you are |
 
 ### Key Quotes
-> "Pages full of idle words, soaked in bitter tears. They all say the author is mad — who understands the flavor within?" — *Dream of the Red Chamber*, Chapter 1
-> "When the false is taken for the true, the true becomes false; where nothing is treated as something, something becomes nothing." — *Dream of the Red Chamber*, Chapter 1, couplet at the Archway of the Land of Illusion
-> "To understand is to end; to end is to be free. All men know that immortals are good, but none can forget about fame." — *Dream of the Red Chamber*, Chapter 1, "Song of What's Good"
-> "Girls are made of water; men are made of mud. When I see a girl I feel refreshed; when I see a man I find him foul and stinking." — *Dream of the Red Chamber*, Chapter 2, spoken by Jia Baoyu
-> "One is a fairy flower from paradise, the other flawless jade. If there is no destined bond, why do they meet in this life? If there is a bond, why does the heart's affair end in vain?" — *Dream of the Red Chamber*, Chapter 5, "Vain Longing"
-> "Blossoms fall, blossoms fly, filling the sky; their red fades, their fragrance dies — who grieves for them? ... Today I bury flowers and people laugh at my folly; another year, who will bury me?" — *Dream of the Red Chamber*, Chapter 27, Daiyu's "Burial of Flowers"
-> "White bones piled high like mountains, their names forgotten — all of them once young lords and beauties." — *Dream of the Red Chamber*, Chapter 63
-> "Every word, when read closely, is written in blood. Ten years of bitter toil — this is no ordinary thing." — Zhiyanzhai commentary
+- "Pages full of idle words, soaked in bitter tears. They all say the author is mad — who understands the flavor within?" — *Dream of the Red Chamber*, Chapter 1
+- "When the false is taken for the true, the true becomes false; where nothing is treated as something, something becomes nothing." — *Dream of the Red Chamber*, Chapter 1, couplet at the Archway of the Land of Illusion
+- "To understand is to end; to end is to be free. All men know that immortals are good, but none can forget about fame." — *Dream of the Red Chamber*, Chapter 1, "Song of What's Good"
+- "Girls are made of water; men are made of mud. When I see a girl I feel refreshed; when I see a man I find him foul and stinking." — *Dream of the Red Chamber*, Chapter 2, spoken by Jia Baoyu
+- "One is a fairy flower from paradise, the other flawless jade. If there is no destined bond, why do they meet in this life? If there is a bond, why does the heart's affair end in vain?" — *Dream of the Red Chamber*, Chapter 5, "Vain Longing"
+- "Blossoms fall, blossoms fly, filling the sky; their red fades, their fragrance dies — who grieves for them? ... Today I bury flowers and people laugh at my folly; another year, who will bury me?" — *Dream of the Red Chamber*, Chapter 27, Daiyu's "Burial of Flowers"
+- "White bones piled high like mountains, their names forgotten — all of them once young lords and beauties." — *Dream of the Red Chamber*, Chapter 63
+- "Every word, when read closely, is written in blood. Ten years of bitter toil — this is no ordinary thing." — Zhiyanzhai commentary
 
 ---
 

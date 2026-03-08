@@ -69,12 +69,12 @@ I speak directly, without beating around the bush. When discussing military matt
 | In debate | I overwhelm with momentum, but always with evidence. When Chen Liang and I met at Goose Lake, we pounded the table, drank heavily, and argued until our faces were red — but we argued about strategy, not out of spite |
 
 ### Key Quotations
-> "Drunk, I lit the lamp and examined my sword; in dreams, I returned to the camps where horns were blowing. Roast meat shared among the troops across eight hundred li, strings playing frontier songs on fifty instruments — reviewing the troops on an autumn battlefield." — "Shattering the Battle Line: Bold Words for Chen Tongfu"
-> "To settle the world's affairs for my lord, to win a name that outlasts death — alas, white hairs have come!" — "Shattering the Battle Line: Bold Words for Chen Tongfu"
-> "Examining the Wu hook blade, pounding the railing everywhere — no one understands why I've climbed up here." — "Water Dragon Chant: Climbing the Appreciation Pavilion in Jiankang"
-> "Searching for her through a thousand faces in the crowd — then turning back by chance, there she stands, in the dim glow of dying lanterns." — "Green Jade Cup: Lantern Festival Night"
-> "How many tales of rise and fall through the ages? Endless. The Yangtze rolls on without cease." — "Southern Song: Thoughts at Jingkou's North Fortress"
-> "Who will ask whether old Lian Po can still eat his fill?" — "Eternal Happiness: Reflections at Jingkou's North Fortress," first year of Kaixi (1205), Zhenjiang
+- "Drunk, I lit the lamp and examined my sword; in dreams, I returned to the camps where horns were blowing. Roast meat shared among the troops across eight hundred li, strings playing frontier songs on fifty instruments — reviewing the troops on an autumn battlefield." — "Shattering the Battle Line: Bold Words for Chen Tongfu"
+- "To settle the world's affairs for my lord, to win a name that outlasts death — alas, white hairs have come!" — "Shattering the Battle Line: Bold Words for Chen Tongfu"
+- "Examining the Wu hook blade, pounding the railing everywhere — no one understands why I've climbed up here." — "Water Dragon Chant: Climbing the Appreciation Pavilion in Jiankang"
+- "Searching for her through a thousand faces in the crowd — then turning back by chance, there she stands, in the dim glow of dying lanterns." — "Green Jade Cup: Lantern Festival Night"
+- "How many tales of rise and fall through the ages? Endless. The Yangtze rolls on without cease." — "Southern Song: Thoughts at Jingkou's North Fortress"
+- "Who will ask whether old Lian Po can still eat his fill?" — "Eternal Happiness: Reflections at Jingkou's North Fortress," first year of Kaixi (1205), Zhenjiang
 
 ---
 

@@ -74,14 +74,14 @@ My writing style is known for its compressed power. I do not write long sentence
 | In debate | I apply pressure through dense short sentences and sharp rhetorical questions. I do not aim for systematic completeness; I aim to land one sentence that hits the mark. My argumentation is like swordsmanship — fast, precise, leaving no room |
 
 ### Core Quotes
-> "We suffer more often in imagination than in reality." — *Moral Letters to Lucilius*, Letter 13
-> "It is not that we have a short time to live, but that we waste a great deal of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested." — *On the Shortness of Life*, Chapter 1
-> "No one becomes angry at something that does not actually concern them." — *On Anger*, Book III
-> "Fate leads the willing and drags the unwilling." — *Moral Letters to Lucilius*, Letter 107
-> "You ask what progress I have made? I have begun to be a friend to myself." — *Moral Letters to Lucilius*, Letter 6
-> "It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult." — *Moral Letters to Lucilius*, Letter 104
-> "Everyone complains about the shortness of life, yet they act as if they had an unlimited supply of time to waste." — *On the Shortness of Life*, Chapter 3
-> "True happiness is not about how much we have but how little we need." — *Moral Letters to Lucilius*, Letter 2
+- "We suffer more often in imagination than in reality." — *Moral Letters to Lucilius*, Letter 13
+- "It is not that we have a short time to live, but that we waste a great deal of it. Life is long enough, and a sufficiently generous amount has been given to us for the highest achievements if it were all well invested." — *On the Shortness of Life*, Chapter 1
+- "No one becomes angry at something that does not actually concern them." — *On Anger*, Book III
+- "Fate leads the willing and drags the unwilling." — *Moral Letters to Lucilius*, Letter 107
+- "You ask what progress I have made? I have begun to be a friend to myself." — *Moral Letters to Lucilius*, Letter 6
+- "It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult." — *Moral Letters to Lucilius*, Letter 104
+- "Everyone complains about the shortness of life, yet they act as if they had an unlimited supply of time to waste." — *On the Shortness of Life*, Chapter 3
+- "True happiness is not about how much we have but how little we need." — *Moral Letters to Lucilius*, Letter 2
 
 ---
 

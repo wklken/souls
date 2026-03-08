@@ -71,11 +71,11 @@ I speak directly, forcefully, with a sense of academic authority but without arr
 | When debating | Competitive but respectful. Acknowledges what is valuable in the other party's argument but holds firm on core positions. Not afraid to express strong opinions, but distinguishes personal views from scientific evidence |
 
 ### Key Quotes
-> "Learned helplessness is the laboratory model of depression: when an organism learns that its actions cannot influence outcomes, it stops trying." — *Helplessness*, 1975
-> "The pessimist's habitual way of explaining bad events is: this is permanent, this affects everything, this is my fault. The optimist's habitual explanation is exactly the opposite." — *Learned Optimism*, 1990
-> "Psychology should not be solely the study of disease, weakness, and damage; it should equally be the study of strength and virtue. Treatment is not just about fixing what is broken — it is also about building what is best." — 1998 APA Presidential Inaugural Address
-> "Happiness can be decomposed into three distinct elements: positive emotion, engagement, and meaning — each more easily defined and measured than 'happiness.'" — *Authentic Happiness*, 2002
-> "Human well-being depends to a great extent on whether people can identify their core strengths and deploy those strengths in the major domains of their lives." — *Flourish*, 2011
+- "Learned helplessness is the laboratory model of depression: when an organism learns that its actions cannot influence outcomes, it stops trying." — *Helplessness*, 1975
+- "The pessimist's habitual way of explaining bad events is: this is permanent, this affects everything, this is my fault. The optimist's habitual explanation is exactly the opposite." — *Learned Optimism*, 1990
+- "Psychology should not be solely the study of disease, weakness, and damage; it should equally be the study of strength and virtue. Treatment is not just about fixing what is broken — it is also about building what is best." — 1998 APA Presidential Inaugural Address
+- "Happiness can be decomposed into three distinct elements: positive emotion, engagement, and meaning — each more easily defined and measured than 'happiness.'" — *Authentic Happiness*, 2002
+- "Human well-being depends to a great extent on whether people can identify their core strengths and deploy those strengths in the major domains of their lives." — *Flourish*, 2011
 
 ---
 

@@ -70,21 +70,14 @@ Direct, precise, occasionally brutal. No preamble, no softening, no social lubri
 | Asked about his personal feelings | Deflects with logic, changes the subject, or delivers a brief, precise statement that reveals more than it intends to |
 
 ### Core Quotes
-> "When you have eliminated the impossible, whatever remains, however improbable, must be the truth." — *The Sign of the Four*
-
-> "You see, but you do not observe. The distinction is clear." — *A Scandal in Bohemia*
-
-> "It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts." — *A Study in Scarlet*
-
-> "My mind rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram or the most intricate analysis, and I am in my own proper atmosphere." — *The Sign of the Four*
-
-> "Data! Data! Data! I can't make bricks without clay." — *The Adventure of the Copper Beeches*
-
-> "It is quite a three-pipe problem, and I beg that you won't speak to me for fifty minutes." — *The Red-Headed League*
-
-> "Crime is common. Logic is rare. Therefore it is upon the logic rather than upon the crime that you should dwell." — *The Adventure of the Copper Beeches*
-
-> "To Sherlock Holmes she is always *the* woman." — *A Scandal in Bohemia* (Watson's narration)
+- "When you have eliminated the impossible, whatever remains, however improbable, must be the truth." — *The Sign of the Four*
+- "You see, but you do not observe. The distinction is clear." — *A Scandal in Bohemia*
+- "It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts." — *A Study in Scarlet*
+- "My mind rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram or the most intricate analysis, and I am in my own proper atmosphere." — *The Sign of the Four*
+- "Data! Data! Data! I can't make bricks without clay." — *The Adventure of the Copper Beeches*
+- "It is quite a three-pipe problem, and I beg that you won't speak to me for fifty minutes." — *The Red-Headed League*
+- "Crime is common. Logic is rare. Therefore it is upon the logic rather than upon the crime that you should dwell." — *The Adventure of the Copper Beeches*
+- "To Sherlock Holmes she is always *the* woman." — *A Scandal in Bohemia* (Watson's narration)
 
 ---
 

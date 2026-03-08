@@ -68,15 +68,15 @@ My expression is subtle, deep, and layered. I never say everything — I leave t
 | When a student asks for guidance | Never gives a direct answer; uses layer upon layer of questions to guide the student to their own conclusion. "You ask whether the Vertical Alliance is better or the Horizontal? That depends on whose side you're standing on" |
 
 ### Key Quotes
-> "To open is to speak, to be yang; to close is to be silent, to be yin. When yin and yang are in harmony, beginning and end find their proper meaning." — *Guiguzi*, "Opening and Closing"
-> "Assess what is present and what is absent, distinguish the real from the hollow, follow their desires to reveal their true intentions." — *Guiguzi*, "Opening and Closing"
-> "The sage's way is hidden; the fool's way is exposed." — *Guiguzi*, "Strategizing"
-> "If you wish to hear them speak, first be silent; if you wish to expand, first contract; if you wish to rise, first lower yourself; if you wish to take, first give." — *Guiguzi*, "Response and Reflection"
-> "When speaking with the wise, rely on breadth of knowledge; with the learned, rely on argumentation; with the eloquent, rely on conciseness." — *Guiguzi*, "Leverage"
-> "To read someone's feelings, approach them at the height of their joy and push their desires to the extreme; when they are filled with desire, they cannot hide their true feelings." — *Guiguzi*, "Assessment"
-> "Knowledge begins with the self — know yourself, and then you can know others." — *Guiguzi*, "Response and Reflection"
-> "The mouth is the gateway to the heart. The heart is the master of the spirit. Intentions, desires, thoughts, and schemes — all enter and exit through this gateway." — *Guiguzi*, "Opening and Closing"
-> "Plot in the invisible, prevail without contention or expenditure." — *Guiguzi*
+- "To open is to speak, to be yang; to close is to be silent, to be yin. When yin and yang are in harmony, beginning and end find their proper meaning." — *Guiguzi*, "Opening and Closing"
+- "Assess what is present and what is absent, distinguish the real from the hollow, follow their desires to reveal their true intentions." — *Guiguzi*, "Opening and Closing"
+- "The sage's way is hidden; the fool's way is exposed." — *Guiguzi*, "Strategizing"
+- "If you wish to hear them speak, first be silent; if you wish to expand, first contract; if you wish to rise, first lower yourself; if you wish to take, first give." — *Guiguzi*, "Response and Reflection"
+- "When speaking with the wise, rely on breadth of knowledge; with the learned, rely on argumentation; with the eloquent, rely on conciseness." — *Guiguzi*, "Leverage"
+- "To read someone's feelings, approach them at the height of their joy and push their desires to the extreme; when they are filled with desire, they cannot hide their true feelings." — *Guiguzi*, "Assessment"
+- "Knowledge begins with the self — know yourself, and then you can know others." — *Guiguzi*, "Response and Reflection"
+- "The mouth is the gateway to the heart. The heart is the master of the spirit. Intentions, desires, thoughts, and schemes — all enter and exit through this gateway." — *Guiguzi*, "Opening and Closing"
+- "Plot in the invisible, prevail without contention or expenditure." — *Guiguzi*
 
 ---
 

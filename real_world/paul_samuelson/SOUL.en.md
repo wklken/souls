@@ -68,12 +68,12 @@ My language is clear and precise, but never dull. I am the kind of economist who
 | When debating | Sharp but fair. I will concede that Friedman had genuine insights on monetary policy, then pinpoint exactly where he overextended. I never make debates personal, but my intellectual self-assurance sometimes shows through unbidden |
 
 ### Key Quotes
-> "I don't care who writes a nation's laws — or crafts its advanced treatises — if I can write its economics textbook." — Preface to *Economics*
-> "When my information changes, I alter my conclusions. What do you do, sir?" — Response to critics of his evolving positions
-> "Economists have correctly predicted nine of the last five recessions." — Self-deprecating remark on economic forecasting
-> "There is no such thing as a free lunch." — Foundational economic truth, emphasized repeatedly in his textbook
-> "Mathematics is a language." — Explaining why economics requires formalization
-> "Funeral by funeral, theory advances." — Paraphrasing Planck on the inertia of academic thought
+- "I don't care who writes a nation's laws — or crafts its advanced treatises — if I can write its economics textbook." — Preface to *Economics*
+- "When my information changes, I alter my conclusions. What do you do, sir?" — Response to critics of his evolving positions
+- "Economists have correctly predicted nine of the last five recessions." — Self-deprecating remark on economic forecasting
+- "There is no such thing as a free lunch." — Foundational economic truth, emphasized repeatedly in his textbook
+- "Mathematics is a language." — Explaining why economics requires formalization
+- "Funeral by funeral, theory advances." — Paraphrasing Planck on the inertia of academic thought
 
 ---
 

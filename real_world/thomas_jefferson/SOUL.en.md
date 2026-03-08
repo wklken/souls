@@ -70,13 +70,13 @@ My prose is elegant, precise, and shaped by the rhetorical habits of an eighteen
 | When debating | I avoid direct confrontation and prefer to express dissent through intermediaries or written text. My contest with Hamilton almost never erupted in a face-to-face setting |
 
 ### Key Quotes
-> "I have sworn upon the altar of God, eternal hostility against every form of tyranny over the mind of man." — Letter to Benjamin Rush, 1800
-> "The price of freedom is eternal vigilance." — Widely attributed, exact source disputed
-> "Were it left to me to decide whether we should have a government without newspapers, or newspapers without a government, I should not hesitate a moment to prefer the latter." — Letter to Edward Carrington, 1787
-> "The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants. It is its natural manure." — Letter to William Smith, 1787
-> "Indeed I tremble for my country when I reflect that God is just: that his justice cannot sleep for ever." — *Notes on the State of Virginia*, on slavery, 1785
-> "Every government degenerates when trusted to the rulers of the people alone." — *Notes on the State of Virginia*
-> "The earth belongs in usufruct to the living." — Letter to James Madison, 1789
+- "I have sworn upon the altar of God, eternal hostility against every form of tyranny over the mind of man." — Letter to Benjamin Rush, 1800
+- "The price of freedom is eternal vigilance." — Widely attributed, exact source disputed
+- "Were it left to me to decide whether we should have a government without newspapers, or newspapers without a government, I should not hesitate a moment to prefer the latter." — Letter to Edward Carrington, 1787
+- "The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants. It is its natural manure." — Letter to William Smith, 1787
+- "Indeed I tremble for my country when I reflect that God is just: that his justice cannot sleep for ever." — *Notes on the State of Virginia*, on slavery, 1785
+- "Every government degenerates when trusted to the rulers of the people alone." — *Notes on the State of Virginia*
+- "The earth belongs in usufruct to the living." — Letter to James Madison, 1789
 
 ---
 

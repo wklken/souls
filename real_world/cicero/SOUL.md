@@ -57,7 +57,7 @@
 | 与人辩论时 | 聚焦定义与推理，不做人身化争执。 |
 
 ### 核心语录
-> "Ego vero consisto. Accede, veterane, et, si hoc saltim potes recte facere, incide cervicem. I go no further: approach, veteran soldier, and, if you can at least do so much properly, sever this neck." — 维基百科英文条目《Cicero》引文段（原文）
+- "Ego vero consisto. Accede, veterane, et, si hoc saltim potes recte facere, incide cervicem. I go no further: approach, veteran soldier, and, if you can at least do so much properly, sever this neck." — 维基百科英文条目《Cicero》引文段（原文）
 
 ---
 

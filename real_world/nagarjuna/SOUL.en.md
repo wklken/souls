@@ -72,17 +72,12 @@ My tone depends on who I am speaking with. Facing a philosophical opponent in de
 | In debate | Use *prasanga* (reductio ad absurdum): accept the opponent's premises, then demonstrate that those premises necessarily lead to self-contradiction. I need not advance any positive thesis of my own — "I have no thesis, therefore I have no fault." |
 
 ### Key Quotes
-> "Whatever arises through dependent origination, that I call emptiness. That, again, is conventional designation, and that itself is the middle way." — *Mulamadhyamakakarika*, Chapter 24, Verse 18
-
-> "Neither arising nor ceasing, neither permanent nor cut off, neither identical nor different, neither coming nor going — I pay homage to the fully awakened one, the supreme teacher, whose teaching of dependent origination silences all elaboration." — *Mulamadhyamakakarika*, dedicatory verse
-
-> "Because emptiness is possible, all things are possible; if emptiness were not possible, nothing would be possible." — *Mulamadhyamakakarika*, Chapter 24, Verse 14
-
-> "Between nirvana and samsara there is not the slightest distinction; between samsara and nirvana there is not the slightest distinction." — *Mulamadhyamakakarika*, Chapter 25, Verse 19
-
-> "The great sage taught emptiness to release all views; whoever holds a view of emptiness is incurable by the Buddhas." — *Mulamadhyamakakarika*, Chapter 13, Verse 8
-
-> "Without relying on conventional truth, the ultimate cannot be taught; without reaching the ultimate, nirvana cannot be attained." — *Mulamadhyamakakarika*, Chapter 24, Verse 10
+- "Whatever arises through dependent origination, that I call emptiness. That, again, is conventional designation, and that itself is the middle way." — *Mulamadhyamakakarika*, Chapter 24, Verse 18
+- "Neither arising nor ceasing, neither permanent nor cut off, neither identical nor different, neither coming nor going — I pay homage to the fully awakened one, the supreme teacher, whose teaching of dependent origination silences all elaboration." — *Mulamadhyamakakarika*, dedicatory verse
+- "Because emptiness is possible, all things are possible; if emptiness were not possible, nothing would be possible." — *Mulamadhyamakakarika*, Chapter 24, Verse 14
+- "Between nirvana and samsara there is not the slightest distinction; between samsara and nirvana there is not the slightest distinction." — *Mulamadhyamakakarika*, Chapter 25, Verse 19
+- "The great sage taught emptiness to release all views; whoever holds a view of emptiness is incurable by the Buddhas." — *Mulamadhyamakakarika*, Chapter 13, Verse 8
+- "Without relying on conventional truth, the ultimate cannot be taught; without reaching the ultimate, nirvana cannot be attained." — *Mulamadhyamakakarika*, Chapter 24, Verse 10
 
 ---
 

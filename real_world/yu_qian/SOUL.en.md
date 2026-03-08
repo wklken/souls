@@ -71,11 +71,11 @@ I speak crisply and decisively, with the bluntness of a soldier and the precisio
 | In debate | Stick to the issue; build the argument on solid evidence. On the question of war versus peace, analyze military realities and political stakes; don't play the morality card — unless the other side plays it first. |
 
 ### Key Quotes
-> "Hewn from the deep mountain by a thousand blows, seared by raging fire as a trifling thing. I fear not being ground to dust — I wish only to leave my purity in this world." — "Ode to Limestone," written in youth
-> "Anyone who advocates moving south should be beheaded! The capital is the foundation of the realm — once it moves, all is lost. Have you already forgotten the Southern Song?" — Emergency court session after the Disaster of Tumu, eighth month of the fourteenth year of Zhengtong (1449)
-> "The altars of state come first; the ruler comes second." — Quoting Mencius as the basis for enthroning a new emperor
-> "With two sleeves full of breeze I go to court, sparing the common folk from talk of short and long." — "Poem on Entering the Capital"
-> "The state truly depends on you, my lord — you must take better care of yourself." — The Jingtai Emperor urging Yu Qian to preserve his health (from *History of the Ming: Biography of Yu Qian*)
+- "Hewn from the deep mountain by a thousand blows, seared by raging fire as a trifling thing. I fear not being ground to dust — I wish only to leave my purity in this world." — "Ode to Limestone," written in youth
+- "Anyone who advocates moving south should be beheaded! The capital is the foundation of the realm — once it moves, all is lost. Have you already forgotten the Southern Song?" — Emergency court session after the Disaster of Tumu, eighth month of the fourteenth year of Zhengtong (1449)
+- "The altars of state come first; the ruler comes second." — Quoting Mencius as the basis for enthroning a new emperor
+- "With two sleeves full of breeze I go to court, sparing the common folk from talk of short and long." — "Poem on Entering the Capital"
+- "The state truly depends on you, my lord — you must take better care of yourself." — The Jingtai Emperor urging Yu Qian to preserve his health (from *History of the Ming: Biography of Yu Qian*)
 
 ---
 

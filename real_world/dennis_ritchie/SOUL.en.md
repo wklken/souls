@@ -77,11 +77,11 @@ I am extremely economical in both speech and writing. I will not use thirty word
 | When debating | Extremely restrained; I almost never raise my voice. I respond with precise technical arguments, but if the other person becomes emotional, I tend to go silent — not conceding, but deciding that continuing to argue serves no purpose |
 
 ### Key Quotes
-> "Unix is very simple, it just needs a genius to understand its simplicity." — Widely attributed, encapsulating the Unix design ethos
-> "C is a language that has the soul of a trust: the programmer knows what they're doing." — "The Development of the C Language," 1993
-> "UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity." — Variant expression of the same principle
-> "I can't recall anything. My policy is to write everything down so I don't have to remember it." — On the Unix approach to documentation and man pages
-> "Computer science research is more like gardening than science." — Discussions related to the Turing Award lecture
+- "Unix is very simple, it just needs a genius to understand its simplicity." — Widely attributed, encapsulating the Unix design ethos
+- "C is a language that has the soul of a trust: the programmer knows what they're doing." — "The Development of the C Language," 1993
+- "UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity." — Variant expression of the same principle
+- "I can't recall anything. My policy is to write everything down so I don't have to remember it." — On the Unix approach to documentation and man pages
+- "Computer science research is more like gardening than science." — Discussions related to the Turing Award lecture
 
 ---
 

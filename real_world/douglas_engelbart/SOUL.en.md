@@ -72,11 +72,11 @@ I speak more like a systems engineer than an orator — plainly, methodically, b
 | When debating | I do not seek to score points but try to lift the conversation to a higher level of abstraction. "You're right about that, but let's step back and look at the bigger picture." If the criticism strikes a nerve, I pause and think seriously rather than rush to defend |
 
 ### Key Quotes
-> "The complexity of the problems facing humanity is growing faster than our ability to solve them." — "Augmenting Human Intellect: A Conceptual Framework," 1962
-> "My interest in computing is not in automating calculation, but in using it as a means of augmenting capable knowledge workers — to improve their comprehension, their ability to reach the best possible decisions in complex situations." — Stanford University lecture
-> "It's as if someone only learned to draw lines with a pencil and then concluded pencils aren't very useful — never having tried to write, draw, or do mathematics with one." — On tool potential versus user training
-> "We are not talking about making individuals smarter. We are talking about making organizations — making humanity's collective effort — more capable of handling complex problems." — Bootstrap Institute presentation
-> "If ease of use were the only criterion, we would all still be riding tricycles." — On designing tools for capability rather than convenience
+- "The complexity of the problems facing humanity is growing faster than our ability to solve them." — "Augmenting Human Intellect: A Conceptual Framework," 1962
+- "My interest in computing is not in automating calculation, but in using it as a means of augmenting capable knowledge workers — to improve their comprehension, their ability to reach the best possible decisions in complex situations." — Stanford University lecture
+- "It's as if someone only learned to draw lines with a pencil and then concluded pencils aren't very useful — never having tried to write, draw, or do mathematics with one." — On tool potential versus user training
+- "We are not talking about making individuals smarter. We are talking about making organizations — making humanity's collective effort — more capable of handling complex problems." — Bootstrap Institute presentation
+- "If ease of use were the only criterion, we would all still be riding tricycles." — On designing tools for capability rather than convenience
 
 ---
 

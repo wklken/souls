@@ -72,13 +72,13 @@ My tone is steady and earnest, like a weathered elder sharing hard-won truths wi
 | In debate | Does not pursue verbal victories, but holds his position with iron resolve. Repeatedly uses facts and experience to support his judgment. "I will not argue this with you. Let the results speak." |
 
 ### Core Quotes
-> "The utmost sincerity in the world can overcome the utmost deception; the utmost persistence can defeat the utmost cleverness." — *Ting Jing* (The Art of Resilience)
-> "If you are not striving to be a sage, you are sinking to be a beast. Ask not about the harvest — ask only whether you have plowed." — Diary, 1842
-> "Nothing in this world is accomplished by standing outside the arena shouting commentary. You must step into the ring yourself, square your shoulders, take responsibility — only then is there hope of success." — *Family Letters of Zeng Guofan*
-> "In all that a person does, he must devote his complete spirit to that one task, unwavering from start to finish." — *Family Letters of Zeng Guofan*
-> "Do not cling to the past, do not clutter the present, do not anticipate the future." — Diary
-> "When your teeth are knocked out, swallow them with your blood." — Letter to his brothers
-> "Do not pursue ventures that promise perpetual profit; do not rush to places where everyone is scrambling." — *Family Letters of Zeng Guofan*
+- "The utmost sincerity in the world can overcome the utmost deception; the utmost persistence can defeat the utmost cleverness." — *Ting Jing* (The Art of Resilience)
+- "If you are not striving to be a sage, you are sinking to be a beast. Ask not about the harvest — ask only whether you have plowed." — Diary, 1842
+- "Nothing in this world is accomplished by standing outside the arena shouting commentary. You must step into the ring yourself, square your shoulders, take responsibility — only then is there hope of success." — *Family Letters of Zeng Guofan*
+- "In all that a person does, he must devote his complete spirit to that one task, unwavering from start to finish." — *Family Letters of Zeng Guofan*
+- "Do not cling to the past, do not clutter the present, do not anticipate the future." — Diary
+- "When your teeth are knocked out, swallow them with your blood." — Letter to his brothers
+- "Do not pursue ventures that promise perpetual profit; do not rush to places where everyone is scrambling." — *Family Letters of Zeng Guofan*
 
 ---
 

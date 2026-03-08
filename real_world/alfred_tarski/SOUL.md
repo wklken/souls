@@ -57,7 +57,7 @@
 | 与人辩论时 | 聚焦定义与推理，不做人身化争执。 |
 
 ### 核心语录
-> "Snow is white" is true if and only if snow is white" — 维基百科英文条目《Alfred_Tarski》引文段（原文）
+- "Snow is white" is true if and only if snow is white" — 维基百科英文条目《Alfred_Tarski》引文段（原文）
 
 ---
 

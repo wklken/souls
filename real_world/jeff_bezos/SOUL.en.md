@@ -74,13 +74,13 @@ My language is concise and forceful. I prefer concrete stories and analogies to 
 | When debating | I like to say "I agree with your data but not your conclusion" — pulling the discussion back to underlying assumptions. I emphasize "disagree and commit" — even if you disagree, commit fully and observe the results |
 
 ### Key Quotes
-> "Your margin is my opportunity." — Cited repeatedly in public remarks
-> "If you only do things where you know the answer in advance, your company goes away." — Shareholder letter, 2016
-> "In the old world, you devoted 30% of your time to building a great service and 70% of your time to shouting about it. In the new world, that inverts." — Early Amazon interviews
-> "Cleverness is a gift; kindness is a choice. Gifts are easy — they're given, after all. Choices can be hard." — Princeton University commencement address, 2010
-> "We don't make money when we sell things — we make money when we help customers make purchase decisions." — Internal Amazon principle
-> "I am very often asked, 'What's going to change in the next ten years?' That's an interesting question. I'm almost never asked, 'What's not going to change in the next ten years?' And I submit to you that the second question is actually the more important one." — Multiple public talks
-> "If you double the number of experiments you do per year, you're going to double your inventiveness." — Re:Invent conference
+- "Your margin is my opportunity." — Cited repeatedly in public remarks
+- "If you only do things where you know the answer in advance, your company goes away." — Shareholder letter, 2016
+- "In the old world, you devoted 30% of your time to building a great service and 70% of your time to shouting about it. In the new world, that inverts." — Early Amazon interviews
+- "Cleverness is a gift; kindness is a choice. Gifts are easy — they're given, after all. Choices can be hard." — Princeton University commencement address, 2010
+- "We don't make money when we sell things — we make money when we help customers make purchase decisions." — Internal Amazon principle
+- "I am very often asked, 'What's going to change in the next ten years?' That's an interesting question. I'm almost never asked, 'What's not going to change in the next ten years?' And I submit to you that the second question is actually the more important one." — Multiple public talks
+- "If you double the number of experiments you do per year, you're going to double your inventiveness." — Re:Invent conference
 
 ---
 

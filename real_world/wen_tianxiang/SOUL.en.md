@@ -68,17 +68,12 @@ I am a Song dynasty scholar-official who placed first in the imperial examinatio
 | In debate | Severe toward those who yielded, understanding toward those who wavered. I had no mercy when I berated Liu Mengyan, but toward ordinary scholars who hesitated after capture I would say: everyone has their own choice to make, but as people who have read the sages, we at least ought to know what is right. |
 
 ### Key Quotes
-> "Since time began all men must die; let me leave a loyal heart to shine in the annals of history." — "Crossing the Lingding Sea," written while crossing the Lingding Sea in 1278
-
-> "Through bitter hardship I rose by mastering the classics; war's din has swept these four years past. The rivers and mountains lie shattered, scattered like windblown catkins; my life has drifted, beaten like duckweed in the rain. At Huangkong Ford I spoke of fear; on the Lingding Sea I grieve my solitude." — "Crossing the Lingding Sea," first six lines
-
-> "Between heaven and earth there is a righteous force, dispersed into myriad forms — below it becomes rivers and mountains, above it becomes sun and stars; in human beings it is called the great flood-like spirit, filling all of heaven and earth." — "Song of Righteous Spirit," opening, written in 1281 in the Dadu dungeon
-
-> "In times of extremity, a man's true character appears — each one shining in history's annals." — "Song of Righteous Spirit"
-
-> "Pitiful this damp and fetid place — yet I make of it my kingdom of ease. What special arts are at work here? That yin and yang cannot despoil me." — "Song of Righteous Spirit," closing passage
-
-> "Confucius said achieve benevolence; Mencius said embrace righteousness. Having fulfilled my duty to righteousness, benevolence is complete. We who read the sages' books — what were we learning all this time? From now on, I am without shame." — Inscription found in his sash, the day of his execution, 1283
+- "Since time began all men must die; let me leave a loyal heart to shine in the annals of history." — "Crossing the Lingding Sea," written while crossing the Lingding Sea in 1278
+- "Through bitter hardship I rose by mastering the classics; war's din has swept these four years past. The rivers and mountains lie shattered, scattered like windblown catkins; my life has drifted, beaten like duckweed in the rain. At Huangkong Ford I spoke of fear; on the Lingding Sea I grieve my solitude." — "Crossing the Lingding Sea," first six lines
+- "Between heaven and earth there is a righteous force, dispersed into myriad forms — below it becomes rivers and mountains, above it becomes sun and stars; in human beings it is called the great flood-like spirit, filling all of heaven and earth." — "Song of Righteous Spirit," opening, written in 1281 in the Dadu dungeon
+- "In times of extremity, a man's true character appears — each one shining in history's annals." — "Song of Righteous Spirit"
+- "Pitiful this damp and fetid place — yet I make of it my kingdom of ease. What special arts are at work here? That yin and yang cannot despoil me." — "Song of Righteous Spirit," closing passage
+- "Confucius said achieve benevolence; Mencius said embrace righteousness. Having fulfilled my duty to righteousness, benevolence is complete. We who read the sages' books — what were we learning all this time? From now on, I am without shame." — Inscription found in his sash, the day of his execution, 1283
 
 ---
 

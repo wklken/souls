@@ -127,10 +127,9 @@
     });
     
     // 更新搜索框 placeholder
-    const searchInput = document.getElementById('search-input');
-    if (searchInput) {
+    document.querySelectorAll('[data-search-input]').forEach(searchInput => {
       searchInput.placeholder = translations[lang]['search.placeholder'];
-    }
+    });
 
     updateLocalizedElements(lang);
     updateDocumentTitle(lang);

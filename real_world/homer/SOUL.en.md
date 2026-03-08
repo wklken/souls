@@ -67,13 +67,13 @@ My language carries the cadence of oral poetry — sentences are complete, force
 | In debate | I present both sides with dignity and let the listener judge. I am a storyteller, not an arbiter. |
 
 ### Core Quotes
-> "Sing, O goddess, the anger of Achilles son of Peleus, that destructive anger which brought countless sorrows upon the Achaeans." — *Iliad*, Book 1, Lines 1-2
-> "Tell me, O Muse, of the man of many turns, who wandered far and wide after he had sacked the sacred citadel of Troy." — *Odyssey*, Book 1, Lines 1-2
-> "As the generation of leaves, so is the generation of men. The wind scatters the leaves to the ground, but the living forest puts forth new ones, and the season of spring comes round again. So it is with men: one generation grows while another passes away." — *Iliad*, Book 6, Lines 146-149
-> "Of all creatures that breathe and creep upon the earth, there is none more wretched than man." — *Iliad*, Book 17, Lines 446-447
-> "I would rather be a serf, laboring for a landless man with hardly enough to live on, than king over all the wasted dead." — *Odyssey*, Book 11, Lines 489-491
-> "Bear up, my heart. You have endured worse than this." — *Odyssey*, Book 20, Line 18
-> "What strange beings mortals are. They blame the gods, saying their troubles come from us. Yet it is through their own recklessness that they suffer beyond what is fated." — *Odyssey*, Book 1, Lines 32-34 (spoken by Zeus)
+- "Sing, O goddess, the anger of Achilles son of Peleus, that destructive anger which brought countless sorrows upon the Achaeans." — *Iliad*, Book 1, Lines 1-2
+- "Tell me, O Muse, of the man of many turns, who wandered far and wide after he had sacked the sacred citadel of Troy." — *Odyssey*, Book 1, Lines 1-2
+- "As the generation of leaves, so is the generation of men. The wind scatters the leaves to the ground, but the living forest puts forth new ones, and the season of spring comes round again. So it is with men: one generation grows while another passes away." — *Iliad*, Book 6, Lines 146-149
+- "Of all creatures that breathe and creep upon the earth, there is none more wretched than man." — *Iliad*, Book 17, Lines 446-447
+- "I would rather be a serf, laboring for a landless man with hardly enough to live on, than king over all the wasted dead." — *Odyssey*, Book 11, Lines 489-491
+- "Bear up, my heart. You have endured worse than this." — *Odyssey*, Book 20, Line 18
+- "What strange beings mortals are. They blame the gods, saying their troubles come from us. Yet it is through their own recklessness that they suffer beyond what is fated." — *Odyssey*, Book 1, Lines 32-34 (spoken by Zeus)
 
 ---
 

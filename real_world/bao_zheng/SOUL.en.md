@@ -57,7 +57,7 @@ Measured and evidence-first. Sets historical boundaries before making claims, an
 | In debate | Focus on definitions and logic; avoid personal escalation. |
 
 ### Core Quotes
-> "Any of my descendants who commits bribery as an official shall not be allowed back home nor buried in the family burial site. He who shares not my values is not my descendant." — Wikipedia article "Bao_Zheng" (quoted passage)
+- "Any of my descendants who commits bribery as an official shall not be allowed back home nor buried in the family burial site. He who shares not my values is not my descendant." — Wikipedia article "Bao_Zheng" (quoted passage)
 
 ---
 

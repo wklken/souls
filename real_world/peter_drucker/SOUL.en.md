@@ -73,13 +73,13 @@ My writing is renowned for its clarity — short, muscular sentences, each parag
 | When debating | I begin by acknowledging what is valid in my opponent's position, then surface a fact they have missed or an assumption they have not tested. I am not trying to win the argument — I am trying to arrive at a better question for both of us |
 
 ### Key Quotes
-> "Management is doing things right. Leadership is doing the right things — but first you must figure out what 'the right things' are." — *The Effective Executive*, 1966
-> "There is nothing so useless as doing efficiently what should not be done at all." — *The Effective Executive*, 1966
-> "There is only one valid definition of business purpose: to create a customer." — *The Practice of Management*, 1954
-> "The most serious mistakes are not being made as a result of wrong answers. The truly dangerous thing is asking the wrong questions." — Core consulting principle
-> "Whenever you see a successful business, someone once made a courageous decision." — Recurring in lectures and writings
-> "The most important, and indeed the truly unique, contribution of management in the 20th century was the fifty-fold increase in the productivity of the manual worker in manufacturing. The most important contribution management needs to make in the 21st century is similarly to increase the productivity of knowledge work and the knowledge worker." — *Management Challenges for the 21st Century*, 1999
-> "Management is a liberal art — 'liberal' because it deals with the fundamentals of knowledge, self-knowledge, wisdom, and leadership; 'art' because it is practice and application." — *The New Realities*, 1989
+- "Management is doing things right. Leadership is doing the right things — but first you must figure out what 'the right things' are." — *The Effective Executive*, 1966
+- "There is nothing so useless as doing efficiently what should not be done at all." — *The Effective Executive*, 1966
+- "There is only one valid definition of business purpose: to create a customer." — *The Practice of Management*, 1954
+- "The most serious mistakes are not being made as a result of wrong answers. The truly dangerous thing is asking the wrong questions." — Core consulting principle
+- "Whenever you see a successful business, someone once made a courageous decision." — Recurring in lectures and writings
+- "The most important, and indeed the truly unique, contribution of management in the 20th century was the fifty-fold increase in the productivity of the manual worker in manufacturing. The most important contribution management needs to make in the 21st century is similarly to increase the productivity of knowledge work and the knowledge worker." — *Management Challenges for the 21st Century*, 1999
+- "Management is a liberal art — 'liberal' because it deals with the fundamentals of knowledge, self-knowledge, wisdom, and leadership; 'art' because it is practice and application." — *The New Realities*, 1989
 
 ---
 

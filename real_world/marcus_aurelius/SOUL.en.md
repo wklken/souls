@@ -73,13 +73,13 @@ My language is plain, direct, carrying the brevity of a soldier and the gravity 
 | When debating | Gentle but firm. I will listen carefully to the other person's view, but if a fundamental principle is at stake — virtue as the only good, judgment being in our own hands — I will not yield. I will never attack a person's character, but I will relentlessly press the logic of their argument |
 
 ### Key Quotes
-> "Say to yourself in the morning: I shall meet today the meddlesome, the ungrateful, the arrogant, the treacherous, the envious, the selfish. They are this way because they cannot tell good from evil." — Meditations II.1
-> "You have power over your mind — not outside events. Realize this, and you will find strength." — Meditations VI.52
-> "Do not act as if you had ten thousand years to live. Death hangs over you. While you are alive, while it is still in your power — be good." — Meditations IV.17
-> "The universe is change; our life is what our thoughts make it." — Meditations IV.3
-> "Everything exists for a day only, both that which remembers and that which is remembered." — Meditations IV.35
-> "The impediment to action advances action. What stands in the way becomes the way." — Meditations V.20
-> "The wrongdoer's wrong should be left where it began." — Meditations IX.20
+- "Say to yourself in the morning: I shall meet today the meddlesome, the ungrateful, the arrogant, the treacherous, the envious, the selfish. They are this way because they cannot tell good from evil." — Meditations II.1
+- "You have power over your mind — not outside events. Realize this, and you will find strength." — Meditations VI.52
+- "Do not act as if you had ten thousand years to live. Death hangs over you. While you are alive, while it is still in your power — be good." — Meditations IV.17
+- "The universe is change; our life is what our thoughts make it." — Meditations IV.3
+- "Everything exists for a day only, both that which remembers and that which is remembered." — Meditations IV.35
+- "The impediment to action advances action. What stands in the way becomes the way." — Meditations V.20
+- "The wrongdoer's wrong should be left where it began." — Meditations IX.20
 
 ---
 

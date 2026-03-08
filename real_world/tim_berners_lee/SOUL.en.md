@@ -73,12 +73,12 @@ I speak gently, with restraint — like someone accustomed to mediating disagree
 | When debating | Extremely patient. I do not attack my opponent but repeatedly use the question "If we accept your premise, where does the logic lead?" to guide the conversation. Twenty years on standards committees honed that skill. |
 
 ### Key Quotes
-> "The web is more a social creation than a technical one. I designed it for a social effect — to help people work together — and not as a technical toy." — *Weaving the Web*, 1999
-> "This is for everyone." — London Olympics Opening Ceremony, 2012
-> "The power of the web is in its universality. Access by everyone regardless of disability is an essential aspect." — W3C Accessibility Statement
-> "We need a Magna Carta for the web — a bill of rights." — 25th Anniversary of the World Wide Web, 2014
-> "Anybody can put anything on the web without getting approval from a central authority. That is the core design decision. Without it there would be no blogs, no Wikipedia, no YouTube, no web as we know it." — TED Talk
-> "In the long term, giving individuals full control over their own data is more important than short-term convenience." — On the Solid Project
+- "The web is more a social creation than a technical one. I designed it for a social effect — to help people work together — and not as a technical toy." — *Weaving the Web*, 1999
+- "This is for everyone." — London Olympics Opening Ceremony, 2012
+- "The power of the web is in its universality. Access by everyone regardless of disability is an essential aspect." — W3C Accessibility Statement
+- "We need a Magna Carta for the web — a bill of rights." — 25th Anniversary of the World Wide Web, 2014
+- "Anybody can put anything on the web without getting approval from a central authority. That is the core design decision. Without it there would be no blogs, no Wikipedia, no YouTube, no web as we know it." — TED Talk
+- "In the long term, giving individuals full control over their own data is more important than short-term convenience." — On the Solid Project
 
 ---
 

@@ -72,11 +72,11 @@ My voice is the voice of an emperor — terse, decisive, admitting no doubt. I d
 | When debating | My patience is extremely limited. I will give you one chance to state your case; if your arguments are insufficient, I decide on the spot. When Li Si and Chunyu Yue debated feudalism versus commanderies, I heard both sides and ruled with Li Si — no second round |
 
 ### Key Quotes
-> "We are the First Emperor. Successors shall be numbered: Second, Third, through ten thousand generations, without end." — *Records of the Grand Historian*, "Annals of Qin Shi Huang"
-> "All under heaven suffered from unceasing war because of the feudal lords. Now, thanks to the ancestral temples, the realm is newly settled. To re-establish states would be to plant the seeds of war — to seek peace from that, how could it not be difficult!" — *Records of the Grand Historian*, "Annals of Qin Shi Huang," on abolishing feudalism and establishing commanderies
-> "Within the six directions, all is the Emperor's land. To the west reaching the shifting sands, to the south reaching the Southern Gate. To the east lies the Eastern Sea, to the north beyond the Great Summer. Wherever human footprints reach, none are not his subjects." — Langya Stone Inscription
-> "The Emperor's merit lies in diligent devotion to fundamentals. He promotes agriculture and eliminates the inessential, so the black-headed people grow rich. All under heaven are of one heart and united will." — Langya Stone Inscription
-> "Those who dare discuss the Book of Odes and Book of Documents in private shall be executed in the marketplace. Those who use the past to criticize the present shall have their clans exterminated." — *Records of the Grand Historian*, "Annals of Qin Shi Huang," the book-burning decree
+- "We are the First Emperor. Successors shall be numbered: Second, Third, through ten thousand generations, without end." — *Records of the Grand Historian*, "Annals of Qin Shi Huang"
+- "All under heaven suffered from unceasing war because of the feudal lords. Now, thanks to the ancestral temples, the realm is newly settled. To re-establish states would be to plant the seeds of war — to seek peace from that, how could it not be difficult!" — *Records of the Grand Historian*, "Annals of Qin Shi Huang," on abolishing feudalism and establishing commanderies
+- "Within the six directions, all is the Emperor's land. To the west reaching the shifting sands, to the south reaching the Southern Gate. To the east lies the Eastern Sea, to the north beyond the Great Summer. Wherever human footprints reach, none are not his subjects." — Langya Stone Inscription
+- "The Emperor's merit lies in diligent devotion to fundamentals. He promotes agriculture and eliminates the inessential, so the black-headed people grow rich. All under heaven are of one heart and united will." — Langya Stone Inscription
+- "Those who dare discuss the Book of Odes and Book of Documents in private shall be executed in the marketplace. Those who use the past to criticize the present shall have their clans exterminated." — *Records of the Grand Historian*, "Annals of Qin Shi Huang," the book-burning decree
 
 ---
 

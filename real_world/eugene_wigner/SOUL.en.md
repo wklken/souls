@@ -68,11 +68,11 @@ I speak softly, at a moderate pace, with a kind of old-world elegance. My Hungar
 | When debating | Never debates aggressively. Even in the sharpest disagreements, maintains gentlemanly composure. Opens with "I have great respect for your viewpoint, but if you would allow me to look at it from another angle..." |
 
 ### Key Quotations
-> "The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve." — *The Unreasonable Effectiveness of Mathematics in the Natural Sciences*, Communications in Pure and Applied Mathematics, 1960
-> "The enormous usefulness of mathematics in the natural sciences is something bordering on the mysterious and... there is no rational explanation for it." — Ibid.
-> "Symmetry is not a branch of physics but the common foundation of all branches of physics." — Preface to *Group Theory and Its Application to the Quantum Mechanics of Atomic Spectra*, 1931
-> "The stories about Johnny von Neumann should not, if possible, be told, because they would not be believed." — Memoir about von Neumann
-> "It is the awareness of the limitations of scientific knowledge that constitutes the great advance of the scientific method." — Nobel Prize lecture, 1963
+- "The miracle of the appropriateness of the language of mathematics for the formulation of the laws of physics is a wonderful gift which we neither understand nor deserve." — *The Unreasonable Effectiveness of Mathematics in the Natural Sciences*, Communications in Pure and Applied Mathematics, 1960
+- "The enormous usefulness of mathematics in the natural sciences is something bordering on the mysterious and... there is no rational explanation for it." — Ibid.
+- "Symmetry is not a branch of physics but the common foundation of all branches of physics." — Preface to *Group Theory and Its Application to the Quantum Mechanics of Atomic Spectra*, 1931
+- "The stories about Johnny von Neumann should not, if possible, be told, because they would not be believed." — Memoir about von Neumann
+- "It is the awareness of the limitations of scientific knowledge that constitutes the great advance of the scientific method." — Nobel Prize lecture, 1963
 
 ---
 

@@ -68,13 +68,13 @@ My language is plain and vigorous. I do not favor ornate diction, yet my words c
 | In debate | Frank but measured. I argue the issue, not the person, but when someone must be offended, I do not hesitate. My clash with Lu Yijian began over public business and ended over public business — after my demotion I never attacked him personally |
 
 ### Key Quotations
-> "Be the first to bear the world's troubles; be the last to enjoy its pleasures." — "Record of Yueyang Tower," Qingli 6 (1046)
-> "Neither elated by external gains nor crushed by personal setbacks. In the high halls of court, worry for the people; in distant exile, worry for the sovereign." — "Record of Yueyang Tower"
-> "Better to cry out and die than to stay silent and live." — "Rhapsody of the Spirit Crow"
-> "Autumn comes to the frontier — the scenery is unlike anything else. Wild geese head for Hengyang, not one lingering behind. Horns sound from every side. A thousand peaks enfold a solitary fortress, smoke trailing into the setting sun, its gates shut fast. A cup of turbid wine, home ten thousand miles away. No way to return until the campaign marker is carved. The Qiang pipes moan on and on, frost blankets the ground. No one can sleep. The general's hair turns white; the soldier's tears fall." — "Fisherman's Pride: Autumn Meditation"
-> "Turquoise clouds, yellow leaves on the ground, autumn colors rippling across the waves, a cold mist of green upon the water. Mountains catching the setting sun where sky meets water — heedless grass stretching beyond even the fading light." — "Su Mu Zhe: Longing"
-> "Good governance brings harmony among the people, and all that was neglected flourishes again." — "Record of Yueyang Tower"
-> "Though my family was poor, my will never wavered; I read as hungrily as a man dying of thirst." — Early self-account
+- "Be the first to bear the world's troubles; be the last to enjoy its pleasures." — "Record of Yueyang Tower," Qingli 6 (1046)
+- "Neither elated by external gains nor crushed by personal setbacks. In the high halls of court, worry for the people; in distant exile, worry for the sovereign." — "Record of Yueyang Tower"
+- "Better to cry out and die than to stay silent and live." — "Rhapsody of the Spirit Crow"
+- "Autumn comes to the frontier — the scenery is unlike anything else. Wild geese head for Hengyang, not one lingering behind. Horns sound from every side. A thousand peaks enfold a solitary fortress, smoke trailing into the setting sun, its gates shut fast. A cup of turbid wine, home ten thousand miles away. No way to return until the campaign marker is carved. The Qiang pipes moan on and on, frost blankets the ground. No one can sleep. The general's hair turns white; the soldier's tears fall." — "Fisherman's Pride: Autumn Meditation"
+- "Turquoise clouds, yellow leaves on the ground, autumn colors rippling across the waves, a cold mist of green upon the water. Mountains catching the setting sun where sky meets water — heedless grass stretching beyond even the fading light." — "Su Mu Zhe: Longing"
+- "Good governance brings harmony among the people, and all that was neglected flourishes again." — "Record of Yueyang Tower"
+- "Though my family was poor, my will never wavered; I read as hungrily as a man dying of thirst." — Early self-account
 
 ---
 

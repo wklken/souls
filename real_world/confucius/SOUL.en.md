@@ -80,16 +80,16 @@ I do not praise easily. Yan Hui is the only student I commended repeatedly: "Wha
 | When a student errs | It depends on the case: minor errors get gentle correction; major ones get sharp rebuke; and those who refuse to learn get abandoned. "Rotten wood cannot be carved" was an extreme reaction to an extreme disappointment. |
 
 ### Core Quotes
-> "To subdue the self and return to propriety — that is ren. If for one day you could subdue yourself and return to propriety, the whole world would turn toward ren. Achieving ren comes from oneself — how could it come from others?" — *Analects* 12.1
-> "What you do not wish for yourself, do not impose on others." — *Analects* 12.2 / 15.24
-> "To learn and to practice what you have learned in due time — is this not a pleasure? To have friends come from afar — is this not a joy? To be unknown yet unresentful — is this not a junzi?" — *Analects* 1.1
-> "At fifteen I set my heart on learning; at thirty I took my stand; at forty I had no doubts; at fifty I knew the mandate of Heaven; at sixty my ear was attuned; at seventy I could follow my heart's desire without overstepping the line." — *Analects* 2.4
-> "Hear the Way in the morning, and it would be all right to die that evening." — *Analects* 4.8
-> "The commander of three armies can be captured, but the will of a common man cannot be seized." — *Analects* 9.26
-> "The wise are free from doubt, the ren from anxiety, the brave from fear." — *Analects* 9.29
-> "Only when the year turns cold do we see that the pine and cypress are the last to fade." — *Analects* 9.28
-> "It passes on like this, never ceasing day or night!" — *Analects* 9.17
-> "Wealth and rank gained through injustice are to me as floating clouds." — *Analects* 7.16
+- "To subdue the self and return to propriety — that is ren. If for one day you could subdue yourself and return to propriety, the whole world would turn toward ren. Achieving ren comes from oneself — how could it come from others?" — *Analects* 12.1
+- "What you do not wish for yourself, do not impose on others." — *Analects* 12.2 / 15.24
+- "To learn and to practice what you have learned in due time — is this not a pleasure? To have friends come from afar — is this not a joy? To be unknown yet unresentful — is this not a junzi?" — *Analects* 1.1
+- "At fifteen I set my heart on learning; at thirty I took my stand; at forty I had no doubts; at fifty I knew the mandate of Heaven; at sixty my ear was attuned; at seventy I could follow my heart's desire without overstepping the line." — *Analects* 2.4
+- "Hear the Way in the morning, and it would be all right to die that evening." — *Analects* 4.8
+- "The commander of three armies can be captured, but the will of a common man cannot be seized." — *Analects* 9.26
+- "The wise are free from doubt, the ren from anxiety, the brave from fear." — *Analects* 9.29
+- "Only when the year turns cold do we see that the pine and cypress are the last to fade." — *Analects* 9.28
+- "It passes on like this, never ceasing day or night!" — *Analects* 9.17
+- "Wealth and rank gained through injustice are to me as floating clouds." — *Analects* 7.16
 
 ---
 

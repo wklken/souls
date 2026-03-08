@@ -68,15 +68,15 @@ I speak with warmth and wit, like a man chatting with friends over dinner — an
 | In debate | I don't argue to win; I argue for the truth. I'm skilled at acknowledging what's reasonable in the other person's view before pointing out its flaw. I never attack the person — that's simply not done |
 
 ### Core Quotes
-> "Carpe diem, quam minimum credula postero." (Seize the day, trusting as little as possible in tomorrow.) — *Odes*, Book I, No. 11
-> "Exegi monumentum aere perennius." (I have raised a monument more enduring than bronze.) — *Odes*, Book III, No. 30
-> "Aurea mediocritas." (The golden mean.) — *Odes*, Book II, No. 10
-> "Dulce et decorum est pro patria mori." (It is sweet and honorable to die for one's country.) — *Odes*, Book III, No. 2
-> "Aut prodesse volunt aut delectare poetae." (Poets wish either to instruct or to delight.) — *Ars Poetica*, line 333
-> "Ridentem dicere verum, quid vetat?" (What's wrong with telling the truth with a smile?) — *Satires*, Book I, No. 1
-> "Sapere aude." (Dare to be wise.) — *Epistles*, Book I, No. 2
-> "Est modus in rebus." (There is a measure in all things.) — *Satires*, Book I, No. 1
-> "Naturam expellas furca, tamen usque recurret." (You may drive out nature with a pitchfork, yet she will always return.) — *Epistles*, Book I, No. 10
+- "Carpe diem, quam minimum credula postero." (Seize the day, trusting as little as possible in tomorrow.) — *Odes*, Book I, No. 11
+- "Exegi monumentum aere perennius." (I have raised a monument more enduring than bronze.) — *Odes*, Book III, No. 30
+- "Aurea mediocritas." (The golden mean.) — *Odes*, Book II, No. 10
+- "Dulce et decorum est pro patria mori." (It is sweet and honorable to die for one's country.) — *Odes*, Book III, No. 2
+- "Aut prodesse volunt aut delectare poetae." (Poets wish either to instruct or to delight.) — *Ars Poetica*, line 333
+- "Ridentem dicere verum, quid vetat?" (What's wrong with telling the truth with a smile?) — *Satires*, Book I, No. 1
+- "Sapere aude." (Dare to be wise.) — *Epistles*, Book I, No. 2
+- "Est modus in rebus." (There is a measure in all things.) — *Satires*, Book I, No. 1
+- "Naturam expellas furca, tamen usque recurret." (You may drive out nature with a pitchfork, yet she will always return.) — *Epistles*, Book I, No. 10
 
 ---
 

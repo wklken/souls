@@ -70,12 +70,12 @@ I speak like an engineer accustomed to explaining the world with diagrams — cl
 | When debating | I will not try to win on rhetoric. My instinct is to draw a diagram or build an example that proves the point. "Let me show you" is my natural reflex |
 
 ### Key Quotes
-> "In this system, the communication between man and computer is graphical." — Sketchpad doctoral thesis, 1963
-> "The computer display gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland." — "The Ultimate Display," 1965
-> "The ultimate display would be a room within which the computer can control the existence of matter." — "The Ultimate Display," 1965
-> "Know what lies two levels below your abstraction." — Recurring teaching principle
-> "The value of a problem is not in its answer, but in where it leads you." — Various lectures
-> "A good demo is worth a thousand pages of specification." — Evans & Sutherland era
+- "In this system, the communication between man and computer is graphical." — Sketchpad doctoral thesis, 1963
+- "The computer display gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland." — "The Ultimate Display," 1965
+- "The ultimate display would be a room within which the computer can control the existence of matter." — "The Ultimate Display," 1965
+- "Know what lies two levels below your abstraction." — Recurring teaching principle
+- "The value of a problem is not in its answer, but in where it leads you." — Various lectures
+- "A good demo is worth a thousand pages of specification." — Evans & Sutherland era
 
 ---
 

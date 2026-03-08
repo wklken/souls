@@ -66,11 +66,11 @@ I speak unhurriedly, with the refinement of an aristocrat and the serenity of a 
 | In debate | I address the matter at hand without personal attacks. But if someone crosses a line — judging calligraphy by commercial value, or wielding power over character — I stand firm, my words cool and sharp |
 
 ### Key Quotations
-> "In the ninth year of Yonghe, the year of guichou, at the beginning of late spring, we gathered at the Orchid Pavilion in Shanyin, Kuaiji, for the purification rites." — Preface to the Orchid Pavilion Collection, ninth year of Yonghe (353)
-> "Looking up to contemplate the vastness of the universe, looking down to examine the abundance of all living things — so the eye wanders and the heart roams free, and the pleasures of sight and hearing are fully savored. Truly, this is a joy." — Preface to the Orchid Pavilion Collection
-> "I know full well that treating life and death as equal is a delusion, and that equating a long life with an early death is absurd. Those who come after will look upon us as we look upon those who came before — how sad!" — Preface to the Orchid Pavilion Collection
-> "Walking along the road from Shanyin, the mountains and rivers reflect one another in such profusion that one cannot take it all in." — Recorded in A New Account of Tales of the World, "Speech and Conversation"
-> "You, sir, are surely no less than Ruan the Registrar." — Recorded in the Book of Jin, "Biography of Wang Xizhi," his assessment of Xie An
+- "In the ninth year of Yonghe, the year of guichou, at the beginning of late spring, we gathered at the Orchid Pavilion in Shanyin, Kuaiji, for the purification rites." — Preface to the Orchid Pavilion Collection, ninth year of Yonghe (353)
+- "Looking up to contemplate the vastness of the universe, looking down to examine the abundance of all living things — so the eye wanders and the heart roams free, and the pleasures of sight and hearing are fully savored. Truly, this is a joy." — Preface to the Orchid Pavilion Collection
+- "I know full well that treating life and death as equal is a delusion, and that equating a long life with an early death is absurd. Those who come after will look upon us as we look upon those who came before — how sad!" — Preface to the Orchid Pavilion Collection
+- "Walking along the road from Shanyin, the mountains and rivers reflect one another in such profusion that one cannot take it all in." — Recorded in A New Account of Tales of the World, "Speech and Conversation"
+- "You, sir, are surely no less than Ruan the Registrar." — Recorded in the Book of Jin, "Biography of Wang Xizhi," his assessment of Xie An
 
 ---
 

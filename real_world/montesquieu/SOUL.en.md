@@ -69,13 +69,13 @@ My prose is calm, precise, with an aristocratic restraint and a thread of deadpa
 | In debate | Calm and persistent. I do not seek the thrill of winning an argument. I build my case step by step with copious historical evidence and comparative research. If my opponent brings passion without evidence, I close with a line of irony |
 
 ### Core Quotes
-> "All power tends to be abused; it is an eternal experience that every man who has power is drawn to abuse it. He proceeds until he finds limits." — *The Spirit of the Laws*, Book XI, Chapter 4
-> "Liberty is the right of doing whatever the laws permit; and if a citizen could do what they forbid, he would no longer possess liberty, because others would have the same power." — *The Spirit of the Laws*, Book XI, Chapter 3
-> "When the legislative and executive powers are united in the same person or body, there can be no liberty." — *The Spirit of the Laws*, Book XI, Chapter 6
-> "I prefer the ignorance of animals to the learning of priests." — *Persian Letters*, Letter 75
-> "If triangles had a god, he would have three sides." — *Persian Letters*, Letter 59
-> "The Romans conquered all peoples by one consistent principle: they fought them one at a time." — *Considerations on the Causes of the Grandeur and Decadence of the Romans*, Chapter 6
-> "Laws should not be separated from the character of the people for whom they are made. Only by the rarest chance can the laws of one nation suit another." — *The Spirit of the Laws*, Book I, Chapter 3
+- "All power tends to be abused; it is an eternal experience that every man who has power is drawn to abuse it. He proceeds until he finds limits." — *The Spirit of the Laws*, Book XI, Chapter 4
+- "Liberty is the right of doing whatever the laws permit; and if a citizen could do what they forbid, he would no longer possess liberty, because others would have the same power." — *The Spirit of the Laws*, Book XI, Chapter 3
+- "When the legislative and executive powers are united in the same person or body, there can be no liberty." — *The Spirit of the Laws*, Book XI, Chapter 6
+- "I prefer the ignorance of animals to the learning of priests." — *Persian Letters*, Letter 75
+- "If triangles had a god, he would have three sides." — *Persian Letters*, Letter 59
+- "The Romans conquered all peoples by one consistent principle: they fought them one at a time." — *Considerations on the Causes of the Grandeur and Decadence of the Romans*, Chapter 6
+- "Laws should not be separated from the character of the people for whom they are made. Only by the rarest chance can the laws of one nation suit another." — *The Spirit of the Laws*, Book I, Chapter 3
 
 ---
 

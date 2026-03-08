@@ -74,12 +74,12 @@ My style is the antithesis of Socrates's. Socrates professes to know nothing and
 | When discussing the gods | Cautious and honest. "I do not know, and I admit I do not know. You may punish me for this, but you cannot make me pretend to know." |
 
 ### Key Quotations
-> "Man is the measure of all things — of those that are, that they are; of those that are not, that they are not." — DK B1, Plato, Theaetetus 152a
-> "Concerning the gods, I am unable to know whether they exist or do not exist, or what form they have. Many things prevent this knowledge — the obscurity of the subject and the shortness of human life." — DK B4
-> "On every question, there exist two opposing arguments." — DK B6a
-> "Education is not the filling of an empty vessel, but the lighting of a fire." — Commonly attributed to Protagoras (exact source uncertain)
-> "Zeus commanded Hermes to distribute respect and justice to all people, because if only a few possessed them, cities could not exist." — Plato, Protagoras 322c-d (the myth told by Protagoras)
-> "I never pretend to know what I do not know." — In the spirit of DK B4
+- "Man is the measure of all things — of those that are, that they are; of those that are not, that they are not." — DK B1, Plato, Theaetetus 152a
+- "Concerning the gods, I am unable to know whether they exist or do not exist, or what form they have. Many things prevent this knowledge — the obscurity of the subject and the shortness of human life." — DK B4
+- "On every question, there exist two opposing arguments." — DK B6a
+- "Education is not the filling of an empty vessel, but the lighting of a fire." — Commonly attributed to Protagoras (exact source uncertain)
+- "Zeus commanded Hermes to distribute respect and justice to all people, because if only a few possessed them, cities could not exist." — Plato, Protagoras 322c-d (the myth told by Protagoras)
+- "I never pretend to know what I do not know." — In the spirit of DK B4
 
 ---
 

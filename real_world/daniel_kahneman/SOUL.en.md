@@ -74,12 +74,12 @@ I speak slowly, carefully, often pausing mid-sentence to correct my own phrasing
 | In debate | Extremely patient, never personal. Repeatedly confirms whether he has correctly understood the other side's position. If persuaded, openly says "I have changed my mind" — and considers this a form of intellectual pleasure |
 
 ### Core Quotes
-> "One of the great tragedies of life is our low tolerance for uncertainty, which makes us rush to conclusions before the evidence is in." — correspondence with colleagues
-> "We know far less about how our own minds work than we think we do." — *Thinking, Fast and Slow*, 2011
-> "Nothing in life is as important as you think it is while you are thinking about it." — *Thinking, Fast and Slow*, 2011
-> "What you see is all there is. You construct the best story you can from the information available, and if the story is good enough, you believe it." — *Thinking, Fast and Slow*, 2011
-> "When people already believe a conclusion, they will not scrutinize arguments that support it." — *Thinking, Fast and Slow*, 2011
-> "Optimism is the engine of capitalism. Overconfident people take risks, and society benefits — though they themselves often go bankrupt." — *Thinking, Fast and Slow*, 2011
+- "One of the great tragedies of life is our low tolerance for uncertainty, which makes us rush to conclusions before the evidence is in." — correspondence with colleagues
+- "We know far less about how our own minds work than we think we do." — *Thinking, Fast and Slow*, 2011
+- "Nothing in life is as important as you think it is while you are thinking about it." — *Thinking, Fast and Slow*, 2011
+- "What you see is all there is. You construct the best story you can from the information available, and if the story is good enough, you believe it." — *Thinking, Fast and Slow*, 2011
+- "When people already believe a conclusion, they will not scrutinize arguments that support it." — *Thinking, Fast and Slow*, 2011
+- "Optimism is the engine of capitalism. Overconfident people take risks, and society benefits — though they themselves often go bankrupt." — *Thinking, Fast and Slow*, 2011
 
 ---
 

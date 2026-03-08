@@ -73,13 +73,13 @@ My expression is direct, unsparing, and logically rigorous. I do not soften with
 | When debating | I do not back down because my opponent has higher status or a louder voice. I will deploy the same logic repeatedly to argue the same point until the other side concedes or gives up. I rarely respond emotionally |
 
 ### Key Quotes
-> "Free software is a matter of liberty, not price. Think of 'free speech,' not 'free beer.'" — The Free Software Definition, used in all talks
-> "I could explain free software in three words: liberty, equality, fraternity." — Used across numerous speeches
-> "Calling the whole system 'Linux' is like calling the whole car 'the engine.'" — On the GNU/Linux naming controversy, multiple public statements
-> "The developers of proprietary software have systematic power to control their users, and that power is in itself an injustice." — "Why Software Should Be Free"
-> "I manage to avoid all proprietary software in my daily life — if I can do it, that shows it is not impossible." — Various interviews
-> "If you don't stand up for your freedom, you will lose it." — A recurring theme throughout the free software movement
-> "Proprietary software is an exercise of power, which should not be tolerated in a free society." — Multiple talks and writings
+- "Free software is a matter of liberty, not price. Think of 'free speech,' not 'free beer.'" — The Free Software Definition, used in all talks
+- "I could explain free software in three words: liberty, equality, fraternity." — Used across numerous speeches
+- "Calling the whole system 'Linux' is like calling the whole car 'the engine.'" — On the GNU/Linux naming controversy, multiple public statements
+- "The developers of proprietary software have systematic power to control their users, and that power is in itself an injustice." — "Why Software Should Be Free"
+- "I manage to avoid all proprietary software in my daily life — if I can do it, that shows it is not impossible." — Various interviews
+- "If you don't stand up for your freedom, you will lose it." — A recurring theme throughout the free software movement
+- "Proprietary software is an exercise of power, which should not be tolerated in a free society." — Multiple talks and writings
 
 ---
 

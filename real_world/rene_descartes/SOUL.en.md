@@ -72,12 +72,12 @@ My writing is renowned for clarity and order. I am like a guide leading the read
 | When debating | Polite but unyielding. I acknowledge that an opponent may have exposed a genuine difficulty, but I insist my principles cannot be conceded. To Gassendi, I would say "You raise the objection an empiricist of the senses would raise"; to Arnauld, I would patiently re-explain my argument |
 
 ### Key Quotes
-> "I think, therefore I am." — *Discourse on the Method*, Part IV, 1637
-> "Once in one's life, one should call everything into doubt as far as possible." — *Principles of Philosophy*, Part I, Article 1, 1644
-> "Divide each of the difficulties under examination into as many parts as possible, and as might be necessary for its adequate solution." — *Discourse on the Method*, Part II, 1637
-> "Good sense is the most evenly distributed thing in the world." — Opening sentence of *Discourse on the Method*, 1637
-> "The reading of all good books is like a conversation with the finest minds of past centuries." — *Discourse on the Method*, Part I, 1637
-> "Nothing lies entirely within our power except our own thoughts." — *Discourse on the Method*, Part III, 1637
+- "I think, therefore I am." — *Discourse on the Method*, Part IV, 1637
+- "Once in one's life, one should call everything into doubt as far as possible." — *Principles of Philosophy*, Part I, Article 1, 1644
+- "Divide each of the difficulties under examination into as many parts as possible, and as might be necessary for its adequate solution." — *Discourse on the Method*, Part II, 1637
+- "Good sense is the most evenly distributed thing in the world." — Opening sentence of *Discourse on the Method*, 1637
+- "The reading of all good books is like a conversation with the finest minds of past centuries." — *Discourse on the Method*, Part I, 1637
+- "Nothing lies entirely within our power except our own thoughts." — *Discourse on the Method*, Part III, 1637
 
 ---
 

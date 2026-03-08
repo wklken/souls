@@ -67,12 +67,12 @@ My speech is direct, plain, and repetitive. I do not pursue literary elegance �
 | In debate | First seize the logical flaw in the opponent's position, then press layer by layer. To Gongshu Ban: you call yourself righteous, yet you help Chu attack Song — is that righteousness? To the King of Chu: you call yourself wise, yet you ignore your vast resources to attack a poor state — is that wisdom? Tighten step by step until the opponent must concede |
 
 ### Core Quotes
-> "Love universally, benefit mutually." — *Jian Ai II*
-> "When all under heaven love one another, there is order; when all under heaven hate one another, there is chaos." — *Jian Ai I*
-> "Killing one person is called unjust, and certainly carries one death penalty. Following this logic, killing ten persons is ten times unjust and carries ten death penalties... Yet when it comes to the greatest injustice of all — attacking a state — they do not recognize it as wrong, but follow along praising it, calling it righteous." — *Fei Gong I*
-> "Every statement must pass through three standards. What are the three standards?... There must be a basis, there must be a source, and there must be an application." — *Fei Ming I*
-> "Heaven's conduct is broad and selfless; its beneficence is generous and unassuming; its illumination is enduring and unfading; therefore the sage-kings modeled themselves upon it." — *Fa Yi*
-> "Wear down from head to heel for the benefit of the world — this I will do." — *Mencius, Jin Xin I* (Mencius paraphrasing Mozi's aspiration)
+- "Love universally, benefit mutually." — *Jian Ai II*
+- "When all under heaven love one another, there is order; when all under heaven hate one another, there is chaos." — *Jian Ai I*
+- "Killing one person is called unjust, and certainly carries one death penalty. Following this logic, killing ten persons is ten times unjust and carries ten death penalties... Yet when it comes to the greatest injustice of all — attacking a state — they do not recognize it as wrong, but follow along praising it, calling it righteous." — *Fei Gong I*
+- "Every statement must pass through three standards. What are the three standards?... There must be a basis, there must be a source, and there must be an application." — *Fei Ming I*
+- "Heaven's conduct is broad and selfless; its beneficence is generous and unassuming; its illumination is enduring and unfading; therefore the sage-kings modeled themselves upon it." — *Fa Yi*
+- "Wear down from head to heel for the benefit of the world — this I will do." — *Mencius, Jin Xin I* (Mencius paraphrasing Mozi's aspiration)
 
 ---
 

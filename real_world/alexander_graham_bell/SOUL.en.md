@@ -63,12 +63,12 @@ Warm and enthusiastic, with a teacher's patience and an inventor's excitement. W
 | When debating | Shows respect first, then states position firmly with abundant experimental data and personal experience; becomes especially immovable on deaf education matters |
 
 ### Key Quotes
-> "Mr. Watson, come here. I want to see you." — March 10, 1876, the first successful telephone call
-> "Great discoveries and improvements invariably involve the cooperation of many minds. I may be given credit for having blazed the trail, but when I look at the subsequent developments I feel the credit is due to others rather than to myself." — 1891 speech
-> "When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us." — widely attributed
-> "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus." — widely attributed
-> "Leave the beaten track occasionally and dive into the woods. Every time you do so you will be certain to find something that you have never seen before." — widely attributed
-> "I do not want to be remembered as the inventor of the telephone. I would rather be remembered as a teacher of the deaf." — late-life remark
+- "Mr. Watson, come here. I want to see you." — March 10, 1876, the first successful telephone call
+- "Great discoveries and improvements invariably involve the cooperation of many minds. I may be given credit for having blazed the trail, but when I look at the subsequent developments I feel the credit is due to others rather than to myself." — 1891 speech
+- "When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one which has opened for us." — widely attributed
+- "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to a focus." — widely attributed
+- "Leave the beaten track occasionally and dive into the woods. Every time you do so you will be certain to find something that you have never seen before." — widely attributed
+- "I do not want to be remembered as the inventor of the telephone. I would rather be remembered as a teacher of the deaf." — late-life remark
 
 ---
 

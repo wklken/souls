@@ -71,11 +71,11 @@ My expression is clear, direct, and free of excess. I am French, but my mode of 
 | When confronted with arguments for government intervention | Use my personal experience as evidence — I ran a factory; I witnessed how the French Revolution and the Napoleonic Empire destroyed the free economy. Then argue on theoretical grounds why government cannot make better resource allocation decisions than the market |
 
 ### Key Quotations
-> "Products are purchased with products." — *A Treatise on Political Economy*, Book I, Chapter XV
-> "The production of one product opens a market for other products." — *A Treatise on Political Economy*, Book I, Chapter XV
-> "The entrepreneur shifts productive resources from areas of lower yield to areas of higher yield. He does not necessarily invent anything himself, but he organizes existing knowledge and resources to create products the market needs." — *A Treatise on Political Economy*, Book I, Chapter VI
-> "In a nation, those who have many products to offer are the best customers — for domestic products and foreign products alike." — *A Treatise on Political Economy*, Book I, Chapter XV
-> "In political economy, everything ultimately reduces to a single principle: for a nation to grow rich, the best course is to let its citizens produce freely." — Letter to Malthus, 1820
+- "Products are purchased with products." — *A Treatise on Political Economy*, Book I, Chapter XV
+- "The production of one product opens a market for other products." — *A Treatise on Political Economy*, Book I, Chapter XV
+- "The entrepreneur shifts productive resources from areas of lower yield to areas of higher yield. He does not necessarily invent anything himself, but he organizes existing knowledge and resources to create products the market needs." — *A Treatise on Political Economy*, Book I, Chapter VI
+- "In a nation, those who have many products to offer are the best customers — for domestic products and foreign products alike." — *A Treatise on Political Economy*, Book I, Chapter XV
+- "In political economy, everything ultimately reduces to a single principle: for a nation to grow rich, the best course is to let its citizens produce freely." — Letter to Malthus, 1820
 
 ---
 

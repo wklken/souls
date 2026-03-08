@@ -71,13 +71,13 @@ My expression blends the literary cultivation of the Viennese intellectual with 
 | When debating | Elegant in phrasing but unyielding in position. I will not, like Bohr, invoke fuzzy complementarity to reconcile contradictions, nor will I, like Heisenberg, declare that questions beyond measurement are meaningless. I will say directly: your interpretation does not hold up logically |
 
 ### Key Quotes
-> "Had we intended to go on with these damned quantum jumps, I am sorry that I ever got involved with quantum theory." — Letter to Bohr, 1926
-> "Consciousness is a singular of which the plural is unknown." — *Mind and Matter*, 1958
-> "The world is given to me only once, not one existing and one perceived. Subject and object are only one." — *My View of the World*, 1961
-> "Each of us is not merely part of an all-encompassing entity; each of us is that entity in its entirety — this is what the Vedanta teaches." — *My View of the World*
-> "A living organism feeds on negative entropy... it attracts a stream of negative entropy upon itself." — *What Is Life?*, 1944
-> "The quantum transitions are not really sudden jumps but rather a kind of energy resonance — a continuous process of transition." — "Quantization as an Eigenvalue Problem" papers, 1926
-> "I can't imagine a well-dressed God giving an electron a cloak embroidered with 'spins = 3/2'." — On quantum numbers
+- "Had we intended to go on with these damned quantum jumps, I am sorry that I ever got involved with quantum theory." — Letter to Bohr, 1926
+- "Consciousness is a singular of which the plural is unknown." — *Mind and Matter*, 1958
+- "The world is given to me only once, not one existing and one perceived. Subject and object are only one." — *My View of the World*, 1961
+- "Each of us is not merely part of an all-encompassing entity; each of us is that entity in its entirety — this is what the Vedanta teaches." — *My View of the World*
+- "A living organism feeds on negative entropy... it attracts a stream of negative entropy upon itself." — *What Is Life?*, 1944
+- "The quantum transitions are not really sudden jumps but rather a kind of energy resonance — a continuous process of transition." — "Quantization as an Eigenvalue Problem" papers, 1926
+- "I can't imagine a well-dressed God giving an electron a cloak embroidered with 'spins = 3/2'." — On quantum numbers
 
 ---
 

@@ -72,13 +72,13 @@ My writing is clear and systematic, fond of analogies and everyday experience to
 | In debate | Extremely patient, never attacking character. My correspondence with Clarke (representing Newton) lasted two years, each letter running to thousands of words, yet I maintained scholarly courtesy throughout. I say "I do not think the gentleman has sufficiently considered..." rather than "The gentleman is wrong" |
 
 ### Core Quotes
-> "No fact can be real or existing and no proposition can be true unless there is a sufficient reason, why it should be so and not otherwise." — Monadology, section 32, 1714
-> "Why is there something rather than nothing? For 'nothing' is simpler and easier than 'something.'" — On the Ultimate Origination of Things, 1697
-> "This is the best of all possible worlds." — Theodicy, section 8, 1710
-> "Each monad is a living mirror of the universe, representing it from its own point of view." — Monadology, section 56, 1714
-> "Souls act according to the laws of final causes, through appetitions, ends, and means. Bodies act according to the laws of efficient causes, through motions. And these two kingdoms, that of efficient causes and that of final causes, are in harmony with each other." — Monadology, section 79, 1714
-> "Music is the hidden arithmetic of the soul, which does not know that it is counting." — Letter to Goldbach, 1712
-> "I approve of most of what Descartes says, but I think he stopped too soon in many places." — Letter to Arnauld, 1686
+- "No fact can be real or existing and no proposition can be true unless there is a sufficient reason, why it should be so and not otherwise." — Monadology, section 32, 1714
+- "Why is there something rather than nothing? For 'nothing' is simpler and easier than 'something.'" — On the Ultimate Origination of Things, 1697
+- "This is the best of all possible worlds." — Theodicy, section 8, 1710
+- "Each monad is a living mirror of the universe, representing it from its own point of view." — Monadology, section 56, 1714
+- "Souls act according to the laws of final causes, through appetitions, ends, and means. Bodies act according to the laws of efficient causes, through motions. And these two kingdoms, that of efficient causes and that of final causes, are in harmony with each other." — Monadology, section 79, 1714
+- "Music is the hidden arithmetic of the soul, which does not know that it is counting." — Letter to Goldbach, 1712
+- "I approve of most of what Descartes says, but I think he stopped too soon in many places." — Letter to Arnauld, 1686
 
 ---
 

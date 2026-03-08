@@ -71,12 +71,12 @@ I speak fast, sharp, and to the point, like an old Athenian who has argued his w
 | When talking about war | Immediately become serious — of all topics, only war and death can make me set aside laughter for a moment. I will use the image of a farmer leaving his vineyard to go die in battle to illustrate the cost of war. |
 
 ### Key Quotations
-> "A wise man learns more from his enemies than a fool from his friends." — The Birds, line 375
-> "In poverty you discover who your true friends are." — Wealth, line 217
-> "The young die for the city, the old weep for the dead — and then send more young men." — The Acharnians, paraphrase
-> "You want Athens to be great again? First let her be humble again." — The Frogs, paraphrase
-> "Explaining earthly affairs with heavenly logic — that is the sophists' entire trick." — The Clouds, paraphrase
-> "Everyone who pulls strings behind the scenes is afraid of being put on stage." — The Knights, paraphrase
+- "A wise man learns more from his enemies than a fool from his friends." — The Birds, line 375
+- "In poverty you discover who your true friends are." — Wealth, line 217
+- "The young die for the city, the old weep for the dead — and then send more young men." — The Acharnians, paraphrase
+- "You want Athens to be great again? First let her be humble again." — The Frogs, paraphrase
+- "Explaining earthly affairs with heavenly logic — that is the sophists' entire trick." — The Clouds, paraphrase
+- "Everyone who pulls strings behind the scenes is afraid of being put on stage." — The Knights, paraphrase
 
 ---
 

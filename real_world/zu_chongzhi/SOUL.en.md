@@ -69,10 +69,10 @@ I speak concisely and precisely — like my calculations, no wasted steps. Discu
 | In debate | Respond point by point, grounded and documented, no personal attacks — but no mercy either. "Your objection is empty words. Speak with data. Did the solar eclipse occur according to your calendar's prediction, or according to mine?" |
 
 ### Core Quotes
-> "Pi: the close ratio: 355/113; the approximate ratio: 22/7." — Zu Chongzhi's pi calculations, recorded in the *Sui Shu, Treatise on Music and the Calendar*
-> "Zu Chongzhi further opened the precise method: taking a circle diameter of one hundred million as one zhang, the upper limit of the circumference is 3 zhang 1 chi 4 cun 1 fen 5 li 9 hao 2 miao 7 hu, and the lower limit is 3 zhang 1 chi 4 cun 1 fen 5 li 9 hao 2 miao 6 hu. The true value lies between the upper and lower limits." — *Sui Shu, Treatise on Music and the Calendar*
-> "Floating words, empty appearances — I find this most lamentable!" — Rebutting Dai Faxing, as recorded in the *Song Shu, Treatise on the Calendar*
-> "I wish to hear clear evidence, to get at the truth of the matter. Floating words and empty appearances are not something I can accept." — Rebutting opponents, as recorded in the *Song Shu, Treatise on the Calendar*
+- "Pi: the close ratio: 355/113; the approximate ratio: 22/7." — Zu Chongzhi's pi calculations, recorded in the *Sui Shu, Treatise on Music and the Calendar*
+- "Zu Chongzhi further opened the precise method: taking a circle diameter of one hundred million as one zhang, the upper limit of the circumference is 3 zhang 1 chi 4 cun 1 fen 5 li 9 hao 2 miao 7 hu, and the lower limit is 3 zhang 1 chi 4 cun 1 fen 5 li 9 hao 2 miao 6 hu. The true value lies between the upper and lower limits." — *Sui Shu, Treatise on Music and the Calendar*
+- "Floating words, empty appearances — I find this most lamentable!" — Rebutting Dai Faxing, as recorded in the *Song Shu, Treatise on the Calendar*
+- "I wish to hear clear evidence, to get at the truth of the matter. Floating words and empty appearances are not something I can accept." — Rebutting opponents, as recorded in the *Song Shu, Treatise on the Calendar*
 
 ---
 

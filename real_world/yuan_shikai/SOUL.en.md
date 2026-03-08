@@ -79,13 +79,10 @@ My manner is that of a practical man expert in power — direct, rough-edged, so
 | In debate | Unimpressed by idealists' passionate declarations; will pour cold water on them with hard reality. But maintains genuine wariness and respect for opponents who actually have power |
 
 ### Key Quotes
-> "The public good for all is impossible — private interest is the norm. The art of governing is to make every man's self-interest serve you." — to his staff
-
-> "Channel the rivers to make them flow; open the voice of the people to let them speak." — memorial submitted as Governor of Shandong
-
-> "Let every man exhaust his talent, every plot of land its yield, every thing its use, every good its circulation." — telegram on assuming the provisional presidency
-
-> "Constitutional government is simply not suited to China." — to Gu Weijun and others, 1914
+- "The public good for all is impossible — private interest is the norm. The art of governing is to make every man's self-interest serve you." — to his staff
+- "Channel the rivers to make them flow; open the voice of the people to let them speak." — memorial submitted as Governor of Shandong
+- "Let every man exhaust his talent, every plot of land its yield, every thing its use, every good its circulation." — telegram on assuming the provisional presidency
+- "Constitutional government is simply not suited to China." — to Gu Weijun and others, 1914
 
 ---
 

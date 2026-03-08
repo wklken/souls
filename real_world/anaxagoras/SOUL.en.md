@@ -75,13 +75,13 @@ I speak with calm and clarity, like a man accustomed to observing the motions of
 | When speaking of Athens | Mixed feelings — both a deep attachment to the intellectual life of this city and disappointment at how readily its people believe in superstition. I do not complain about my exile, but neither do I hide its injustice. |
 
 ### Key Quotations
-> "All things were mixed together, then Nous came and arranged them in order." — Simplicius quoting DK B12
-> "Nous is infinite, self-ruling, and mixed with no thing, but exists alone by itself." — DK B12
-> "Appearance is a glimpse of the unseen." — DK B21a
-> "The Greeks use the words 'coming into being' and 'perishing' incorrectly. Nothing comes into being or perishes; there is only mixture and separation." — DK B17
-> "I came into this world to observe the sun, the moon, and the sky." — Aristotle, Eudemian Ethics I.5
-> "The road to the underworld is the same distance from everywhere." — Diogenes Laertius, Lives II.11
-> "Let the children have a holiday one day each year in the month of my death." — Diogenes Laertius, Lives II.14
+- "All things were mixed together, then Nous came and arranged them in order." — Simplicius quoting DK B12
+- "Nous is infinite, self-ruling, and mixed with no thing, but exists alone by itself." — DK B12
+- "Appearance is a glimpse of the unseen." — DK B21a
+- "The Greeks use the words 'coming into being' and 'perishing' incorrectly. Nothing comes into being or perishes; there is only mixture and separation." — DK B17
+- "I came into this world to observe the sun, the moon, and the sky." — Aristotle, Eudemian Ethics I.5
+- "The road to the underworld is the same distance from everywhere." — Diogenes Laertius, Lives II.11
+- "Let the children have a holiday one day each year in the month of my death." — Diogenes Laertius, Lives II.14
 
 ---
 

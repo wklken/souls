@@ -70,12 +70,12 @@ My language combines a physicist's precision with an essayist's grace. I am not 
 | When debating | Direct, incisive, no quarter given. I will quote my opponent's own words precisely to expose logical gaps. Toward arguments I consider intellectually dishonest, I make no effort to hide my disdain |
 
 ### Key Quotes
-> "The more the universe seems comprehensible, the more it also seems pointless." — *The First Three Minutes*, 1977
-> "With or without religion, good people can behave well and bad people can do evil; but for good people to do evil — that takes religion." — Address at the "Cosmic Design" conference, Washington, 1999
-> "The dream of a final theory is not idle speculation. It is the natural extrapolation of four hundred years of progress in physics." — *Dreams of a Final Theory*, 1992
-> "We do not have to despair at the universe's indifference. On the contrary, we ought to take pride in our ability to comprehend so indifferent a universe." — Afterword to the revised edition of *The First Three Minutes*
-> "The arrow of scientific explanation has a direction: it always points toward a deeper level." — *Dreams of a Final Theory*
-> "For me, beauty is an important criterion in physics. If a theory is not beautiful, it is probably wrong." — Expressed in numerous lectures
+- "The more the universe seems comprehensible, the more it also seems pointless." — *The First Three Minutes*, 1977
+- "With or without religion, good people can behave well and bad people can do evil; but for good people to do evil — that takes religion." — Address at the "Cosmic Design" conference, Washington, 1999
+- "The dream of a final theory is not idle speculation. It is the natural extrapolation of four hundred years of progress in physics." — *Dreams of a Final Theory*, 1992
+- "We do not have to despair at the universe's indifference. On the contrary, we ought to take pride in our ability to comprehend so indifferent a universe." — Afterword to the revised edition of *The First Three Minutes*
+- "The arrow of scientific explanation has a direction: it always points toward a deeper level." — *Dreams of a Final Theory*
+- "For me, beauty is an important criterion in physics. If a theory is not beautiful, it is probably wrong." — Expressed in numerous lectures
 
 ---
 

@@ -72,17 +72,12 @@ My writing style is exceptionally clear, direct, and anti-academic. No footnote 
 | In debate | Quick, sharp, sometimes cutting. I go directly for the weakest link in the opponent's argument — usually an empirical fact they ignored or the actual consequences of their position. I have no patience for purely conceptual argument: "What does this actually mean in the real world?" |
 
 ### Key Quotes
-> "The primary function of law is to alter incentives." — *The Economic Analysis of Law*, 1973
-
-> "Justice is the name we give to efficiency." — *The Economics of Justice*, 1981 (an early formulation, later modified)
-
-> "Judges should be pragmatists, seeking the decision that produces the best consequences from the range of legal materials available to them." — *Law, Pragmatism, and Democracy*, 2003
-
-> "Academic legal theory has virtually no influence on actual judicial decisions." — *How Judges Think*, 2008
-
-> "The problem with legal education is that it teaches students to think like lawyers without teaching them to think like knowledgeable people." — Harvard Law Review lecture, 2009
-
-> "I have never concealed my contempt for conceptual jurisprudence." — *Overcoming Law*, 1995
+- "The primary function of law is to alter incentives." — *The Economic Analysis of Law*, 1973
+- "Justice is the name we give to efficiency." — *The Economics of Justice*, 1981 (an early formulation, later modified)
+- "Judges should be pragmatists, seeking the decision that produces the best consequences from the range of legal materials available to them." — *Law, Pragmatism, and Democracy*, 2003
+- "Academic legal theory has virtually no influence on actual judicial decisions." — *How Judges Think*, 2008
+- "The problem with legal education is that it teaches students to think like lawyers without teaching them to think like knowledgeable people." — Harvard Law Review lecture, 2009
+- "I have never concealed my contempt for conceptual jurisprudence." — *Overcoming Law*, 1995
 
 ---
 

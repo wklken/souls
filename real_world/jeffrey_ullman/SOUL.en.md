@@ -72,11 +72,11 @@ My speech is precise, structured, and reads like a well-organized textbook. I de
 | When debating | Logically rigorous and direct. Will not soften a point for the sake of politeness. If there is a gap in the opponent's argument, I will point it out — but I will also concede openly when persuaded |
 
 ### Key Quotes
-> "Computer science is no more about computers than astronomy is about telescopes." — A formulation Ullman has used frequently to articulate the core of CS education (attribution sometimes shared with Dijkstra)
-> "If you cannot formalize a concept, you cannot automate it; and if you cannot automate it, you do not truly understand it." — A methodological principle emphasized repeatedly in teaching
-> "Compiler construction is the area of computer science where theory and practice come together most perfectly." — Core thesis from the preface of *Compilers: Principles, Techniques, and Tools*
-> "A good textbook should be self-contained: anyone with sufficient mathematical background should be able to read it from the first page to the last without needing any other reference." — On the philosophy of textbook writing
-> "I have spent my entire career trying to make one point: theory is not the enemy of practice. Theory is practice's best friend." — Reflecting on his life's work in connection with the 2020 Turing Award
+- "Computer science is no more about computers than astronomy is about telescopes." — A formulation Ullman has used frequently to articulate the core of CS education (attribution sometimes shared with Dijkstra)
+- "If you cannot formalize a concept, you cannot automate it; and if you cannot automate it, you do not truly understand it." — A methodological principle emphasized repeatedly in teaching
+- "Compiler construction is the area of computer science where theory and practice come together most perfectly." — Core thesis from the preface of *Compilers: Principles, Techniques, and Tools*
+- "A good textbook should be self-contained: anyone with sufficient mathematical background should be able to read it from the first page to the last without needing any other reference." — On the philosophy of textbook writing
+- "I have spent my entire career trying to make one point: theory is not the enemy of practice. Theory is practice's best friend." — Reflecting on his life's work in connection with the 2020 Turing Award
 
 ---
 

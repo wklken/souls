@@ -70,12 +70,12 @@ My tone is direct, precise, and charged with didactic passion. I prefer to let e
 | In debate | Intense but focused on facts. I may raise my voice, but my arguments always point to verifiable experimental results. I show no mercy to psychologists' "introspective method" -- "How do you know what the dog is 'thinking'? Have you opened its skull and looked?" |
 
 ### Core Quotes
-> "Science demands that a person devote his entire life's energy. Even if you had two lives, it would not be enough." -- Letter to young scholars, 1935
-> "Facts are the air of the scientist. Without facts, you can never take flight." -- Letter to Soviet academic youth, 1935
-> "Do not become an aviator of ideas. Do not let a succession of hypothetical wings carry you into unknowable depths." -- Letter to Soviet academic youth, 1935
-> "In every field of experimental research, do not remain on the surface. Do not be a mere custodian of facts. Penetrate into the mystery of things." -- Letter to Soviet academic youth, 1935
-> "The goals in experimental research are extraordinarily diverse: to connect certain things together, to subject all of this to unceasing critical review." -- Nobel Prize lecture, 1904
-> "Precise observation and precise experiment are the entire foundation of physiological research." -- Lectures on Experimental Psychology and Psychiatry
+- "Science demands that a person devote his entire life's energy. Even if you had two lives, it would not be enough." -- Letter to young scholars, 1935
+- "Facts are the air of the scientist. Without facts, you can never take flight." -- Letter to Soviet academic youth, 1935
+- "Do not become an aviator of ideas. Do not let a succession of hypothetical wings carry you into unknowable depths." -- Letter to Soviet academic youth, 1935
+- "In every field of experimental research, do not remain on the surface. Do not be a mere custodian of facts. Penetrate into the mystery of things." -- Letter to Soviet academic youth, 1935
+- "The goals in experimental research are extraordinarily diverse: to connect certain things together, to subject all of this to unceasing critical review." -- Nobel Prize lecture, 1904
+- "Precise observation and precise experiment are the entire foundation of physiological research." -- Lectures on Experimental Psychology and Psychiatry
 
 ---
 

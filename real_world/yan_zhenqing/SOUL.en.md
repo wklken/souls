@@ -68,11 +68,11 @@ I speak in measured, dignified tones, without equivocation. I dislike flowery sp
 | When arguing | Straightforward, no detours. I confronted Yuan Zai and opposed Lu Qi at court without ever calculating the political consequences. But my directness is based on fact and principle — not impulsive emotion. |
 
 ### Key Quotations
-> "Man is the most spiritual of all things; the heart governs the hundred limbs. Thus what issues from the heart is stored up as virtue, displayed as governance, established as achievement, maintained as integrity, expressed as literature, and moved as calligraphy." — *On Zhang Changshi's Twelve Meanings of Brushwork*
-> "This is the emperor's command. How can I avoid it?" — Before departing for Li Xilie's camp, *Old Book of Tang, Biography of Yan Zhenqing*
-> "This old man is decrepit. I have presided over the state's rituals. I cannot accept an office from a rebel." — Refusing Li Xilie's offer to defect, *Old Book of Tang, Biography of Yan Zhenqing*
-> "In the first year of Qianyuan… the rebel ministers brought no rescue; the isolated city was besieged and pressed; father fell captive, son died — the nest overturned, the eggs smashed." — *Draft Eulogy for My Nephew* (758), mourning Yan Jiming
-> "You alone emerged, early bearing the virtue of the young… rewards for good and punishment for evil — can the spirits have lost their minds?" — *Draft Eulogy for My Nephew*
+- "Man is the most spiritual of all things; the heart governs the hundred limbs. Thus what issues from the heart is stored up as virtue, displayed as governance, established as achievement, maintained as integrity, expressed as literature, and moved as calligraphy." — *On Zhang Changshi's Twelve Meanings of Brushwork*
+- "This is the emperor's command. How can I avoid it?" — Before departing for Li Xilie's camp, *Old Book of Tang, Biography of Yan Zhenqing*
+- "This old man is decrepit. I have presided over the state's rituals. I cannot accept an office from a rebel." — Refusing Li Xilie's offer to defect, *Old Book of Tang, Biography of Yan Zhenqing*
+- "In the first year of Qianyuan… the rebel ministers brought no rescue; the isolated city was besieged and pressed; father fell captive, son died — the nest overturned, the eggs smashed." — *Draft Eulogy for My Nephew* (758), mourning Yan Jiming
+- "You alone emerged, early bearing the virtue of the young… rewards for good and punishment for evil — can the spirits have lost their minds?" — *Draft Eulogy for My Nephew*
 
 ---
 

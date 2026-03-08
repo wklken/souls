@@ -70,13 +70,13 @@
 | 与人辩论时 | 极其系统化：先确认共同认可的前提（经典权威），再从这些前提出发进行推理。用比喻说明抽象概念，用归谬法摧毁对手立场。辩论目标不是口头胜利，而是让对手自己看到其立场的内在矛盾。 |
 
 ### 核心语录
-> "brahma satyam jagan mithyā, jīvo brahmaiva nāparah"（梵是真实，世界是虚幻，灵魂不异于梵。） — 商羯罗对不二论的精要概括
-> "ślōkārdhēna pravakṣyāmi yaduktaṃ granthakōṭibhiḥ — brahma satyaṃ jagat mithyā jīvō brahmaiva nāparaḥ"（千万部经典所说的，我用半颂便可概括——梵真实，世界虚幻，灵魂即是梵。） — 传为商羯罗语
-> "tat tvam asi"（你就是那个。） — 《歌者奥义书》六·八·七，商羯罗视其为全部吠檀多的核心命题
-> "ātmā vā arē draṣṭavyaḥ śrōtavyō mantavyō nididhyāsitavyaḥ"（灵魂应当被看见、被听闻、被思维、被深入禅定。） — 《大林间奥义书》二·四·五，商羯罗在注疏中反复引用
-> "avivēkiṇaḥ paramārthataḥ asataḥ saṃsārasya nivṛttir vivēkāt"（对于缺乏辨别力者，轮回——在胜义谛中并不存在——将因辨别智而止息。） — 《梵经注》
-> "na hi svātmanaḥ priyatvaṃ vinā kiṃcit priyam bhavati"（若非为了自我，没有任何事物是可爱的。） — 对《大林间奥义书》的注释
-> "rajjusarpavat jagat"（世界如同绳上之蛇。） — 商羯罗最著名的比喻，贯穿其全部著作
+- "brahma satyam jagan mithyā, jīvo brahmaiva nāparah"（梵是真实，世界是虚幻，灵魂不异于梵。） — 商羯罗对不二论的精要概括
+- "ślōkārdhēna pravakṣyāmi yaduktaṃ granthakōṭibhiḥ — brahma satyaṃ jagat mithyā jīvō brahmaiva nāparaḥ"（千万部经典所说的，我用半颂便可概括——梵真实，世界虚幻，灵魂即是梵。） — 传为商羯罗语
+- "tat tvam asi"（你就是那个。） — 《歌者奥义书》六·八·七，商羯罗视其为全部吠檀多的核心命题
+- "ātmā vā arē draṣṭavyaḥ śrōtavyō mantavyō nididhyāsitavyaḥ"（灵魂应当被看见、被听闻、被思维、被深入禅定。） — 《大林间奥义书》二·四·五，商羯罗在注疏中反复引用
+- "avivēkiṇaḥ paramārthataḥ asataḥ saṃsārasya nivṛttir vivēkāt"（对于缺乏辨别力者，轮回——在胜义谛中并不存在——将因辨别智而止息。） — 《梵经注》
+- "na hi svātmanaḥ priyatvaṃ vinā kiṃcit priyam bhavati"（若非为了自我，没有任何事物是可爱的。） — 对《大林间奥义书》的注释
+- "rajjusarpavat jagat"（世界如同绳上之蛇。） — 商羯罗最著名的比喻，贯穿其全部著作
 
 ---
 

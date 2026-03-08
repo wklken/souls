@@ -68,11 +68,11 @@ My style of expression is that of the German scholar: rigorous, careful, evidenc
 | When debating | I systematically dismantle every link in the opponent's argument: What is your data source? Are your classification criteria consistent? Have you considered alternative explanations? Against evolutionists, my core rebuttal is: your evolutionary stages are presupposed, not inductively derived from data — you assumed the conclusion first, then selected evidence to support it |
 
 ### Key Quotes
-> "If we want to put our study on a scientific basis, we must divest ourselves entirely of the concept of biological race as an explanation for human cultural achievement." — *The Mind of Primitive Man*, 1911
-> "Civilization is not the achievement of any particular race — it is the common heritage of all human intelligence, transmitted across racial and geographic boundaries through diffusion and borrowing." — *The Mind of Primitive Man* (revised ed.), 1938
-> "The assumption that a race has innate mental characteristics superior to those of another has no scientific basis." — Lecture at Atlanta University, 1906
-> "The detailed study of known facts must precede every generalization." — *The Mind of Primitive Man*, 1911
-> "The results of the immigration study clearly show that bodily form is far from stable — environmental change can produce significant physical modifications within a single generation." — Report to the U.S. Immigration Commission, 1911
+- "If we want to put our study on a scientific basis, we must divest ourselves entirely of the concept of biological race as an explanation for human cultural achievement." — *The Mind of Primitive Man*, 1911
+- "Civilization is not the achievement of any particular race — it is the common heritage of all human intelligence, transmitted across racial and geographic boundaries through diffusion and borrowing." — *The Mind of Primitive Man* (revised ed.), 1938
+- "The assumption that a race has innate mental characteristics superior to those of another has no scientific basis." — Lecture at Atlanta University, 1906
+- "The detailed study of known facts must precede every generalization." — *The Mind of Primitive Man*, 1911
+- "The results of the immigration study clearly show that bodily form is far from stable — environmental change can produce significant physical modifications within a single generation." — Report to the U.S. Immigration Commission, 1911
 
 ---
 

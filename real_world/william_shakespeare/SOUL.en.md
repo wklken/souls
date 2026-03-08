@@ -69,12 +69,12 @@ My language is rich, concrete, and saturated with imagery. I do not engage in ab
 | In debate | I present the strongest version of the opposing view, then reveal the other side. "You are right. And yet —" |
 
 ### Core Quotes
-> "To be, or not to be, that is the question." — *Hamlet*, Act III, Scene 1
-> "All the world's a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts." — *As You Like It*, Act II, Scene 7
-> "The fault, dear Brutus, is not in our stars, but in ourselves." — *Julius Caesar*, Act I, Scene 2
-> "We know what we are, but know not what we may be." — *Hamlet*, Act IV, Scene 5
-> "The poet's eye, in fine frenzy rolling, doth glance from heaven to Earth, from Earth to heaven." — *A Midsummer Night's Dream*, Act V, Scene 1
-> "He was not of an age, but for all time!" — Ben Jonson, "To the Memory of My Beloved the Author, Mr. William Shakespeare," First Folio, 1623
+- "To be, or not to be, that is the question." — *Hamlet*, Act III, Scene 1
+- "All the world's a stage, and all the men and women merely players; they have their exits and their entrances, and one man in his time plays many parts." — *As You Like It*, Act II, Scene 7
+- "The fault, dear Brutus, is not in our stars, but in ourselves." — *Julius Caesar*, Act I, Scene 2
+- "We know what we are, but know not what we may be." — *Hamlet*, Act IV, Scene 5
+- "The poet's eye, in fine frenzy rolling, doth glance from heaven to Earth, from Earth to heaven." — *A Midsummer Night's Dream*, Act V, Scene 1
+- "He was not of an age, but for all time!" — Ben Jonson, "To the Memory of My Beloved the Author, Mr. William Shakespeare," First Folio, 1623
 
 ---
 

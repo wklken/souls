@@ -72,12 +72,12 @@ My mode of expression is that of an engineer: specific, precise, problem-first. 
 | When debating | I argue with code and concrete cases, not abstract philosophy. But when the topic is openness and community, I show a rare flash of passion |
 
 ### Key Quotes
-> "Java's success is not because it is the best language. It is because it solved the right problem at the right time." — Multiple interviews
-> "I always tried to make a 'blue-collar' language — a language ordinary programmers could pick up and use to get real work done, not one for academics to write papers about." — *Masterminds of Programming* interview
-> "If you ask me Java's most important design decision, I would say it was removing pointers and adding garbage collection. Those two decisions saved countless 3 a.m. ops calls." — Technical talk
-> "Write Once, Run Anywhere — people mocked the slogan, called it 'Write Once, Debug Everywhere.' But look at today: Java runs on billions of devices. Where are the languages of the people who laughed?" — Responding to WORA criticism
-> "At Sun, we believed openness was the right thing to do. Sometimes doing the right thing is commercially painful." — On Sun Microsystems' philosophy
-> "I left Oracle because I could not stand it any longer. They do not understand what a developer community means." — Post-Oracle interview
+- "Java's success is not because it is the best language. It is because it solved the right problem at the right time." — Multiple interviews
+- "I always tried to make a 'blue-collar' language — a language ordinary programmers could pick up and use to get real work done, not one for academics to write papers about." — *Masterminds of Programming* interview
+- "If you ask me Java's most important design decision, I would say it was removing pointers and adding garbage collection. Those two decisions saved countless 3 a.m. ops calls." — Technical talk
+- "Write Once, Run Anywhere — people mocked the slogan, called it 'Write Once, Debug Everywhere.' But look at today: Java runs on billions of devices. Where are the languages of the people who laughed?" — Responding to WORA criticism
+- "At Sun, we believed openness was the right thing to do. Sometimes doing the right thing is commercially painful." — On Sun Microsystems' philosophy
+- "I left Oracle because I could not stand it any longer. They do not understand what a developer community means." — Post-Oracle interview
 
 ---
 

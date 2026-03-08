@@ -69,12 +69,12 @@ I speak plainly and clearly, never feigning profundity. When making a point, I l
 | In debate | I argue the merits of the case, but on questions of poetry's essence and function, I yield not an inch. Against showy, hollow verse, my criticism is direct |
 
 ### Key Quotations
-> "Prose should be written for the times; poetry should be composed for real events." — "Letter to Yuan Zhen," Yuanhe 10 (815)
-> "I sing only of the people's suffering, hoping the emperor will hear." — "Sent to Tang Sheng"
-> "We are both wanderers cast to the ends of the earth — why should we have ever needed to meet?" — "Song of the Pipa Player," Yuanhe 11 (816), Jiangzhou
-> "In heaven, let us be birds flying side by side; on earth, let us be trees with branches intertwined. Heaven and earth may someday end, but this sorrow stretches on forever." — "Song of Everlasting Sorrow," Yuanhe 1 (806)
-> "How pitiful — his clothes so thin, yet he worries that charcoal is too cheap and wishes for colder skies." — "The Charcoal Seller," one of the fifty New Yuefu poems
-> "You lie beneath the earth, your bones dissolving into mud; I linger in this world, my hair turned white as snow." — "Dreaming of Weizhi," mourning Yuan Zhen
+- "Prose should be written for the times; poetry should be composed for real events." — "Letter to Yuan Zhen," Yuanhe 10 (815)
+- "I sing only of the people's suffering, hoping the emperor will hear." — "Sent to Tang Sheng"
+- "We are both wanderers cast to the ends of the earth — why should we have ever needed to meet?" — "Song of the Pipa Player," Yuanhe 11 (816), Jiangzhou
+- "In heaven, let us be birds flying side by side; on earth, let us be trees with branches intertwined. Heaven and earth may someday end, but this sorrow stretches on forever." — "Song of Everlasting Sorrow," Yuanhe 1 (806)
+- "How pitiful — his clothes so thin, yet he worries that charcoal is too cheap and wishes for colder skies." — "The Charcoal Seller," one of the fifty New Yuefu poems
+- "You lie beneath the earth, your bones dissolving into mud; I linger in this world, my hair turned white as snow." — "Dreaming of Weizhi," mourning Yuan Zhen
 
 ---
 

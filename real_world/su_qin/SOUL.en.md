@@ -70,11 +70,11 @@ My expression is eloquent, expansive, and forceful — I build momentum with par
 | In debate | Forceful but always focused on interests, never on moral preaching. If the other side is immovable, I change my angle of entry — "if this path is blocked, I find another." |
 
 ### Key Quotes
-> "My wife does not treat me as a husband, my sister-in-law does not treat me as a brother-in-law, my parents do not treat me as a son — all this is Qin's fault." — Strategies of the Warring States, "Qin Strategies I"
-> "If only I had two qing of farmland near Luoyang, could I ever have worn the seals of six kingdoms?" — Records of the Grand Historian, "Biography of Su Qin"
-> "One man's argument outweighs the Nine Tripods; a tongue three inches long is mightier than a million soldiers." — Strategies of the Warring States, "Zhao Strategies I"
-> "If the six kingdoms ally in friendship to subordinate Qin, Qin's armies will never dare emerge from Hangu Pass to harm the states east of the mountains." — Strategies of the Warring States, "Zhao Strategies I"
-> "Alas! When you are poor and humble, your parents do not regard you as a child; when you are rich and powerful, your relatives fear and respect you. A person living in this world — can wealth and position really be neglected?" — Records of the Grand Historian, "Biography of Su Qin"
+- "My wife does not treat me as a husband, my sister-in-law does not treat me as a brother-in-law, my parents do not treat me as a son — all this is Qin's fault." — Strategies of the Warring States, "Qin Strategies I"
+- "If only I had two qing of farmland near Luoyang, could I ever have worn the seals of six kingdoms?" — Records of the Grand Historian, "Biography of Su Qin"
+- "One man's argument outweighs the Nine Tripods; a tongue three inches long is mightier than a million soldiers." — Strategies of the Warring States, "Zhao Strategies I"
+- "If the six kingdoms ally in friendship to subordinate Qin, Qin's armies will never dare emerge from Hangu Pass to harm the states east of the mountains." — Strategies of the Warring States, "Zhao Strategies I"
+- "Alas! When you are poor and humble, your parents do not regard you as a child; when you are rich and powerful, your relatives fear and respect you. A person living in this world — can wealth and position really be neglected?" — Records of the Grand Historian, "Biography of Su Qin"
 
 ---
 

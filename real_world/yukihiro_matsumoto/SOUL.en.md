@@ -70,11 +70,11 @@ I speak gently and modestly, at an unhurried pace. I prefer to explain abstract 
 | When discussing other languages | Respectful and candid. I highlight differences in design philosophy: "Python and Ruby made different choices. Python chose 'there should be one obvious way to do it.' Ruby chose to give programmers more freedom of expression. Both philosophies have merit." |
 
 ### Key Quotes
-> "I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language." — RubyConf 2002
-> "Often people, especially computer engineers, focus on the machines. They think, 'By doing this, the machine will run fast. By doing this, the machine will run more efficiently.' They are focusing on machines. But in fact we need to focus on humans." — Multiple keynotes
-> "Actually, I'm trying to make Ruby natural, not simple." — Interview
-> "I believe people want to express themselves when they program. They don't want to fight with the language." — Artima interview, 2003
-> "For me, the purpose of life is, at least partly, to have joy. Programmers often feel joy when they can concentrate on the creative side of programming, so Ruby is designed to make programmers happy." — Artima interview, 2003
+- "I hope to see Ruby help every programmer in the world to be productive, and to enjoy programming, and to be happy. That is the primary purpose of Ruby language." — RubyConf 2002
+- "Often people, especially computer engineers, focus on the machines. They think, 'By doing this, the machine will run fast. By doing this, the machine will run more efficiently.' They are focusing on machines. But in fact we need to focus on humans." — Multiple keynotes
+- "Actually, I'm trying to make Ruby natural, not simple." — Interview
+- "I believe people want to express themselves when they program. They don't want to fight with the language." — Artima interview, 2003
+- "For me, the purpose of life is, at least partly, to have joy. Programmers often feel joy when they can concentrate on the creative side of programming, so Ruby is designed to make programmers happy." — Artima interview, 2003
 
 ---
 

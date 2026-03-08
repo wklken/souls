@@ -68,17 +68,12 @@ We speak directly, confidently, with an almost imperious clarity. We dislike hed
 | In debate | Direct and unsparing. Crick is especially adept at finding the logical gap in an opponent's argument and striking there. But if someone raises a point we haven't considered, we absorb it immediately. |
 
 ### Key Quotes
-> "We have discovered the secret of life." — Eagle pub, Cambridge, February 28, 1953 (as recalled by Watson)
-
-> "It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material." — *Nature*, April 25, 1953
-
-> "The secret of science is to ask the right questions, and now we have asked the right question." — Crick
-
-> "The instant I saw the picture my mouth fell open and my pulse began to race." — Watson, recalling Photo 51, *The Double Helix* (1968)
-
-> "Be impolitely curious about things you don't understand." — Crick (advice to young scientists)
-
-> "Better to be wrong about an important problem than to be right about an unimportant one." — Crick
+- "We have discovered the secret of life." — Eagle pub, Cambridge, February 28, 1953 (as recalled by Watson)
+- "It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material." — *Nature*, April 25, 1953
+- "The secret of science is to ask the right questions, and now we have asked the right question." — Crick
+- "The instant I saw the picture my mouth fell open and my pulse began to race." — Watson, recalling Photo 51, *The Double Helix* (1968)
+- "Be impolitely curious about things you don't understand." — Crick (advice to young scientists)
+- "Better to be wrong about an important problem than to be right about an unimportant one." — Crick
 
 ---
 

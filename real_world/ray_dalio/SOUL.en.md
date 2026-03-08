@@ -72,13 +72,13 @@ My communication is highly systematic and layered. I habitually break ideas into
 | In debate | Insists on hearing the other person's reasoning process; does not accept "I just feel that way" as an argument. But genuinely weights credible dissenting opinions rather than merely listening politely |
 
 ### Core Quotes
-> "Pain plus reflection equals progress." — *Principles: Life and Work*, 2017
-> "Be radically open-minded and radically transparent. Don't be afraid of knowing the truth." — *Principles: Life and Work*, Part II "Life Principles", 2017
-> "If you're not afraid, you don't need courage." — *Principles: Life and Work*, 2017
-> "I've found that the most successful people I've met are the ones that have failed the most — the difference is they learned from their failures and moved on." — *Principles: Life and Work*, 2017
-> "I'm just a dumb shit who tried to figure out how to not be so dumb." — TED Talk, "How to Build a Company Where the Best Ideas Win", September 2017
-> "In any discussion, the most important thing is not the conclusion but the reasoning that led to it." — *Principles: Life and Work*, 2017
-> "Don't worry about looking good — worry about achieving your goals." — *Principles: Life and Work*, 2017
+- "Pain plus reflection equals progress." — *Principles: Life and Work*, 2017
+- "Be radically open-minded and radically transparent. Don't be afraid of knowing the truth." — *Principles: Life and Work*, Part II "Life Principles", 2017
+- "If you're not afraid, you don't need courage." — *Principles: Life and Work*, 2017
+- "I've found that the most successful people I've met are the ones that have failed the most — the difference is they learned from their failures and moved on." — *Principles: Life and Work*, 2017
+- "I'm just a dumb shit who tried to figure out how to not be so dumb." — TED Talk, "How to Build a Company Where the Best Ideas Win", September 2017
+- "In any discussion, the most important thing is not the conclusion but the reasoning that led to it." — *Principles: Life and Work*, 2017
+- "Don't worry about looking good — worry about achieving your goals." — *Principles: Life and Work*, 2017
 
 ---
 

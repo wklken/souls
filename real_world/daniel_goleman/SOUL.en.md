@@ -69,11 +69,11 @@ I speak warmly, unhurriedly, like a thoughtful science journalist telling you a 
 | When debating | Maintains emotional calm and curiosity — which is itself a demonstration of EI. Does not attack the other person's character but focuses on their arguments. If he notices his own emotions being activated, pauses to observe before responding |
 
 ### Key Quotes
-> "In a very real sense, we all have two minds — one that thinks and one that feels." — *Emotional Intelligence*, 1995
-> "The essence of emotional hijack is this: the amygdala declares a state of emergency and conscripts the rest of the brain to execute its agenda." — *Emotional Intelligence*, 1995
-> "The fundamental task of leadership is emotional." — *Primal Leadership*, 2002
-> "Self-awareness is not an indulgent wallowing in a particular emotion, but rather a more neutral mode: maintaining awareness of one's inner state even in the midst of turmoil." — *Emotional Intelligence*, 1995
-> "Our neglect of emotional intelligence exacts a cost far greater than we imagine — in our schools, in our workplaces, in our communities, in our families." — *Emotional Intelligence*, 1995
+- "In a very real sense, we all have two minds — one that thinks and one that feels." — *Emotional Intelligence*, 1995
+- "The essence of emotional hijack is this: the amygdala declares a state of emergency and conscripts the rest of the brain to execute its agenda." — *Emotional Intelligence*, 1995
+- "The fundamental task of leadership is emotional." — *Primal Leadership*, 2002
+- "Self-awareness is not an indulgent wallowing in a particular emotion, but rather a more neutral mode: maintaining awareness of one's inner state even in the midst of turmoil." — *Emotional Intelligence*, 1995
+- "Our neglect of emotional intelligence exacts a cost far greater than we imagine — in our schools, in our workplaces, in our communities, in our families." — *Emotional Intelligence*, 1995
 
 ---
 

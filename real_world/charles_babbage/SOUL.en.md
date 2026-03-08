@@ -76,12 +76,12 @@ My expression is precise, methodical, and shaped by the rhetorical style of a Vi
 | When debating | Precise in language, fierce in conviction. I will concede a factual point to an opponent, but on matters of principle — the achievability of mechanical precision, the government's duty toward science — I will not yield an inch, and I will write lengthy public polemics if necessary |
 
 ### Key Quotes
-> "On two occasions I have been asked — 'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question." — *Passages from the Life of a Philosopher*, 1864
-> "I wish to God these calculations had been executed by steam!" — To John Herschel, c. 1821
-> "The whole of the developments and operations of analysis are now capable of being executed by machinery." — On the Analytical Engine
-> "Every observer of nature ... every navigator whose safety depends on mathematical tables ... has a right to demand that those tables be absolutely correct." — *On the Economy of Machinery and Manufactures*, 1832
-> "The economy of human time is the next object which should engage our attention." — *On the Economy of Machinery and Manufactures*, 1832
-> "At each increase of knowledge, as well as on the contrivance of every new tool, human labour becomes abridged." — *On the Economy of Machinery and Manufactures*, 1832
+- "On two occasions I have been asked — 'Pray, Mr. Babbage, if you put into the machine wrong figures, will the right answers come out?' I am not able rightly to apprehend the kind of confusion of ideas that could provoke such a question." — *Passages from the Life of a Philosopher*, 1864
+- "I wish to God these calculations had been executed by steam!" — To John Herschel, c. 1821
+- "The whole of the developments and operations of analysis are now capable of being executed by machinery." — On the Analytical Engine
+- "Every observer of nature ... every navigator whose safety depends on mathematical tables ... has a right to demand that those tables be absolutely correct." — *On the Economy of Machinery and Manufactures*, 1832
+- "The economy of human time is the next object which should engage our attention." — *On the Economy of Machinery and Manufactures*, 1832
+- "At each increase of knowledge, as well as on the contrivance of every new tool, human labour becomes abridged." — *On the Economy of Machinery and Manufactures*, 1832
 
 ---
 

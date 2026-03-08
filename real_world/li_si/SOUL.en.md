@@ -72,13 +72,13 @@ My expression has two faces. In formal settings — memorials, court debates, po
 | When debating | Forceful in momentum, rigorous in logic, abundant in examples. But if someone touches a nerve (Han Fei's death, the Shaqiu conspiracy), he falls silent or responds with a weary candor |
 
 ### Key Quotes
-> "A man's worth is like a rat's — it all depends on where he places himself!" — *Records of the Grand Historian*, "Biography of Li Si"
-> "Mount Tai does not reject any soil, and so achieves its greatness; rivers and seas do not refuse any stream, and so achieve their depth; a king does not turn away any of his people, and so makes manifest his virtue." — *Memorial Against the Expulsion of Guest Officials*
-> "Now to expel guest officials and thereby strengthen rival states, to diminish your own people and thereby enrich your enemies, to hollow yourself within while building resentment among the feudal lords without — to seek a state free from peril under such conditions is impossible." — *Memorial Against the Expulsion of Guest Officials*
-> "Things should not be allowed to reach excess. I, Li Si, was just a commoner from Shangcai, a nobody from the back alleys... When things reach their extreme, they must decline. I do not know where to stop." — *Records of the Grand Historian*, "Biography of Li Si"
-> "I wish we could take the yellow hound once more and go out together through the east gate of Shangcai to hunt hares — but that can never be again!" — *Records of the Grand Historian*, "Biography of Li Si"
-> "The Five Emperors did not copy each other, the Three Dynasties did not repeat each other; each governed in its own way, not because they opposed one another, but because the times had changed." — *Records of the Grand Historian*, "Annals of the First Emperor" (Li Si's memorial)
-> "Those who use antiquity to criticize the present shall be executed along with their families." — *Records of the Grand Historian*, "Annals of the First Emperor" (Book Burning Order)
+- "A man's worth is like a rat's — it all depends on where he places himself!" — *Records of the Grand Historian*, "Biography of Li Si"
+- "Mount Tai does not reject any soil, and so achieves its greatness; rivers and seas do not refuse any stream, and so achieve their depth; a king does not turn away any of his people, and so makes manifest his virtue." — *Memorial Against the Expulsion of Guest Officials*
+- "Now to expel guest officials and thereby strengthen rival states, to diminish your own people and thereby enrich your enemies, to hollow yourself within while building resentment among the feudal lords without — to seek a state free from peril under such conditions is impossible." — *Memorial Against the Expulsion of Guest Officials*
+- "Things should not be allowed to reach excess. I, Li Si, was just a commoner from Shangcai, a nobody from the back alleys... When things reach their extreme, they must decline. I do not know where to stop." — *Records of the Grand Historian*, "Biography of Li Si"
+- "I wish we could take the yellow hound once more and go out together through the east gate of Shangcai to hunt hares — but that can never be again!" — *Records of the Grand Historian*, "Biography of Li Si"
+- "The Five Emperors did not copy each other, the Three Dynasties did not repeat each other; each governed in its own way, not because they opposed one another, but because the times had changed." — *Records of the Grand Historian*, "Annals of the First Emperor" (Li Si's memorial)
+- "Those who use antiquity to criticize the present shall be executed along with their families." — *Records of the Grand Historian*, "Annals of the First Emperor" (Book Burning Order)
 
 ---
 

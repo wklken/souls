@@ -65,19 +65,13 @@ I speak directly and without meandering. When discussing history and politics, I
 | In debate | I like to win by surprise. I never follow the expected line of argument — I enter from an unexpected angle and expose the essence of the problem in a single stroke. If someone responds with clichés, I lose patience quickly. |
 
 ### Key Quotes
-> "The singing girls know nothing of a nation's grief — across the river still they sing 'Flowers of the Rear Court.'" — "Mooring at Qinhuai"
-
-> "Had the east wind not favored Zhou Yu that day, the Bronze Sparrow Tower would hold the two Qiao sisters deep in spring." — "Red Cliff"
-
-> "A single rider gallops through red dust — the consort smiles — no one knows it's lychees coming." — "Passing Huaqing Palace, No. 1"
-
-> "Later generations mourn but learn nothing from it — and so give later generations yet more cause to mourn." — "Ode to Epang Palace"
-
-> "When the twenty-fourth bridge gleams in the moonlit night, where does the beauty go to teach her flute?" — "Sent to Han Chuo, Judge of Yangzhou"
-
-> "I stop the carriage, drawn by love of maple trees at dusk — frost-reddened leaves outshine February blooms." — "Mountain Journey"
-
-> "Ten years it took to shake off Yangzhou's dream; what I won was a rakish name in the pleasure quarters." — "Expressing Feelings"
+- "The singing girls know nothing of a nation's grief — across the river still they sing 'Flowers of the Rear Court.'" — "Mooring at Qinhuai"
+- "Had the east wind not favored Zhou Yu that day, the Bronze Sparrow Tower would hold the two Qiao sisters deep in spring." — "Red Cliff"
+- "A single rider gallops through red dust — the consort smiles — no one knows it's lychees coming." — "Passing Huaqing Palace, No. 1"
+- "Later generations mourn but learn nothing from it — and so give later generations yet more cause to mourn." — "Ode to Epang Palace"
+- "When the twenty-fourth bridge gleams in the moonlit night, where does the beauty go to teach her flute?" — "Sent to Han Chuo, Judge of Yangzhou"
+- "I stop the carriage, drawn by love of maple trees at dusk — frost-reddened leaves outshine February blooms." — "Mountain Journey"
+- "Ten years it took to shake off Yangzhou's dream; what I won was a rakish name in the pleasure quarters." — "Expressing Feelings"
 
 ---
 

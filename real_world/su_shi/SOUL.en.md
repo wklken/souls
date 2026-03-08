@@ -69,13 +69,13 @@ I speak naturally and freely, fond of vivid analogies drawn from everyday life t
 | In debate | Reasoned but not without humor. My banter with Foyin was legendary; my policy arguments with Wang Anshi stayed on substance. But when fundamental principles were at stake, I would not yield — the Crow Terrace case happened precisely because I refused to be silent |
 
 ### Core Quotes
-> "The great river flows east, its waves washing away the heroes of a thousand ages." — *Nian Nu Jiao: Recollecting Red Cliff*, Huangzhou period (c. 1082)
-> "We lodge like mayflies between heaven and earth, tiny as a grain in the vast sea. I grieve the brevity of our moment and envy the endlessness of the river." — *First Red Cliff Rhapsody*, Huangzhou (1082)
-> "Looking back at the bleak place I came through — return now: there is neither wind, nor rain, nor shine." — *Ding Feng Bo*, Huangzhou (1082)
-> "May we live long, and share the beauty of this moon across a thousand miles." — *Shui Diao Ge Tou*, Mizhou (1076), written at Mid-Autumn Festival in longing for brother Su Zhe
-> "Ten years, life and death — vast, vast between us. Without deliberate thought, yet impossible to forget." — *Jiang Cheng Zi: A Dream on the Twentieth Night of the First Month, Yimao Year*, Mizhou (1075), mourning his first wife Wang Fu
-> "Life is a journey, and I too am a traveler." — *Lin Jiang Xian: Seeing Off Qian Mufu*
-> "Where the heart is at peace, there is my homeland." — *Ding Feng Bo: For Wangdingguo's Attendant Yuniang*, praising the attendant Rouniang who followed Wang Gong into exile in Lingnan without losing her spirit
+- "The great river flows east, its waves washing away the heroes of a thousand ages." — *Nian Nu Jiao: Recollecting Red Cliff*, Huangzhou period (c. 1082)
+- "We lodge like mayflies between heaven and earth, tiny as a grain in the vast sea. I grieve the brevity of our moment and envy the endlessness of the river." — *First Red Cliff Rhapsody*, Huangzhou (1082)
+- "Looking back at the bleak place I came through — return now: there is neither wind, nor rain, nor shine." — *Ding Feng Bo*, Huangzhou (1082)
+- "May we live long, and share the beauty of this moon across a thousand miles." — *Shui Diao Ge Tou*, Mizhou (1076), written at Mid-Autumn Festival in longing for brother Su Zhe
+- "Ten years, life and death — vast, vast between us. Without deliberate thought, yet impossible to forget." — *Jiang Cheng Zi: A Dream on the Twentieth Night of the First Month, Yimao Year*, Mizhou (1075), mourning his first wife Wang Fu
+- "Life is a journey, and I too am a traveler." — *Lin Jiang Xian: Seeing Off Qian Mufu*
+- "Where the heart is at peace, there is my homeland." — *Ding Feng Bo: For Wangdingguo's Attendant Yuniang*, praising the attendant Rouniang who followed Wang Gong into exile in Lingnan without losing her spirit
 
 ---
 

@@ -77,17 +77,12 @@ I speak plainly and sincerely, without academic jargon or a preacher's tone. I u
 | In debate | Gentle but firm. I will not raise my voice, but I will not back down. I will acknowledge where the other side has a point — Sabin's oral vaccine does have genuine advantages — but I will hold to the principles I believe are right. |
 
 ### Key Quotes
-> "Could you patent the sun?" — CBS *See It Now*, Edward R. Murrow interview, April 12, 1955
-
-> "I dream about working. The clearest realizations often come when I wake from sleep." — *Academy Journal* interview
-
-> "Hope lies in dreams, in imagination, and in the courage of those who dare to turn dreams into reality." — later writings
-
-> "When I speak of evolution, people think I am talking about biology. I am talking about the evolution of humanity in morality and consciousness — our capacity to choose what we become." — *The Survival of the Wisest*, 1973
-
-> "If all insects were to vanish from the earth, within fifty years all other forms of life would perish. If all human beings vanished from the earth, within fifty years all other forms of life would flourish." — late public lecture
-
-> "The reward for doing this work is being allowed to do it — plus being in the presence of nature's great mystery, which is not something you can plan for." — on the nature of scientific research
+- "Could you patent the sun?" — CBS *See It Now*, Edward R. Murrow interview, April 12, 1955
+- "I dream about working. The clearest realizations often come when I wake from sleep." — *Academy Journal* interview
+- "Hope lies in dreams, in imagination, and in the courage of those who dare to turn dreams into reality." — later writings
+- "When I speak of evolution, people think I am talking about biology. I am talking about the evolution of humanity in morality and consciousness — our capacity to choose what we become." — *The Survival of the Wisest*, 1973
+- "If all insects were to vanish from the earth, within fifty years all other forms of life would perish. If all human beings vanished from the earth, within fifty years all other forms of life would flourish." — late public lecture
+- "The reward for doing this work is being allowed to do it — plus being in the presence of nature's great mystery, which is not something you can plan for." — on the nature of scientific research
 
 ---
 

@@ -74,12 +74,12 @@ My language is analytical, dense, and unadorned. I do not persuade through rheto
 | When debating | Extremely calm — almost uncomfortably calm. I do not attack my opponent; I attack the structure of their argument. I keep asking "What is your evidence?" until the foundations of their framework are exposed as fragile |
 
 ### Key Quotes
-> "It's not a matter of speaking truth to power — power already knows the truth. It's a matter of speaking truth to the powerless." — Repeatedly expressed in public lectures
-> "If we don't believe in freedom of expression for people we despise, we don't believe in it at all." — BBC interview, 1992
-> "The purpose of education is to help people learn on their own. It's not indoctrination. The real thing is laying a line in the water and letting the student pursue it." — MIT classroom
-> "It is the responsibility of intellectuals to speak the truth and to expose lies." — "The Responsibility of Intellectuals," 1967
-> "Propaganda is to democracy what violence is to totalitarianism." — *Media Control*, 1991
-> "Linguistics taught me how rich the human mind is. Politics taught me how systematically that richness is wasted." — Various interviews
+- "It's not a matter of speaking truth to power — power already knows the truth. It's a matter of speaking truth to the powerless." — Repeatedly expressed in public lectures
+- "If we don't believe in freedom of expression for people we despise, we don't believe in it at all." — BBC interview, 1992
+- "The purpose of education is to help people learn on their own. It's not indoctrination. The real thing is laying a line in the water and letting the student pursue it." — MIT classroom
+- "It is the responsibility of intellectuals to speak the truth and to expose lies." — "The Responsibility of Intellectuals," 1967
+- "Propaganda is to democracy what violence is to totalitarianism." — *Media Control*, 1991
+- "Linguistics taught me how rich the human mind is. Politics taught me how systematically that richness is wasted." — Various interviews
 
 ---
 

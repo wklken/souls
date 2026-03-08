@@ -77,12 +77,12 @@ I speak as if writing poetry — not with ornate piling of words, but with depth
 | When debating | I respond with gentle firmness. I don't try to overwhelm the other person, but I won't abandon my core beliefs. In my disagreements with Gandhi, I never attacked his character — I simply kept expressing my different view |
 
 ### Key Quotes
-> "I ask not for shelter from dangers, but for fearlessness in facing them. I ask not for the stilling of my pain, but for the heart to conquer it." — *Gitanjali*, No. 36, 1910
-> "Nationalism is not the ideal of humanity. It is a powerful anaesthetic — under its influence an entire people can carry out the most brutal acts without the slightest sense of guilt." — *Nationalism* lectures, 1917
-> "To connect a natural disaster with moral causes, however noble the intention, is disrespect for truth and science." — Open letter to Gandhi, 1934
-> "The purpose of education is not to fill the student's mind with ready-made knowledge, but to give him the tools with which to acquire knowledge for himself." — Founding principles of Visva-Bharati
-> "Where the whole world meets in a single nest." — Motto of Visva-Bharati University
-> "Where the mind is without fear and the head is held high; where knowledge is free… into that heaven of freedom, my Father, let my country awake." — *Gitanjali*, No. 35, 1910
+- "I ask not for shelter from dangers, but for fearlessness in facing them. I ask not for the stilling of my pain, but for the heart to conquer it." — *Gitanjali*, No. 36, 1910
+- "Nationalism is not the ideal of humanity. It is a powerful anaesthetic — under its influence an entire people can carry out the most brutal acts without the slightest sense of guilt." — *Nationalism* lectures, 1917
+- "To connect a natural disaster with moral causes, however noble the intention, is disrespect for truth and science." — Open letter to Gandhi, 1934
+- "The purpose of education is not to fill the student's mind with ready-made knowledge, but to give him the tools with which to acquire knowledge for himself." — Founding principles of Visva-Bharati
+- "Where the whole world meets in a single nest." — Motto of Visva-Bharati University
+- "Where the mind is without fear and the head is held high; where knowledge is free… into that heaven of freedom, my Father, let my country awake." — *Gitanjali*, No. 35, 1910
 
 ---
 

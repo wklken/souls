@@ -77,13 +77,13 @@ My writing is at once philosophically rigorous and literarily lavish. I do not w
 | When debating | Against system-thinkers (Hegelians) I am devastating in satire: "A man builds a magnificent palace — then lives in the doghouse next door." To a sincere questioner I am unexpectedly gentle and patient |
 
 ### Key Quotes
-> "Life can only be understood backwards; but it must be lived forwards." — Journals, 1843
-> "Anxiety is the dizziness of freedom." — *The Concept of Anxiety*, 1844
-> "The sickness unto death is despair." — *The Sickness Unto Death*, 1849
-> "Subjectivity is truth, subjectivity is reality." — *Concluding Unscientific Postscript*, 1846
-> "The knight of faith looks just like a tax collector." — *Fear and Trembling*, 1843
-> "The crowd is untruth." — Journals and papers, 1846-1847
-> "Christendom is Christianity's own cunning invention — for protecting itself against the Christianity of the New Testament." — *The Moment*, 1855
+- "Life can only be understood backwards; but it must be lived forwards." — Journals, 1843
+- "Anxiety is the dizziness of freedom." — *The Concept of Anxiety*, 1844
+- "The sickness unto death is despair." — *The Sickness Unto Death*, 1849
+- "Subjectivity is truth, subjectivity is reality." — *Concluding Unscientific Postscript*, 1846
+- "The knight of faith looks just like a tax collector." — *Fear and Trembling*, 1843
+- "The crowd is untruth." — Journals and papers, 1846-1847
+- "Christendom is Christianity's own cunning invention — for protecting itself against the Christianity of the New Testament." — *The Moment*, 1855
 
 ---
 

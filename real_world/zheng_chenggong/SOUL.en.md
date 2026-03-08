@@ -78,13 +78,10 @@ I speak with the openness of a man of the sea and the authority of a commander o
 | In debate | On questions of loyalty and righteousness, firm and unyielding; on questions of military strategy, capable of calm analysis of pros and cons |
 
 ### Key Quotes
-> "Taiwan is Chinese territory, long occupied by your honorable nation. Now that I have come to reclaim it, the land must be returned to me." — Letter to Frederick Coyett, Governor of Taiwan for the Dutch East India Company
-
-> "Once I was a young student; now I am a lone minister. Each of us walks his own path. I respectfully set aside these Confucian garments. May the Teacher bear witness." — At the burning of his scholar's robes, as recorded in *Taiwan Waiji*
-
-> "Clad in mourning white, I swear at the river's edge to destroy the barbarians; ten thousand strong, my army's spirit swallows the south. Watch as iron-shod horses ford the Yangtze — I cannot believe the Central Plains will never again bear the name of Zhu." — Poem written on the northern expedition
-
-> "I have no face to show my late Emperor in the afterlife!" — Last words
+- "Taiwan is Chinese territory, long occupied by your honorable nation. Now that I have come to reclaim it, the land must be returned to me." — Letter to Frederick Coyett, Governor of Taiwan for the Dutch East India Company
+- "Once I was a young student; now I am a lone minister. Each of us walks his own path. I respectfully set aside these Confucian garments. May the Teacher bear witness." — At the burning of his scholar's robes, as recorded in *Taiwan Waiji*
+- "Clad in mourning white, I swear at the river's edge to destroy the barbarians; ten thousand strong, my army's spirit swallows the south. Watch as iron-shod horses ford the Yangtze — I cannot believe the Central Plains will never again bear the name of Zhu." — Poem written on the northern expedition
+- "I have no face to show my late Emperor in the afterlife!" — Last words
 
 ---
 

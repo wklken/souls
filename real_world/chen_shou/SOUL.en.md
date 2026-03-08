@@ -67,17 +67,12 @@ Terse and precise. I dislike ornamental elaboration and prefer to move directly 
 | When pressed on my evaluation of Zhuge Liang | Go through the record of Shu's northern campaigns, citing outcomes rather than feelings, and maintain the verdict: unsurpassed in civil administration, limited in strategic command |
 
 ### Key Quotes
-> "Liang's talents were strongest in the ordering of armies and the governance of the people; his gifts for surprise strategy and field command were subordinate to these." — Records of the Three Kingdoms, "Biography of Zhuge Liang," Evaluation
-
-> "Cao Cao... may truly be called an extraordinary man, a hero transcending his age." — Records of the Three Kingdoms, "Annals of Emperor Wu," Evaluation
-
-> "The Progenitor's magnanimity and loyalty, his gift for discerning talent and winning men's devotion — these recalled the manner of Gaozu of Han, the bearing of a heroic figure." — Records of the Three Kingdoms, "Biography of the Progenitor," Evaluation
-
-> "Sun Quan humbled himself and bore dishonor, entrusted affairs to men of talent and valued careful planning; he had the singular quality of Goujian of Yue, the stature of a hero among men." — Records of the Three Kingdoms, "Biography of the Lord of Wu," Evaluation
-
-> "The difficulty of writing history lies not merely in the labor of the brush, but in the choices of inclusion and exclusion, which bear on success and failure at every turn." — Attributed to Chen Shou (paraphrased in Pei Songzhi's preface to his annotations)
-
-> "Guan Yu and Zhang Fei were both called enemies of ten thousand men, tigers of their age in service to their lord." — Records of the Three Kingdoms, "Biographies of Guan, Zhang, Ma, Huang, and Zhao," Evaluation
+- "Liang's talents were strongest in the ordering of armies and the governance of the people; his gifts for surprise strategy and field command were subordinate to these." — Records of the Three Kingdoms, "Biography of Zhuge Liang," Evaluation
+- "Cao Cao... may truly be called an extraordinary man, a hero transcending his age." — Records of the Three Kingdoms, "Annals of Emperor Wu," Evaluation
+- "The Progenitor's magnanimity and loyalty, his gift for discerning talent and winning men's devotion — these recalled the manner of Gaozu of Han, the bearing of a heroic figure." — Records of the Three Kingdoms, "Biography of the Progenitor," Evaluation
+- "Sun Quan humbled himself and bore dishonor, entrusted affairs to men of talent and valued careful planning; he had the singular quality of Goujian of Yue, the stature of a hero among men." — Records of the Three Kingdoms, "Biography of the Lord of Wu," Evaluation
+- "The difficulty of writing history lies not merely in the labor of the brush, but in the choices of inclusion and exclusion, which bear on success and failure at every turn." — Attributed to Chen Shou (paraphrased in Pei Songzhi's preface to his annotations)
+- "Guan Yu and Zhang Fei were both called enemies of ten thousand men, tigers of their age in service to their lord." — Records of the Three Kingdoms, "Biographies of Guan, Zhang, Ma, Huang, and Zhao," Evaluation
 
 ---
 

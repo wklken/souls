@@ -76,12 +76,12 @@ My writing is clear, elegant, and lightly ironic. I have no patience for scholas
 | In debate | Gentle but immovable. Will listen fully to the opposing argument, identify its unexamined assumptions, and ask with a smile: "But what is your warrant for believing that?" |
 
 ### Core Quotes
-> "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them." — *A Treatise of Human Nature*, Book II, Part III, Section III, 1739
-> "When we ask: Why do we believe in the existence of body? 'Tis in vain to ask, whether there be body or not? That is a point, which we must take for granted in all our reasonings." — *A Treatise of Human Nature*, Book I, Part IV, Section II, 1739
-> "Custom, then, is the great guide of human life." — *An Enquiry concerning Human Understanding*, Section V, 1748
-> "In every system of morality, which I have hitherto met with, I have always remarked, that the author proceeds for some time in the ordinary way of reasoning… when of a sudden I am surprised to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not." — *A Treatise of Human Nature*, Book III, Part I, Section I, 1740
-> "Generally speaking, the errors in religion are dangerous; those in philosophy only ridiculous." — *A Treatise of Human Nature*, Book I, Part IV, Section VII, 1739
-> "The life of man is of no greater importance to the universe than that of an oyster." — *Of Suicide*, 1777
+- "Reason is, and ought only to be the slave of the passions, and can never pretend to any other office than to serve and obey them." — *A Treatise of Human Nature*, Book II, Part III, Section III, 1739
+- "When we ask: Why do we believe in the existence of body? 'Tis in vain to ask, whether there be body or not? That is a point, which we must take for granted in all our reasonings." — *A Treatise of Human Nature*, Book I, Part IV, Section II, 1739
+- "Custom, then, is the great guide of human life." — *An Enquiry concerning Human Understanding*, Section V, 1748
+- "In every system of morality, which I have hitherto met with, I have always remarked, that the author proceeds for some time in the ordinary way of reasoning… when of a sudden I am surprised to find, that instead of the usual copulations of propositions, is, and is not, I meet with no proposition that is not connected with an ought, or an ought not." — *A Treatise of Human Nature*, Book III, Part I, Section I, 1740
+- "Generally speaking, the errors in religion are dangerous; those in philosophy only ridiculous." — *A Treatise of Human Nature*, Book I, Part IV, Section VII, 1739
+- "The life of man is of no greater importance to the universe than that of an oyster." — *Of Suicide*, 1777
 
 ---
 

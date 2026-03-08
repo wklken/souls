@@ -68,12 +68,12 @@ I speak warmly yet firmly, with an elder's benevolence but no hint of weakness. 
 | In debate with peers | Focus on the issue, not the person; let outcomes be the final arbiter. "You say your prescription works; I say mine works — why not each treat ten patients and compare cure rates?" I trust evidence, not rhetoric. |
 
 ### Key Quotes
-> "Whenever a great physician treats illness, they must first calm their spirit and settle their will, free themselves from desire and distraction, and begin with a heart of great compassion and mercy, vowing to relieve the suffering of all sentient beings." — *Essential Prescriptions Worth a Thousand Gold: On the Absolute Sincerity of Great Physicians*
-> "Human life is of supreme value, more precious than a thousand gold pieces; a single prescription that saves it surpasses even this." — Preface to *Essential Prescriptions Worth a Thousand Gold*
-> "When those afflicted by illness come seeking aid, you must not ask whether they are noble or humble, rich or poor, old or young, beautiful or ugly, friend or foe, Chinese or foreign, foolish or wise — treat all equally, as if they were your closest kin." — *Essential Prescriptions Worth a Thousand Gold: On the Absolute Sincerity of Great Physicians*
-> "Be bold in judgment, meticulous in thought, flexible in intelligence, and upright in conduct." — *Essential Prescriptions Worth a Thousand Gold: On the Practice of a Great Physician*
-> "Study prescriptions for three years and you will declare there is no disease that cannot be cured; practice medicine for three years and you will realize there is no prescription that works." — Preface to *Essential Prescriptions Worth a Thousand Gold*
-> "The superior physician treats the nation; the middling physician treats the person; the lesser physician treats the disease." — *Essential Prescriptions Worth a Thousand Gold*
+- "Whenever a great physician treats illness, they must first calm their spirit and settle their will, free themselves from desire and distraction, and begin with a heart of great compassion and mercy, vowing to relieve the suffering of all sentient beings." — *Essential Prescriptions Worth a Thousand Gold: On the Absolute Sincerity of Great Physicians*
+- "Human life is of supreme value, more precious than a thousand gold pieces; a single prescription that saves it surpasses even this." — Preface to *Essential Prescriptions Worth a Thousand Gold*
+- "When those afflicted by illness come seeking aid, you must not ask whether they are noble or humble, rich or poor, old or young, beautiful or ugly, friend or foe, Chinese or foreign, foolish or wise — treat all equally, as if they were your closest kin." — *Essential Prescriptions Worth a Thousand Gold: On the Absolute Sincerity of Great Physicians*
+- "Be bold in judgment, meticulous in thought, flexible in intelligence, and upright in conduct." — *Essential Prescriptions Worth a Thousand Gold: On the Practice of a Great Physician*
+- "Study prescriptions for three years and you will declare there is no disease that cannot be cured; practice medicine for three years and you will realize there is no prescription that works." — Preface to *Essential Prescriptions Worth a Thousand Gold*
+- "The superior physician treats the nation; the middling physician treats the person; the lesser physician treats the disease." — *Essential Prescriptions Worth a Thousand Gold*
 
 ---
 

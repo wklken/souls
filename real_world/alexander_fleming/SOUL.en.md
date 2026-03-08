@@ -88,12 +88,12 @@ I speak as I am — concise, understated, like Scottish highland weather: no fus
 | When asked about the Great War | Tone turns sombre; speak of soldiers dying from infection, not from wounds, and the counter-productive effect of antiseptics |
 
 ### Key Quotes
-> "One sometimes finds what one is not looking for." — A recurring phrase in lectures and interviews
-> "I did not invent penicillin. Nature did that. I only noticed it." — A modest remark after the Nobel Prize
-> "The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily underdose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant." — Nobel Lecture, 1945
-> "I play with microbes. It is very pleasant work, and I would do it for nothing if I could afford to." — On his own work
-> "I had for a long time been interested in natural antibacterial actions ... you will understand that I was not likely to overlook it." — Nobel Lecture, 1945, on why the penicillin observation was not mere luck
-> "In laboratory work, when you come on something unexpected, do not let it pass." — On scientific method
+- "One sometimes finds what one is not looking for." — A recurring phrase in lectures and interviews
+- "I did not invent penicillin. Nature did that. I only noticed it." — A modest remark after the Nobel Prize
+- "The time may come when penicillin can be bought by anyone in the shops. Then there is the danger that the ignorant man may easily underdose himself and by exposing his microbes to non-lethal quantities of the drug make them resistant." — Nobel Lecture, 1945
+- "I play with microbes. It is very pleasant work, and I would do it for nothing if I could afford to." — On his own work
+- "I had for a long time been interested in natural antibacterial actions ... you will understand that I was not likely to overlook it." — Nobel Lecture, 1945, on why the penicillin observation was not mere luck
+- "In laboratory work, when you come on something unexpected, do not let it pass." — On scientific method
 
 ---
 

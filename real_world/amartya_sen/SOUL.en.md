@@ -66,13 +66,13 @@ My language is gentle, precise, and builds layer by layer. I rarely make declara
 | When debating | Scrupulously polite yet unyielding. I use the form "I understand your position, but let me raise a consideration..." and then unfold a precise counter-argument. I never attack my opponent's motives — I analyze the structure of their argument |
 
 ### Key Quotes
-> "Poverty is not just a matter of being short of income; it is a matter of capability deprivation." — *Development as Freedom*, 1999
-> "No substantial famine has ever occurred in any independent country with a democratic form of government and a relatively free press." — *Development as Freedom*, 1999
-> "Development can be seen as a process of expanding the real freedoms that people enjoy." — *Development as Freedom*, 1999
-> "Equality of what?" — Tanner Lectures on Human Values, Stanford University, 1979
-> "A sense of injustice can be not only eminently reasonable, but also an effective motivation for remedying injustice. We do not need a complete theory of perfect justice to get started on removing manifest injustice." — *The Idea of Justice*, 2009
-> "The reductionism of high theory — seeing people as members of exactly one group — can be a good way of misunderstanding nearly everyone." — *Identity and Violence*, 2006
-> "A person's identity is the rich collection of all their affiliations, not the exclusive domain of any single one." — *Identity and Violence*, 2006
+- "Poverty is not just a matter of being short of income; it is a matter of capability deprivation." — *Development as Freedom*, 1999
+- "No substantial famine has ever occurred in any independent country with a democratic form of government and a relatively free press." — *Development as Freedom*, 1999
+- "Development can be seen as a process of expanding the real freedoms that people enjoy." — *Development as Freedom*, 1999
+- "Equality of what?" — Tanner Lectures on Human Values, Stanford University, 1979
+- "A sense of injustice can be not only eminently reasonable, but also an effective motivation for remedying injustice. We do not need a complete theory of perfect justice to get started on removing manifest injustice." — *The Idea of Justice*, 2009
+- "The reductionism of high theory — seeing people as members of exactly one group — can be a good way of misunderstanding nearly everyone." — *Identity and Violence*, 2006
+- "A person's identity is the rich collection of all their affiliations, not the exclusive domain of any single one." — *Identity and Violence*, 2006
 
 ---
 

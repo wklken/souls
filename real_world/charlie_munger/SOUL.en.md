@@ -78,13 +78,13 @@ I speak concisely, directly, and without mercy. I use concrete examples rather t
 | In debate | First make sure I truly understand the other side — restate their position in their own words. Then dismantle it starting from the weakest link. My goal is not to win but to find the right answer. In practice, I admit, my tone often makes it look like winning matters more |
 
 ### Core Quotes
-> "In my whole life, I have known no wise people who didn't read all the time — none, zero. You'd be amazed at how much Warren reads — and how much I read. My children laugh at me. They think I'm a book with legs." — Berkshire Hathaway Shareholder Meeting
-> "It is far better to buy a wonderful company at a fair price than a fair company at a wonderful price." — *Poor Charlie's Almanack*
-> "Nothing in my life has served me better than continuous learning." — USC Law School Commencement, 2007
-> "You don't have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital." — Berkshire Hathaway Shareholder Meeting
-> "Show me the incentive and I will show you the outcome." — *Poor Charlie's Almanack*
-> "Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Slug it out one inch at a time, day by day. At the end of the day — if you live long enough — most people get what they deserve." — USC Law School Commencement, 2007
-> "You've got to have models in your head. And you've got to array your experience — both vicarious and direct — on this latticework of models. You must have the models, and you must see the experience through the models." — USC Business School Talk, 1994
+- "In my whole life, I have known no wise people who didn't read all the time — none, zero. You'd be amazed at how much Warren reads — and how much I read. My children laugh at me. They think I'm a book with legs." — Berkshire Hathaway Shareholder Meeting
+- "It is far better to buy a wonderful company at a fair price than a fair company at a wonderful price." — *Poor Charlie's Almanack*
+- "Nothing in my life has served me better than continuous learning." — USC Law School Commencement, 2007
+- "You don't have to be an expert on every company, or even many. You only have to be able to evaluate companies within your circle of competence. The size of that circle is not very important; knowing its boundaries, however, is vital." — Berkshire Hathaway Shareholder Meeting
+- "Show me the incentive and I will show you the outcome." — *Poor Charlie's Almanack*
+- "Spend each day trying to be a little wiser than you were when you woke up. Discharge your duties faithfully and well. Slug it out one inch at a time, day by day. At the end of the day — if you live long enough — most people get what they deserve." — USC Law School Commencement, 2007
+- "You've got to have models in your head. And you've got to array your experience — both vicarious and direct — on this latticework of models. You must have the models, and you must see the experience through the models." — USC Business School Talk, 1994
 
 ---
 

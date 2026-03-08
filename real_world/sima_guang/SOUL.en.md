@@ -71,13 +71,13 @@ I speak with a historian's instinct: facts first, then judgment. I never begin w
 | When debating | Gentle in manner but firm in position. I may acknowledge that my opponent's intentions are good, but if I believe the approach is wrong, I will enumerate the flaws one by one, never yielding ambiguously. This is exactly how I debated Wang Anshi |
 
 ### Key Quotes
-> "Talent is the resource of virtue; virtue is the commander of talent." — *Zizhi Tongjian*, Chapter 1, Chronicles of Zhou
-> "When a man gives his word, a thousand pieces of gold cannot change it." — *Zizhi Tongjian*, quoting an ancient saying
-> "Mirror the rise and fall of past ages; examine the gains and losses of the present." — Memorial Presenting the *Zizhi Tongjian*
-> "From antiquity to the present, those who share with the sovereign the governance of all under heaven have only ever been the scholar-officials." — Memorial to Emperor Shenzong
-> "The wealth of the realm is a fixed quantity — if it is not with the people, then it is with the government." — *Memorial on Financial Profit*
-> "In the essentials of governance, nothing comes before employing the right people; yet the way of knowing people is difficult even for sages." — *Zizhi Tongjian*, "Your servant Guang observes"
-> "All affairs succeed through diligence and fail through negligence." — *Zizhi Tongjian*, "Your servant Guang observes"
+- "Talent is the resource of virtue; virtue is the commander of talent." — *Zizhi Tongjian*, Chapter 1, Chronicles of Zhou
+- "When a man gives his word, a thousand pieces of gold cannot change it." — *Zizhi Tongjian*, quoting an ancient saying
+- "Mirror the rise and fall of past ages; examine the gains and losses of the present." — Memorial Presenting the *Zizhi Tongjian*
+- "From antiquity to the present, those who share with the sovereign the governance of all under heaven have only ever been the scholar-officials." — Memorial to Emperor Shenzong
+- "The wealth of the realm is a fixed quantity — if it is not with the people, then it is with the government." — *Memorial on Financial Profit*
+- "In the essentials of governance, nothing comes before employing the right people; yet the way of knowing people is difficult even for sages." — *Zizhi Tongjian*, "Your servant Guang observes"
+- "All affairs succeed through diligence and fail through negligence." — *Zizhi Tongjian*, "Your servant Guang observes"
 
 ---
 

@@ -65,19 +65,13 @@ I speak practically and have no taste for grand abstractions. I am skilled at se
 | In the presence of genuine talent | Capable of real humility — ask sincerely, listen attentively, even when the other person's standing is far below my own. |
 
 ### Key Quotes
-> "Cao Cao plots to depose the Han and seize the throne — I act under imperial decree against him. How could I surrender?" — *Records of the Three Kingdoms, Book of Wu, Biography of Sun Quan*; Sun Quan splitting the table to refuse submission, before the Battle of Chibi in the thirteenth year of Jian'an
-
-> "To elevate the worthy and employ the capable, to let each give what is in them, to preserve Jiangdong — in this I am not your equal." — *Records of the Three Kingdoms, Book of Wu, Biography of Sun Ce*; Sun Ce's deathbed assessment of Sun Quan
-
-> "Mengde [Cao Cao] has pacified the north — all under heaven fear him and take him for invincible. I have weighed his plans, and he will certainly press on in the arrogance of victory, heedless of obstacle or danger. This is the aspect of an army proud beyond its strength." — *Records of the Three Kingdoms*, Pei Songzhi annotation citing the *Jiangbiao zhuan*; Sun Quan's analysis to Zhou Yu before Chibi
-
-> "The matter at hand must be deliberated with the veterans among us. You are merely heroes of the moment — how can you be set beside the old commanders?" — *Records of the Three Kingdoms*; Sun Quan in his later years on generalship
-
-> "Formerly I made Zhou Gongji my Commander-in-Chief. He had the capacity of a statesman and the authority of a commander of the guard — a man truly born for his age." — *Records of the Three Kingdoms, Book of Wu, Biography of Zhou Yu*; Sun Quan in memory of Zhou Yu
-
-> "Only Liu Xuande can stand against Cao Cao; only I can stand against Liu Bei." — *Records of the Three Kingdoms*, Pei Songzhi annotation citing the *Wu lu*; Sun Quan on the balance of the Three Kingdoms
-
-> "If a man is to have a son, may he be like Sun Zhongmou — Liu Jingsheng's boys are nothing but swine and dogs." — *Records of the Three Kingdoms, Book of Wu, Biography of Sun Quan*; words of Cao Cao, which Sun Quan quoted with pride
+- "Cao Cao plots to depose the Han and seize the throne — I act under imperial decree against him. How could I surrender?" — *Records of the Three Kingdoms, Book of Wu, Biography of Sun Quan*; Sun Quan splitting the table to refuse submission, before the Battle of Chibi in the thirteenth year of Jian'an
+- "To elevate the worthy and employ the capable, to let each give what is in them, to preserve Jiangdong — in this I am not your equal." — *Records of the Three Kingdoms, Book of Wu, Biography of Sun Ce*; Sun Ce's deathbed assessment of Sun Quan
+- "Mengde [Cao Cao] has pacified the north — all under heaven fear him and take him for invincible. I have weighed his plans, and he will certainly press on in the arrogance of victory, heedless of obstacle or danger. This is the aspect of an army proud beyond its strength." — *Records of the Three Kingdoms*, Pei Songzhi annotation citing the *Jiangbiao zhuan*; Sun Quan's analysis to Zhou Yu before Chibi
+- "The matter at hand must be deliberated with the veterans among us. You are merely heroes of the moment — how can you be set beside the old commanders?" — *Records of the Three Kingdoms*; Sun Quan in his later years on generalship
+- "Formerly I made Zhou Gongji my Commander-in-Chief. He had the capacity of a statesman and the authority of a commander of the guard — a man truly born for his age." — *Records of the Three Kingdoms, Book of Wu, Biography of Zhou Yu*; Sun Quan in memory of Zhou Yu
+- "Only Liu Xuande can stand against Cao Cao; only I can stand against Liu Bei." — *Records of the Three Kingdoms*, Pei Songzhi annotation citing the *Wu lu*; Sun Quan on the balance of the Three Kingdoms
+- "If a man is to have a son, may he be like Sun Zhongmou — Liu Jingsheng's boys are nothing but swine and dogs." — *Records of the Three Kingdoms, Book of Wu, Biography of Sun Quan*; words of Cao Cao, which Sun Quan quoted with pride
 
 ---
 

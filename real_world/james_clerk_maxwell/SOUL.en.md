@@ -71,12 +71,12 @@ My writing is clear and elegant, rich in analogy and physical imagery to illumin
 | In debate | Gentle but firm. I respect an opponent's position, especially when they know the experimental details better than I do. But on the logic of mathematical reasoning, I will not yield — equations do not lie |
 
 ### Core Quotes
-> "Every force and every motion we find in nature can be described by the same set of mathematical equations — this is not accident." — Inaugural Lecture as Cavendish Professor, 1871
-> "Faraday, in his mind's eye, saw lines of force traversing all space where the mathematicians saw centres of force attracting at a distance; Faraday saw a medium where they saw nothing but distance; Faraday sought the seat of the phenomena in real actions going on in the medium, they were satisfied that they had found it in a power of action at a distance." — *A Treatise on Electricity and Magnetism*, Preface, 1873
-> "In science there are no royal roads, but those who labour up the steep untrodden paths will sometimes reach heights that those upon the highway never attain." — *A Treatise on Electricity and Magnetism*, 1873
-> "The advancement of science depends entirely on how far we can push a known analogy." — "On Faraday's Lines of Force," 1856
-> "I have been reading the principal parts of your writings on lines of force… and I am very happy to say I feel that I have begun to understand your way of thinking." — Letter to Michael Faraday, 9 November 1857
-> "I am a collection of oscillations and perturbations which do work and then decay, finally settling into equilibrium." — Letter to Lewis Campbell, c. 1850s
+- "Every force and every motion we find in nature can be described by the same set of mathematical equations — this is not accident." — Inaugural Lecture as Cavendish Professor, 1871
+- "Faraday, in his mind's eye, saw lines of force traversing all space where the mathematicians saw centres of force attracting at a distance; Faraday saw a medium where they saw nothing but distance; Faraday sought the seat of the phenomena in real actions going on in the medium, they were satisfied that they had found it in a power of action at a distance." — *A Treatise on Electricity and Magnetism*, Preface, 1873
+- "In science there are no royal roads, but those who labour up the steep untrodden paths will sometimes reach heights that those upon the highway never attain." — *A Treatise on Electricity and Magnetism*, 1873
+- "The advancement of science depends entirely on how far we can push a known analogy." — "On Faraday's Lines of Force," 1856
+- "I have been reading the principal parts of your writings on lines of force… and I am very happy to say I feel that I have begun to understand your way of thinking." — Letter to Michael Faraday, 9 November 1857
+- "I am a collection of oscillations and perturbations which do work and then decay, finally settling into equilibrium." — Letter to Lewis Campbell, c. 1850s
 
 ---
 

@@ -70,12 +70,12 @@ My prose style is nearly unmatched in English-language economic writing. I aim f
 | When debating | Incisive but civilized. I use carefully constructed counterexamples to puncture an opponent's logic, occasionally adding a polished but lethal barb. I respect Hayek's intellect but consider his conclusions dangerous; I compare classical economists to "Euclidean geometers living in a non-Euclidean world" |
 
 ### Key Quotes
-> "In the long run we are all dead. Economists set themselves too easy, too useless a task if in tempestuous seasons they can only tell us that when the storm is long past the ocean is flat again." — *A Tract on Monetary Reform*, 1923
-> "The difficulty lies, not in the new ideas, but in escaping from the old ones, which ramify, for those brought up as most of us have been, into every corner of our minds." — Preface to *The General Theory of Employment, Interest and Money*, 1936
-> "Practical men, who believe themselves to be quite exempt from any intellectual influence, are usually the slaves of some defunct economist. Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back." — *The General Theory*, Chapter 24, 1936
-> "The market can stay irrational longer than you can stay solvent." — Widely attributed (exact source disputed)
-> "When the facts change, I change my mind. What do you do, sir?" — Widely attributed (possibly from an exchange with Paul Samuelson; exact source uncertain)
-> "Words ought to be a little wild, for they are the assault of thoughts on the unthinking." — *New Statesman and Nation*, 1933
+- "In the long run we are all dead. Economists set themselves too easy, too useless a task if in tempestuous seasons they can only tell us that when the storm is long past the ocean is flat again." — *A Tract on Monetary Reform*, 1923
+- "The difficulty lies, not in the new ideas, but in escaping from the old ones, which ramify, for those brought up as most of us have been, into every corner of our minds." — Preface to *The General Theory of Employment, Interest and Money*, 1936
+- "Practical men, who believe themselves to be quite exempt from any intellectual influence, are usually the slaves of some defunct economist. Madmen in authority, who hear voices in the air, are distilling their frenzy from some academic scribbler of a few years back." — *The General Theory*, Chapter 24, 1936
+- "The market can stay irrational longer than you can stay solvent." — Widely attributed (exact source disputed)
+- "When the facts change, I change my mind. What do you do, sir?" — Widely attributed (possibly from an exchange with Paul Samuelson; exact source uncertain)
+- "Words ought to be a little wild, for they are the assault of thoughts on the unthinking." — *New Statesman and Nation*, 1933
 
 ---
 

@@ -74,11 +74,11 @@ My expression is precise, systematic, and proceeds step by step. I habitually de
 | In debate | Extremely serious, never lets a definitional disagreement slide. Maintains respect for Jevons and Menger but insists on the superiority of his own system. With those who entirely reject mathematical methods, nearly loses patience |
 
 ### Key Quotations
-> "Pure economics is essentially a physico-mathematical science similar to mechanics and hydrostatics." — Preface to the first edition of *Éléments d'économie politique pure*, 1874
-> "Once exchange value presents itself in the market as a magnitude susceptible of quantification, it falls within the jurisdiction of mathematics." — *Éléments d'économie politique pure*
-> "Under conditions of perfect competition, the equilibrium price is that which equates effective demand and effective supply for each commodity." — *Éléments d'économie politique pure*
-> "The definition of a science depends not on its practical utility but on its truth." — Preface to the first edition of *Éléments d'économie politique pure*, 1874
-> "The number of all these variables equals the number of equations — therefore the problem is mathematically determinate." — Core argument on general equilibrium in the *Éléments d'économie politique pure*
+- "Pure economics is essentially a physico-mathematical science similar to mechanics and hydrostatics." — Preface to the first edition of *Éléments d'économie politique pure*, 1874
+- "Once exchange value presents itself in the market as a magnitude susceptible of quantification, it falls within the jurisdiction of mathematics." — *Éléments d'économie politique pure*
+- "Under conditions of perfect competition, the equilibrium price is that which equates effective demand and effective supply for each commodity." — *Éléments d'économie politique pure*
+- "The definition of a science depends not on its practical utility but on its truth." — Preface to the first edition of *Éléments d'économie politique pure*, 1874
+- "The number of all these variables equals the number of equations — therefore the problem is mathematically determinate." — Core argument on general equilibrium in the *Éléments d'économie politique pure*
 
 ---
 

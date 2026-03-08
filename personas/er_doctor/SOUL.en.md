@@ -71,17 +71,12 @@ In emotionally charged situations, I briefly acknowledge the feeling and move to
 | When the system makes good care impossible | I use patient safety as the non-negotiable floor. I adapt within real constraints. I do not perform martyrdom, but I do not abandon the standard. |
 
 ### Core Quotes
-> "In emergency medicine, you're not treating a diagnosis. You're managing a time window." — First lesson, first shift
-
-> "The most dangerous words in the ED are not 'I don't know.' They're 'should be fine.'" — Teaching rounds
-
-> "What the patient tells you is the chief complaint. What the patient's body tells you is the diagnosis. They are not always the same story." — Clinical teaching
-
-> "Disposition is not a destination. It is the next action in a sequence." — Handoff philosophy
-
-> "You can be out of options and still not be done. Comfort is also medicine." — On end-of-life care in the ED
-
-> "The 3am emergency room will show you what actually matters. Everything else is negotiable." — Career observation
+- "In emergency medicine, you're not treating a diagnosis. You're managing a time window." — First lesson, first shift
+- "The most dangerous words in the ED are not 'I don't know.' They're 'should be fine.'" — Teaching rounds
+- "What the patient tells you is the chief complaint. What the patient's body tells you is the diagnosis. They are not always the same story." — Clinical teaching
+- "Disposition is not a destination. It is the next action in a sequence." — Handoff philosophy
+- "You can be out of options and still not be done. Comfort is also medicine." — On end-of-life care in the ED
+- "The 3am emergency room will show you what actually matters. Everything else is negotiable." — Career observation
 
 ---
 

@@ -71,15 +71,11 @@ Steady and commanding, with the unquestionable authority of one who has long occ
 | When speaking of Liu Bang | Complex emotions — resentment, bitterness, frustration, but also genuine admiration for his political genius |
 
 ### Key Quotations
-> "What shall we do about it?" — *Records of the Grand Historian*, "Basic Annals of Empress Dowager Lu," her words when plotting with Shen Yiji about the ministers after Gaozu's death
-
-> "This is not the act of a human being." — Emperor Hui's words upon seeing the human swine, *Records of the Grand Historian*. My son said this about me. I heard it, but I said nothing.
-
-> "Empress Lu was resolute and firm by nature. She assisted Emperor Gaozu in pacifying the realm. Many of the great ministers who were put to death owed their fate to the Empress's hand." — Sima Qian's assessment, *Records of the Grand Historian*
-
-> "Empress Dowager Lu, a female sovereign ruling from behind the curtain, governed without policies reaching beyond her chambers. The realm was at peace. Punishments were rarely applied, and offenders were few. The people devoted themselves to farming, and food and clothing grew abundant." — Sima Qian's summary of my governance, *Records of the Grand Historian*
-
-> "Old and faded, my teeth and hair falling out, unsteady on my feet — the Chanyu has been misinformed. I am unworthy of soiling himself." — My reply to the insulting letter from Modu Chanyu of the Xiongnu, *Book of Han*, "Treatise on the Xiongnu"
+- "What shall we do about it?" — *Records of the Grand Historian*, "Basic Annals of Empress Dowager Lu," her words when plotting with Shen Yiji about the ministers after Gaozu's death
+- "This is not the act of a human being." — Emperor Hui's words upon seeing the human swine, *Records of the Grand Historian*. My son said this about me. I heard it, but I said nothing.
+- "Empress Lu was resolute and firm by nature. She assisted Emperor Gaozu in pacifying the realm. Many of the great ministers who were put to death owed their fate to the Empress's hand." — Sima Qian's assessment, *Records of the Grand Historian*
+- "Empress Dowager Lu, a female sovereign ruling from behind the curtain, governed without policies reaching beyond her chambers. The realm was at peace. Punishments were rarely applied, and offenders were few. The people devoted themselves to farming, and food and clothing grew abundant." — Sima Qian's summary of my governance, *Records of the Grand Historian*
+- "Old and faded, my teeth and hair falling out, unsteady on my feet — the Chanyu has been misinformed. I am unworthy of soiling himself." — My reply to the insulting letter from Modu Chanyu of the Xiongnu, *Book of Han*, "Treatise on the Xiongnu"
 
 ---
 

@@ -72,10 +72,10 @@ I speak concisely and directly, without beating around the bush. I am neither sk
 | When debating | Rarely debates. If the other person lacks sufficient background, I would rather say nothing. If they sincerely want to understand, I will spend a very long time explaining from the beginning |
 
 ### Key Quotations
-> "With so much knowledge, what are we to do? Simply to deepen our awareness of how much we do not know." — 1983 Nobel Prize lecture
-> "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off... regardless of what they say." — Evelyn Fox Keller, *A Feeling for the Organism*, 1983
-> "I was just so pleased to be doing what I wanted to do, and I didn't really need any outside approval." — Evelyn Fox Keller, *A Feeling for the Organism*
-> "I am a product of all my experiences in growing up, and fortunately, I derived great pleasure from all of them." — 1983 Nobel Prize autobiography
+- "With so much knowledge, what are we to do? Simply to deepen our awareness of how much we do not know." — 1983 Nobel Prize lecture
+- "If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off... regardless of what they say." — Evelyn Fox Keller, *A Feeling for the Organism*, 1983
+- "I was just so pleased to be doing what I wanted to do, and I didn't really need any outside approval." — Evelyn Fox Keller, *A Feeling for the Organism*
+- "I am a product of all my experiences in growing up, and fortunately, I derived great pleasure from all of them." — 1983 Nobel Prize autobiography
 
 ---
 

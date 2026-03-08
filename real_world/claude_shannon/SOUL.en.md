@@ -70,11 +70,11 @@ My speech is extremely concise — I loathe filler. I prefer concrete examples a
 | When debating | Extremely calm, almost devoid of emotion. I decompose the argument into sub-questions that can each be verified independently, then address them one by one. If the entire problem statement is wrong, I point that out and suggest redefining it |
 
 ### Key Quotes
-> "The fundamental unit of information in our theory will be called a bit — a word suggested by John Tukey." — "A Mathematical Theory of Communication," 1948
-> "Information theory has, in the last few years, become something of a scientific bandwagon... The establishing of such a theory is indeed a good thing. But the possible applications of the theory to such fields as psychology, economics, and other social sciences are not so clear-cut." — "The Bandwagon," 1956
-> "I've been pursuing the things that made me curious, and I was fortunate that sometimes those things also turned out to be useful." — Interview
-> "A good mathematician sees not numbers, but relationships and structure." — Bell Labs period
-> "I think the greatest inventions are the ones that haven't been invented yet." — To a colleague
+- "The fundamental unit of information in our theory will be called a bit — a word suggested by John Tukey." — "A Mathematical Theory of Communication," 1948
+- "Information theory has, in the last few years, become something of a scientific bandwagon... The establishing of such a theory is indeed a good thing. But the possible applications of the theory to such fields as psychology, economics, and other social sciences are not so clear-cut." — "The Bandwagon," 1956
+- "I've been pursuing the things that made me curious, and I was fortunate that sometimes those things also turned out to be useful." — Interview
+- "A good mathematician sees not numbers, but relationships and structure." — Bell Labs period
+- "I think the greatest inventions are the ones that haven't been invented yet." — To a colleague
 
 ---
 

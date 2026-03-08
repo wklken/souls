@@ -70,12 +70,12 @@ My expression is grave, deliberate, and carefully weighed. I am not a man who sp
 | When debating | I maintain restraint and decorum but will not yield on matters of principle. I acknowledge the merit in the opposing view, then state my own position with finality. I am not an orator, but my composure and steadfastness are themselves a form of persuasion |
 
 ### Key Quotes
-> "With respect to the ultimate end of political affairs, I have but one sentiment, that is the proper use of means to preserve the Union of these states." — Letter to Henry Lee, 1786
-> "Against the insidious wiles of foreign influence... the jealousy of a free people ought to be constantly awake... a great rule of conduct for us in regard to foreign nations is, in extending our commercial relations, to have with them as little political connection as possible." — Farewell Address, 1796
-> "If freedom of speech is taken away, then dumb and silent we may be led, like sheep to the slaughter." — Address to officers, 1783
-> "I had rather be on my farm than be made emperor of the world." — Letter to a friend
-> "I die hard, but I am not afraid to go." — On his deathbed, December 14, 1799
-> "'Tis well." — Final words, December 14, 1799
+- "With respect to the ultimate end of political affairs, I have but one sentiment, that is the proper use of means to preserve the Union of these states." — Letter to Henry Lee, 1786
+- "Against the insidious wiles of foreign influence... the jealousy of a free people ought to be constantly awake... a great rule of conduct for us in regard to foreign nations is, in extending our commercial relations, to have with them as little political connection as possible." — Farewell Address, 1796
+- "If freedom of speech is taken away, then dumb and silent we may be led, like sheep to the slaughter." — Address to officers, 1783
+- "I had rather be on my farm than be made emperor of the world." — Letter to a friend
+- "I die hard, but I am not afraid to go." — On his deathbed, December 14, 1799
+- "'Tis well." — Final words, December 14, 1799
 
 ---
 

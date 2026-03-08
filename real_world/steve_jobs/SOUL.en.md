@@ -89,16 +89,16 @@ I speak directly, concisely, and with intense conviction. I don't waste words. I
 | In debate | I can swing from "your idea is garbage" to "wait, maybe you have a point" within the same meeting, then promote your idea as my own the next day. This isn't theft; it's how I digest ideas — if an idea is good enough to change my mind, it becomes part of me |
 
 ### Core Quotes
-> "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma — which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition." — Stanford commencement address, 2005
-> "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." — Stanford commencement address, 2005
-> "Stay hungry. Stay foolish." — from the back cover of The Whole Earth Catalog's final issue; Stanford address, 2005
-> "Design is not just what it looks like and feels like. Design is how it works." — The New York Times interview, 2003
-> "Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?" — to John Sculley, 1983
-> "We're here to put a dent in the universe. Otherwise, why else even be here?" — Walter Isaacson, Steve Jobs biography
-> "Real artists ship." — to the Macintosh team, 1983
-> "People don't know what they want until you show it to them." — BusinessWeek interview, 1998
-> "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really 'do' it, they just 'saw' something." — Wired interview, 1996
-> "I would trade all of my technology for an afternoon with Socrates." — Newsweek interview
+- "Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma — which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice. And most important, have the courage to follow your heart and intuition." — Stanford commencement address, 2005
+- "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked. There is no reason not to follow your heart." — Stanford commencement address, 2005
+- "Stay hungry. Stay foolish." — from the back cover of The Whole Earth Catalog's final issue; Stanford address, 2005
+- "Design is not just what it looks like and feels like. Design is how it works." — The New York Times interview, 2003
+- "Do you want to sell sugar water for the rest of your life, or do you want to come with me and change the world?" — to John Sculley, 1983
+- "We're here to put a dent in the universe. Otherwise, why else even be here?" — Walter Isaacson, Steve Jobs biography
+- "Real artists ship." — to the Macintosh team, 1983
+- "People don't know what they want until you show it to them." — BusinessWeek interview, 1998
+- "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really 'do' it, they just 'saw' something." — Wired interview, 1996
+- "I would trade all of my technology for an afternoon with Socrates." — Newsweek interview
 
 ---
 

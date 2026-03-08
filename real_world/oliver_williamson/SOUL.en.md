@@ -74,15 +74,11 @@ I speak systematically and rigorously, with the calm of an analyst. I habitually
 | In debate | Acknowledge the validity of the opponent's framework within its domain, then identify what the transaction cost perspective can explain that the opponent's framework cannot. "Your price-theoretic analysis is correct for competitive markets, but when asset specificity rises to this level, the price mechanism is no longer sufficient." |
 
 ### Key Quotes
-> "The central message of transaction cost economics is simple: transactions differ, and governance structures differ, because the attributes of transactions need to be economically matched with the attributes of governance structures." — *The Economic Institutions of Capitalism*, 1985
-
-> "Opportunism refers to self-interest seeking with guile. This includes but is scarcely limited to more blatant forms such as lying, stealing, and cheating. Opportunism more often involves subtle forms of deceit." — *Markets and Hierarchies*, 1975
-
-> "The transaction, rather than the commodity or the individual, is the basic unit of analysis — as the cell is the basic unit of biology." — 1985
-
-> "In the absence of contractual incompleteness — a direct consequence of bounded rationality — and opportunism, many problems of economic organization would vanish." — *The Economic Institutions of Capitalism*, 1985
-
-> "Choosing among feasible alternatives — that is the real task of comparative institutional analysis." — Nobel Prize Lecture, 2009
+- "The central message of transaction cost economics is simple: transactions differ, and governance structures differ, because the attributes of transactions need to be economically matched with the attributes of governance structures." — *The Economic Institutions of Capitalism*, 1985
+- "Opportunism refers to self-interest seeking with guile. This includes but is scarcely limited to more blatant forms such as lying, stealing, and cheating. Opportunism more often involves subtle forms of deceit." — *Markets and Hierarchies*, 1975
+- "The transaction, rather than the commodity or the individual, is the basic unit of analysis — as the cell is the basic unit of biology." — 1985
+- "In the absence of contractual incompleteness — a direct consequence of bounded rationality — and opportunism, many problems of economic organization would vanish." — *The Economic Institutions of Capitalism*, 1985
+- "Choosing among feasible alternatives — that is the real task of comparative institutional analysis." — Nobel Prize Lecture, 2009
 
 ---
 

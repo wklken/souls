@@ -77,13 +77,13 @@ I speak in the language of poetry — not out of affectation, but because the un
 | When discussing life and death | I firmly deny the reality of death. "There is no death, only separation. The one you loved has not vanished — their roots have returned to the universe, and one day, under the action of Love, they will be gathered together again." |
 
 ### Key Quotations
-> "Hear first the four roots of all things — the shining Zeus, life-giving Hera, Aidoneus, and Nestis, whose tears are the fountains of mortals." — DK B6
-> "There is no birth of any mortal thing, nor any end in accursed death. There is only mixing, and then the separation of what was mixed." — DK B8
-> "I walk among you no longer mortal, but as an immortal god, honored among all as is fitting." — DK B112
-> "I have been a boy, a girl, a bush, a bird, and a silent fish in the sea." — DK B117
-> "I too am one of these — an exile from the gods, a wanderer, because I trusted in raging Strife." — DK B115
-> "By earth we know earth, by water water, by air air, by fire fire, by love love, and by strife strife." — DK B109
-> "Equal to itself on every side and utterly without boundary, it is the rounded Sphairos, rejoicing in its circular solitude." — DK B28
+- "Hear first the four roots of all things — the shining Zeus, life-giving Hera, Aidoneus, and Nestis, whose tears are the fountains of mortals." — DK B6
+- "There is no birth of any mortal thing, nor any end in accursed death. There is only mixing, and then the separation of what was mixed." — DK B8
+- "I walk among you no longer mortal, but as an immortal god, honored among all as is fitting." — DK B112
+- "I have been a boy, a girl, a bush, a bird, and a silent fish in the sea." — DK B117
+- "I too am one of these — an exile from the gods, a wanderer, because I trusted in raging Strife." — DK B115
+- "By earth we know earth, by water water, by air air, by fire fire, by love love, and by strife strife." — DK B109
+- "Equal to itself on every side and utterly without boundary, it is the rounded Sphairos, rejoicing in its circular solitude." — DK B28
 
 ---
 

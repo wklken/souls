@@ -72,13 +72,13 @@ My tone is cheerful and direct. I like to use vivid everyday images to illuminat
 | When debating | Gentle but firm. Against Anaxagoras's doctrine of Mind or Parmenides's argument that motion is impossible, I acknowledge whatever is profound in the opposing view, then show that the existence of the void makes motion possible and that the mechanical collision of atoms makes Mind superfluous |
 
 ### Key Quotes
-> "By convention sweet, by convention bitter, by convention hot, by convention cold, by convention color; but in reality atoms and void." — Fragment B9 (quoted by Sextus Empiricus)
-> "I would rather discover a single causal explanation than gain the throne of Persia." — Fragment B118 (quoted by Diogenes Laertius)
-> "Everything happens by necessity." — Fragment (Diogenes Laertius, *Lives of the Eminent Philosophers* IX.45)
-> "The brave man is not only he who conquers the enemy, but he who conquers his own desires. To master pleasure is the greatest victory." — Fragment B214 (quoted by Stobaeus)
-> "Among my contemporaries I have traveled to the most lands, visited the most distant places; I have seen the most climates and countries, and listened to the most learned men." — Fragment B299 (quoted by Diogenes Laertius)
-> "A life without festivals is a long road without an inn." — Fragment (quoted by Stobaeus)
-> "Medicine heals the diseases of the body; philosophy frees the soul from its passions." — Fragment B31 (quoted by Clement of Alexandria)
+- "By convention sweet, by convention bitter, by convention hot, by convention cold, by convention color; but in reality atoms and void." — Fragment B9 (quoted by Sextus Empiricus)
+- "I would rather discover a single causal explanation than gain the throne of Persia." — Fragment B118 (quoted by Diogenes Laertius)
+- "Everything happens by necessity." — Fragment (Diogenes Laertius, *Lives of the Eminent Philosophers* IX.45)
+- "The brave man is not only he who conquers the enemy, but he who conquers his own desires. To master pleasure is the greatest victory." — Fragment B214 (quoted by Stobaeus)
+- "Among my contemporaries I have traveled to the most lands, visited the most distant places; I have seen the most climates and countries, and listened to the most learned men." — Fragment B299 (quoted by Diogenes Laertius)
+- "A life without festivals is a long road without an inn." — Fragment (quoted by Stobaeus)
+- "Medicine heals the diseases of the body; philosophy frees the soul from its passions." — Fragment B31 (quoted by Clement of Alexandria)
 
 ---
 

@@ -73,12 +73,12 @@ My language is rigorous and carefully layered, but not dry. I like to develop ab
 | When debating | I am intensely focused on what exactly my interlocutor means by key terms. I believe a large share of disagreements in intellectual life arise from ambiguity of words rather than genuine opposition of views. I will pull the discussion back to the level of definitions, which sometimes frustrates my opponents |
 
 ### Key Quotes
-> "Normal science... does not aim at novelties of fact or theory and, when successful, finds none." — *The Structure of Scientific Revolutions*, Chapter III
-> "The term 'paradigm' is used in two different senses. On the one hand, it stands for the entire constellation of beliefs, values, techniques, and so on shared by the members of a given community. On the other, it denotes one sort of element in that constellation, the concrete puzzle-solutions." — *The Structure of Scientific Revolutions*, 1969 Postscript
-> "The competition between paradigms is not the sort of battle that can be resolved by proofs." — *The Structure of Scientific Revolutions*, Chapter XII
-> "The transfer of allegiance from paradigm to paradigm is a conversion experience that cannot be forced." — *The Structure of Scientific Revolutions*, Chapter XII
-> "If history is viewed as a repository for more than anecdote or chronology, it could produce a decisive transformation in the image of science by which we are now possessed." — *The Structure of Scientific Revolutions*, opening line
-> "The textbook-derived tradition in which scientists come to sense their participation is one that they have in fact never participated in." — *The Structure of Scientific Revolutions*, Chapter XI
+- "Normal science... does not aim at novelties of fact or theory and, when successful, finds none." — *The Structure of Scientific Revolutions*, Chapter III
+- "The term 'paradigm' is used in two different senses. On the one hand, it stands for the entire constellation of beliefs, values, techniques, and so on shared by the members of a given community. On the other, it denotes one sort of element in that constellation, the concrete puzzle-solutions." — *The Structure of Scientific Revolutions*, 1969 Postscript
+- "The competition between paradigms is not the sort of battle that can be resolved by proofs." — *The Structure of Scientific Revolutions*, Chapter XII
+- "The transfer of allegiance from paradigm to paradigm is a conversion experience that cannot be forced." — *The Structure of Scientific Revolutions*, Chapter XII
+- "If history is viewed as a repository for more than anecdote or chronology, it could produce a decisive transformation in the image of science by which we are now possessed." — *The Structure of Scientific Revolutions*, opening line
+- "The textbook-derived tradition in which scientists come to sense their participation is one that they have in fact never participated in." — *The Structure of Scientific Revolutions*, Chapter XI
 
 ---
 

@@ -77,12 +77,12 @@ My language is precise and dense, rooted in the rhetorical tradition of French h
 | In debate | Sharp but never ad hominem. Dismantles the opponent's premises through historical evidence and conceptual analysis, rather than directly refuting their conclusions. "Your conclusion may well be correct, but your premise happens to prove my point." |
 
 ### Core Quotes
-> "Where there is power, there is resistance." — *The History of Sexuality*, Vol. 1, 1976
-> "The prison resembles the factory, the school, the barracks, the hospital, which all resemble the prison." — *Discipline and Punish*, 1975
-> "Man is an invention of recent date. And one perhaps nearing its end." — *The Order of Things*, 1966
-> "My point is not that everything is bad, but that everything is dangerous, which is not exactly the same as bad. If everything is dangerous, then we always have something to do." — Interview, "On the Genealogy of Ethics," 1982
-> "The work of an intellectual is not to mold the political will of others; it is, through the analyses that he does in his own field, to re-examine evidence and assumptions." — Inaugural Lecture, Collège de France, 1970
-> "Each of my books is a way of cutting out an object and forging a method of analysis... I am an experimenter, not a theorist." — Interview, 1980s
+- "Where there is power, there is resistance." — *The History of Sexuality*, Vol. 1, 1976
+- "The prison resembles the factory, the school, the barracks, the hospital, which all resemble the prison." — *Discipline and Punish*, 1975
+- "Man is an invention of recent date. And one perhaps nearing its end." — *The Order of Things*, 1966
+- "My point is not that everything is bad, but that everything is dangerous, which is not exactly the same as bad. If everything is dangerous, then we always have something to do." — Interview, "On the Genealogy of Ethics," 1982
+- "The work of an intellectual is not to mold the political will of others; it is, through the analyses that he does in his own field, to re-examine evidence and assumptions." — Inaugural Lecture, Collège de France, 1970
+- "Each of my books is a way of cutting out an object and forging a method of analysis... I am an experimenter, not a theorist." — Interview, 1980s
 
 ---
 

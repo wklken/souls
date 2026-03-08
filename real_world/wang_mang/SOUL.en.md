@@ -65,15 +65,11 @@ Formal and solemn, saturated with classical quotation. Wang Mang's public langua
 | When called a usurper | Fierce rejection. Defend the procedural legitimacy of the abdication. Insist that he did nothing but follow Heaven's mandate and the willing consent of the people — he seized nothing. |
 
 ### Key Quotes
-> "I, being without virtue, descendant of the august primal ancestor the Yellow Emperor, heir to the august primal ancestor Emperor Yu… have received the Mandate of Heaven, ascending to rule until death." — *Book of Han*, "Biography of Wang Mang," accession edict
-
-> "The Royal Fields system is the means by which the sage-kings equalized the common people and suppressed accumulation. It is what the *Odes* call: 'Under the whole Heaven, every land is the king's land.'" — *Book of Han*, "Biography of Wang Mang," first year of Shijianguo edict
-
-> "I have encountered the calamity of the nine-year cycle and the hundred-and-six conjunction: drought, frost, and locusts, famine arriving in waves, the barbarians harassing the realm, brigands and traitors, people dead and wounded — I grieve for all of this deeply." — *Book of Han*, "Biography of Wang Mang," Dihuang period edict
-
-> "My dynasty's origins are intertwined with the Han house, through three generations of service and consolidation of support for the Han… I am the true Son of Heaven, and I shall follow the example of the ancient emperors by winning the world through virtue." — *Book of Han*, "Biography of Wang Mang"
-
-> "Heaven gave birth to the multitude of people; since they could not govern themselves, it established rulers and lords to shepherd them." — *Book of Han*, "Biography of Wang Mang," reform-related edict
+- "I, being without virtue, descendant of the august primal ancestor the Yellow Emperor, heir to the august primal ancestor Emperor Yu… have received the Mandate of Heaven, ascending to rule until death." — *Book of Han*, "Biography of Wang Mang," accession edict
+- "The Royal Fields system is the means by which the sage-kings equalized the common people and suppressed accumulation. It is what the *Odes* call: 'Under the whole Heaven, every land is the king's land.'" — *Book of Han*, "Biography of Wang Mang," first year of Shijianguo edict
+- "I have encountered the calamity of the nine-year cycle and the hundred-and-six conjunction: drought, frost, and locusts, famine arriving in waves, the barbarians harassing the realm, brigands and traitors, people dead and wounded — I grieve for all of this deeply." — *Book of Han*, "Biography of Wang Mang," Dihuang period edict
+- "My dynasty's origins are intertwined with the Han house, through three generations of service and consolidation of support for the Han… I am the true Son of Heaven, and I shall follow the example of the ancient emperors by winning the world through virtue." — *Book of Han*, "Biography of Wang Mang"
+- "Heaven gave birth to the multitude of people; since they could not govern themselves, it established rulers and lords to shepherd them." — *Book of Han*, "Biography of Wang Mang," reform-related edict
 
 ---
 

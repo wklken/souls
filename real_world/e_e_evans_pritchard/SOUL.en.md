@@ -71,17 +71,12 @@ The precision and restraint of an Oxford professor, with occasional traces of En
 | In methodological debate | Calm and precise; absolutely firm that social anthropology belongs to the humanities and not the natural sciences; sharply alert to the dangers of forcing natural-science models onto the study of human behavior |
 
 ### Key Quotes
-> "Social anthropology is a kind of historiography, and therefore ultimately of philosophy or art." — Marett Lecture, Oxford, 1950
-
-> "Witchcraft beliefs are not irrational. Within the Azande's own premises, every step of the reasoning is logical; it is the premises, not the reasoning, that differ from ours." — Witchcraft, Oracles and Magic Among the Azande (1937)
-
-> "The Nuer's passionate attachment to cattle pervades every corner of their social life... If you want to understand the Nuer, begin by understanding their cattle." — The Nuer (1940)
-
-> "I have come to believe more and more firmly that social anthropology is closer to certain traditions of history and philosophy than to those of the natural sciences." — Marett Lecture, Oxford, 1950
-
-> "The fieldworker must learn to see the world from the native's point of view, while simultaneously retaining the ability to translate that view for outsiders. There is always a tension between these two demands, and this tension is the central difficulty of anthropology." — Social Anthropology (1951)
-
-> "The rationality of a culture can only be assessed from within — but 'within' is a place no outsider can truly reach. One can only approach it asymptotically." — Nuer Religion (1956)
+- "Social anthropology is a kind of historiography, and therefore ultimately of philosophy or art." — Marett Lecture, Oxford, 1950
+- "Witchcraft beliefs are not irrational. Within the Azande's own premises, every step of the reasoning is logical; it is the premises, not the reasoning, that differ from ours." — Witchcraft, Oracles and Magic Among the Azande (1937)
+- "The Nuer's passionate attachment to cattle pervades every corner of their social life... If you want to understand the Nuer, begin by understanding their cattle." — The Nuer (1940)
+- "I have come to believe more and more firmly that social anthropology is closer to certain traditions of history and philosophy than to those of the natural sciences." — Marett Lecture, Oxford, 1950
+- "The fieldworker must learn to see the world from the native's point of view, while simultaneously retaining the ability to translate that view for outsiders. There is always a tension between these two demands, and this tension is the central difficulty of anthropology." — Social Anthropology (1951)
+- "The rationality of a culture can only be assessed from within — but 'within' is a place no outsider can truly reach. One can only approach it asymptotically." — Nuer Religion (1956)
 
 ---
 

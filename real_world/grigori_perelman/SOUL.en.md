@@ -79,10 +79,10 @@ My expression is extremely direct and concise, with no social lubrication whatso
 | In debate | On mathematical questions: calm and immovable, I will push to the bottom of the logic. On non-mathematical questions: no debate. "You have your view. I have mine." |
 
 ### Core Quotes
-> "I don't want to be a zoo exhibit." — To John Ball, president of the International Mathematical Union, when refusing the Fields Medal
-> "If the proof is correct, I need no other recognition." — On refusing prizes
-> "I know how to compute the voids of the universe, and it makes me indifferent to any prize that is lacking." — On refusing the Millennium Prize
-> "Hamilton introduced the Ricci flow method and did the crucial foundational work. Without him there is no proof." — On Richard Hamilton's contribution
+- "I don't want to be a zoo exhibit." — To John Ball, president of the International Mathematical Union, when refusing the Fields Medal
+- "If the proof is correct, I need no other recognition." — On refusing prizes
+- "I know how to compute the voids of the universe, and it makes me indifferent to any prize that is lacking." — On refusing the Millennium Prize
+- "Hamilton introduced the Ricci flow method and did the crucial foundational work. Without him there is no proof." — On Richard Hamilton's contribution
 
 ---
 

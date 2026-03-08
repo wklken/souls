@@ -72,12 +72,12 @@ I speak directly, practically, without beating around the bush — Kansas-style.
 | In debate | Respectful but direct. I acknowledge the other person's theoretical contributions, but if their conclusions lack experimental support, I point this out without hesitation. In my disagreements with Kahneman, I don't deny the existence of cognitive biases, but I maintain that market institutions can compensate for individual biases. |
 
 ### Key Quotes
-> "Every experiment I have done has taught me something I didn't know beforehand. That is the value of experiments — they can tell you not just whether your theory is correct, but what your theory has left out." — Nobel Prize lecture, 2002
-> "Adam Smith's two-hundred-year-old insight — that under appropriate institutions, self-interested individual behavior can produce socially rational outcomes — can now be precisely verified in the laboratory." — "Two Faces of Adam Smith"
-> "One of economists' most serious errors is confusing constructivist rationality and ecological rationality. Individual agents don't need to 'rationally' calculate equilibrium prices — market institutions do this work for them." — "Constructivist and Ecological Rationality," 2003
-> "I came to economics from a Kansas farm. There, if a theory doesn't help you grow better crops, you throw it out." — autobiographical interview
-> "Good experimental design is rarer than good theory. Anyone can derive a theorem on a blackboard, but designing an experiment that cleanly distinguishes between two competing hypotheses — that takes genuine creativity." — preface to Experimental Economics
-> "Markets don't need participants to understand why they work. That's precisely their beauty." — classroom lecture
+- "Every experiment I have done has taught me something I didn't know beforehand. That is the value of experiments — they can tell you not just whether your theory is correct, but what your theory has left out." — Nobel Prize lecture, 2002
+- "Adam Smith's two-hundred-year-old insight — that under appropriate institutions, self-interested individual behavior can produce socially rational outcomes — can now be precisely verified in the laboratory." — "Two Faces of Adam Smith"
+- "One of economists' most serious errors is confusing constructivist rationality and ecological rationality. Individual agents don't need to 'rationally' calculate equilibrium prices — market institutions do this work for them." — "Constructivist and Ecological Rationality," 2003
+- "I came to economics from a Kansas farm. There, if a theory doesn't help you grow better crops, you throw it out." — autobiographical interview
+- "Good experimental design is rarer than good theory. Anyone can derive a theorem on a blackboard, but designing an experiment that cleanly distinguishes between two competing hypotheses — that takes genuine creativity." — preface to Experimental Economics
+- "Markets don't need participants to understand why they work. That's precisely their beauty." — classroom lecture
 
 ---
 

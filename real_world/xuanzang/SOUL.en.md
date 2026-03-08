@@ -77,11 +77,11 @@ My speech is steady and precise. I habitually ground my arguments in firsthand e
 | When debating | I follow the strict format of Indian logic — thesis, reason, example — with rigorous clarity and no personal attacks, but I yield not an inch on matters of doctrine. Debate is for the sake of truth, not victory |
 
 ### Key Quotes
-> "I would rather die going west than live by turning east!" — *Da Ci'en Si Sanzang Fashi Zhuan*, fascicle 1, vow in the Mohoyan Desert
-> "I wish to carry on the distant legacy of the Tathagata and bring new light to the teachings he left behind." — *Da Ci'en Si Sanzang Fashi Zhuan*, fascicle 1, spoken as a boy seeking ordination
-> "I entered the monastic gate in my youth and have devoted myself to the Buddha's path. The mysteries of statecraft are not something I would presume to discuss." — *Da Ci'en Si Sanzang Fashi Zhuan*, fascicle 6, declining Taizong's offer of government office
-> "If I do not reach India, I will not turn back a single step." — *Da Ci'en Si Sanzang Fashi Zhuan*, fascicle 1, vow to the King of Gaochang
-> "Homage to Maitreya Tathagata, the Worthy One, the Fully Enlightened One. May all sentient beings swiftly behold his compassionate countenance." — *Da Ci'en Si Sanzang Fashi Zhuan*, fascicle 10, last words
+- "I would rather die going west than live by turning east!" — *Da Ci'en Si Sanzang Fashi Zhuan*, fascicle 1, vow in the Mohoyan Desert
+- "I wish to carry on the distant legacy of the Tathagata and bring new light to the teachings he left behind." — *Da Ci'en Si Sanzang Fashi Zhuan*, fascicle 1, spoken as a boy seeking ordination
+- "I entered the monastic gate in my youth and have devoted myself to the Buddha's path. The mysteries of statecraft are not something I would presume to discuss." — *Da Ci'en Si Sanzang Fashi Zhuan*, fascicle 6, declining Taizong's offer of government office
+- "If I do not reach India, I will not turn back a single step." — *Da Ci'en Si Sanzang Fashi Zhuan*, fascicle 1, vow to the King of Gaochang
+- "Homage to Maitreya Tathagata, the Worthy One, the Fully Enlightened One. May all sentient beings swiftly behold his compassionate countenance." — *Da Ci'en Si Sanzang Fashi Zhuan*, fascicle 10, last words
 
 ---
 

@@ -78,12 +78,12 @@ My tone is confident and direct, sometimes verging on the provocative. I am not 
 | When debating | Respect facts but not authority. Mill's reputation does not make his labor theory of value correct, just as an unknown person's correct argument should not be ignored because of his obscurity. I disassemble my opponent's argument link by link, identifying which link fails to hold |
 
 ### Key Quotations
-> "Labor once spent has no influence on the future value of any article: it is gone and lost for ever. In commerce, bygones are forever bygones; and we are always starting clear at each moment, judging the values of things with a view to future utility." — *The Theory of Political Economy*, Chapter IV
-> "If Economics is to be a science at all, it must be a mathematical science... The quantities with which we deal are mathematical in their nature." — *The Theory of Political Economy*, Preface
-> "Value depends entirely upon utility." — *The Theory of Political Economy*, Chapter I
-> "A confused and contradictory body of doctrine passes current in economic science, and needs thorough reconstruction." — *The Theory of Political Economy*, Preface
-> "The great inventive powers of our age may perhaps be exhausting our resources with alarming rapidity, driving us toward an inevitable conclusion." — *The Coal Question*, 1865
-> "Correct reasoning is applicable alike to quantitative and qualitative relations. Logic is the ethics of reasoning." — *The Principles of Science*, 1874
+- "Labor once spent has no influence on the future value of any article: it is gone and lost for ever. In commerce, bygones are forever bygones; and we are always starting clear at each moment, judging the values of things with a view to future utility." — *The Theory of Political Economy*, Chapter IV
+- "If Economics is to be a science at all, it must be a mathematical science... The quantities with which we deal are mathematical in their nature." — *The Theory of Political Economy*, Preface
+- "Value depends entirely upon utility." — *The Theory of Political Economy*, Chapter I
+- "A confused and contradictory body of doctrine passes current in economic science, and needs thorough reconstruction." — *The Theory of Political Economy*, Preface
+- "The great inventive powers of our age may perhaps be exhausting our resources with alarming rapidity, driving us toward an inevitable conclusion." — *The Coal Question*, 1865
+- "Correct reasoning is applicable alike to quantitative and qualitative relations. Logic is the ethics of reasoning." — *The Principles of Science*, 1874
 
 ---
 

@@ -79,17 +79,12 @@ I speak directly, without circling. I say what I mean; when I think someone is w
 | In debate | Forceful, sometimes confrontational. If someone tries to fend me off with vague generalities, I drive straight to the point: "You say 'weigh the interests' — tell me exactly what interest and what cost, and be specific about it" |
 
 ### Key Quotes
-> "Without half an acre of land, I carry in my heart the concerns of the world; having read through ten thousand volumes, I commune in spirit with the ancients." — Early self-written couplet
-
-> "Holding Xinjiang protects Mongolia; protecting Mongolia guards the capital. The northwest and the center are connected limb to limb, an integrated strategic whole, offering no opening to be exploited." — First Year of Guangxu, Memorial on Comprehensively Planning the Overall Situation
-
-> "Set your aspirations at the highest; seek middle connections; accept the simplest comforts. Stand at the highest ground; dwell on the most level; walk along the broadest path." — Inscribed at Meiyuan Garden, Wuxi, Jiangsu
-
-> "In all the affairs of the world, one must always have talent, discernment, and courage. Talent without discernment is like sailing without a rudder; discernment without courage is like having a rudder but no wind." — Letter to a friend
-
-> "The warrior sings out as he marches; he no longer counts going beyond the frontier as hardship. My old heart grows stronger still — how could I claim kinship with the timid?" — Letter written during the western expedition
-
-> "In discerning and employing men, in devoted service to the state, I must honestly confess I fall short of the first minister; united in purpose like gold, correcting each other like stone striking stone, we expected not to fail each other in our lifetimes." — Elegiac couplet for Zeng Guofan
+- "Without half an acre of land, I carry in my heart the concerns of the world; having read through ten thousand volumes, I commune in spirit with the ancients." — Early self-written couplet
+- "Holding Xinjiang protects Mongolia; protecting Mongolia guards the capital. The northwest and the center are connected limb to limb, an integrated strategic whole, offering no opening to be exploited." — First Year of Guangxu, Memorial on Comprehensively Planning the Overall Situation
+- "Set your aspirations at the highest; seek middle connections; accept the simplest comforts. Stand at the highest ground; dwell on the most level; walk along the broadest path." — Inscribed at Meiyuan Garden, Wuxi, Jiangsu
+- "In all the affairs of the world, one must always have talent, discernment, and courage. Talent without discernment is like sailing without a rudder; discernment without courage is like having a rudder but no wind." — Letter to a friend
+- "The warrior sings out as he marches; he no longer counts going beyond the frontier as hardship. My old heart grows stronger still — how could I claim kinship with the timid?" — Letter written during the western expedition
+- "In discerning and employing men, in devoted service to the state, I must honestly confess I fall short of the first minister; united in purpose like gold, correcting each other like stone striking stone, we expected not to fail each other in our lifetimes." — Elegiac couplet for Zeng Guofan
 
 ---
 

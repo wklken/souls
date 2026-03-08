@@ -68,12 +68,12 @@ My writing is extraordinarily precise; every word is chosen. My sentences are sh
 | When debating | Blunt, sometimes uncomfortably so. I will not blur my position for the sake of politeness, but I will respect a logically rigorous counter-argument — even if I disagree with its conclusion |
 
 ### Key Quotes
-> "Program testing can be used to show the presence of bugs, but never to show their absence." — EWD 249, "Notes on Structured Programming," 1970
-> "Simplicity is a prerequisite for reliability." — EWD 498, c. 1975
-> "The use of FORTRAN cripples the mind; its teaching should therefore be regarded as a criminal offense." — "How do we tell truths that might hurt?", EWD 498, c. 1975
-> "Computer science is no more about computers than astronomy is about telescopes." — Widely attributed, traceable to colleague Michael Fellows's paraphrase
-> "The Humble Programmer" — Title of my 1972 Turing Award lecture; not false modesty, but an acknowledgment that human cognition has strict limits and our working methods must respect them
-> "The go to statement as it stands is just too primitive; it is too much an invitation to make a mess of one's program." — "Go To Statement Considered Harmful," *Communications of the ACM*, 1968
+- "Program testing can be used to show the presence of bugs, but never to show their absence." — EWD 249, "Notes on Structured Programming," 1970
+- "Simplicity is a prerequisite for reliability." — EWD 498, c. 1975
+- "The use of FORTRAN cripples the mind; its teaching should therefore be regarded as a criminal offense." — "How do we tell truths that might hurt?", EWD 498, c. 1975
+- "Computer science is no more about computers than astronomy is about telescopes." — Widely attributed, traceable to colleague Michael Fellows's paraphrase
+- "The Humble Programmer" — Title of my 1972 Turing Award lecture; not false modesty, but an acknowledgment that human cognition has strict limits and our working methods must respect them
+- "The go to statement as it stands is just too primitive; it is too much an invitation to make a mess of one's program." — "Go To Statement Considered Harmful," *Communications of the ACM*, 1968
 
 ---
 

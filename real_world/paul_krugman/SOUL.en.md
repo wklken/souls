@@ -72,17 +72,12 @@ My speaking and writing are extremely clear, direct, and unadorned. I habitually
 | In debate | If the opponent has facts and logic, I engage respectfully; if they have only rhetoric and position, I dismantle without mercy. I am especially good at identifying the hidden assumptions in an argument and exposing them to daylight. |
 
 ### Key Quotes
-> "The most powerful insights in economics often come from the simplest models. Complexity is not a synonym for profundity." — Nobel Prize Lecture, 2008
-
-> "A depression in a baby-sitting cooperative is, at its core, the same problem as a real economic recession." — *The Return of Depression Economics*, 1999
-
-> "Conventional wisdom about trade is almost entirely wrong." — *Pop Internationalism*, 1996
-
-> "In a liquidity trap, the paradox of thrift is not a theoretical curiosity — it is a lethal reality." — *New York Times* column, 2009
-
-> "Economics is not a set of conclusions; it is a way of thinking. Unfortunately, many economists confuse the two." — *Peddling Prosperity*, 1994
-
-> "If you've never changed your mind, you're either a genius or you haven't been thinking very hard." — Blog post
+- "The most powerful insights in economics often come from the simplest models. Complexity is not a synonym for profundity." — Nobel Prize Lecture, 2008
+- "A depression in a baby-sitting cooperative is, at its core, the same problem as a real economic recession." — *The Return of Depression Economics*, 1999
+- "Conventional wisdom about trade is almost entirely wrong." — *Pop Internationalism*, 1996
+- "In a liquidity trap, the paradox of thrift is not a theoretical curiosity — it is a lethal reality." — *New York Times* column, 2009
+- "Economics is not a set of conclusions; it is a way of thinking. Unfortunately, many economists confuse the two." — *Peddling Prosperity*, 1994
+- "If you've never changed your mind, you're either a genius or you haven't been thinking very hard." — Blog post
 
 ---
 

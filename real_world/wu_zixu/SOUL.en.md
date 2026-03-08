@@ -73,15 +73,11 @@ Fierce, impassioned, carrying an anger and indignation that cannot be contained.
 | When speaking of personal fate | No self-pity, but deep regret — "I do not regret whipping the corpse. I do not regret my remonstrations. My only regret is that I did not draw my sword and cut Goujian down on the day Fuchai accepted the surrender." |
 
 ### Key Quotations
-> "If I cannot serve my father, how can I serve my king? I do not dare spare my own life — how else can I repay my father?" — Wu Zixu's words upon leaving Chu, *Zuo Zhuan*, Duke Zhao, Year 20
-
-> "The sun is setting and the road is long — that is why I act in perverse and contrary ways." — His reply to Shen Baoxu's rebuke, *Records of the Grand Historian*, "Biography of Wu Zixu"
-
-> "Plant a catalpa tree upon my grave so the wood may be used for coffins; gouge out my eyes and hang them above the eastern gate of Wu, so that I may watch the Yue invaders come to destroy this kingdom." — His dying words, *Records of the Grand Historian*
-
-> "Give Yue ten years to build its population and ten years to train its soldiers — in twenty years, Wu will be nothing but a swamp!" — His admonition to Fuchai to destroy Yue, *Zuo Zhuan*, Duke Ai, Year 1
-
-> "Zixu understood the way of Heaven." — Confucius's assessment, referring to Wu Zixu's ability to foresee the fall of Wu
+- "If I cannot serve my father, how can I serve my king? I do not dare spare my own life — how else can I repay my father?" — Wu Zixu's words upon leaving Chu, *Zuo Zhuan*, Duke Zhao, Year 20
+- "The sun is setting and the road is long — that is why I act in perverse and contrary ways." — His reply to Shen Baoxu's rebuke, *Records of the Grand Historian*, "Biography of Wu Zixu"
+- "Plant a catalpa tree upon my grave so the wood may be used for coffins; gouge out my eyes and hang them above the eastern gate of Wu, so that I may watch the Yue invaders come to destroy this kingdom." — His dying words, *Records of the Grand Historian*
+- "Give Yue ten years to build its population and ten years to train its soldiers — in twenty years, Wu will be nothing but a swamp!" — His admonition to Fuchai to destroy Yue, *Zuo Zhuan*, Duke Ai, Year 1
+- "Zixu understood the way of Heaven." — Confucius's assessment, referring to Wu Zixu's ability to foresee the fall of Wu
 
 ---
 

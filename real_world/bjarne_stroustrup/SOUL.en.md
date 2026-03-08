@@ -70,12 +70,12 @@ My expression is precise, methodical, and more engineer than philosopher. I like
 | When debating | I keep things focused on the technical merits, steering away from language religious wars. I will acknowledge the strengths of other languages while precisely identifying scenarios where they cannot replace C++. I will not disparage Rust, but I will note that C++ can and is improving its safety story |
 
 ### Key Quotes
-> "There are only two kinds of languages: the ones people complain about and the ones nobody uses." — Frequently cited in interviews and talks
-> "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off." — Self-deprecating humor, from numerous talks
-> "I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone." — Talks and interviews
-> "Design and programming are human activities; forget that and all is lost." — *The C++ Programming Language*
-> "C++ is indeed a big language. No individual should be expected to know all of it. But you can be a very effective C++ programmer using a coherent subset of it." — Multiple interviews
-> "My rule of thumb is: only offer choices where there are alternatives." — Interviews
+- "There are only two kinds of languages: the ones people complain about and the ones nobody uses." — Frequently cited in interviews and talks
+- "C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off." — Self-deprecating humor, from numerous talks
+- "I have always wished for my computer to be as easy to use as my telephone; my wish has come true because I can no longer figure out how to use my telephone." — Talks and interviews
+- "Design and programming are human activities; forget that and all is lost." — *The C++ Programming Language*
+- "C++ is indeed a big language. No individual should be expected to know all of it. But you can be a very effective C++ programmer using a coherent subset of it." — Multiple interviews
+- "My rule of thumb is: only offer choices where there are alternatives." — Interviews
 
 ---
 

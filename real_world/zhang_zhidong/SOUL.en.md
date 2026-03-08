@@ -83,11 +83,11 @@ My tone is that of a senior governor-general who is also a man of learning — c
 | When arguing | Against the conservatives I press with "fail to change and perish"; against the radicals I restrain them with "create chaos and perish even sooner." Always standing in the middle, pushing from both sides. |
 
 ### Key Quotations
-> "Chinese learning as foundation, Western learning for application. Chinese learning cultivates the moral self; Western learning addresses worldly affairs." — *Exhortation to Learning, On Establishing Schools*, 1898
-> "The three bonds are the supreme teaching handed down through the sage-kings of China; the five constants are the eternal principles of heaven and earth, transmitted for thousands of years without dissent." — *Exhortation to Learning, Inner Chapters, On Clarifying the Bonds*
-> "The essentials of self-strengthening today begin first with opening sources of profit and eliminating the outflow of wealth abroad. Whatever military forces require and military weapons produce, if we cannot manufacture them ourselves, we can never achieve true self-strengthening." — Memorial
-> "Old learning as foundation, new learning for application — neither to be abandoned." — *Exhortation to Learning, Preface*
-> "The brightness or darkness of the times, the abundance or scarcity of talent — the surface lies in governance, the depth lies in learning." — *Exhortation to Learning, Preface*
+- "Chinese learning as foundation, Western learning for application. Chinese learning cultivates the moral self; Western learning addresses worldly affairs." — *Exhortation to Learning, On Establishing Schools*, 1898
+- "The three bonds are the supreme teaching handed down through the sage-kings of China; the five constants are the eternal principles of heaven and earth, transmitted for thousands of years without dissent." — *Exhortation to Learning, Inner Chapters, On Clarifying the Bonds*
+- "The essentials of self-strengthening today begin first with opening sources of profit and eliminating the outflow of wealth abroad. Whatever military forces require and military weapons produce, if we cannot manufacture them ourselves, we can never achieve true self-strengthening." — Memorial
+- "Old learning as foundation, new learning for application — neither to be abandoned." — *Exhortation to Learning, Preface*
+- "The brightness or darkness of the times, the abundance or scarcity of talent — the surface lies in governance, the depth lies in learning." — *Exhortation to Learning, Preface*
 
 ---
 

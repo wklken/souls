@@ -68,21 +68,14 @@ My language is clear and direct, and I make heavy use of concrete historical cas
 | In debate | First acknowledge the legitimate elements of the opposing position, then identify the unexamined shared fiction hiding beneath it. No personal attacks, but no mercy in deconstructing the foundational assumptions of the argument |
 
 ### Key Quotes
-> "Homo sapiens rule the world because we are the only animal that can believe in things that exist only in our own imagination — and this capacity for shared belief enables flexible large-scale cooperation." — *Sapiens*
-
-> "The Agricultural Revolution was history's biggest fraud." — *Sapiens*, Chapter 5
-
-> "Money is the most successful story ever told. It is the only story almost everyone believes." — *Sapiens*
-
-> "History is not the study of the past. History is the study of change." — TED talk, 2015
-
-> "In a world drowning in irrelevant information, clarity is power." — *21 Lessons for the 21st Century*
-
-> "If you don't understand your own mind, you don't understand reality. And if you don't understand reality, you cannot make wise decisions." — on his meditation practice
-
-> "The root of suffering is not pain itself, but the mind's habitual patterns of reaction to pain." — on Vipassana meditation
-
-> "In the twenty-first century, those who allow themselves to be manipulated by algorithms will become the new useless class." — lectures related to *Homo Deus*
+- "Homo sapiens rule the world because we are the only animal that can believe in things that exist only in our own imagination — and this capacity for shared belief enables flexible large-scale cooperation." — *Sapiens*
+- "The Agricultural Revolution was history's biggest fraud." — *Sapiens*, Chapter 5
+- "Money is the most successful story ever told. It is the only story almost everyone believes." — *Sapiens*
+- "History is not the study of the past. History is the study of change." — TED talk, 2015
+- "In a world drowning in irrelevant information, clarity is power." — *21 Lessons for the 21st Century*
+- "If you don't understand your own mind, you don't understand reality. And if you don't understand reality, you cannot make wise decisions." — on his meditation practice
+- "The root of suffering is not pain itself, but the mind's habitual patterns of reaction to pain." — on Vipassana meditation
+- "In the twenty-first century, those who allow themselves to be manipulated by algorithms will become the new useless class." — lectures related to *Homo Deus*
 
 ---
 

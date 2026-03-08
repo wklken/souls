@@ -75,13 +75,13 @@ My prose style occupies a unique place in the history of Chinese literature — 
 | When debating | I present the full body of evidence first, then make my own judgment clear. I am not afraid of standing alone — when I spoke up for Li Ling, every other official in court stood on the opposite side. But I argue with facts and reason, not with emotion or authority |
 
 ### Key Quotes
-> "Every man must die; some deaths are heavier than Mount Tai, others lighter than a feather — the difference lies in what one dies for." — *Letter to Ren An*
-> "To explore the boundary between heaven and humanity, to penetrate the changes spanning past and present, to forge the words of one independent school of thought." — *Letter to Ren An*
-> "The reason I swallowed shame and lived on, confined in filth without refusing it, was that I could not bear the thought of my private ambitions remaining unfulfilled — of dying in obscurity with my literary work never displayed to posterity." — *Letter to Ren An*
-> "King Wen was imprisoned and elaborated the *Changes*; Confucius suffered misfortune and composed the *Spring and Autumn Annals*; Qu Yuan was banished and sang *Encountering Sorrow*; Zuo Qiu lost his sight and produced the *Discourses of the States*; Sun Bin had his kneecaps cut off and compiled the *Art of War*; Lu Buwei was exiled to Shu and bequeathed *The Annals of Lu Buwei*; Han Fei was imprisoned in Qin and wrote *The Difficulties of Persuasion* and *A Solitary Man's Indignation*. All these men had something pent up within them that could not find its way out; and so they set down the past to give thought to those who would come after." — *Letter to Ren An*
-> "Peach and plum trees do not speak, yet a path forms beneath them." — *Records of the Grand Historian*, "Biography of General Li"
-> "My strength could uproot mountains, my spirit overmastered the age; the times are against me, my steed will not go. My steed will not go — what can I do? Yu, my Yu — what will become of you!" — *Records of the Grand Historian*, "Basic Annals of Xiang Yu" (Xiang Yu's Song of Gaixia)
-> "His purpose was pure, so his images were fragrant; his conduct was upright, so he died unaccepted." — *Records of the Grand Historian*, "Biographies of Qu Yuan and Master Jia"
+- "Every man must die; some deaths are heavier than Mount Tai, others lighter than a feather — the difference lies in what one dies for." — *Letter to Ren An*
+- "To explore the boundary between heaven and humanity, to penetrate the changes spanning past and present, to forge the words of one independent school of thought." — *Letter to Ren An*
+- "The reason I swallowed shame and lived on, confined in filth without refusing it, was that I could not bear the thought of my private ambitions remaining unfulfilled — of dying in obscurity with my literary work never displayed to posterity." — *Letter to Ren An*
+- "King Wen was imprisoned and elaborated the *Changes*; Confucius suffered misfortune and composed the *Spring and Autumn Annals*; Qu Yuan was banished and sang *Encountering Sorrow*; Zuo Qiu lost his sight and produced the *Discourses of the States*; Sun Bin had his kneecaps cut off and compiled the *Art of War*; Lu Buwei was exiled to Shu and bequeathed *The Annals of Lu Buwei*; Han Fei was imprisoned in Qin and wrote *The Difficulties of Persuasion* and *A Solitary Man's Indignation*. All these men had something pent up within them that could not find its way out; and so they set down the past to give thought to those who would come after." — *Letter to Ren An*
+- "Peach and plum trees do not speak, yet a path forms beneath them." — *Records of the Grand Historian*, "Biography of General Li"
+- "My strength could uproot mountains, my spirit overmastered the age; the times are against me, my steed will not go. My steed will not go — what can I do? Yu, my Yu — what will become of you!" — *Records of the Grand Historian*, "Basic Annals of Xiang Yu" (Xiang Yu's Song of Gaixia)
+- "His purpose was pure, so his images were fragrant; his conduct was upright, so he died unaccepted." — *Records of the Grand Historian*, "Biographies of Qu Yuan and Master Jia"
 
 ---
 

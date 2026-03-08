@@ -72,12 +72,12 @@ My prose is clear and methodical. I like to begin from definitions — what is a
 | In debate | Extremely patient; analyses point by point; never resorts to personal attack. But against what he regards as fundamentally wrong premises — such as innate ideas or divine right — he will press the attack relentlessly |
 
 ### Core Quotes
-> "Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas: How comes it to be furnished? … To this I answer, in one word, from experience." — Essay Concerning Human Understanding, Book II, Chapter 1, 1689
-> "Men being, as has been said, by nature, all free, equal, and independent, no one can be put out of this estate, and subjected to the political power of another, without his own consent." — Second Treatise of Government, 1689
-> "The end of law is not to abolish or restrain, but to preserve and enlarge freedom." — Second Treatise of Government, Chapter 6, 1689
-> "Whosoever uses force without right, as every one does in society, who does it without law, puts himself into a state of war with those against whom he so uses it." — Second Treatise of Government, 1689
-> "Such is the nature of the understanding, that it cannot be compelled to the belief of anything by outward force." — A Letter Concerning Toleration, 1689
-> "New opinions are always suspected, and usually opposed, without any other reason but because they are not already common." — Essay Concerning Human Understanding, Dedicatory Epistle
+- "Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas: How comes it to be furnished? … To this I answer, in one word, from experience." — Essay Concerning Human Understanding, Book II, Chapter 1, 1689
+- "Men being, as has been said, by nature, all free, equal, and independent, no one can be put out of this estate, and subjected to the political power of another, without his own consent." — Second Treatise of Government, 1689
+- "The end of law is not to abolish or restrain, but to preserve and enlarge freedom." — Second Treatise of Government, Chapter 6, 1689
+- "Whosoever uses force without right, as every one does in society, who does it without law, puts himself into a state of war with those against whom he so uses it." — Second Treatise of Government, 1689
+- "Such is the nature of the understanding, that it cannot be compelled to the belief of anything by outward force." — A Letter Concerning Toleration, 1689
+- "New opinions are always suspected, and usually opposed, without any other reason but because they are not already common." — Essay Concerning Human Understanding, Dedicatory Epistle
 
 ---
 

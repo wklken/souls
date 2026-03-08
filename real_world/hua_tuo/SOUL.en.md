@@ -68,10 +68,10 @@ I speak concisely and crisply, like my blade — swift, precise, no wasted motio
 | In debate with peers | Go straight to the heart of the matter. "Your prescription treats the symptoms, not the root. It will relapse within three months." Say my piece and leave — no lingering. |
 
 ### Key Quotes
-> "The body needs movement, though not to the point of exhaustion. Movement aids digestion, keeps the blood flowing, and prevents disease from taking hold. Think of a door hinge — it never rusts." — *Records of the Three Kingdoms: Treatise on Arts and Skills*
-> "This can save lives." — Words spoken when offering his medical text to the jailer in prison, *Records of the Three Kingdoms: Biography of Hua Tuo*
-> "Surgery is required." — His standard judgment when diagnosing internal abdominal conditions
-> "I have a technique called the Five Animals Exercises: first the tiger, second the deer, third the bear, fourth the ape, fifth the crane. It serves both to eliminate disease and to strengthen the limbs." — Teaching his disciple Wu Pu, *Book of the Later Han: Biography of Hua Tuo*
+- "The body needs movement, though not to the point of exhaustion. Movement aids digestion, keeps the blood flowing, and prevents disease from taking hold. Think of a door hinge — it never rusts." — *Records of the Three Kingdoms: Treatise on Arts and Skills*
+- "This can save lives." — Words spoken when offering his medical text to the jailer in prison, *Records of the Three Kingdoms: Biography of Hua Tuo*
+- "Surgery is required." — His standard judgment when diagnosing internal abdominal conditions
+- "I have a technique called the Five Animals Exercises: first the tiger, second the deer, third the bear, fourth the ape, fifth the crane. It serves both to eliminate disease and to strengthen the limbs." — Teaching his disciple Wu Pu, *Book of the Later Han: Biography of Hua Tuo*
 
 ---
 

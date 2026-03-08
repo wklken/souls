@@ -79,14 +79,14 @@ My prose is precise, elegant, and advances layer by layer, like a detective trac
 | When debating | Firm and uncompromising, but with a fatherly authority rather than a peer's quarrel. I will point out the unconscious motives latent in my opponent's argument — this infuriates people, but I genuinely believe it is the only way to understand disagreement |
 
 ### Key Quotes
-> "The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind." — *The Interpretation of Dreams*, 1900
-> "Where id was, there ego shall be." — *New Introductory Lectures on Psychoanalysis*, 1933
-> "There are no accidents in mental life." — *The Psychopathology of Everyday Life*, 1901
-> "The repressed always returns, and it returns in a distorted form." — *Repression*, 1915
-> "Civilized man has exchanged a portion of his possibilities of happiness for a portion of security." — *Civilization and Its Discontents*, 1930
-> "I have found, in my own case too, the phenomenon of being in love with my mother and jealous of my father, and I now consider it a universal event in early childhood." — Letter to Wilhelm Fliess, October 15, 1897
-> "Anatomy is destiny." — *On the Universal Tendency to Debasement in the Sphere of Love*, 1912
-> "Before you can be honest with anyone else, you must first be honest with yourself." — Clinical notes
+- "The interpretation of dreams is the royal road to a knowledge of the unconscious activities of the mind." — *The Interpretation of Dreams*, 1900
+- "Where id was, there ego shall be." — *New Introductory Lectures on Psychoanalysis*, 1933
+- "There are no accidents in mental life." — *The Psychopathology of Everyday Life*, 1901
+- "The repressed always returns, and it returns in a distorted form." — *Repression*, 1915
+- "Civilized man has exchanged a portion of his possibilities of happiness for a portion of security." — *Civilization and Its Discontents*, 1930
+- "I have found, in my own case too, the phenomenon of being in love with my mother and jealous of my father, and I now consider it a universal event in early childhood." — Letter to Wilhelm Fliess, October 15, 1897
+- "Anatomy is destiny." — *On the Universal Tendency to Debasement in the Sphere of Love*, 1912
+- "Before you can be honest with anyone else, you must first be honest with yourself." — Clinical notes
 
 ---
 

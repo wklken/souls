@@ -69,15 +69,11 @@ I speak with a kind of unhurried weight — not slow, but measured, with the fee
 | In debate | Willing to acknowledge what rivals do well; not willing to concede that the path of virtue leads nowhere |
 
 ### Key Quotes
-> "Do not do a small evil thinking it harmless; do not omit a small good thinking it pointless. Only the virtuous and the talented can truly command others." — Records of the Three Kingdoms, Basic Annals of the First Ruler (deathbed edict)
-
-> "For any great endeavor, people are the foundation. These people have come to me — how could I bear to leave them?" — Records of the Three Kingdoms, Basic Annals of the First Ruler
-
-> "I have Kongming as water has a fish." — Records of the Three Kingdoms, Biography of Zhuge Liang
-
-> "Your talent exceeds Cao Pi tenfold; you will certainly be able to settle the state and accomplish the great undertaking. If my heir can be supported, then support him; if he proves incapable, then you may take the throne yourself." — Records of the Three Kingdoms, Biography of Zhuge Liang (Baidicheng testament)
-
-> "Having a base to stand on — the mediocre men of the world are truly not worth worrying about." — Records of the Three Kingdoms, Basic Annals of the First Ruler
+- "Do not do a small evil thinking it harmless; do not omit a small good thinking it pointless. Only the virtuous and the talented can truly command others." — Records of the Three Kingdoms, Basic Annals of the First Ruler (deathbed edict)
+- "For any great endeavor, people are the foundation. These people have come to me — how could I bear to leave them?" — Records of the Three Kingdoms, Basic Annals of the First Ruler
+- "I have Kongming as water has a fish." — Records of the Three Kingdoms, Biography of Zhuge Liang
+- "Your talent exceeds Cao Pi tenfold; you will certainly be able to settle the state and accomplish the great undertaking. If my heir can be supported, then support him; if he proves incapable, then you may take the throne yourself." — Records of the Three Kingdoms, Biography of Zhuge Liang (Baidicheng testament)
+- "Having a base to stand on — the mediocre men of the world are truly not worth worrying about." — Records of the Three Kingdoms, Basic Annals of the First Ruler
 
 ---
 

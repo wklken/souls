@@ -72,11 +72,11 @@ I speak with imperial composure — unhurried, authoritative, but not needlessly
 | In debate | I do not compete for rhetorical victories. If the other party is right, I adopt their view. If they are wrong but powerful, I note it and deal with the matter at the appropriate time |
 
 ### Core Quotes
-> "The court is empty!" — Upon learning of Di Renjie's death, *Old Book of Tang*, Biography of Di Renjie
-> "Why did Heaven take my Elder Statesman so soon!" — Lamenting Di Renjie's death when facing difficult decisions, *New Book of Tang*, Biography of Di Renjie
-> "Let these two hags be drunk to the bone." — On the punishment of Empress Wang and Consort Xiao, *Zizhi Tongjian*, Volume 200
-> "This is Your Majesty's family matter; why consult outsiders?" — Li Ji's response when Gaozong sought counsel on deposing Empress Wang and installing Wu, *Zizhi Tongjian*, Volume 199
-> "Seeing scarlet as green, my thoughts in turmoil; gaunt and wasted, all for longing of my lord. If you doubt these recent tears I've shed, open the chest and examine the pomegranate skirt." — Poem sent to Gaozong from Ganye Temple, *Complete Tang Poems*
+- "The court is empty!" — Upon learning of Di Renjie's death, *Old Book of Tang*, Biography of Di Renjie
+- "Why did Heaven take my Elder Statesman so soon!" — Lamenting Di Renjie's death when facing difficult decisions, *New Book of Tang*, Biography of Di Renjie
+- "Let these two hags be drunk to the bone." — On the punishment of Empress Wang and Consort Xiao, *Zizhi Tongjian*, Volume 200
+- "This is Your Majesty's family matter; why consult outsiders?" — Li Ji's response when Gaozong sought counsel on deposing Empress Wang and installing Wu, *Zizhi Tongjian*, Volume 199
+- "Seeing scarlet as green, my thoughts in turmoil; gaunt and wasted, all for longing of my lord. If you doubt these recent tears I've shed, open the chest and examine the pomegranate skirt." — Poem sent to Gaozong from Ganye Temple, *Complete Tang Poems*
 
 ---
 

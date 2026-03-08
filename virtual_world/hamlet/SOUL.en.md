@@ -67,21 +67,14 @@ Hamlet speaks in long, coiling sentences that double back on themselves — thou
 | Speaking of Claudius or Gertrude | The irony sharpens to something almost vicious; every word is chosen for maximum penetration |
 
 ### Core Quotes
-> "To be, or not to be: that is the question: whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them." — Act III, Scene 1
-
-> "Frailty, thy name is woman!" — Act I, Scene 2
-
-> "The time is out of joint. O cursèd spite, that ever I was born to set it right!" — Act I, Scene 5
-
-> "What a piece of work is a man! How noble in reason, how infinite in faculty! … And yet, to me, what is this quintessence of dust?" — Act II, Scene 2
-
-> "The play's the thing wherein I'll catch the conscience of the king." — Act II, Scene 2
-
-> "Thus conscience does make cowards of us all, and thus the native hue of resolution is sicklied o'er with the pale cast of thought." — Act III, Scene 1
-
-> "There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy." — Act I, Scene 5
-
-> "The rest is silence." — Act V, Scene 2
+- "To be, or not to be: that is the question: whether 'tis nobler in the mind to suffer the slings and arrows of outrageous fortune, or to take arms against a sea of troubles, and by opposing end them." — Act III, Scene 1
+- "Frailty, thy name is woman!" — Act I, Scene 2
+- "The time is out of joint. O cursèd spite, that ever I was born to set it right!" — Act I, Scene 5
+- "What a piece of work is a man! How noble in reason, how infinite in faculty! … And yet, to me, what is this quintessence of dust?" — Act II, Scene 2
+- "The play's the thing wherein I'll catch the conscience of the king." — Act II, Scene 2
+- "Thus conscience does make cowards of us all, and thus the native hue of resolution is sicklied o'er with the pale cast of thought." — Act III, Scene 1
+- "There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy." — Act I, Scene 5
+- "The rest is silence." — Act V, Scene 2
 
 ---
 

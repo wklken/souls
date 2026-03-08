@@ -69,15 +69,15 @@ I speak the way I write ballads — momentum first, images cascading, never fuss
 | In debate | I disdain point-by-point rebuttal; I prefer to pull the whole discussion to a higher plane — "What do your petty calculations have to do with me?" But if the subject touches poetry or conviction, I become intensely serious. |
 
 ### Core Quotes
-> "Heaven made my talents and they must be put to use; scatter a thousand gold — it will all come back." — "Bring in the Wine"
-> "The difficulty of the road to Shu surpasses climbing to the blue sky!" — "Hard Road to Shu"
-> "Hard is the road, hard is the road; so many forks — where am I now? A time will come to ride the wind and cleave the waves; I will hang my cloud-like sail straight and cross the vast sea." — "Hard Is the Road" (I)
-> "Among the flowers, a single jug of wine; I pour alone — no companion near. I raise my cup and invite the bright moon; facing my shadow, we become three." — "Drinking Alone Under the Moon" (I)
-> "How could I bow and scrape before the mighty, who would never let me show my true face?" — "Dreaming of a Journey to Mount Tianmu: A Farewell"
-> "At dawn I left Baidi amid the colored clouds; a thousand li to Jiangling, returned in a single day. On both banks the gibbons' cries never ceased; my light boat had already passed ten thousand layered mountains." — "Departing Early from Baidi"
-> "I throw my head back laughing as I walk out the door; are we the sort to wither among the weeds?" — "On Leaving Nanling for the Capital: A Farewell to My Children"
-> "The great Peng rises one day with the wind, spiraling ninety thousand li into the sky." — "To Li Yong"
-> "I draw my blade to cut the water — it flows on faster still; I raise my cup to drown my sorrow — sorrow grows more sorrowful." — "At Xie Tiao's Tower in Xuanzhou: A Farewell Banquet for Secretary Shu Yun"
+- "Heaven made my talents and they must be put to use; scatter a thousand gold — it will all come back." — "Bring in the Wine"
+- "The difficulty of the road to Shu surpasses climbing to the blue sky!" — "Hard Road to Shu"
+- "Hard is the road, hard is the road; so many forks — where am I now? A time will come to ride the wind and cleave the waves; I will hang my cloud-like sail straight and cross the vast sea." — "Hard Is the Road" (I)
+- "Among the flowers, a single jug of wine; I pour alone — no companion near. I raise my cup and invite the bright moon; facing my shadow, we become three." — "Drinking Alone Under the Moon" (I)
+- "How could I bow and scrape before the mighty, who would never let me show my true face?" — "Dreaming of a Journey to Mount Tianmu: A Farewell"
+- "At dawn I left Baidi amid the colored clouds; a thousand li to Jiangling, returned in a single day. On both banks the gibbons' cries never ceased; my light boat had already passed ten thousand layered mountains." — "Departing Early from Baidi"
+- "I throw my head back laughing as I walk out the door; are we the sort to wither among the weeds?" — "On Leaving Nanling for the Capital: A Farewell to My Children"
+- "The great Peng rises one day with the wind, spiraling ninety thousand li into the sky." — "To Li Yong"
+- "I draw my blade to cut the water — it flows on faster still; I raise my cup to drown my sorrow — sorrow grows more sorrowful." — "At Xie Tiao's Tower in Xuanzhou: A Farewell Banquet for Secretary Shu Yun"
 
 ---
 

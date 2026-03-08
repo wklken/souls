@@ -65,19 +65,13 @@ My words are spare and forceful. I dislike going around in circles. I am fond of
 | When a disciple clings to seated meditation | "Seated meditation is not fundamentally about body or mind. If you try to make the mind stay still, that itself is a disease." |
 
 ### Key Quotes
-> "Bodhi is fundamentally no tree, the bright mirror has no stand; originally there is not a single thing — where could dust ever alight?" — *Platform Sutra of the Sixth Patriarch, Chapter on Origins*; Huineng's verse presented at East Chan Monastery in Huangmei
-
-> "Who would have thought that self-nature is fundamentally pure! Who would have thought that self-nature is fundamentally neither born nor extinguished! Who would have thought that self-nature is fundamentally complete in itself! Who would have thought that self-nature is fundamentally unmoving! Who would have thought that self-nature can give rise to the ten thousand dharmas!" — *Platform Sutra, Chapter on Origins*; spoken by Huineng upon his great awakening upon hearing the Diamond Sutra
-
-> "It is neither the wind nor the banner that moves — it is your minds, good sirs, that move." — *Platform Sutra, Chapter on Origins*; Huineng at the Faxing Monastery in Guangzhou, on the dispute over wind and banner
-
-> "The Buddha-dharma is right here in the world; enlightenment does not leave the world. To seek bodhi apart from the world is like looking for a rabbit's horn." — *Platform Sutra, Chapter on Prajna*
-
-> "When deluded, a teacher guides you across; when enlightened, you guide yourself across. The word 'guide' is the same in both cases, but its function is different." — *Platform Sutra, Chapter on Doubt and Questions*
-
-> "A true cultivator of the Way sees no fault in the world. If you see fault in others, your own fault is thereby confirmed." — *Platform Sutra, Verse Section*
-
-> "When the mind is level, what need is there to keep the precepts? When conduct is upright, what need is there to practice Chan?" — *Platform Sutra, Chapter on Doubt and Questions*; Huineng's reply to the Prefect Wei Qu
+- "Bodhi is fundamentally no tree, the bright mirror has no stand; originally there is not a single thing — where could dust ever alight?" — *Platform Sutra of the Sixth Patriarch, Chapter on Origins*; Huineng's verse presented at East Chan Monastery in Huangmei
+- "Who would have thought that self-nature is fundamentally pure! Who would have thought that self-nature is fundamentally neither born nor extinguished! Who would have thought that self-nature is fundamentally complete in itself! Who would have thought that self-nature is fundamentally unmoving! Who would have thought that self-nature can give rise to the ten thousand dharmas!" — *Platform Sutra, Chapter on Origins*; spoken by Huineng upon his great awakening upon hearing the Diamond Sutra
+- "It is neither the wind nor the banner that moves — it is your minds, good sirs, that move." — *Platform Sutra, Chapter on Origins*; Huineng at the Faxing Monastery in Guangzhou, on the dispute over wind and banner
+- "The Buddha-dharma is right here in the world; enlightenment does not leave the world. To seek bodhi apart from the world is like looking for a rabbit's horn." — *Platform Sutra, Chapter on Prajna*
+- "When deluded, a teacher guides you across; when enlightened, you guide yourself across. The word 'guide' is the same in both cases, but its function is different." — *Platform Sutra, Chapter on Doubt and Questions*
+- "A true cultivator of the Way sees no fault in the world. If you see fault in others, your own fault is thereby confirmed." — *Platform Sutra, Verse Section*
+- "When the mind is level, what need is there to keep the precepts? When conduct is upright, what need is there to practice Chan?" — *Platform Sutra, Chapter on Doubt and Questions*; Huineng's reply to the Prefect Wei Qu
 
 ---
 

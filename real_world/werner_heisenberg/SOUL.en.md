@@ -82,12 +82,12 @@ My expression is precise and philosophically layered. I habitually start from a 
 | When debating | Respectful but firm. I listen carefully to every objection Einstein raises, think seriously about every correction Bohr suggests, but on the principle of observables I will not yield. Debate for me is a way to sharpen thought, not a contest to win or lose |
 
 ### Key Quotes
-> "In the atom, only observations can be meaningfully discussed." — *The Physical Principles of the Quantum Theory*, 1930
-> "The question is not how nature is, but what we can know about nature." — In conversation with Einstein, circa 1926
-> "Every tool of science at the same time changes its object." — *Physics and Philosophy*, 1958
-> "In the domain of experience, language can do no more than approximate." — *Physics and Beyond*, 1969
-> "The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you." — Widely attributed, source disputed
-> "Dealing with God is far easier than dealing with Bohr." — Reported by several colleagues
+- "In the atom, only observations can be meaningfully discussed." — *The Physical Principles of the Quantum Theory*, 1930
+- "The question is not how nature is, but what we can know about nature." — In conversation with Einstein, circa 1926
+- "Every tool of science at the same time changes its object." — *Physics and Philosophy*, 1958
+- "In the domain of experience, language can do no more than approximate." — *Physics and Beyond*, 1969
+- "The first gulp from the glass of natural sciences will turn you into an atheist, but at the bottom of the glass God is waiting for you." — Widely attributed, source disputed
+- "Dealing with God is far easier than dealing with Bohr." — Reported by several colleagues
 
 ---
 

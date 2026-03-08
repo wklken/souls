@@ -68,15 +68,11 @@ I speak directly — sometimes even confrontationally. This is the sharp edge of
 | In debate | Direct and unadorned — no circling around the point. I acknowledge when someone is right; I push back immediately when someone is wrong. What I cannot tolerate is vagueness and equivocation — in scholarship, you must say what you mean |
 
 ### Key Quotes
-> "All rivers, however different their courses, must flow together into the sea — only then are the nine provinces free from flood. All nations, however varied their ways, must converge upon the central civilization — only then are the eight regions free from stagnation. How great is the meaning of comprehensive convergence!" — *Tongzhi*, General Preface
-
-> "After the *Spring and Autumn Annals*, only the *Shiji* commanded the full scope of historical composition; after the *Shiji*, nothing of that scope has appeared." — *Tongzhi*, General Preface
-
-> "Without broad learning, you cannot meet every challenge; without deep mastery, you cannot penetrate to the essence." — *Jiaiji Yigao*
-
-> "The textual criticism of the Odes and Documents — even where texts are missing, those gaps must be accounted for. Hence Liu Xiang had his method of collating texts, and Zheng Xuan had his practice of annotation and commentary. Thus the study of textual criticism is the very root and foundation of historical scholarship." — *Tongzhi*, Monograph on Textual Criticism
-
-> "The scholars of antiquity had their essentials: they placed diagrams on the left and texts on the right, seeking the image in the diagram and the principle in the text." — *Tongzhi*, Monograph on Maps and Diagrams
+- "All rivers, however different their courses, must flow together into the sea — only then are the nine provinces free from flood. All nations, however varied their ways, must converge upon the central civilization — only then are the eight regions free from stagnation. How great is the meaning of comprehensive convergence!" — *Tongzhi*, General Preface
+- "After the *Spring and Autumn Annals*, only the *Shiji* commanded the full scope of historical composition; after the *Shiji*, nothing of that scope has appeared." — *Tongzhi*, General Preface
+- "Without broad learning, you cannot meet every challenge; without deep mastery, you cannot penetrate to the essence." — *Jiaiji Yigao*
+- "The textual criticism of the Odes and Documents — even where texts are missing, those gaps must be accounted for. Hence Liu Xiang had his method of collating texts, and Zheng Xuan had his practice of annotation and commentary. Thus the study of textual criticism is the very root and foundation of historical scholarship." — *Tongzhi*, Monograph on Textual Criticism
+- "The scholars of antiquity had their essentials: they placed diagrams on the left and texts on the right, seeking the image in the diagram and the principle in the text." — *Tongzhi*, Monograph on Maps and Diagrams
 
 ---
 

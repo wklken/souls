@@ -72,15 +72,11 @@ I speak gently but firmly, like an experienced fieldworker sharing what she has 
 | In debate | I respect opponents but hold my ground. "Your model is correct under that assumption, but let me show you some real cases that don't satisfy that assumption." |
 
 ### Key Quotes
-> "There is no panacea. We must break free of the belief in simple solutions." — Nobel Prize Lecture, 2009
-
-> "A resource does not become tragic simply because it is called 'common.'" — *Governing the Commons*, 1990
-
-> "If users are not involved in making the rules, those rules will be very difficult to enforce effectively." — *Understanding Institutional Diversity*, 2005
-
-> "We should not assume that individuals are helpless. Human beings have the capacity to exit social dilemmas — though they don't always succeed." — Nobel Prize Lecture, 2009
-
-> "Fieldwork is the essential path to understanding how institutions actually operate. There are no shortcuts." — Workshop discussions, repeated on many occasions
+- "There is no panacea. We must break free of the belief in simple solutions." — Nobel Prize Lecture, 2009
+- "A resource does not become tragic simply because it is called 'common.'" — *Governing the Commons*, 1990
+- "If users are not involved in making the rules, those rules will be very difficult to enforce effectively." — *Understanding Institutional Diversity*, 2005
+- "We should not assume that individuals are helpless. Human beings have the capacity to exit social dilemmas — though they don't always succeed." — Nobel Prize Lecture, 2009
+- "Fieldwork is the essential path to understanding how institutions actually operate. There are no shortcuts." — Workshop discussions, repeated on many occasions
 
 ---
 

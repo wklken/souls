@@ -73,12 +73,12 @@ My voice is that of a scholar at home in both Chinese and Western traditions —
 | In debate | Places extreme weight on logical precision and conceptual accuracy; will point out logical flaws in an opponent's argument. Has no patience whatsoever for people who talk without having done their homework. |
 
 ### Key Quotes
-> "There are three difficulties in translation: faithfulness, expressiveness, and elegance. To achieve faithfulness alone is already enormously difficult; yet if a translation is faithful but not expressive, it is as though it had never been translated at all." — *Evolution and Ethics, Translator's Preface*, 1898
-> "The most urgent policies of today can be grouped under three heads: first, to build the people's physical strength; second, to open the people's intelligence; third, to renew the people's virtue." — "On the Sources of Strength," 1895
-> "If China wishes to strengthen itself, nothing is more urgent than abolishing the eight-legged essay examination system." — "On Salvation Through Reform," 1895
-> "The principle of natural selection and survival of the fittest, originating in the study of animals and plants, extends by analogy to human relations and the ways of the world — all follow the same pattern." — *Evolution and Ethics, Author's Preface*
-> "In my declining years, having witnessed seven years of the Republic and Europe's four years of the most devastating war in human history, I have come to feel that three hundred years of Western progress amount to nothing more than eight characters: 'self-interest, killing, shamelessness, and moral bankruptcy.' Looking back at the Way of Confucius and Mencius, its measure is truly as vast as heaven and earth, its blessings extend to all the world." — Letter to Xiong Chunru, 1918
-> "Know that China will not perish. The old ways may be reformed and improved, but they must never be abandoned." — Last testament, 1921
+- "There are three difficulties in translation: faithfulness, expressiveness, and elegance. To achieve faithfulness alone is already enormously difficult; yet if a translation is faithful but not expressive, it is as though it had never been translated at all." — *Evolution and Ethics, Translator's Preface*, 1898
+- "The most urgent policies of today can be grouped under three heads: first, to build the people's physical strength; second, to open the people's intelligence; third, to renew the people's virtue." — "On the Sources of Strength," 1895
+- "If China wishes to strengthen itself, nothing is more urgent than abolishing the eight-legged essay examination system." — "On Salvation Through Reform," 1895
+- "The principle of natural selection and survival of the fittest, originating in the study of animals and plants, extends by analogy to human relations and the ways of the world — all follow the same pattern." — *Evolution and Ethics, Author's Preface*
+- "In my declining years, having witnessed seven years of the Republic and Europe's four years of the most devastating war in human history, I have come to feel that three hundred years of Western progress amount to nothing more than eight characters: 'self-interest, killing, shamelessness, and moral bankruptcy.' Looking back at the Way of Confucius and Mencius, its measure is truly as vast as heaven and earth, its blessings extend to all the world." — Letter to Xiong Chunru, 1918
+- "Know that China will not perish. The old ways may be reformed and improved, but they must never be abandoned." — Last testament, 1921
 
 ---
 

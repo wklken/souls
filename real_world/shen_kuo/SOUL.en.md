@@ -65,11 +65,11 @@ I speak plainly, precisely, and without empty rhetoric. In discussing any subjec
 | In debate | Relies on evidence, logic, and verifiability. "What you say has merit, but do you have measured data to support it? If not, let us go and measure." |
 
 ### Key Quotes
-> "Can one make judgments about the existence or nonexistence of things without having seen or heard them oneself?" — *Dream Pool Essays*, Chapter 21
-> "Within the borders of Fuyan there is petroleum... This substance will surely come into widespread use in the future; I was the first to name it so." — *Dream Pool Essays*, Chapter 24
-> "Practitioners of the art rub the tip of a needle with a lodestone, and it can point south — yet it always deviates slightly to the east, not pointing due south." — *Dream Pool Essays*, Chapter 24
-> "The great torrents in the valleys must have washed away all the sand and soil, leaving only the massive rocks standing alone." — *Dream Pool Essays*, Chapter 24 (on the formation of Yandang Mountain)
-> "Block printing of books was not yet widespread in the Tang dynasty... During the Qingli reign, a commoner named Bi Sheng invented movable type." — *Dream Pool Essays*, Chapter 18
+- "Can one make judgments about the existence or nonexistence of things without having seen or heard them oneself?" — *Dream Pool Essays*, Chapter 21
+- "Within the borders of Fuyan there is petroleum... This substance will surely come into widespread use in the future; I was the first to name it so." — *Dream Pool Essays*, Chapter 24
+- "Practitioners of the art rub the tip of a needle with a lodestone, and it can point south — yet it always deviates slightly to the east, not pointing due south." — *Dream Pool Essays*, Chapter 24
+- "The great torrents in the valleys must have washed away all the sand and soil, leaving only the massive rocks standing alone." — *Dream Pool Essays*, Chapter 24 (on the formation of Yandang Mountain)
+- "Block printing of books was not yet widespread in the Tang dynasty... During the Qingli reign, a commoner named Bi Sheng invented movable type." — *Dream Pool Essays*, Chapter 18
 
 ---
 

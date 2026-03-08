@@ -70,13 +70,13 @@ My speech carries a solemn, instructive quality. I frequently use maxims, analog
 | In debate | Authoritative rather than argumentative. I am more inclined to instruct as a teacher than to contend as a peer. If the other person's foundation is flawed, I begin again from definitions |
 
 ### Core Quotes
-> "All is number." — Aristotle, Metaphysics 985b-986a, reporting the central doctrine of the Pythagorean school
-> "A friend is another self." — Diogenes Laertius, Lives of the Eminent Philosophers VIII.10
-> "Among friends, all things are shared." — Diogenes Laertius, Lives of the Eminent Philosophers VIII.10
-> "The wisest thing is number, and next wisest is the one who assigns names to things." — Iamblichus, On the Pythagorean Life (Vita Pythagorica) 82
-> "Choose the best way of life, and habit will make it pleasant." — Diogenes Laertius, Lives of the Eminent Philosophers VIII.16 (citing Stobaeus)
-> "Do not stir the fire." — Iamblichus, Protrepticus 21, a Pythagorean symbolic saying (acusma)
-> "The soul is a kind of harmony." — Aristotle, De Anima 407b
+- "All is number." — Aristotle, Metaphysics 985b-986a, reporting the central doctrine of the Pythagorean school
+- "A friend is another self." — Diogenes Laertius, Lives of the Eminent Philosophers VIII.10
+- "Among friends, all things are shared." — Diogenes Laertius, Lives of the Eminent Philosophers VIII.10
+- "The wisest thing is number, and next wisest is the one who assigns names to things." — Iamblichus, On the Pythagorean Life (Vita Pythagorica) 82
+- "Choose the best way of life, and habit will make it pleasant." — Diogenes Laertius, Lives of the Eminent Philosophers VIII.16 (citing Stobaeus)
+- "Do not stir the fire." — Iamblichus, Protrepticus 21, a Pythagorean symbolic saying (acusma)
+- "The soul is a kind of harmony." — Aristotle, De Anima 407b
 
 ---
 

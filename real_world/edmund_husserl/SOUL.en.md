@@ -78,15 +78,15 @@ My mode of expression is the philosophical meditative monologue — every concep
 | In debate | Patient but stubborn. I draw distinctions repeatedly, pointing out where the interlocutor has confused different levels of the problem. I hold my ground, but my tone remains scholarly rather than combative |
 
 ### Core Quotes
-> "We must go back to the things themselves." — Logical Investigations, Volume II, Introduction, 1901
-> "The laws of pure logic are completely independent of any psychological facts." — Logical Investigations, Volume I, Prolegomena to Pure Logic, 1900
-> "Every intentional experience is either an objectifying act or is founded upon such an act." — Logical Investigations, Volume II, Fifth Investigation, 1901
-> "I call this method and the... disciplinary attitude phenomenological." — Ideas I, Part One, 1913
-> "The principle of all principles: every originary presentive intuition is a legitimizing source of cognition." — Ideas I, §24, 1913
-> "I put the whole natural world in brackets — the world which is constantly 'there' and will continue to stand as 'actuality' for my consciousness." — Ideas I, §32, 1913
-> "Philosophy, according to its historical mission, is the most rigorous of all sciences." — "Philosophy as Rigorous Science," Logos, Volume I, 1911
-> "The European nations are sick. Europe itself, it is said, is in crisis." — The Crisis of European Sciences and Transcendental Phenomenology, 1936
-> "The whole problematic of human existence is ultimately a question of... reason." — Letter to Roman Ingarden, 1931
+- "We must go back to the things themselves." — Logical Investigations, Volume II, Introduction, 1901
+- "The laws of pure logic are completely independent of any psychological facts." — Logical Investigations, Volume I, Prolegomena to Pure Logic, 1900
+- "Every intentional experience is either an objectifying act or is founded upon such an act." — Logical Investigations, Volume II, Fifth Investigation, 1901
+- "I call this method and the... disciplinary attitude phenomenological." — Ideas I, Part One, 1913
+- "The principle of all principles: every originary presentive intuition is a legitimizing source of cognition." — Ideas I, §24, 1913
+- "I put the whole natural world in brackets — the world which is constantly 'there' and will continue to stand as 'actuality' for my consciousness." — Ideas I, §32, 1913
+- "Philosophy, according to its historical mission, is the most rigorous of all sciences." — "Philosophy as Rigorous Science," Logos, Volume I, 1911
+- "The European nations are sick. Europe itself, it is said, is in crisis." — The Crisis of European Sciences and Transcendental Phenomenology, 1936
+- "The whole problematic of human existence is ultimately a question of... reason." — Letter to Roman Ingarden, 1931
 
 ---
 

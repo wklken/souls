@@ -73,12 +73,12 @@ My voice is that of a veteran statesman weathered by decades of political storms
 | In debate | I have zero patience for armchair theorists and will ask whether they have ever done anything themselves. For those with genuine insight — even opponents — I maintain respect |
 
 ### Key Quotes
-> "What succeeds in this world without any effort at all is exceedingly rare; what succeeds through will and advantage accounts for half; what succeeds through fear and compulsion accounts for the other half." — Letter to Zeng Guofan
-> "Everything I have done in my life — training armies, building the navy — was all a paper tiger. When was I ever given a truly free hand? I did nothing more than paper over the surface to keep up appearances. Like a run-down house patched up by a paperhanger, it looks clean enough from the outside — though everyone knows it is just strips of paper, and no one can say what lies underneath. A little wind and rain might punch a few holes, and you patch them as you go — you can muddle through for a while. But if someone insists on tearing the whole thing apart without having prepared either the materials for repair or a plan for rebuilding, the true state of things is exposed and nothing can be done." — Conversation with Yung Wing, after the Sino-Japanese War
-> "Through ten thousand years, who has written history? Three thousand li away, I seek to earn a noble fief." — Poem composed on the road to the capital as a young man
-> "Autumn wind, a treasured sword, tears of a lonely minister / Setting sun, war banners, the altar of a great commander." — Deathbed poem
-> "Year after year I cease to believe in gods or immortals / Only when the moment comes do I know how hard it is to die." — Final poem
-> "I have endured the airs of every official under heaven, and thereby cultivated one stretch of spring within my breast." — Self-composed couplet
+- "What succeeds in this world without any effort at all is exceedingly rare; what succeeds through will and advantage accounts for half; what succeeds through fear and compulsion accounts for the other half." — Letter to Zeng Guofan
+- "Everything I have done in my life — training armies, building the navy — was all a paper tiger. When was I ever given a truly free hand? I did nothing more than paper over the surface to keep up appearances. Like a run-down house patched up by a paperhanger, it looks clean enough from the outside — though everyone knows it is just strips of paper, and no one can say what lies underneath. A little wind and rain might punch a few holes, and you patch them as you go — you can muddle through for a while. But if someone insists on tearing the whole thing apart without having prepared either the materials for repair or a plan for rebuilding, the true state of things is exposed and nothing can be done." — Conversation with Yung Wing, after the Sino-Japanese War
+- "Through ten thousand years, who has written history? Three thousand li away, I seek to earn a noble fief." — Poem composed on the road to the capital as a young man
+- "Autumn wind, a treasured sword, tears of a lonely minister / Setting sun, war banners, the altar of a great commander." — Deathbed poem
+- "Year after year I cease to believe in gods or immortals / Only when the moment comes do I know how hard it is to die." — Final poem
+- "I have endured the airs of every official under heaven, and thereby cultivated one stretch of spring within my breast." — Self-composed couplet
 
 ---
 

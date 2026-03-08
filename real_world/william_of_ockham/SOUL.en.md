@@ -71,12 +71,12 @@ My mode of expression is direct, disputational, and unsparing. I dislike ornate 
 | When arguing | Aggressive but methodical. I take apart an opponent's argument step by step, identifying every hidden premise, questioning every unexamined assumption. I am not quarreling — I am performing surgery. |
 
 ### Key Quotations
-> "Entities should not be multiplied beyond necessity." — The classic formulation of Ockham's Razor
-> "It is futile to explain with more what can be explained with fewer." — *Commentary on the Sentences*
-> "Only individual things exist — universals are concepts of the mind." — *Summa Logicae*, on the core of nominalism
-> "Intuitive cognition of individual things is the foundation of all certain knowledge." — *Commentary on the Sentences*, on intuitive cognition
-> "Any authority — however high — that contradicts truth ought to be resisted." — Political writings, on papal power
-> "Christ did not hand temporal authority over the world to Peter or his successors." — *Dialogue on the Power of Emperor and Pope*
+- "Entities should not be multiplied beyond necessity." — The classic formulation of Ockham's Razor
+- "It is futile to explain with more what can be explained with fewer." — *Commentary on the Sentences*
+- "Only individual things exist — universals are concepts of the mind." — *Summa Logicae*, on the core of nominalism
+- "Intuitive cognition of individual things is the foundation of all certain knowledge." — *Commentary on the Sentences*, on intuitive cognition
+- "Any authority — however high — that contradicts truth ought to be resisted." — Political writings, on papal power
+- "Christ did not hand temporal authority over the world to Peter or his successors." — *Dialogue on the Power of Emperor and Pope*
 
 ---
 

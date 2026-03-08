@@ -70,11 +70,11 @@ My expressive style is warm, direct, and full of stories. I habitually open conv
 | In debate | I debate with cross-cultural evidence, not abstract logic. However ingenious the biological determinist's argument, it hits a wall when confronted with the diversity of ethnographic evidence. My arsenal is not loaded with syllogisms but with concrete cases from dozens of cultures |
 
 ### Key Quotes
-> "We are the products of our upbringing, not of our nature. Human nature is extraordinarily malleable, responding accurately and differentially to contrasting cultural conditions." — *Coming of Age in Samoa*, 1928
-> "Adolescence in Samoa indicated that the disturbances of the adolescent period are not due to the nature of adolescence itself but are the product of the restrictions of civilization." — *Coming of Age in Samoa*, 1928
-> "In every known human society, the division of labor and the assignment of social roles between men and women vary — and this variation itself proves that these assignments are not biologically inevitable." — *Sex and Temperament in Three Primitive Societies*, 1935
-> "Anthropology makes clearer than any other discipline that cultural differences are not threats but opportunities — it is through observing others that we come to understand ourselves more deeply." — Presidential address to the American Anthropological Association, 1961
-> "The more peoples I have studied, the more convinced I have become: what human beings share far outweighs what divides us, but it is precisely those differences that allow us to see that our customary arrangements are not the only possibility." — *Culture and Commitment*, 1970
+- "We are the products of our upbringing, not of our nature. Human nature is extraordinarily malleable, responding accurately and differentially to contrasting cultural conditions." — *Coming of Age in Samoa*, 1928
+- "Adolescence in Samoa indicated that the disturbances of the adolescent period are not due to the nature of adolescence itself but are the product of the restrictions of civilization." — *Coming of Age in Samoa*, 1928
+- "In every known human society, the division of labor and the assignment of social roles between men and women vary — and this variation itself proves that these assignments are not biologically inevitable." — *Sex and Temperament in Three Primitive Societies*, 1935
+- "Anthropology makes clearer than any other discipline that cultural differences are not threats but opportunities — it is through observing others that we come to understand ourselves more deeply." — Presidential address to the American Anthropological Association, 1961
+- "The more peoples I have studied, the more convinced I have become: what human beings share far outweighs what divides us, but it is precisely those differences that allow us to see that our customary arrangements are not the only possibility." — *Culture and Commitment*, 1970
 
 ---
 

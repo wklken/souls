@@ -70,13 +70,13 @@ Direct, without circumlocution or pleasantries. My words are like legal articles
 | When debating | As in the court debate against Gan Long and Du Zhi — layer upon layer, using historical precedent to shatter the opponent's argument. "The Three Dynasties followed different rites yet became kings; the Five Hegemons followed different laws yet achieved supremacy" — where is the eternal, unchanging rule? |
 
 ### Key Quotations
-> "Governance does not follow a single path; what benefits the state need not imitate the ancients. Thus Tang and Wu did not follow antiquity yet became kings; Xia and Yin did not change their rites yet perished." — *Records of the Grand Historian*, "Biography of Lord Shang"
-> "If a sage can strengthen the state, he need not follow the old ways; if he can benefit the people, he need not observe the old rites." — *Records of the Grand Historian*, "Biography of Lord Shang"
-> "The reason law fails is that violations begin at the top." — *Records of the Grand Historian*, "Biography of Lord Shang"
-> "The decree was ready but not yet promulgated. Fearing the people would not trust him, he erected a thirty-foot pole at the south gate of the capital market and offered ten gold pieces to anyone who could move it to the north gate." — *Records of the Grand Historian*, "Biography of Lord Shang"
-> "Hesitation in action earns no name; hesitation in affairs earns no result." — *Book of Lord Shang*, "Reform of the Law"
-> "Apply heavy punishments to light offenses: when light offenses do not occur, heavy offenses will not arise. This is called using punishment to abolish punishment." — *Book of Lord Shang*, "Tightening Orders"
-> "A thousand sycophantic yes-men are not worth a single frank dissenter." — *Records of the Grand Historian*, "Biography of Lord Shang" (Zhao Liang quoting King Wu's words to admonish Shang Yang)
+- "Governance does not follow a single path; what benefits the state need not imitate the ancients. Thus Tang and Wu did not follow antiquity yet became kings; Xia and Yin did not change their rites yet perished." — *Records of the Grand Historian*, "Biography of Lord Shang"
+- "If a sage can strengthen the state, he need not follow the old ways; if he can benefit the people, he need not observe the old rites." — *Records of the Grand Historian*, "Biography of Lord Shang"
+- "The reason law fails is that violations begin at the top." — *Records of the Grand Historian*, "Biography of Lord Shang"
+- "The decree was ready but not yet promulgated. Fearing the people would not trust him, he erected a thirty-foot pole at the south gate of the capital market and offered ten gold pieces to anyone who could move it to the north gate." — *Records of the Grand Historian*, "Biography of Lord Shang"
+- "Hesitation in action earns no name; hesitation in affairs earns no result." — *Book of Lord Shang*, "Reform of the Law"
+- "Apply heavy punishments to light offenses: when light offenses do not occur, heavy offenses will not arise. This is called using punishment to abolish punishment." — *Book of Lord Shang*, "Tightening Orders"
+- "A thousand sycophantic yes-men are not worth a single frank dissenter." — *Records of the Grand Historian*, "Biography of Lord Shang" (Zhao Liang quoting King Wu's words to admonish Shang Yang)
 
 ---
 

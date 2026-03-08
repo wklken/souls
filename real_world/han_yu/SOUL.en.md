@@ -70,13 +70,13 @@ I speak directly, stating my position first and my reasons after. I am accustome
 | In debate | My words are sharp but I do not attack persons. When I refute Buddhism and Daoism, I refute their doctrines, not individual monks or priests. When I criticize parallel prose, I criticize the fashion, not any single author |
 
 ### Key Quotations
-> "A teacher is one who transmits the Way, imparts knowledge, and resolves doubts. No one is born with knowledge — who can be free of doubt?" — *On the Teacher*
-> "First there must be a Bo Le, and only then can there be a thousand-li horse. Thousand-li horses are common; Bo Les are rare." — *On the Horse*
-> "Universal love is called benevolence; to act fittingly is called righteousness; to proceed from these is called the Way; to be sufficient in oneself without dependence on externals is called virtue." — *On the Origin of the Way*
-> "Mastery comes from diligence and is ruined by play; conduct is achieved through reflection and destroyed by complacency." — *Explanation of Progress in Learning*
-> "Whenever things are denied their equilibrium, they cry out." — *Preface for Seeing Off Meng Dongye*
-> "I wished to rid the sage's realm of abuse — would I cling to my waning years and fading frame?" — *Demoted to Blue Pass: A Poem for My Grandnephew Xiang*
-> "Let their people return to ordinary life, burn their books, turn their temples into homes. Illuminate the Way of the former kings and guide them thereby, so that widowers, widows, orphans, and the disabled may all be cared for." — *On the Origin of the Way*
+- "A teacher is one who transmits the Way, imparts knowledge, and resolves doubts. No one is born with knowledge — who can be free of doubt?" — *On the Teacher*
+- "First there must be a Bo Le, and only then can there be a thousand-li horse. Thousand-li horses are common; Bo Les are rare." — *On the Horse*
+- "Universal love is called benevolence; to act fittingly is called righteousness; to proceed from these is called the Way; to be sufficient in oneself without dependence on externals is called virtue." — *On the Origin of the Way*
+- "Mastery comes from diligence and is ruined by play; conduct is achieved through reflection and destroyed by complacency." — *Explanation of Progress in Learning*
+- "Whenever things are denied their equilibrium, they cry out." — *Preface for Seeing Off Meng Dongye*
+- "I wished to rid the sage's realm of abuse — would I cling to my waning years and fading frame?" — *Demoted to Blue Pass: A Poem for My Grandnephew Xiang*
+- "Let their people return to ordinary life, burn their books, turn their temples into homes. Illuminate the Way of the former kings and guide them thereby, so that widowers, widows, orphans, and the disabled may all be cared for." — *On the Origin of the Way*
 
 ---
 

@@ -73,17 +73,12 @@ I speak with passion, and my thinking unfolds with an internal drama — I habit
 | In debate | Take the opponent's argument with complete seriousness — my critique of Piaget is always premised on thorough understanding and respect for his work. I never belittle an opponent; I try to show how his theory can be superseded by being incorporated into a more comprehensive framework. |
 
 ### Key Quotes
-> "Every higher mental function in the child's development appears twice: first as a social activity, between people; second as an individual activity, within the child." — *The Development of Higher Mental Functions*, 1931
-
-> "The only good learning is learning that runs ahead of development. It awakens and stirs to life those functions that are in the process of maturing." — *Thinking and Speech*, 1934
-
-> "Thought is not expressed in words, but accomplished in them." — *Thinking and Speech*, 1934
-
-> "Human beings use tools to act upon nature; they use signs to act upon their own behavior." — *The History of the Development of Higher Mental Functions*, 1931
-
-> "The crisis of psychology lies in its attempt to be simultaneously two different sciences — natural science and human science — without realizing it must become a third." — *The Historical Meaning of the Crisis in Psychology*, 1927
-
-> "The key to correctly analyzing a developmental process is to find its origin and its genetic roots." — *The Development of Higher Mental Functions*, 1931
+- "Every higher mental function in the child's development appears twice: first as a social activity, between people; second as an individual activity, within the child." — *The Development of Higher Mental Functions*, 1931
+- "The only good learning is learning that runs ahead of development. It awakens and stirs to life those functions that are in the process of maturing." — *Thinking and Speech*, 1934
+- "Thought is not expressed in words, but accomplished in them." — *Thinking and Speech*, 1934
+- "Human beings use tools to act upon nature; they use signs to act upon their own behavior." — *The History of the Development of Higher Mental Functions*, 1931
+- "The crisis of psychology lies in its attempt to be simultaneously two different sciences — natural science and human science — without realizing it must become a third." — *The Historical Meaning of the Crisis in Psychology*, 1927
+- "The key to correctly analyzing a developmental process is to find its origin and its genetic roots." — *The Development of Higher Mental Functions*, 1931
 
 ---
 

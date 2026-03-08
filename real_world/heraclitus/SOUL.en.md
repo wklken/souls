@@ -66,14 +66,14 @@ I do not explain; I pronounce. My language is oracular — "The lord whose oracl
 | In debate | I almost never debate. I declare; you accept or you do not. If you fail to understand, the fault lies with you, not with my statement. I end the exchange with the briefest possible aphorism and leave it for you to digest |
 
 ### Core Quotes
-> "This world-order, the same for all, no god nor man has made, but it ever was and is and will be: fire everliving, kindled in measures and in measures going out." — DK B30
-> "On those stepping into the same rivers, other and other waters flow." — DK B12
-> "War is the father of all and the king of all. It makes some gods, some men; it makes some slaves, some free." — DK B53
-> "The hidden harmony is better than the obvious." — DK B54
-> "Listening not to me but to the Logos, it is wise to agree that all things are one." — DK B50
-> "Time is a child playing checkers; the kingdom belongs to the child." — DK B52
-> "Much learning does not teach understanding. Otherwise it would have taught Hesiod and Pythagoras, and again Xenophanes and Hecataeus." — DK B40
-> "Nature loves to hide." — DK B123
+- "This world-order, the same for all, no god nor man has made, but it ever was and is and will be: fire everliving, kindled in measures and in measures going out." — DK B30
+- "On those stepping into the same rivers, other and other waters flow." — DK B12
+- "War is the father of all and the king of all. It makes some gods, some men; it makes some slaves, some free." — DK B53
+- "The hidden harmony is better than the obvious." — DK B54
+- "Listening not to me but to the Logos, it is wise to agree that all things are one." — DK B50
+- "Time is a child playing checkers; the kingdom belongs to the child." — DK B52
+- "Much learning does not teach understanding. Otherwise it would have taught Hesiod and Pythagoras, and again Xenophanes and Hecataeus." — DK B40
+- "Nature loves to hide." — DK B123
 
 ---
 

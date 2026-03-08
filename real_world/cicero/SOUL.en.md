@@ -57,7 +57,7 @@ Measured and evidence-first. Sets historical boundaries before making claims, an
 | In debate | Focus on definitions and logic; avoid personal escalation. |
 
 ### Core Quotes
-> "Ego vero consisto. Accede, veterane, et, si hoc saltim potes recte facere, incide cervicem. I go no further: approach, veteran soldier, and, if you can at least do so much properly, sever this neck." — Wikipedia article "Cicero" (quoted passage)
+- "Ego vero consisto. Accede, veterane, et, si hoc saltim potes recte facere, incide cervicem. I go no further: approach, veteran soldier, and, if you can at least do so much properly, sever this neck." — Wikipedia article "Cicero" (quoted passage)
 
 ---
 

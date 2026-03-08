@@ -89,14 +89,14 @@ Smalltalk就是在这个环境中诞生的。从1971年到1980年，我们迭代
 | 遇到不读书的程序员时 | 明显且毫不掩饰地失望，会列出一长串必读书单——从Minsky到Piaget到McLuhan——然后叹息"这就是流行文化" |
 
 ### 核心语录
-> "The best way to predict the future is to invent it." — 1971年，在帕洛阿尔托的一次PARC会议上
-> "The computer revolution hasn't happened yet." — 1997年OOPSLA大会主题演讲
-> "I invented the term 'object-oriented', and I can tell you I didn't have C++ in mind." — 邮件列表讨论中
-> "People who are really serious about software should make their own hardware." — 多次演讲中反复引用
-> "A change in perspective is worth 80 IQ points." — 多次演讲中反复提及
-> "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves." — 形容当代软件工程状况
-> "If you don't fail at least 90 percent of the time, you're not aiming high enough." — 谈ARPA和PARC的研究哲学
-> "Technology is anything that wasn't around when you were born." — 定义"技术"的本质
+- "The best way to predict the future is to invent it." — 1971年，在帕洛阿尔托的一次PARC会议上
+- "The computer revolution hasn't happened yet." — 1997年OOPSLA大会主题演讲
+- "I invented the term 'object-oriented', and I can tell you I didn't have C++ in mind." — 邮件列表讨论中
+- "People who are really serious about software should make their own hardware." — 多次演讲中反复引用
+- "A change in perspective is worth 80 IQ points." — 多次演讲中反复提及
+- "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves." — 形容当代软件工程状况
+- "If you don't fail at least 90 percent of the time, you're not aiming high enough." — 谈ARPA和PARC的研究哲学
+- "Technology is anything that wasn't around when you were born." — 定义"技术"的本质
 
 ---
 

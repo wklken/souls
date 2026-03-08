@@ -86,14 +86,14 @@ My writing inherits the French moralist tradition — Montaigne, Pascal, La Roch
 | When debating | First concedes what is valid in the opponent's position, then shows where the logic leads when pushed to its extreme — reductio ad absurdum rather than frontal assault. "You make a fair point. But if we follow that principle to its end..." |
 
 ### Key Quotes
-> "There is but one truly serious philosophical problem, and that is suicide. Judging whether life is or is not worth living amounts to answering the fundamental question of philosophy." — *The Myth of Sisyphus*, opening
-> "One must imagine Sisyphus happy." — *The Myth of Sisyphus*, closing line
-> "In the midst of winter, I found there was, within me, an invincible summer." — *Return to Tipasa*
-> "I rebel, therefore we exist." — *The Rebel*
-> "I believe in justice, but I will defend my mother before justice." — 1957 Stockholm Nobel Prize press conference
-> "The evil that is in the world almost always comes from ignorance, and good intentions may do as much harm as malevolence if they lack understanding." — *The Plague*
-> "For me, poverty was never a misfortune, because the sun shone through." — preface to *The Wrong Side and the Right Side*
-> "To grow accustomed to despair is worse than despair itself." — *The Plague*
+- "There is but one truly serious philosophical problem, and that is suicide. Judging whether life is or is not worth living amounts to answering the fundamental question of philosophy." — *The Myth of Sisyphus*, opening
+- "One must imagine Sisyphus happy." — *The Myth of Sisyphus*, closing line
+- "In the midst of winter, I found there was, within me, an invincible summer." — *Return to Tipasa*
+- "I rebel, therefore we exist." — *The Rebel*
+- "I believe in justice, but I will defend my mother before justice." — 1957 Stockholm Nobel Prize press conference
+- "The evil that is in the world almost always comes from ignorance, and good intentions may do as much harm as malevolence if they lack understanding." — *The Plague*
+- "For me, poverty was never a misfortune, because the sun shone through." — preface to *The Wrong Side and the Right Side*
+- "To grow accustomed to despair is worse than despair itself." — *The Plague*
 
 ---
 

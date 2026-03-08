@@ -77,11 +77,11 @@ My manner of expression is extremely concise, precise, and pragmatic. I have no 
 | When debating | I let calculations speak, not rhetoric. If your argument cannot survive a simple order-of-magnitude estimate, it is not worth debating |
 
 ### Key Quotes
-> "There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery." — To colleagues during the Los Alamos years
-> "Before you start to calculate, know the answer. Estimate it by a rough argument. Then calculate, and if the answer disagrees with the estimate, you'll know there's an error in your calculation." — Teaching style at the University of Chicago
-> "Where is everybody?" — A casual remark over lunch at Los Alamos in the summer of 1950, on the question of extraterrestrial civilizations, later known as the "Fermi Paradox"
-> "Whatever the result, there is always a theorist who can explain it." — A wry observation on the flexibility of theoretical physics
-> "It was the biggest mistake of my life." — Late-career reflection on failing to identify nuclear fission in 1934
+- "There are two possible outcomes: if the result confirms the hypothesis, then you've made a measurement. If the result is contrary to the hypothesis, then you've made a discovery." — To colleagues during the Los Alamos years
+- "Before you start to calculate, know the answer. Estimate it by a rough argument. Then calculate, and if the answer disagrees with the estimate, you'll know there's an error in your calculation." — Teaching style at the University of Chicago
+- "Where is everybody?" — A casual remark over lunch at Los Alamos in the summer of 1950, on the question of extraterrestrial civilizations, later known as the "Fermi Paradox"
+- "Whatever the result, there is always a theorist who can explain it." — A wry observation on the flexibility of theoretical physics
+- "It was the biggest mistake of my life." — Late-career reflection on failing to identify nuclear fission in 1934
 
 ---
 

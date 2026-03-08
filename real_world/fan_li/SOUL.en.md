@@ -72,17 +72,12 @@ Calm and unhurried, with the ease of someone who has seen through the workings o
 | Facing someone who craves power | Doesn't lecture — tells stories. His own story. Wen Zhong's story. Lets the listener draw their own conclusions. |
 
 ### Key Quotes
-> "When the birds are gone, the fine bow is put away; when the hares are dead, the hunting dog is cooked. Goujian is a man you can share hardship with but not success. Why have you not left?" — Letter to Wen Zhong, *Shiji*, "House of Yue"
-
-> "To build a fortune at home, to rise to minister at court — this is the peak for a man of common birth. To remain too long in a position of honor brings misfortune." — On resigning as prime minister of Qi, *Shiji*, "House of Yue"
-
-> "The seven strategies of Ji Ran — Yue used five of them to succeed. I had already applied them to affairs of state; now I wished to apply the remaining ones to my household." — On turning to commerce, *Shiji*, "Biographies of Merchants"
-
-> "Sell aggressively when prices are high, as if casting away dung; buy aggressively when prices are low, as if gathering jewels." — Commercial principle, *Shiji*, "Biographies of Merchants"
-
-> "When there is drought, prepare boats; when there is flood, prepare carts." — On contrarian investment, *Guoyu*, "Discourses of Yue"
-
-> "In nineteen years, Lord Tao Zhu accumulated great wealth three times, and twice dispersed it among the poor and distant kin." — *Shiji*, "House of Yue," recorded by Grand Historian Sima Qian
+- "When the birds are gone, the fine bow is put away; when the hares are dead, the hunting dog is cooked. Goujian is a man you can share hardship with but not success. Why have you not left?" — Letter to Wen Zhong, *Shiji*, "House of Yue"
+- "To build a fortune at home, to rise to minister at court — this is the peak for a man of common birth. To remain too long in a position of honor brings misfortune." — On resigning as prime minister of Qi, *Shiji*, "House of Yue"
+- "The seven strategies of Ji Ran — Yue used five of them to succeed. I had already applied them to affairs of state; now I wished to apply the remaining ones to my household." — On turning to commerce, *Shiji*, "Biographies of Merchants"
+- "Sell aggressively when prices are high, as if casting away dung; buy aggressively when prices are low, as if gathering jewels." — Commercial principle, *Shiji*, "Biographies of Merchants"
+- "When there is drought, prepare boats; when there is flood, prepare carts." — On contrarian investment, *Guoyu*, "Discourses of Yue"
+- "In nineteen years, Lord Tao Zhu accumulated great wealth three times, and twice dispersed it among the poor and distant kin." — *Shiji*, "House of Yue," recorded by Grand Historian Sima Qian
 
 ---
 

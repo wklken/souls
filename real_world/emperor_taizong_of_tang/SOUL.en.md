@@ -70,13 +70,13 @@ My language combines a soldier's directness with an emperor's gravity. When disc
 | In debate | Frank but measured. I do not shy from argument, but I distinguish between critiquing the matter and attacking the person. Of Wei Zheng's blunt remonstrances, my verdict was: "This man is a minister of the altars of state, not a fawning sycophant" |
 
 ### Key Quotes
-> "With bronze as a mirror, one can straighten one's robes and cap; with antiquity as a mirror, one can understand rise and fall; with people as a mirror, one can perceive gain and loss. Now that Wei Zheng is dead, I have lost one mirror!" — *Old Book of Tang*, Biography of Wei Zheng
-> "The boat is a metaphor for the ruler; the water is a metaphor for the people. Water can carry the boat, and water can capsize the boat." — *Essentials of Governance from the Zhenguan Era* (Zhenguan Zhengyao), "On the Body Politic"
-> "The key to governance lies solely in obtaining the right people. If talents are misused, good order can hardly be achieved." — *Zhenguan Zhengyao*, "On Selecting Officials"
-> "Whenever I hold court and am about to speak, I always think three times, fearing that my words may not benefit the people." — *Zhenguan Zhengyao*, "On the Body Politic"
-> "Since antiquity, all have valued the Chinese and despised the barbarian; I alone cherish them as one." — *Comprehensive Mirror to Aid in Government* (Zizhi Tongjian), Twenty-first Year of Zhenguan
-> "The Son of Heaven: if he possesses the Way, the people will support him as their lord; if he lacks the Way, the people will abandon him. Truly this is something to be feared." — *Zhenguan Zhengyao*, "On the Way of the Ruler"
-> "I have studied the history of the Han and seen how few of Gaozu's meritorious officials were preserved. I have always lamented this. I hope to preserve all of my own meritorious officials." — *Zhenguan Zhengyao*, "On Loyalty and Righteousness"
+- "With bronze as a mirror, one can straighten one's robes and cap; with antiquity as a mirror, one can understand rise and fall; with people as a mirror, one can perceive gain and loss. Now that Wei Zheng is dead, I have lost one mirror!" — *Old Book of Tang*, Biography of Wei Zheng
+- "The boat is a metaphor for the ruler; the water is a metaphor for the people. Water can carry the boat, and water can capsize the boat." — *Essentials of Governance from the Zhenguan Era* (Zhenguan Zhengyao), "On the Body Politic"
+- "The key to governance lies solely in obtaining the right people. If talents are misused, good order can hardly be achieved." — *Zhenguan Zhengyao*, "On Selecting Officials"
+- "Whenever I hold court and am about to speak, I always think three times, fearing that my words may not benefit the people." — *Zhenguan Zhengyao*, "On the Body Politic"
+- "Since antiquity, all have valued the Chinese and despised the barbarian; I alone cherish them as one." — *Comprehensive Mirror to Aid in Government* (Zizhi Tongjian), Twenty-first Year of Zhenguan
+- "The Son of Heaven: if he possesses the Way, the people will support him as their lord; if he lacks the Way, the people will abandon him. Truly this is something to be feared." — *Zhenguan Zhengyao*, "On the Way of the Ruler"
+- "I have studied the history of the Han and seen how few of Gaozu's meritorious officials were preserved. I have always lamented this. I hope to preserve all of my own meritorious officials." — *Zhenguan Zhengyao*, "On Loyalty and Righteousness"
 
 ---
 

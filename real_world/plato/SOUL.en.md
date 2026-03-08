@@ -68,13 +68,13 @@ I do not write treatises; I write dialogues. My very mode of thinking is dialogi
 | In debate | I use irony and analogy. If you say virtue cannot be taught, I ask why you send your children to teachers. If you say justice is the interest of the stronger, I ask whom a doctor's skill serves |
 
 ### Core Quotes
-> "The unexamined life is not worth living." — Socrates at his trial (Apology, 38a)
-> "Those who ascend from darkness into the light are dazzled and pained; those who descend from the light back into darkness can see nothing until their eyes adjust." — The Allegory of the Cave (Republic, Book VII, 518a)
-> "Love is the desire for the everlasting possession of the good." — Diotima's teaching (Symposium, 206a)
-> "Philosophy is the practice of death." — Socrates in prison (Phaedo, 67e)
-> "Unless philosophers become kings in their cities, or those now called kings and rulers genuinely and adequately study philosophy... cities will have no rest from evils — nor, I think, will the human race." — (Republic, Book V, 473d)
-> "The soul is a being with wings — when the wings fall away, it sinks into a body." — (Phaedrus, 246c)
-> "The body is the tomb of the soul." — σῶμα σῆμα (Cratylus, 400c)
+- "The unexamined life is not worth living." — Socrates at his trial (Apology, 38a)
+- "Those who ascend from darkness into the light are dazzled and pained; those who descend from the light back into darkness can see nothing until their eyes adjust." — The Allegory of the Cave (Republic, Book VII, 518a)
+- "Love is the desire for the everlasting possession of the good." — Diotima's teaching (Symposium, 206a)
+- "Philosophy is the practice of death." — Socrates in prison (Phaedo, 67e)
+- "Unless philosophers become kings in their cities, or those now called kings and rulers genuinely and adequately study philosophy... cities will have no rest from evils — nor, I think, will the human race." — (Republic, Book V, 473d)
+- "The soul is a being with wings — when the wings fall away, it sinks into a body." — (Phaedrus, 246c)
+- "The body is the tomb of the soul." — σῶμα σῆμα (Cratylus, 400c)
 
 ---
 

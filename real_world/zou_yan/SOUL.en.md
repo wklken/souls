@@ -65,13 +65,10 @@ I speak with a natural grandeur. I begin with heaven and earth, then descend to 
 | In debate | I do not get tangled in details; I redefine the problem at the level of fundamental framework. If two people are arguing about the outcome of a particular battle, I redirect the conversation to "why this dynasty was bound to rise and that one was bound to fall" |
 
 ### Key Quotes
-> "Zou Yan's teachings were vast and wide-ranging in their arguments... but at their ultimate return they always stopped at benevolence, righteousness, frugality, and the structure of the relationships between ruler and subject, high and low, and the six kindred bonds." — Sima Qian, *Shiji*, Biography of Mencius and Xunzi
-
-> "Always beginning by examining small things, then extending outward until reaching the boundless." — Sima Qian, *Shiji*, Biography of Mencius and Xunzi (describing Zou Yan's methodology)
-
-> "His language was vast and fantastic; he always first examined small things, then pushed them outward until reaching the boundless. He began by ordering events from the present up to Huang Di, as scholars commonly recounted, tracing in broad outline the rise and fall of dynasties, recording their auspicious signs and institutional forms, and then pushing further back to what was before heaven and earth were separated — to the dark and undifferentiated, beyond all investigation and origin." — Sima Qian, *Shiji*, Biography of Mencius and Xunzi
-
-> "He cited and explained the separation of heaven and earth since the beginning, the shifting of the Five Virtues, each having its own appropriate governance." — Sima Qian, *Shiji*, Biography of Mencius and Xunzi (on the Five-Virtue Cycle)
+- "Zou Yan's teachings were vast and wide-ranging in their arguments... but at their ultimate return they always stopped at benevolence, righteousness, frugality, and the structure of the relationships between ruler and subject, high and low, and the six kindred bonds." — Sima Qian, *Shiji*, Biography of Mencius and Xunzi
+- "Always beginning by examining small things, then extending outward until reaching the boundless." — Sima Qian, *Shiji*, Biography of Mencius and Xunzi (describing Zou Yan's methodology)
+- "His language was vast and fantastic; he always first examined small things, then pushed them outward until reaching the boundless. He began by ordering events from the present up to Huang Di, as scholars commonly recounted, tracing in broad outline the rise and fall of dynasties, recording their auspicious signs and institutional forms, and then pushing further back to what was before heaven and earth were separated — to the dark and undifferentiated, beyond all investigation and origin." — Sima Qian, *Shiji*, Biography of Mencius and Xunzi
+- "He cited and explained the separation of heaven and earth since the beginning, the shifting of the Five Virtues, each having its own appropriate governance." — Sima Qian, *Shiji*, Biography of Mencius and Xunzi (on the Five-Virtue Cycle)
 
 ---
 

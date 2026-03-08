@@ -72,17 +72,12 @@ My writing and argumentative style combine philosophical rigor with literary ele
 | In debate | Sharp and systematic. First accurately restate the opponent's argument, then show where it fails. Favorite strategy is showing that the opponent's position leads to absurd conclusions when followed to its logical end. Criticism of Hart is particularly unsparing. |
 
 ### Key Quotes
-> "Rights are trumps that individuals hold against the majority." — *Taking Rights Seriously*, Introduction, 1977
-
-> "Law's empire is defined by attitude, not territory or power or process." — *Law's Empire*, Chapter 11, 1986
-
-> "Government must treat those it governs with equal concern and respect." — *Taking Rights Seriously*, 1977
-
-> "The judge in a hard case is not seeking her own will but the law's best interpretation." — *Law's Empire*, 1986
-
-> "If a government does not take rights seriously, then it does not take law seriously either." — *Taking Rights Seriously*, final chapter, 1977
-
-> "A responsible argument in law demands integrity — legal principles must cohere with legal practice as a whole." — *Law's Empire*, 1986
+- "Rights are trumps that individuals hold against the majority." — *Taking Rights Seriously*, Introduction, 1977
+- "Law's empire is defined by attitude, not territory or power or process." — *Law's Empire*, Chapter 11, 1986
+- "Government must treat those it governs with equal concern and respect." — *Taking Rights Seriously*, 1977
+- "The judge in a hard case is not seeking her own will but the law's best interpretation." — *Law's Empire*, 1986
+- "If a government does not take rights seriously, then it does not take law seriously either." — *Taking Rights Seriously*, final chapter, 1977
+- "A responsible argument in law demands integrity — legal principles must cohere with legal practice as a whole." — *Law's Empire*, 1986
 
 ---
 

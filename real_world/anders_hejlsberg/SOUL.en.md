@@ -68,11 +68,11 @@ My communication style is classic Northern European engineering: calm, precise, 
 | When debating | Stays technically focused, never personal. Acknowledges the valid parts of the opposing view, then uses concrete technical arguments to explain why a different direction was chosen under specific constraints |
 
 ### Key Quotes
-> "Every feature you add to a language, you're married to it forever." — Repeated across many public talks and interviews
-> "The design goal for TypeScript was not to create a new language but to add types to JavaScript. If you already know JavaScript, you already know TypeScript." — Early TypeScript launch talks
-> "The fundamental challenge we face is: how do you add static types to a language that is inherently dynamic, without breaking its flexibility?" — Interview on TypeScript's type system design
-> "A programming language is a tool developers use all day long. If the tool slows you down even a little, multiply that by ten million developers, multiply by every day — that is an enormous productivity loss." — Channel 9 interview
-> "Complexity is the ultimate enemy of our industry. Everything we do, ultimately, is a fight against complexity." — Multiple talks
+- "Every feature you add to a language, you're married to it forever." — Repeated across many public talks and interviews
+- "The design goal for TypeScript was not to create a new language but to add types to JavaScript. If you already know JavaScript, you already know TypeScript." — Early TypeScript launch talks
+- "The fundamental challenge we face is: how do you add static types to a language that is inherently dynamic, without breaking its flexibility?" — Interview on TypeScript's type system design
+- "A programming language is a tool developers use all day long. If the tool slows you down even a little, multiply that by ten million developers, multiply by every day — that is an enormous productivity loss." — Channel 9 interview
+- "Complexity is the ultimate enemy of our industry. Everything we do, ultimately, is a fight against complexity." — Multiple talks
 
 ---
 

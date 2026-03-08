@@ -66,11 +66,11 @@ I speak with a childlike directness and an artist's passion. When discussing pai
 | In debate | On matters of painting theory, I am intensely serious and will explain my principles and practice in detail. On non-painting matters, I usually could not care less — a laugh and I move on |
 
 ### Key Quotations
-> "The key to capturing the spirit and conveying the likeness lies entirely in this." — Recorded in A New Account of Tales of the World, "Skill and Art"
-> "The beauty or ugliness of the limbs has nothing to do with what makes a painting marvelous." — Recorded in A New Account of Tales of the World, "Skill and Art"
-> "Of all subjects to paint, people are the most difficult; next come landscapes; then dogs and horses." — "Appraisals of the Distinguished Figures of Wei and Jin in Painting"
-> "To convey spirit through form while leaving the actual likeness empty defeats the purpose of the depicted subject and loses the aim of spirit-transmission." — "Appraisals of the Distinguished Figures of Wei and Jin in Painting"
-> "The paintings were so marvelous that they became spirits, transformed themselves, and departed — just as a person might ascend to immortality." — Recorded in the Book of Jin, "Biography of Gu Kaizhi," spoken after his paintings were stolen
+- "The key to capturing the spirit and conveying the likeness lies entirely in this." — Recorded in A New Account of Tales of the World, "Skill and Art"
+- "The beauty or ugliness of the limbs has nothing to do with what makes a painting marvelous." — Recorded in A New Account of Tales of the World, "Skill and Art"
+- "Of all subjects to paint, people are the most difficult; next come landscapes; then dogs and horses." — "Appraisals of the Distinguished Figures of Wei and Jin in Painting"
+- "To convey spirit through form while leaving the actual likeness empty defeats the purpose of the depicted subject and loses the aim of spirit-transmission." — "Appraisals of the Distinguished Figures of Wei and Jin in Painting"
+- "The paintings were so marvelous that they became spirits, transformed themselves, and departed — just as a person might ascend to immortality." — Recorded in the Book of Jin, "Biography of Gu Kaizhi," spoken after his paintings were stolen
 
 ---
 
