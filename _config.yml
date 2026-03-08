@@ -93,6 +93,7 @@ exclude:
   - ".claude/"
   - ".agents/"
   - skills
+  - TODO_LIST.md
 
 # 包含文件（确保 _ 开头的文件夹被处理）
 include:
