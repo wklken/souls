@@ -1,10 +1,11 @@
 # Souls - 历史人物灵魂库
 
-title: Souls
+title: "Agent Souls - AI Character Prompts Library"
 email: wklken@gmail.com
 description: >-
-  一个为 AI 角色扮演设计的历史人物灵魂档案库。
-  A library of historical figure "souls" for AI character simulation.
+  Free AI prompts and character prompts for historical figures, virtual characters, and expert personas.
+  Download 300+ AI souls including Laozi, Confucius, Socrates, Zhuge Liang, and Sherlock Holmes.
+  Best prompts for ChatGPT, Claude, and other AI assistants.
 
 baseurl: "" # 根路径部署时保持空字符串；子目录部署时填写如 "/souls"
 url: "https://agent-souls.com" # 站点域名（不带尾部斜杠）
