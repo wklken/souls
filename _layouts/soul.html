@@ -3,7 +3,7 @@ layout: default
 ---
 
 {% assign page_title_zh = page.title_zh | default: page.title %}
-{% assign page_title_en = page.title_en | default: page.english_name | default: page.title %}
+{% assign page_title_en = page.english_name | default: page.title_en | default: page.title %}
 {% assign page_category_zh = page.category_name_zh | default: page.category_name %}
 {% assign page_category_en = page.category_name_en | default: page.category_name %}
 

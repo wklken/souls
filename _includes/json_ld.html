@@ -1,7 +1,10 @@
 {% assign site_root_url = site.url | append: site.baseurl %}
 {% assign page_absolute_url = page.url | absolute_url %}
+{% assign site_brand = site.brand_name | default: site.title %}
 {% assign page_name_zh = page.title_zh | default: page.title | default: site.title %}
-{% assign page_name_en = page.title_en | default: page.english_name | default: page.title | default: site.title %}
+{% assign page_name_en = page.english_name | default: page.title_en | default: page.title | default: site.title %}
+{% capture page_prompt_description %}{% if page.layout == "soul" %}{{ page_name_en }} prompts and AI character prompt for ChatGPT, Claude, and other AI assistants. Download the SOUL.md file and chat with {{ page_name_en }} in character.{% else %}{{ page.description | default: site.description }}{% endif %}{% endcapture %}
+{% capture page_prompt_keywords %}{% if page.layout == "soul" %}{{ page_name_en }}, {{ page_name_en }} prompts, {{ page_name_en }} prompt, AI character prompts, character prompts{% if page.tags_en and page.tags_en != empty %}, {{ page.tags_en | join: ", " }}{% endif %}{% elsif page.url == "/prompts/" %}AI character prompts, character prompts, historical figure prompts, virtual character prompts, Laozi prompts, Confucius prompts, Sherlock Holmes prompts{% else %}AI character prompts, character prompts, AI prompts{% endif %}{% endcapture %}
 
 {% if page.url == "/" %}
 {% capture search_action_target %}{{ site_root_url }}/?q={search_term_string}{% endcapture %}
@@ -22,6 +25,23 @@
 {% endif %}
 
 {% if page.layout == "soul" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": {{ page_name_en | append: " Prompts" | jsonify }},
+  "url": {{ page_absolute_url | jsonify }},
+  "description": {{ page_prompt_description | strip_html | strip_newlines | normalize_whitespace | jsonify }},
+  "keywords": {{ page_prompt_keywords | strip | normalize_whitespace | jsonify }},
+  "about": {{ page_name_en | jsonify }},
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ site_brand | jsonify }},
+    "url": {{ site_root_url | jsonify }}
+  }
+}
+</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -55,17 +75,35 @@
 {
   "@context": "https://schema.org",
   "@type": "ProfilePage",
-  "name": {{ page_name_en | jsonify }},
+  "name": {{ page_name_en | append: " Prompts" | jsonify }},
   "url": {{ page_absolute_url | jsonify }},
   "mainEntity": {
     "@type": "Person",
     "name": {{ page_name_en | jsonify }},
     "alternateName": {{ page_name_zh | jsonify }},
-    "description": {{ page.description_en | default: page.description | default: site.description | jsonify }},
+    "description": {{ page_prompt_description | strip_html | strip_newlines | normalize_whitespace | jsonify }},
     "url": {{ page_absolute_url | jsonify }},
-    "keywords": {{ page.tags_en | default: page.tags | join: ", " | jsonify }}{% if page.wikipedia_zh or page.wikipedia_en %},
+    "keywords": {{ page_prompt_keywords | strip | normalize_whitespace | jsonify }}{% if page.wikipedia_zh or page.wikipedia_en %},
     "sameAs": [{% if page.wikipedia_zh %}{{ page.wikipedia_zh | jsonify }}{% endif %}{% if page.wikipedia_zh and page.wikipedia_en %}, {% endif %}{% if page.wikipedia_en %}{{ page.wikipedia_en | jsonify }}{% endif %}]
     {% endif %}
+  }
+}
+</script>
+{% endif %}
+
+{% if page.url == "/prompts/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": {{ page.title | jsonify }},
+  "url": {{ page_absolute_url | jsonify }},
+  "description": {{ page.description | default: site.description | strip_html | strip_newlines | normalize_whitespace | jsonify }},
+  "keywords": {{ page_prompt_keywords | strip | normalize_whitespace | jsonify }},
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": {{ site_brand | jsonify }},
+    "url": {{ site_root_url | jsonify }}
   }
 }
 </script>

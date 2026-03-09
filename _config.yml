@@ -1,11 +1,12 @@
 # Souls - 历史人物灵魂库
 
 title: "Agent Souls - AI Character Prompts Library"
+brand_name: "Agent Souls"
 email: wklken@gmail.com
 description: >-
   Free AI prompts and character prompts for historical figures, virtual characters, and expert personas.
-  Download 300+ AI souls including Laozi, Confucius, Socrates, Zhuge Liang, and Sherlock Holmes.
-  Best prompts for ChatGPT, Claude, and other AI assistants.
+  Explore Laozi prompts, Confucius prompts, Socrates prompts, Sherlock Holmes prompts, and more.
+  Download prompt-ready SOUL.md files for ChatGPT, Claude, and other AI assistants.
 
 baseurl: "" # 根路径部署时保持空字符串；子目录部署时填写如 "/souls"
 url: "https://agent-souls.com" # 站点域名（不带尾部斜杠）
@@ -98,8 +99,5 @@ exclude:
   - TODO_LIST.md
   - _bundle/
 
-# 包含文件（确保 _ 开头的文件夹被处理）
-include:
-  - _layouts
-  - _includes
-  - _sass
+# Jekyll 会自动处理 _layouts / _includes / _sass。
+# 不显式 include，避免它们进入输出目录并污染 sitemap。

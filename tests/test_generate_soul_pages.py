@@ -140,6 +140,40 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertIn("rebuildSearchCache", script)
         self.assertIn("searchInput.addEventListener('search', filterCards)", script)
 
+    def test_default_layout_has_prompt_focused_soul_meta(self):
+        default_layout = (self.repo_root / "_layouts" / "default.html").read_text(encoding="utf-8")
+
+        self.assertIn("Prompts - Agent Souls", default_layout)
+        self.assertIn("AI character prompt", default_layout)
+        self.assertIn('<link rel="canonical"', default_layout)
+        self.assertNotIn("{% seo %}", default_layout)
+
+    def test_prompts_landing_page_targets_requested_keywords(self):
+        prompts_page = (self.repo_root / "prompts.md").read_text(encoding="utf-8")
+
+        self.assertIn(
+            'title: "AI Character Prompts - Historical Figures & Virtual Characters"',
+            prompts_page,
+        )
+        self.assertIn("Laozi prompts", prompts_page)
+        self.assertIn("Sherlock Holmes prompts", prompts_page)
+        self.assertIn("AI character prompts", prompts_page)
+
+    def test_homepage_description_mentions_ai_character_prompts(self):
+        index_page = (self.repo_root / "index.md").read_text(encoding="utf-8")
+
+        self.assertIn("description:", index_page)
+        self.assertIn("AI character prompts", index_page)
+        self.assertIn("prompts", index_page)
+
+    def test_config_avoids_underscore_directories_in_sitemap_output(self):
+        config = (self.repo_root / "_config.yml").read_text(encoding="utf-8")
+
+        self.assertIn("Character Prompts", config)
+        self.assertNotIn("  - _layouts", config)
+        self.assertNotIn("  - _includes", config)
+        self.assertNotIn("  - _sass", config)
+
 
 class DeployWorkflowBaseurlRegressionTest(unittest.TestCase):
     def setUp(self):
