@@ -392,6 +392,10 @@ a {
 
 .soul-card {
   display: block;
+
+  &[hidden] {
+    display: none;
+  }
   padding: 1.05rem;
   border: 1px solid var(--border-color);
   border-radius: 14px;
