@@ -1,8 +1,16 @@
 ---
 layout: default
-title: 非真实世界
-title_en: Virtual World
+title: "经典虚拟角色AI人格设定 | 孙悟空、福尔摩斯、哈姆雷特"
+title_en: "Virtual World"
+title_zh: "非真实世界"
+seo_title_zh: "经典虚拟角色AI人格设定 | 孙悟空、福尔摩斯、哈姆雷特"
+seo_title_en: "Classic Character AI Persona Library"
+description: "经典虚拟角色AI人格设定：孙悟空、福尔摩斯、哈姆雷特、堂吉诃德。让AI以文学角色的方式与你互动。"
+description_zh: "经典虚拟角色AI人格设定：孙悟空、福尔摩斯、哈姆雷特、堂吉诃德。让AI以文学角色的方式与你互动。"
+description_en: "Explore classic character AI personas, including Sun Wukong, Sherlock Holmes, Hamlet, and Don Quixote, and interact with literary voices in a more vivid way."
+image: "https://robohash.org/agent-souls-virtual-world.png?size=1200x630&set=set4&bgset=bg1"
 category: virtual_world
+permalink: /virtual_world/
 ---
 
 <div class="soul-list">

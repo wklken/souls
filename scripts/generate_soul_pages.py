@@ -139,6 +139,11 @@ def extract_heading(markdown_text: str) -> str:
     return ""
 
 
+def strip_trailing_latin_parenthetical(text: str) -> str:
+    cleaned = re.sub(r"\s*[（(][A-Za-z0-9 .,'’:_-]+[)）]\s*$", "", text).strip()
+    return cleaned or text.strip()
+
+
 def extract_tags(markdown_text: str) -> list[str]:
     for line in markdown_text.splitlines():
         tags_match = re.search(r"\btags:\s*(.+)", line, re.I)
@@ -251,15 +256,21 @@ def generate_for_category(category: str, category_name: str | dict[str, str]) ->
 
         description = description_zh or description_en or title_zh
         image = build_social_image(category, folder.name)
+        primary_title_zh = strip_trailing_latin_parenthetical(title_zh)
+        primary_title_en = strip_trailing_latin_parenthetical(name_en or title_en or title_zh)
+        seo_title_zh = f"{primary_title_zh} AI 灵魂设定"
+        seo_title_en = f"{primary_title_en} AI Soul Prompt"
 
         page_path = category_dir / f"{folder.name}.md"
 
         fm = [
             "---",
             "layout: soul",
-            f'title: "{q(title_zh)}"',
+            f'title: "{q(seo_title_zh)}"',
             f'title_zh: "{q(title_zh)}"',
             f'title_en: "{q(title_en)}"',
+            f'seo_title_zh: "{q(seo_title_zh)}"',
+            f'seo_title_en: "{q(seo_title_en)}"',
             f'english_name: "{q(name_en)}"',
             f'description: "{q(description)}"',
             f'description_zh: "{q(description_zh)}"',
@@ -269,7 +280,7 @@ def generate_for_category(category: str, category_name: str | dict[str, str]) ->
             f'category_name: "{q(category_name_zh)}"',
             f'category_name_zh: "{q(category_name_zh)}"',
             f'category_name_en: "{q(category_name_en)}"',
-            f'category_url: "/{category}"',
+            f'category_url: "/{category}/"',
             f'folder: "{folder.name}"',
             f'permalink: "/{category}/{folder.name}/"',
             f'wikipedia_zh: "{q(wiki_zh)}"',

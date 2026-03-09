@@ -1,10 +1,13 @@
 # Souls - 历史人物灵魂库
 
-title: Souls
+title: Agent Souls
+brand_name: Souls
 email: wklken@gmail.com
 description: >-
-  一个为 AI 角色扮演设计的历史人物灵魂档案库。
-  A library of historical figure "souls" for AI character simulation.
+  一个收录历史人物、经典角色与专家 persona 的 AI 灵魂设定库。
+  A bilingual library of AI soul prompts for historical figures, classic characters, and expert personas.
+lang: zh-CN
+locale: zh_CN
 
 baseurl: "" # 根路径部署时保持空字符串；子目录部署时填写如 "/souls"
 url: "https://agent-souls.com" # 站点域名（不带尾部斜杠）
@@ -32,13 +35,7 @@ defaults:
       type: "pages"
     values:
       layout: "default"
-      lang: "zh"
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-      lang: "en"
+      lang: "zh-CN"
 
 # 站点统计
 stats:
@@ -96,9 +93,4 @@ exclude:
   - skills
   - TODO_LIST.md
   - _bundle/
-
-# 包含文件（确保 _ 开头的文件夹被处理）
-include:
-  - _layouts
-  - _includes
-  - _sass
+  - docs/
