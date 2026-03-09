@@ -1,6 +1,6 @@
 <header class="site-header">
   <div class="wrapper">
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.brand_name | default: site.title }}</a>
     
     <nav class="site-nav">
       {% for item in site.nav %}

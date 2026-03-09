@@ -102,13 +102,18 @@
 
   function updateDocumentTitle(lang) {
     const root = document.documentElement;
-    const siteTitle = root.dataset.siteTitle || 'Souls';
+    const siteTitle = root.dataset.siteTitle || 'Agent Souls';
     const zhTitle = root.dataset.pageTitleZh || siteTitle;
     const enTitle = root.dataset.pageTitleEn || zhTitle || siteTitle;
     const activeTitle = lang === 'en' ? enTitle : zhTitle;
 
     if (!activeTitle || activeTitle === siteTitle) {
       document.title = siteTitle;
+      return;
+    }
+
+    if (activeTitle.includes(siteTitle)) {
+      document.title = activeTitle;
       return;
     }
 

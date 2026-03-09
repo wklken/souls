@@ -4,19 +4,22 @@
   data-theme="{{ site.default_theme | default: 'light' }}"
   data-baseurl="{{ site.baseurl | default: '' }}"
   data-site-title="{{ site.title | escape }}"
-  data-page-title-zh="{{ page.title_zh | default: page.title | default: site.title | escape }}"
-  data-page-title-en="{{ page.title_en | default: page.english_name | default: page.title | default: site.title | escape }}"
+  data-page-title-zh="{{ page.seo_title_zh | default: page.title_zh | default: page.title | default: site.title | escape }}"
+  data-page-title-en="{{ page.seo_title_en | default: page.title_en | default: page.english_name | default: page.title | default: site.title | escape }}"
 >
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="souls-search-url" content="{{ '/search.json' | relative_url }}">
-  <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   {% seo %}
+  {% assign social_description = page.description | default: page.description_zh | default: site.description | strip_html | strip_newlines | escape %}
+  {% if social_description != blank %}
+  <meta name="twitter:description" content="{{ social_description }}">
+  {% endif %}
   {% include json_ld.html %}
   {% if jekyll.environment == "production" %}
   {% include google_analytics.html %}

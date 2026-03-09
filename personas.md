@@ -1,8 +1,16 @@
 ---
 layout: default
-title: 专家角色
-title_en: Personas
+title: "专家角色AI人格设定 | 产品总监、CTO、投资人"
+title_en: "Personas"
+title_zh: "专家角色"
+seo_title_zh: "专家角色AI人格设定 | 产品总监、CTO、投资人"
+seo_title_en: "Expert Persona AI Prompt Library"
+description: "专家角色AI人格设定，覆盖产品总监、硅谷CTO、投资人、管理顾问等场景。获取可直接下载的SOUL.md，提升专业判断与决策质量。"
+description_zh: "专家角色AI人格设定，覆盖产品总监、硅谷CTO、投资人、管理顾问等场景。获取可直接下载的SOUL.md，提升专业判断与决策质量。"
+description_en: "Explore expert persona AI prompts for product directors, Silicon Valley CTOs, investors, consultants, and more. Download SOUL.md files for sharper professional decision-making."
+image: "https://robohash.org/agent-souls-personas.png?size=1200x630&set=set4&bgset=bg1"
 category: personas
+permalink: /personas/
 ---
 
 <div class="soul-list">

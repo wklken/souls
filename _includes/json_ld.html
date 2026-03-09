@@ -2,6 +2,10 @@
 {% assign page_absolute_url = page.url | absolute_url %}
 {% assign page_name_zh = page.title_zh | default: page.title | default: site.title %}
 {% assign page_name_en = page.title_en | default: page.english_name | default: page.title | default: site.title %}
+{% assign page_description_zh = page.description_zh | default: page.description | default: site.description %}
+{% assign page_description_en = page.description_en | default: page.description | default: site.description %}
+{% assign page_keywords = page.tags_en | default: page.tags %}
+{% assign license_url = 'https://github.com/' | append: site.repository | append: '/blob/master/LICENSE' %}
 
 {% if page.url == "/" %}
 {% capture search_action_target %}{{ site_root_url }}/?q={search_term_string}{% endcapture %}
@@ -22,6 +26,37 @@
 {% endif %}
 
 {% if page.layout == "soul" %}
+{% assign about_type = "Thing" %}
+{% if page.category == "real_world" %}
+  {% assign about_type = "Person" %}
+{% endif %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": {{ page_name_zh | jsonify }},
+  "url": {{ page_absolute_url | jsonify }},
+  "description": {{ page_description_zh | jsonify }},
+  "inLanguage": ["zh-CN", "en"],
+  "isAccessibleForFree": true,
+  "license": {{ license_url | jsonify }},
+  "author": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "url": {{ site_root_url | jsonify }}
+  },
+  "about": {
+    "@type": {{ about_type | jsonify }},
+    "name": {{ page_name_en | jsonify }},
+    "alternateName": {{ page_name_zh | jsonify }}
+  }{% if page.image %},
+  "image": {{ page.image | jsonify }}
+  {% endif %}{% if page_keywords and page_keywords != empty %},
+  "keywords": {{ page_keywords | join: ", " | jsonify }}
+  {% endif %}
+}
+</script>
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -61,10 +96,10 @@
     "@type": "Person",
     "name": {{ page_name_en | jsonify }},
     "alternateName": {{ page_name_zh | jsonify }},
-    "description": {{ page.description_en | default: page.description | default: site.description | jsonify }},
+    "description": {{ page_description_en | jsonify }},
     "url": {{ page_absolute_url | jsonify }},
-    "keywords": {{ page.tags_en | default: page.tags | join: ", " | jsonify }}{% if page.wikipedia_zh or page.wikipedia_en %},
-    "sameAs": [{% if page.wikipedia_zh %}{{ page.wikipedia_zh | jsonify }}{% endif %}{% if page.wikipedia_zh and page.wikipedia_en %}, {% endif %}{% if page.wikipedia_en %}{{ page.wikipedia_en | jsonify }}{% endif %}]
+    "keywords": {{ page.tags_en | default: page.tags | join: ", " | jsonify }}{% if page.wikipedia_zh != "" or page.wikipedia_en != "" %},
+    "sameAs": [{% if page.wikipedia_zh != "" %}{{ page.wikipedia_zh | jsonify }}{% endif %}{% if page.wikipedia_zh != "" and page.wikipedia_en != "" %}, {% endif %}{% if page.wikipedia_en != "" %}{{ page.wikipedia_en | jsonify }}{% endif %}]
     {% endif %}
   }
 }
