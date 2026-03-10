@@ -1,8 +1,16 @@
 ---
 layout: default
-title: 真实世界
-title_en: Real World
+title: "历史人物AI灵魂库 | 孔子、苏格拉底、诸葛亮Prompt"
+title_en: "Real World"
+title_zh: "真实世界"
+seo_title_zh: "历史人物AI灵魂库 | 孔子、苏格拉底、诸葛亮Prompt"
+seo_title_en: "Historical Figure AI Soul Library"
+description: "历史人物AI灵魂库，收录200+历史人物AI灵魂设定：诸葛亮、苏格拉底、孔子、曹操等。下载SOUL.md，让AI以历史伟人的思维方式与你对话。"
+description_zh: "历史人物AI灵魂库，收录200+历史人物AI灵魂设定：诸葛亮、苏格拉底、孔子、曹操等。下载SOUL.md，让AI以历史伟人的思维方式与你对话。"
+description_en: "Explore 200+ historical figure AI soul prompts, including Zhuge Liang, Socrates, Confucius, and Cao Cao. Download SOUL.md files and chat with the logic of historical thinkers."
+image: "https://robohash.org/agent-souls-real-world.png?size=1200x630&set=set4&bgset=bg1"
 category: real_world
+permalink: /real_world/
 ---
 
 <div class="soul-list">

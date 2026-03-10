@@ -1,4 +1,6 @@
 import importlib.util
+import os
+import subprocess
 import tempfile
 import unittest
 from pathlib import Path
@@ -269,6 +271,93 @@ class SoulMarkdownTableSpacingRegressionTest(unittest.TestCase):
             "Expected a blank line between heading and table header in soul files. "
             f"Found {len(offenders)} offenders: {offenders[:20]}",
         )
+
+
+class SiteBuildSeoRegressionTest(unittest.TestCase):
+    @staticmethod
+    def read_optional_text(*paths: Path) -> str:
+        for path in paths:
+            if path.exists():
+                return path.read_text(encoding="utf-8")
+        return ""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.repo_root = Path(__file__).resolve().parents[1]
+        env = dict(os.environ, JEKYLL_ENV="production", PYTHONDONTWRITEBYTECODE="1")
+
+        subprocess.run(
+            ["python3", "scripts/generate_soul_pages.py"],
+            cwd=cls.repo_root,
+            check=True,
+            env=env,
+        )
+        subprocess.run(
+            ["bundle", "exec", "jekyll", "build", "--baseurl", ""],
+            cwd=cls.repo_root,
+            check=True,
+            env=env,
+        )
+
+        cls.site_root = cls.repo_root / "_site"
+        cls.index_html = (cls.site_root / "index.html").read_text(encoding="utf-8")
+        cls.real_world_html = cls.read_optional_text(
+            cls.site_root / "real_world" / "index.html",
+            cls.site_root / "real_world.html",
+        )
+        cls.virtual_world_html = cls.read_optional_text(
+            cls.site_root / "virtual_world" / "index.html",
+            cls.site_root / "virtual_world.html",
+        )
+        cls.personas_html = cls.read_optional_text(
+            cls.site_root / "personas" / "index.html",
+            cls.site_root / "personas.html",
+        )
+        cls.zhuge_liang_html = (
+            cls.site_root / "real_world" / "zhuge_liang" / "index.html"
+        ).read_text(encoding="utf-8")
+        cls.sitemap_xml = (cls.site_root / "sitemap.xml").read_text(encoding="utf-8")
+        cls.robots_txt = (cls.site_root / "robots.txt").read_text(encoding="utf-8")
+
+    def test_homepage_renders_single_optimized_title_and_description(self):
+        self.assertEqual(self.index_html.count("<title>"), 1)
+        self.assertIn("Agent Souls", self.index_html)
+        self.assertNotIn("<title>Souls - Souls</title>", self.index_html)
+        self.assertIn("200+历史人物", self.index_html)
+
+    def test_category_pages_use_pretty_urls_and_specific_descriptions(self):
+        self.assertTrue((self.site_root / "real_world" / "index.html").exists())
+        self.assertTrue((self.site_root / "virtual_world" / "index.html").exists())
+        self.assertTrue((self.site_root / "personas" / "index.html").exists())
+
+        self.assertIn(
+            '<link rel="canonical" href="https://agent-souls.com/real_world/" />',
+            self.real_world_html,
+        )
+        self.assertIn("历史人物AI灵魂库", self.real_world_html)
+        self.assertIn("经典虚拟角色AI人格设定", self.virtual_world_html)
+        self.assertIn("专家角色AI人格设定", self.personas_html)
+
+    def test_detail_pages_render_ai_focused_metadata_and_clean_schema(self):
+        self.assertIn("诸葛亮 AI 灵魂设定", self.zhuge_liang_html)
+        self.assertIn("twitter:description", self.zhuge_liang_html)
+        self.assertIn('"@type": "CreativeWork"', self.zhuge_liang_html)
+        self.assertNotIn('"sameAs": ["", ""]', self.zhuge_liang_html)
+
+    def test_built_html_uses_chinese_source_locale(self):
+        self.assertIn('<html\n  lang="zh-CN"', self.index_html)
+        self.assertIn('meta property="og:locale" content="zh_CN"', self.index_html)
+
+    def test_sitemap_excludes_internal_template_paths(self):
+        self.assertNotIn("/_layouts/", self.sitemap_xml)
+        self.assertNotIn("/_includes/", self.sitemap_xml)
+
+    def test_robots_has_explicit_crawler_rules(self):
+        self.assertIn("User-agent: *", self.robots_txt)
+        self.assertIn("Allow: /", self.robots_txt)
+        self.assertIn("Disallow: /_layouts/", self.robots_txt)
+        self.assertIn("Disallow: /_includes/", self.robots_txt)
+        self.assertIn("Sitemap: https://agent-souls.com/sitemap.xml", self.robots_txt)
 
 
 if __name__ == "__main__":

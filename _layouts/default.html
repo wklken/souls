@@ -1,69 +1,25 @@
 <!DOCTYPE html>
-{% assign site_brand = site.brand_name | default: "Agent Souls" %}
-{% assign page_title_zh = page.title_zh | default: page.title | default: site_brand %}
-{% assign page_title_en = page.english_name | default: page.title_en | default: page.title | default: site_brand %}
-
-{% if page.layout == 'soul' %}
-  {% capture meta_title %}{{ page_title_en }} Prompts - Agent Souls{% endcapture %}
-  {% capture meta_description %}{{ page_title_en }} prompts and AI character prompt for ChatGPT, Claude, and other AI assistants. Download the SOUL.md file and chat with {{ page_title_en }} in character.{% endcapture %}
-  {% capture meta_keywords %}{{ page_title_en }}, {{ page_title_en }} prompts, {{ page_title_en }} prompt, AI character prompts, character prompts, ChatGPT prompts, Claude prompts{% if page.tags_en and page.tags_en != empty %}, {{ page.tags_en | join: ', ' }}{% endif %}{% endcapture %}
-{% elsif page.url == '/' %}
-  {% assign meta_title = page.title | default: site.title %}
-  {% assign meta_description = page.description | default: site.description %}
-  {% assign meta_keywords = page.keywords | default: "AI character prompts, character prompts, AI prompts, historical figure prompts, virtual character prompts, expert persona prompts" %}
-{% elsif page.url == '/prompts/' or page.name == 'prompts.md' %}
-  {% assign meta_title = page.title | default: "AI Character Prompts - Historical Figures & Virtual Characters" %}
-  {% assign meta_description = page.description | default: site.description %}
-  {% assign meta_keywords = page.keywords | default: "AI character prompts, character prompts, historical figure prompts, virtual character prompts, Laozi prompts, Confucius prompts, Sherlock Holmes prompts, ChatGPT prompts" %}
-{% elsif page.title %}
-  {% capture meta_title %}{{ page.title_en | default: page.title }} - {{ site_brand }}{% endcapture %}
-  {% assign meta_description = page.description | default: site.description %}
-  {% capture fallback_keywords %}{{ page.title_en | default: page.title }}, AI prompts, character prompts{% if page.category_name_en %}, {{ page.category_name_en }} prompts{% endif %}{% endcapture %}
-  {% assign meta_keywords = page.keywords | default: fallback_keywords %}
-{% else %}
-  {% assign meta_title = site.title %}
-  {% assign meta_description = site.description %}
-  {% assign meta_keywords = "AI character prompts, character prompts, AI prompts" %}
-{% endif %}
-
-{% assign meta_title = meta_title | strip | normalize_whitespace %}
-{% assign meta_description = meta_description | strip_html | strip_newlines | normalize_whitespace %}
-{% assign meta_keywords = meta_keywords | strip | normalize_whitespace %}
 <html
   lang="{{ page.lang | default: site.lang | default: 'zh' }}"
   data-theme="{{ site.default_theme | default: 'light' }}"
   data-baseurl="{{ site.baseurl | default: '' }}"
   data-site-title="{{ site.title | escape }}"
-  data-page-title-zh="{{ page_title_zh | escape }}"
-  data-page-title-en="{{ page_title_en | escape }}"
+  data-page-title-zh="{{ page.seo_title_zh | default: page.title_zh | default: page.title | default: site.title | escape }}"
+  data-page-title-en="{{ page.seo_title_en | default: page.title_en | default: page.english_name | default: page.title | default: site.title | escape }}"
 >
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="souls-search-url" content="{{ '/search.json' | relative_url }}">
-  <title>{{ meta_title | escape_once }}</title>
-  <meta name="description" content="{{ meta_description | escape_once }}">
-  <meta name="keywords" content="{{ meta_keywords | escape_once }}">
-  <meta name="robots" content="index,follow">
-  <link rel="canonical" href="{{ page.canonical_url | default: page.url | absolute_url }}">
-  <meta property="og:type" content="{% if page.layout == 'soul' %}article{% else %}website{% endif %}">
-  <meta property="og:site_name" content="{{ site_brand | escape_once }}">
-  <meta property="og:title" content="{{ meta_title | escape_once }}">
-  <meta property="og:description" content="{{ meta_description | escape_once }}">
-  <meta property="og:url" content="{{ page.canonical_url | default: page.url | absolute_url }}">
-  {% if page.image %}
-  <meta property="og:image" content="{{ page.image | absolute_url }}">
-  {% endif %}
-  <meta name="twitter:card" content="{% if page.image %}summary_large_image{% else %}summary{% endif %}">
-  <meta name="twitter:title" content="{{ meta_title | escape_once }}">
-  <meta name="twitter:description" content="{{ meta_description | escape_once }}">
-  {% if page.image %}
-  <meta name="twitter:image" content="{{ page.image | absolute_url }}">
-  {% endif %}
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  {% seo %}
+  {% assign social_description = page.description | default: page.description_zh | default: site.description | strip_html | strip_newlines | escape %}
+  {% if social_description != blank %}
+  <meta name="twitter:description" content="{{ social_description }}">
+  {% endif %}
   {% include json_ld.html %}
   {% if jekyll.environment == "production" %}
   {% include google_analytics.html %}

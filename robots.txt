@@ -4,6 +4,7 @@ permalink: /robots.txt
 ---
 User-agent: *
 Allow: /
+Disallow: /_layouts/
+Disallow: /_includes/
 
-Sitemap: {{ '/sitemap.xml' | absolute_url }}
-Host: {{ site.url | replace: 'https://', '' | replace: 'http://', '' }}
+Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml

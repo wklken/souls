@@ -134,13 +134,13 @@ layout: default
   </section>
   {% endif %}
   
-  {% if page.wikipedia_zh or page.wikipedia_en %}
+{% if page.wikipedia_zh != "" or page.wikipedia_en != "" %}
   <div class="wikipedia-links">
     <h3 data-i18n="soul.wikipedia">维基百科</h3>
-    {% if page.wikipedia_zh %}
+    {% if page.wikipedia_zh != "" %}
     <a href="{{ page.wikipedia_zh }}" target="_blank" class="wiki-link">中文</a>
     {% endif %}
-    {% if page.wikipedia_en %}
+    {% if page.wikipedia_en != "" %}
     <a href="{{ page.wikipedia_en }}" target="_blank" class="wiki-link">English</a>
     {% endif %}
   </div>
