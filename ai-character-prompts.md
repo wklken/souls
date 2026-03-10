@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "300+ AI Character Prompts - Historical Figures & Expert Personas"
-title_zh: "AI角色Prompt库 - 历史人物与专家角色"
-title_en: "AI Character Prompts - Historical Figures & Expert Personas"
-description: "Free AI character prompts for ChatGPT, Claude, and other AI assistants. Download 300+ prompts for historical figures like Confucius, Socrates, Laozi, and expert personas like Product Directors, CTOs, Investors."
-description_zh: "免费 AI 角色 Prompts，适用于 ChatGPT、Claude 等 AI 助手。下载 300+ 历史人物和专家角色的性格设定，包括孔子、苏格拉底、老子、产品总监、CTO、投资人等。"
-description_en: "Free AI character prompts for ChatGPT, Claude, and other AI assistants. Download 300+ prompts for historical figures like Confucius, Socrates, Laozi, and expert personas like Product Directors, CTOs, Investors."
+title: "250+ AI Character Prompts - Historical Figures & Expert Personas"
+title_zh: "250+ AI角色Prompt库 - 历史人物与专家角色"
+title_en: "250+ AI Character Prompts - Historical Figures & Expert Personas"
+description: "Free AI character prompts for ChatGPT, Claude, and other AI assistants. Download 250+ prompts for historical figures like Confucius, Socrates, Laozi, and expert personas like Product Directors, CTOs, Investors."
+description_zh: "免费 AI 角色 Prompts，适用于 ChatGPT、Claude 等 AI 助手。下载 250+ 历史人物和专家角色的性格设定，包括孔子、苏格拉底、老子、产品总监、CTO、投资人等。"
+description_en: "Free AI character prompts for ChatGPT, Claude, and other AI assistants. Download 250+ prompts for historical figures like Confucius, Socrates, Laozi, and expert personas like Product Directors, CTOs, Investors."
 keywords: "AI character prompts, character prompts, ChatGPT prompts, Claude prompts, historical figure prompts, expert persona prompts, Confucius prompt, Socrates prompt, Laozi prompt"
 permalink: /ai-character-prompts/
 ---
@@ -13,33 +13,34 @@ permalink: /ai-character-prompts/
 {% assign real_world_souls = site.pages | where: 'layout', 'soul' | where: 'category', 'real_world' | sort: 'title_en' %}
 {% assign virtual_world_souls = site.pages | where: 'layout', 'soul' | where: 'category', 'virtual_world' | sort: 'title_en' %}
 {% assign personas_souls = site.pages | where: 'layout', 'soul' | where: 'category', 'personas' | sort: 'title_en' %}
+{% assign real_world_count = real_world_souls | size %}
+{% assign virtual_world_count = virtual_world_souls | size %}
+{% assign personas_count = personas_souls | size %}
+{% assign total_count = real_world_count | plus: virtual_world_count | plus: personas_count %}
 
 <div class="prompts-landing-page">
   <header class="prompts-hero">
     <h1 data-i18n="prompts.title">AI Character Prompts</h1>
     <p class="prompts-subtitle" 
-       data-i18n="prompts.subtitle"
-       data-localized-zh="让历史人物成为你的 AI 助手"
-       data-localized-en="Bring historical figures to life as your AI assistants">让历史人物成为你的 AI 助手</p>
+       data-i18n="prompts.subtitle">让历史人物成为你的 AI 助手</p>
     <p class="prompts-description"
        data-i18n="prompts.description"
-       data-localized-zh="下载 300+ 免费 AI 角色 Prompts，适用于 ChatGPT、Claude 等 AI 助手。与孔子探讨仁爱，向苏格拉底学习提问，让诸葛亮为你出谋划策。"
-       data-localized-en="Download 300+ free AI character prompts for ChatGPT, Claude, and other AI assistants. Discuss benevolence with Confucius, learn questioning from Socrates, let Zhuge Liang advise you.">
-      下载 300+ 免费 AI 角色 Prompts，适用于 ChatGPT、Claude 等 AI 助手。
+       data-count="{{ total_count }}">
+      下载 {{ total_count }} 个免费 AI 角色 Prompts，适用于 ChatGPT、Claude 等 AI 助手。
       与孔子探讨仁爱，向苏格拉底学习提问，让诸葛亮为你出谋划策。
     </p>
     <div class="prompts-stats">
-      <span class="stat" data-i18n="prompts.stat_real" data-localized-zh="200+ 历史人物" data-localized-en="200+ Historical Figures">200+ 历史人物</span>
-      <span class="stat" data-i18n="prompts.stat_virtual" data-localized-zh="4 位虚拟角色" data-localized-en="4 Virtual Characters">4 位虚拟角色</span>
-      <span class="stat" data-i18n="prompts.stat_personas" data-localized-zh="47 位专家角色" data-localized-en="47 Expert Personas">47 位专家角色</span>
+      <span class="stat" data-i18n="prompts.stat_real" data-count="{{ real_world_count }}">{{ real_world_count }} 位历史人物</span>
+      <span class="stat" data-i18n="prompts.stat_virtual" data-count="{{ virtual_world_count }}">{{ virtual_world_count }} 位虚拟角色</span>
+      <span class="stat" data-i18n="prompts.stat_personas" data-count="{{ personas_count }}">{{ personas_count }} 位专家角色</span>
     </div>
   </header>
 
   <section class="prompts-section">
-    <h2 data-i18n="prompts.popular_title" data-localized-zh="热门历史人物 Prompts" data-localized-en="Popular Historical Figure Prompts">热门历史人物 Prompts</h2>
-    <p class="section-desc" data-i18n="prompts.popular_desc" data-localized-zh="AI 助手最常用的角色设定" data-localized-en="Most searched character prompts for AI assistants">AI 助手最常用的角色设定</p>
+    <h2 data-i18n="prompts.popular_title">热门历史人物 Prompts</h2>
+    <p class="section-desc" data-i18n="prompts.popular_desc">AI 助手最常用的角色设定</p>
     <div class="prompts-grid">
-      {% assign popular_figures = "confucius,socrates,laozi,zhuge_liang,sun_tzu,caocao,hamlet,sherlock_holmes,aristotle" | split: "," %}
+      {% assign popular_figures = "confucius,socrates,laozi,zhuge_liang,sun_tzu,cao_cao,aristotle,plato" | split: "," %}
       {% for soul in real_world_souls %}
         {% assign soul_id = soul.folder | default: soul.url | split: '/' | last %}
         {% if popular_figures contains soul_id %}
@@ -54,8 +55,8 @@ permalink: /ai-character-prompts/
   </section>
 
   <section class="prompts-section">
-    <h2 data-i18n="prompts.philosopher_title" data-localized-zh="哲学家 Prompts" data-localized-en="Philosopher Prompts">哲学家 Prompts</h2>
-    <p class="section-desc" data-i18n="prompts.philosopher_desc" data-localized-zh="古代智慧用于现代 AI 对话" data-localized-en="Ancient wisdom for modern AI conversations">古代智慧用于现代 AI 对话</p>
+    <h2 data-i18n="prompts.philosopher_title">哲学家 Prompts</h2>
+    <p class="section-desc" data-i18n="prompts.philosopher_desc">古代智慧用于现代 AI 对话</p>
     <div class="prompts-grid">
       {% for soul in real_world_souls %}
         {% if soul.tags contains '哲学' or soul.tags contains '哲学家' or soul.tags_en contains 'philosopher' or soul.tags_en contains 'philosophy' %}
@@ -69,8 +70,8 @@ permalink: /ai-character-prompts/
   </section>
 
   <section class="prompts-section">
-    <h2 data-i18n="prompts.military_title" data-localized-zh="军事家 Prompts" data-localized-en="Military Strategist Prompts">军事家 Prompts</h2>
-    <p class="section-desc" data-i18n="prompts.military_desc" data-localized-zh="商业和生活的战略思维" data-localized-en="Strategic thinking for business and life">商业和生活的战略思维</p>
+    <h2 data-i18n="prompts.military_title">军事家 Prompts</h2>
+    <p class="section-desc" data-i18n="prompts.military_desc">商业和生活的战略思维</p>
     <div class="prompts-grid">
       {% for soul in real_world_souls %}
         {% if soul.tags contains '军事' or soul.tags contains '兵法' or soul.tags_en contains 'military' or soul.tags_en contains 'strategy' %}
@@ -84,8 +85,8 @@ permalink: /ai-character-prompts/
   </section>
 
   <section class="prompts-section">
-    <h2 data-i18n="prompts.virtual_title" data-localized-zh="虚拟角色 Prompts" data-localized-en="Virtual Character Prompts">虚拟角色 Prompts</h2>
-    <p class="section-desc" data-i18n="prompts.virtual_desc" data-localized-zh="文学和虚构角色用于创意 AI 角色扮演" data-localized-en="Literary and fictional characters for creative AI roleplay">文学和虚构角色用于创意 AI 角色扮演</p>
+    <h2 data-i18n="prompts.virtual_title">虚拟角色 Prompts</h2>
+    <p class="section-desc" data-i18n="prompts.virtual_desc">文学和虚构角色用于创意 AI 角色扮演</p>
     <div class="prompts-grid">
       {% for soul in virtual_world_souls %}
         <a href="{{ soul.url | relative_url }}" class="prompt-card">
@@ -97,8 +98,8 @@ permalink: /ai-character-prompts/
   </section>
 
   <section class="prompts-section">
-    <h2 data-i18n="prompts.expert_title" data-localized-zh="专家角色 Prompts" data-localized-en="Expert Persona Prompts">专家角色 Prompts</h2>
-    <p class="section-desc" data-i18n="prompts.expert_desc" data-localized-zh="工作和学习的专业 AI 助手" data-localized-en="Professional AI assistants for work and learning">工作和学习的专业 AI 助手</p>
+    <h2 data-i18n="prompts.expert_title">专家角色 Prompts</h2>
+    <p class="section-desc" data-i18n="prompts.expert_desc">工作和学习的专业 AI 助手</p>
     <div class="prompts-grid">
       {% for soul in personas_souls limit: 24 %}
         <a href="{{ soul.url | relative_url }}" class="prompt-card">
@@ -107,52 +108,52 @@ permalink: /ai-character-prompts/
         </a>
       {% endfor %}
     </div>
-    <a href="{{ '/personas/' | relative_url }}" class="view-more" data-i18n="prompts.view_all" data-localized-zh="查看全部 47 位专家角色 →" data-localized-en="View all 47 expert personas →">查看全部 47 位专家角色 →</a>
+    <a href="{{ '/personas/' | relative_url }}" class="view-more" data-i18n="prompts.view_all" data-count="{{ personas_count }}">查看全部 {{ personas_count }} 位专家角色 →</a>
   </section>
 
   <section class="prompts-guide">
-    <h2 data-i18n="prompts.guide_title" data-localized-zh="如何使用 AI Character Prompts" data-localized-en="How to Use AI Character Prompts">如何使用 AI Character Prompts</h2>
+    <h2 data-i18n="prompts.guide_title">如何使用 AI Character Prompts</h2>
     <div class="guide-steps">
       <div class="step">
         <span class="step-number">1</span>
-        <h3 data-i18n="prompts.step1_title" data-localized-zh="选择角色" data-localized-en="Choose a Character">选择角色</h3>
-        <p data-i18n="prompts.step1_desc" data-localized-zh="浏览 300+ 历史人物、虚拟角色和专家角色" data-localized-en="Browse 300+ historical figures, virtual characters, and expert personas">浏览 300+ 历史人物、虚拟角色和专家角色</p>
+        <h3 data-i18n="prompts.step1_title">选择角色</h3>
+        <p data-i18n="prompts.step1_desc" data-count="{{ total_count }}">浏览 {{ total_count }} 位历史人物、虚拟角色和专家角色</p>
       </div>
       <div class="step">
         <span class="step-number">2</span>
-        <h3 data-i18n="prompts.step2_title" data-localized-zh="下载 SOUL.md" data-localized-en="Download SOUL.md">下载 SOUL.md</h3>
-        <p data-i18n="prompts.step2_desc" data-localized-zh="获取包含性格、信念和说话风格的完整角色设定" data-localized-en="Get the complete character prompt with personality, beliefs, and speaking style">获取包含性格、信念和说话风格的完整角色设定</p>
+        <h3 data-i18n="prompts.step2_title">下载 SOUL.md</h3>
+        <p data-i18n="prompts.step2_desc">获取包含性格、信念和说话风格的完整角色设定</p>
       </div>
       <div class="step">
         <span class="step-number">3</span>
-        <h3 data-i18n="prompts.step3_title" data-localized-zh="用作系统提示词" data-localized-en="Use as System Prompt">用作系统提示词</h3>
-        <p data-i18n="prompts.step3_desc" data-localized-zh="复制到 ChatGPT、Claude 或任何 AI 助手作为系统指令" data-localized-en="Copy to ChatGPT, Claude, or any AI assistant as the system instruction">复制到 ChatGPT、Claude 或任何 AI 助手作为系统指令</p>
+        <h3 data-i18n="prompts.step3_title">用作系统提示词</h3>
+        <p data-i18n="prompts.step3_desc">复制到 ChatGPT、Claude 或任何 AI 助手作为系统指令</p>
       </div>
       <div class="step">
         <span class="step-number">4</span>
-        <h3 data-i18n="prompts.step4_title" data-localized-zh="开始对话" data-localized-en="Start Conversing">开始对话</h3>
-        <p data-i18n="prompts.step4_desc" data-localized-zh="以角色身份提问、寻求建议或探讨想法" data-localized-en="Ask questions, seek advice, or explore ideas in character">以角色身份提问、寻求建议或探讨想法</p>
+        <h3 data-i18n="prompts.step4_title">开始对话</h3>
+        <p data-i18n="prompts.step4_desc">以角色身份提问、寻求建议或探讨想法</p>
       </div>
     </div>
   </section>
 
   <section class="prompts-faq-teaser">
-    <h2 data-i18n="prompts.faq_title" data-localized-zh="常见问题" data-localized-en="Frequently Asked Questions">常见问题</h2>
+    <h2 data-i18n="prompts.faq_title">常见问题</h2>
     <div class="faq-list">
       <div class="faq-item">
-        <h4 data-i18n="prompts.faq1_q" data-localized-zh="什么是 AI character prompt？" data-localized-en="What is an AI character prompt?">什么是 AI character prompt？</h4>
-        <p data-i18n="prompts.faq1_a" data-localized-zh="详细的性格设定，让 AI 助手能够以特定角色的身份回应，包含其信念、知识和说话风格。" data-localized-en="A detailed personality setting that allows AI assistants to respond as a specific character with their beliefs, knowledge, and speaking style.">详细的性格设定，让 AI 助手能够以特定角色的身份回应，包含其信念、知识和说话风格。</p>
+        <h4 data-i18n="prompts.faq1_q">什么是 AI character prompt？</h4>
+        <p data-i18n="prompts.faq1_a">详细的性格设定，让 AI 助手能够以特定角色的身份回应，包含其信念、知识和说话风格。</p>
       </div>
       <div class="faq-item">
-        <h4 data-i18n="prompts.faq2_q" data-localized-zh="可以用于商业项目吗？" data-localized-en="Can I use these prompts for commercial projects?">可以用于商业项目吗？</h4>
-        <p data-i18n="prompts.faq2_a" data-localized-zh="可以，所有 Prompts 采用 MIT 许可证，你可以自由使用、修改和分发。" data-localized-en="Yes, all prompts are MIT licensed. You can use, modify, and distribute them freely.">可以，所有 Prompts 采用 MIT 许可证，你可以自由使用、修改和分发。</p>
+        <h4 data-i18n="prompts.faq2_q">可以用于商业项目吗？</h4>
+        <p data-i18n="prompts.faq2_a">可以，所有 Prompts 采用 MIT 许可证，你可以自由使用、修改和分发。</p>
       </div>
       <div class="faq-item">
-        <h4 data-i18n="prompts.faq3_q" data-localized-zh="如何创建自己的角色 Prompts？" data-localized-en="How do I create my own character prompts?">如何创建自己的角色 Prompts？</h4>
-        <p data-i18n="prompts.faq3_a" data-localized-zh="学习 SOUL.md 结构，使用我们的 soul-creator 工具生成新角色。" data-localized-en="Study the SOUL.md structure and use our soul-creator tool to generate new characters.">学习 SOUL.md 结构，使用我们的 soul-creator 工具生成新角色。</p>
+        <h4 data-i18n="prompts.faq3_q">如何创建自己的角色 Prompts？</h4>
+        <p data-i18n="prompts.faq3_a">学习 SOUL.md 结构，参考 GitHub 仓库里的贡献指南创建新角色。</p>
       </div>
     </div>
-    <a href="{{ '/faq/' | relative_url }}" class="view-more" data-i18n="prompts.view_faq" data-localized-zh="查看全部常见问题 →" data-localized-en="View all FAQs →">查看全部常见问题 →</a>
+    <a href="{{ '/faq/' | relative_url }}" class="view-more" data-i18n="prompts.view_faq">查看全部常见问题 →</a>
   </section>
 </div>
 

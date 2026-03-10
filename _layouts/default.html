@@ -1,11 +1,18 @@
+{% assign page_title_zh = page.seo_title_zh | default: page.title_zh | default: page.title | default: site.title %}
+{% assign page_title_en = page.seo_title_en | default: page.title_en | default: page.english_name | default: page.title | default: site.title %}
+{% if page.layout == 'soul' %}
+  {% assign page_title_en = page.english_name | default: page.title %}
+  {% assign page_title_en = page_title_en | append: " Prompts - Agent Souls" %}
+{% endif %}
+
 <!DOCTYPE html>
 <html
   lang="{{ page.lang | default: site.lang | default: 'zh' }}"
   data-theme="{{ site.default_theme | default: 'light' }}"
   data-baseurl="{{ site.baseurl | default: '' }}"
   data-site-title="{{ site.title | escape }}"
-  data-page-title-zh="{{ page.seo_title_zh | default: page.title_zh | default: page.title | default: site.title | escape }}"
-  data-page-title-en="{{ page.seo_title_en | default: page.title_en | default: page.english_name | default: page.title | default: site.title | escape }}"
+  data-page-title-zh="{{ page_title_zh | escape }}"
+  data-page-title-en="{{ page_title_en | escape }}"
 >
 <head>
   <meta charset="UTF-8">

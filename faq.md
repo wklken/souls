@@ -31,8 +31,8 @@ faq:
   
   - question: "How do I create my own character prompts?"
     question_zh: "如何创建自己的 character prompts？"
-    answer: "To create your own character: 1) Study our SOUL.md structure which includes Core Identity, Core Wisdom, Soul Portrait, Beliefs, Personality, and Speaking Style, 2) Research your character thoroughly, 3) Write in first person to capture their voice, 4) Include specific quotes and phrases they would use, 5) Use our soul-creator tool or follow the template in our GitHub repository."
-    answer_zh: "创建自己的角色：1) 学习我们的 SOUL.md 结构，包括核心身份、核心智慧、灵魂画像、信念、性格和说话风格，2) 彻底研究你的角色，3) 用第一人称写作以捕捉他们的声音，4) 包含他们会使用的特定引用和短语，5) 使用我们的 soul-creator 工具或遵循 GitHub 仓库中的模板。"
+    answer: "To create your own character: 1) Study our SOUL.md structure which includes Core Identity, Core Wisdom, Soul Portrait, Beliefs, Personality, and Speaking Style, 2) Research your character thoroughly, 3) Write in first person to capture their voice, 4) Include specific quotes and phrases they would use, 5) Follow the contribution guide in AGENTS.md in our GitHub repository."
+    answer_zh: "创建自己的角色：1) 学习我们的 SOUL.md 结构，包括核心身份、核心智慧、灵魂画像、信念、性格和说话风格，2) 彻底研究你的角色，3) 用第一人称写作以捕捉他们的声音，4) 包含他们会使用的特定引用和短语，5) 参考 GitHub 仓库中的 AGENTS.md 贡献指南。"
   
   - question: "What's the difference between historical and virtual character prompts?"
     question_zh: "历史人物和虚拟角色 prompts 有什么区别？"
@@ -61,8 +61,8 @@ faq:
   
   - question: "How can I contribute a new character?"
     question_zh: "如何贡献新角色？"
-    answer: "We welcome contributions! To add a new character: 1) Fork our GitHub repository, 2) Create a new folder in the appropriate category (real_world, virtual_world, or personas), 3) Follow our SOUL.md template structure, 4) Include both Chinese and English versions if possible, 5) Submit a pull request. See our CONTRIBUTING.md for detailed guidelines."
-    answer_zh: "我们欢迎贡献！要添加新角色：1) Fork 我们的 GitHub 仓库，2) 在适当的类别（real_world、virtual_world 或 personas）中创建新文件夹，3) 遵循我们的 SOUL.md 模板结构，4) 如果可能，包含中文和英文版本，5) 提交 pull request。查看我们的 CONTRIBUTING.md 了解详细指南。"
+    answer: "We welcome contributions! To add a new character: 1) Fork our GitHub repository, 2) Create a new folder in the appropriate category (real_world, virtual_world, or personas), 3) Follow our SOUL.md template structure, 4) Include both Chinese and English versions if possible, 5) Submit a pull request. See AGENTS.md for detailed guidelines."
+    answer_zh: "我们欢迎贡献！要添加新角色：1) Fork 我们的 GitHub 仓库，2) 在适当的类别（real_world、virtual_world 或 personas）中创建新文件夹，3) 遵循我们的 SOUL.md 模板结构，4) 如果可能，包含中文和英文版本，5) 提交 pull request。查看 AGENTS.md 了解详细指南。"
   
   - question: "What's the best way to search for specific character types?"
     question_zh: "搜索特定角色类型的最佳方式是什么？"
