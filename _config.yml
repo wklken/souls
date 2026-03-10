@@ -58,6 +58,14 @@ nav:
       zh: "专家角色"
       en: "Personas"
     url: "/personas"
+  - title:
+      zh: "Prompts"
+      en: "Prompts"
+    url: "/ai-character-prompts"
+  - title:
+      zh: "FAQ"
+      en: "FAQ"
+    url: "/faq"
 
 # 搜索配置
 search:
