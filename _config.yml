@@ -58,6 +58,10 @@ nav:
       zh: "专家角色"
       en: "Personas"
     url: "/personas"
+  - title:
+      zh: "灵魂团队"
+      en: "Teams"
+    url: "/teams"
 
 # 搜索配置
 search:
