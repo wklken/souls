@@ -76,7 +76,13 @@
       'faq.cta_1': '提交 issue 报告 bug 或功能请求',
       'faq.cta_2': '贡献新的角色 Prompts',
       'faq.cta_3': '加入社区讨论',
-      'faq.cta_4': '查看完整文档'
+      'faq.cta_4': '查看完整文档',
+      'nav.teams': '灵魂团队',
+      'teams.description': '组建 AI 灵魂团队，让多个 AI 角色协作完成任务',
+      'teams.members': '{count} 位成员',
+      'teams.download_config': '下载团队配置',
+      'teams.member_list': '团队成员',
+      'teams.view_soul': '查看灵魂'
     },
     en: {
       'site.title': 'Souls',
@@ -150,7 +156,13 @@
       'faq.cta_1': 'Submit an issue for bugs or feature requests',
       'faq.cta_2': 'Contribute new character prompts',
       'faq.cta_3': 'Join discussions with the community',
-      'faq.cta_4': 'View the complete documentation'
+      'faq.cta_4': 'View the complete documentation',
+      'nav.teams': 'Teams',
+      'teams.description': 'Build AI soul teams, let multiple AI characters collaborate on tasks',
+      'teams.members': '{count} members',
+      'teams.download_config': 'Download Team Config',
+      'teams.member_list': 'Team Members',
+      'teams.view_soul': 'View Soul'
     }
   };
   
