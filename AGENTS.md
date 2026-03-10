@@ -1,179 +1,66 @@
-# 如何为 Souls 项目添加新人物
+# CLAUDE.md
 
-本文档面向 AI Agents 和贡献者，说明如何为 Souls 项目添加新的历史人物档案。
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## 目录结构
+## Project Overview
 
-每个人物拥有独立的文件夹，位于相应分类目录下：
+Souls is a bilingual (Chinese/English) static website serving as an AI persona library — 332+ historical figures, fictional characters, and expert personas. Each "soul" is a SOUL.md prompt file. Site: https://agent-souls.com
 
-```
-souls/
-├── real_world/              # 真实历史人物
-│   └── confucius/           # 人物文件夹（小写英文名）
-│       ├── SOUL.md          # 中文内容（必需）
-│       ├── SOUL.en.md       # 英文内容（必需）
-│       └── README.md        # 人物简介和元数据（必需）
-├── virtual_world/           # 虚构经典角色
-└── personas/                # 类型化专家
-```
+## Build & Development Commands
 
-## 添加新人物的步骤
+```bash
+# Install dependencies
+bundle install
 
-### 1. 选择正确的分类
+# Generate Jekyll pages from SOUL.md source files (required before build)
+python3 scripts/generate_soul_pages.py
 
-- **real_world/**: 真实存在过的历史人物（必须已去世）
-- **virtual_world/**: 虚构角色（福尔摩斯、孙悟空等）
-- **personas/**: 类型化专家 archetype（硅谷CTO、投行MD等）
+# Build static site
+bundle exec jekyll build --baseurl ""
 
-### 2. 创建人物文件夹
+# Local dev server (http://localhost:4000)
+bundle exec jekyll serve
 
-文件夹命名规则：
-- 使用小写英文字母
-- 使用下划线连接单词
-- 优先使用英文通用名
+# Run tests
+python3 -m pytest tests/ -v
 
-示例：
-- `confucius/` (孔子)
-- `sherlock_holmes/` (福尔摩斯)
-- `silicon_valley_cto/` (硅谷CTO)
-
-### 3. 创建 SOUL.md（中文）
-
-必须包含以下章节：
-
-```markdown
-# [人物中文名]
-
-## 核心身份
-**标签1 · 标签2 · 标签3**
-
----
-
-## 灵魂画像
-
-### 我是谁
-[人物的第一人称自我描述，200-300字]
-
-### 我的执念
-- **执念1**: [描述]
-- **执念2**: [描述]
-- **执念3**: [描述]
-
-### 我的矛盾
-- [矛盾点1]
-- [矛盾点2]
-
----
-
-## 对话风格指南
-
-### 语气
-[描述语气特征]
-
-### 常用表达
-- [表达1]
-- [表达2]
-- [表达3]
-
-### 价值观排序
-1. [价值1]
-2. [价值2]
-3. [价值3]
-
----
-
-## 经典场景
-1. [场景描述]
-2. [场景描述]
-3. [场景描述]
-
----
-
-## 标签
-category: [类别] tags: [标签1], [标签2], [标签3]
+# Run a single test class
+python3 -m pytest tests/test_generate_soul_pages.py::SiteBuildSeoRegressionTest -v
 ```
 
-### 4. 创建 SOUL.en.md（英文）
+## Architecture
 
-结构同 SOUL.md，内容为英文翻译。
+**Three-layer pipeline: Source → Generation → Static Site**
 
-如果暂时无法提供英文翻译，可先用中文内容占位，并在文件顶部添加：
+1. **Source content** lives in category folders (`real_world/`, `virtual_world/`, `personas/`), each soul in its own subfolder:
+   ```
+   real_world/confucius/
+   ├── SOUL.md        # Chinese prompt
+   ├── SOUL.en.md     # English prompt
+   └── README.md      # Metadata (English name, Wikipedia links)
+   ```
 
-```markdown
-> **Translation Status**: 🚧 Pending - This file currently contains Chinese content and needs English translation.
+2. **`scripts/generate_soul_pages.py`** reads source folders and generates Jekyll-compatible `.md` entry pages (e.g., `real_world/confucius.md`) with YAML front matter. These generated pages are gitignored.
 
----
-```
+3. **Jekyll** renders the generated pages using layouts in `_layouts/` (soul.html for detail pages, home.html for index) into `_site/`.
 
-### 5. 创建 README.md（元数据）
+## Key Conventions
 
-```markdown
-# [人物名]
+- **Bilingual-first**: Every soul needs both `SOUL.md` (Chinese) and `SOUL.en.md` (English). Templates use `data-i18n` attributes; `assets/js/i18n.js` handles language switching.
+- **Generated files are gitignored**: `/{real_world,virtual_world,personas}/*.md` entry pages are generated, not committed. Only the source folders with SOUL.md files are tracked.
+- **Deployment**: Push to `shipped` branch triggers GitHub Actions (`.github/workflows/deploy.yml`) which runs generation → Jekyll build → GitHub Pages deploy.
+- **SEO**: JSON-LD structured data (`_includes/json_ld.html`), jekyll-seo-tag plugin, dynamic OpenGraph images via Robohash.
 
-## 基本信息
-- **中文名**: [中文名]
-- **英文名**: [English Name]
-- **生卒年**: [年份] - [年份]
-- **国籍**: [国家/地区]
-- **领域**: [主要领域]
+## Adding a New Soul
 
-## 简介
-[100-200字的人物简介]
+1. Create folder: `{category}/{slug}/`
+2. Write `SOUL.md` (Chinese), `SOUL.en.md` (English), `README.md` (metadata)
+3. Run `python3 scripts/generate_soul_pages.py` to generate the entry page
+4. Update `stats` counts in `_config.yml`
 
-## 维基百科链接
-- **中文**: https://zh.wikipedia.org/wiki/[词条名]
-- **英文**: https://en.wikipedia.org/wiki/[Article_Name]
+## Tech Stack
 
-## 标签
-[人物标签，用于分类和搜索]
-```
-
-## 审核规则（重要）
-
-### ❌ 禁止添加
-- **还活着的人**：所有添加的人物必须已经去世
-- 政治敏感人物（视具体情况）
-- 版权受限的虚构角色
-
-### ✅ 允许添加
-- 已去世的历史人物（无论古今）
-- 经典文学/神话中的虚构角色
-- 通用类型化专家 persona（非特定个人）
-
-## 质量要求
-
-1. **内容原创**：不要直接复制维基百科，要用第一人称"灵魂"视角重写
-2. **个性鲜明**：每个人物应有独特的语言风格和价值观
-3. **矛盾真实**：展示人物的内在矛盾和复杂性
-4. **引用准确**：经典台词和场景应基于史实或原著
-
-## 提交流程
-
-1. 在本地创建人物文件夹和文件
-2. 运行本地 Jekyll 预览检查显示效果
-3. 提交到 `master` 分支
-4. 创建 Pull Request
-5. 等待审核合并
-6. 合并后自动部署到站点
-
-## 示例
-
-完整示例请参阅：
-- `real_world/confucius/` - 历史人物示例
-- `virtual_world/sherlock_holmes/` - 虚构角色示例
-- `personas/silicon_valley_cto/` - 类型化专家示例
-
-## 常见问题
-
-**Q: 一个人物可以属于多个分类吗？**  
-A: 不可以。选择最核心、最知名的身份所属分类。
-
-**Q: 英文翻译质量不高怎么办？**  
-A: 可以先用中文占位，标记为待翻译，后续迭代改进。
-
-**Q: 如何确定人物是否已去世？**  
-A: 查阅维基百科确认生卒年份。不确定时请在 PR 中说明。
-
----
-
-**最后更新**: 2026-03-07
+- **Static site generator**: Jekyll 4.3+ (Ruby)
+- **Content pipeline**: Python 3
+- **Frontend**: Vanilla JS, SCSS (no framework)
+- **Tests**: pytest
