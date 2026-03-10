@@ -108,8 +108,8 @@ function downloadTeamConfig() {
           zh: {{ member.description_zh | jsonify }},
           en: {{ member.description_en | jsonify }}
         },
-        soul_download_url: "{{ member.download_url | relative_url }}",
-        soul_page_url: "{{ member.soul_path | relative_url }}"
+        soul_download_url: "{{ member.download_url | absolute_url }}",
+        soul_page_url: "{{ member.soul_path | absolute_url }}"
       }{% unless forloop.last %},{% endunless %}
       {% endfor %}
     ],
