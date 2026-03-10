@@ -66,6 +66,9 @@ nav:
       zh: "FAQ"
       en: "FAQ"
     url: "/faq"
+      zh: "灵魂团队"
+      en: "Teams"
+    url: "/teams"
 
 # 搜索配置
 search:

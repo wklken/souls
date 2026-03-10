@@ -1,0 +1,130 @@
+---
+layout: default
+---
+
+{% assign team_id = page.team_id %}
+{% assign team = site.data.teams | where: 'id', team_id | first %}
+{% assign team_name_zh = team.name_zh %}
+{% assign team_name_en = team.name_en %}
+{% assign team_desc_zh = team.description_zh %}
+{% assign team_desc_en = team.description_en %}
+
+<div class="team-page">
+  <nav class="breadcrumb">
+    <a href="{{ '/' | relative_url }}" data-i18n="nav.home">首页</a>
+    <span>/</span>
+    <a href="/teams/" data-i18n="nav.teams">灵魂团队</a>
+    <span>/</span>
+    <span
+      data-localized-zh="{{ team_name_zh | escape }}"
+      data-localized-en="{{ team_name_en | escape }}"
+    >{{ team_name_zh }}</span>
+  </nav>
+  
+  <div class="team-header">
+    <h1
+      data-localized-zh="{{ team_name_zh | escape }}"
+      data-localized-en="{{ team_name_en | escape }}"
+    >{{ team_name_zh }}</h1>
+    {% if team_name_en and team_name_en != team_name_zh %}
+    <p
+      class="team-english-name"
+      data-localized-zh="{{ team_name_en | escape }}"
+      data-localized-en="{{ team_name_zh | escape }}"
+    >{{ team_name_en }}</p>
+    {% endif %}
+  </div>
+
+  <div class="team-description-box">
+    <p
+      data-localized-zh="{{ team_desc_zh | escape }}"
+      data-localized-en="{{ team_desc_en | escape }}"
+    >{{ team_desc_zh }}</p>
+  </div>
+
+  <div class="team-actions">
+    <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
+      下载团队配置
+    </button>
+  </div>
+
+  <div class="team-members-section">
+    <h2 data-i18n="teams.member_list">团队成员</h2>
+    <div class="team-members-grid">
+      {% for member in team.members %}
+      <div class="team-member-card">
+        <div class="member-header">
+          <h3
+            class="member-name"
+            data-localized-zh="{{ member.name_zh | escape }}"
+            data-localized-en="{{ member.name_en | escape }}"
+          >{{ member.name_zh }}</h3>
+          {% if member.name_en and member.name_en != member.name_zh %}
+          <span
+            class="member-name-en"
+            data-localized-zh="{{ member.name_en | escape }}"
+            data-localized-en="{{ member.name_zh | escape }}"
+          >{{ member.name_en }}</span>
+          {% endif %}
+        </div>
+        <p
+          class="member-description"
+          data-localized-zh="{{ member.description_zh | escape }}"
+          data-localized-en="{{ member.description_en | escape }}"
+        >{{ member.description_zh }}</p>
+        <div class="member-actions">
+          <a href="{{ member.soul_path | relative_url }}" class="btn btn-small btn-view" data-i18n="teams.view_soul">
+            查看灵魂
+          </a>
+          <a href="{{ member.download_url | relative_url }}" class="btn btn-small btn-download" download data-i18n="action.download">
+            下载
+          </a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<script>
+function downloadTeamConfig() {
+  const teamData = {
+    team_name: {
+      zh: {{ team.name_zh | jsonify }},
+      en: {{ team.name_en | jsonify }}
+    },
+    team_description: {
+      zh: {{ team.description_zh | jsonify }},
+      en: {{ team.description_en | jsonify }}
+    },
+    members: [
+      {% for member in team.members %}
+      {
+        name: {
+          zh: {{ member.name_zh | jsonify }},
+          en: {{ member.name_en | jsonify }}
+        },
+        description: {
+          zh: {{ member.description_zh | jsonify }},
+          en: {{ member.description_en | jsonify }}
+        },
+        soul_download_url: "{{ member.download_url | relative_url }}",
+        soul_page_url: "{{ member.soul_path | relative_url }}"
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ],
+    created_at: new Date().toISOString(),
+    source: "Agent Souls - https://agent-souls.com"
+  };
+
+  const blob = new Blob([JSON.stringify(teamData, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'team-{{ team.id }}-config.json';
+  document.body.appendChild(a);
+  a.click();
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+</script>
