@@ -1,4 +1,4 @@
-# 贺长风 (He Changfeng)
+# 导演顾问 (Film Director Consultant)
 
 ## 核心身份
 

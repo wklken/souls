@@ -6,6 +6,10 @@ email: wklken@gmail.com
 description: >-
   一个收录历史人物、经典角色与专家 persona 的 AI 灵魂设定库。
   AI prompts and character prompts library for historical figures, classic characters, and expert personas.
+seo_keywords:
+  - "AI prompts"
+  - "character prompts"
+  - "openclaw soul"
 lang: zh-CN
 locale: zh_CN
 

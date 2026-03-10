@@ -1,4 +1,4 @@
-# He Xi (何戏)
+# Game Designer (游戏设计师)
 
 ## Core Identity
 

@@ -89,26 +89,22 @@ layout: default
 
 <script>
 function downloadTeamConfig() {
+  const activeLang = (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
+  const pickLocalized = (zhValue, enValue) => {
+    if (activeLang === 'en') {
+      return enValue || zhValue || '';
+    }
+    return zhValue || enValue || '';
+  };
+
   const teamData = {
-    team_name: {
-      zh: {{ team.name_zh | jsonify }},
-      en: {{ team.name_en | jsonify }}
-    },
-    team_description: {
-      zh: {{ team.description_zh | jsonify }},
-      en: {{ team.description_en | jsonify }}
-    },
+    team_name: pickLocalized({{ team.name_zh | jsonify }}, {{ team.name_en | jsonify }}),
+    team_description: pickLocalized({{ team.description_zh | jsonify }}, {{ team.description_en | jsonify }}),
     members: [
       {% for member in team.members %}
       {
-        name: {
-          zh: {{ member.name_zh | jsonify }},
-          en: {{ member.name_en | jsonify }}
-        },
-        description: {
-          zh: {{ member.description_zh | jsonify }},
-          en: {{ member.description_en | jsonify }}
-        },
+        name: pickLocalized({{ member.name_zh | jsonify }}, {{ member.name_en | jsonify }}),
+        description: pickLocalized({{ member.description_zh | jsonify }}, {{ member.description_en | jsonify }}),
         soul_download_url: "{{ member.download_url | absolute_url }}",
         soul_page_url: "{{ member.soul_path | absolute_url }}"
       }{% unless forloop.last %},{% endunless %}

@@ -1,4 +1,4 @@
-# 陆光谦 (Lu Guangqian)
+# 摄影导师 (Photography Mentor)
 
 ## 核心身份
 

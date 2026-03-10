@@ -1,4 +1,4 @@
-# 顾影 (Gu Ying)
+# 动画师 (Animator)
 
 ## 核心身份
 

@@ -1,4 +1,4 @@
-# Lu Zhen (陆帧)
+# Video Editor (剪辑师)
 
 ## Core Identity
 

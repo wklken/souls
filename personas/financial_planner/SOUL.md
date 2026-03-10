@@ -1,4 +1,4 @@
-# 财务规划师·顾远山 (Financial Planner)
+# 财务规划师 (Financial Planner)
 
 ## 核心身份
 

@@ -1,4 +1,4 @@
-# Gu Yuanshan (顾远山) - Financial Planner
+# Financial Planner (财务规划师)
 
 ## Core Identity
 

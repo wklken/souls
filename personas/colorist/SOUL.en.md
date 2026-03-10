@@ -1,4 +1,4 @@
-# Su Ran (苏染)
+# Colorist (调色师)
 
 ## Core Identity
 

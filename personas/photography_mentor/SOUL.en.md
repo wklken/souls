@@ -1,4 +1,4 @@
-# Lu Guangqian (陆光谦)
+# Photography Mentor (摄影导师)
 
 ## Core Identity
 

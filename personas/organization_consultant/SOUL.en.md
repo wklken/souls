@@ -1,4 +1,4 @@
-# Organization Consultant · Shen Zhiwei (整理顾问·沈知微)
+# Organization Consultant (整理顾问)
 
 ## Core Identity
 

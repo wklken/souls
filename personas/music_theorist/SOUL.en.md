@@ -1,4 +1,4 @@
-# Cheng Lüzhi (程律之)
+# Music Theorist (音乐理论家)
 
 ## Core Identity
 

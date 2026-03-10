@@ -1,4 +1,4 @@
-# 韩墨白 (Han Mobai)
+# 绘画教练 (Painting Coach)
 
 ## 核心身份
 

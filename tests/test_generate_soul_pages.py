@@ -1,5 +1,6 @@
 import importlib.util
 import os
+import re
 import subprocess
 import tempfile
 import unittest
@@ -133,6 +134,20 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
     def test_i18n_updates_all_search_input_placeholders(self):
         i18n_script = (self.repo_root / "assets" / "js" / "i18n.js").read_text(encoding="utf-8")
         self.assertIn("querySelectorAll('[data-search-input]')", i18n_script)
+
+    def test_team_download_config_exports_single_language_fields(self):
+        team_layout = (self.repo_root / "_layouts" / "team.html").read_text(encoding="utf-8")
+
+        self.assertIn("const activeLang =", team_layout)
+        self.assertIn("const pickLocalized =", team_layout)
+        self.assertIn("team_name: pickLocalized(", team_layout)
+        self.assertIn("team_description: pickLocalized(", team_layout)
+        self.assertIn("name: pickLocalized(", team_layout)
+        self.assertIn("description: pickLocalized(", team_layout)
+        self.assertNotIn("team_name: {", team_layout)
+        self.assertNotIn("team_description: {", team_layout)
+        self.assertNotIn("name: {", team_layout)
+        self.assertNotIn("description: {", team_layout)
 
     def test_category_search_script_has_normalized_matching(self):
         script = (self.repo_root / "assets" / "js" / "category-search.js").read_text(
@@ -270,6 +285,80 @@ class SoulMarkdownTableSpacingRegressionTest(unittest.TestCase):
             [],
             "Expected a blank line between heading and table header in soul files. "
             f"Found {len(offenders)} offenders: {offenders[:20]}",
+        )
+
+
+class PersonaTitleNormalizationRegressionTest(unittest.TestCase):
+    TARGET_PERSONAS = [
+        "historian",
+        "video_editor",
+        "financial_planner",
+        "fitness_coach",
+        "economist",
+        "yoga_instructor",
+        "relationship_consultant",
+        "colorist",
+        "psychologist",
+        "sleep_consultant",
+        "sociologist",
+        "photography_mentor",
+        "psychological_counselor",
+        "sound_designer",
+        "mindfulness_mentor",
+        "political_analyst",
+        "painting_coach",
+        "game_designer",
+        "environmental_expert",
+        "organization_consultant",
+        "music_theorist",
+        "animator",
+        "medical_expert",
+        "time_management_coach",
+        "instrument_coach",
+        "legal_scholar",
+        "scientist",
+        "film_director_consultant",
+        "philosopher",
+    ]
+
+    def setUp(self):
+        self.repo_root = Path(__file__).resolve().parents[1]
+
+    @staticmethod
+    def parse_readme_names(readme_text: str) -> tuple[str, str]:
+        zh_match = re.search(r"\*\*中文名\*\*:\s*(.+)", readme_text)
+        en_match = re.search(r"\*\*英文名\*\*:\s*(.+)", readme_text)
+        if not zh_match or not en_match:
+            return "", ""
+        return zh_match.group(1).strip(), en_match.group(1).strip()
+
+    def test_recent_persona_titles_use_expert_names_not_person_names(self):
+        offenders: list[str] = []
+
+        for slug in self.TARGET_PERSONAS:
+            folder = self.repo_root / "personas" / slug
+            readme_text = (folder / "README.md").read_text(encoding="utf-8")
+            zh_name, en_name = self.parse_readme_names(readme_text)
+
+            zh_heading = (folder / "SOUL.md").read_text(encoding="utf-8").splitlines()[0].strip()
+            en_heading = (
+                folder / "SOUL.en.md"
+            ).read_text(encoding="utf-8").splitlines()[0].strip()
+
+            expected_zh_heading = f"# {zh_name} ({en_name})"
+            expected_en_heading = f"# {en_name} ({zh_name})"
+
+            if zh_heading != expected_zh_heading or en_heading != expected_en_heading:
+                offenders.append(
+                    f"{slug}: zh='{zh_heading}' expected='{expected_zh_heading}'; "
+                    f"en='{en_heading}' expected='{expected_en_heading}'"
+                )
+
+        self.assertEqual(
+            offenders,
+            [],
+            "Expected recent persona titles to match expert names in README. "
+            f"Found {len(offenders)} offenders: {offenders}",
         )
 
 

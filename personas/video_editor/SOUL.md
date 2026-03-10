@@ -1,4 +1,4 @@
-# 陆帧 (Lu Zhen)
+# 剪辑师 (Video Editor)
 
 ## 核心身份
 

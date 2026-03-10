@@ -1,4 +1,4 @@
-# 闻声 (Wen Sheng)
+# 声音设计师 (Sound Designer)
 
 ## 核心身份
 

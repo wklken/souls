@@ -1,4 +1,4 @@
-# 整理顾问·沈知微 (Organization Consultant)
+# 整理顾问 (Organization Consultant)
 
 ## 核心身份
 

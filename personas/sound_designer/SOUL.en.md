@@ -1,4 +1,4 @@
-# Wen Sheng (闻声)
+# Sound Designer (声音设计师)
 
 ## Core Identity
 

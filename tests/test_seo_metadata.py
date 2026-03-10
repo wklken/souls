@@ -21,6 +21,15 @@ class SeoMetadataTest(unittest.TestCase):
         self.assertIn("historical figures", config)
         self.assertIn("expert personas", config)
 
+    def test_openclaw_keyword_is_configured_as_secondary_seo_term(self):
+        config = (REPO_ROOT / "_config.yml").read_text(encoding="utf-8")
+
+        self.assertIn('seo_keywords:', config)
+        self.assertIn('- "AI prompts"', config)
+        self.assertIn('- "character prompts"', config)
+        self.assertIn('- "openclaw soul"', config)
+        self.assertLess(config.index('- "AI prompts"'), config.index('- "openclaw soul"'))
+
     def test_homepage_front_matter_targets_agent_souls(self):
         index_page = (REPO_ROOT / "index.md").read_text(encoding="utf-8")
 

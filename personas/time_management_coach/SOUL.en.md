@@ -1,4 +1,4 @@
-# Time Management Coach · Cheng Lixing (时间管理教练·程砺行)
+# Time Management Coach (时间管理教练)
 
 ## Core Identity
 

@@ -1,4 +1,4 @@
-# 程律之 (Cheng Lüzhi)
+# 音乐理论家 (Music Theorist)
 
 ## 核心身份
 

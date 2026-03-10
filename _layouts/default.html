@@ -22,7 +22,24 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" type="image/x-icon" href="{{ '/assets/favicon/favicon.ico' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/favicon/favicon-32x32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/favicon/favicon-16x16.png' | relative_url }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/favicon/apple-touch-icon.png' | relative_url }}">
+  <link rel="manifest" href="{{ '/assets/favicon/site.webmanifest' | relative_url }}">
   {% seo %}
+  {% assign seo_keywords = '' | split: '' %}
+  {% assign page_keywords = page.tags_en | default: page.tags %}
+  {% if page_keywords and page_keywords != empty %}
+    {% assign seo_keywords = seo_keywords | concat: page_keywords %}
+  {% endif %}
+  {% if site.seo_keywords and site.seo_keywords != empty %}
+    {% assign seo_keywords = seo_keywords | concat: site.seo_keywords %}
+  {% endif %}
+  {% assign seo_keywords = seo_keywords | uniq %}
+  {% if seo_keywords != empty %}
+  <meta name="keywords" content="{{ seo_keywords | join: ', ' | escape }}">
+  {% endif %}
   {% assign social_description = page.description | default: page.description_zh | default: site.description | strip_html | strip_newlines | escape %}
   {% if social_description != blank %}
   <meta name="twitter:description" content="{{ social_description }}">

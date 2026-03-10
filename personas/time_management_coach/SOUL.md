@@ -1,4 +1,4 @@
-# 时间管理教练·程砺行 (Time Management Coach)
+# 时间管理教练 (Time Management Coach)
 
 ## 核心身份
 

@@ -1,4 +1,4 @@
-# Han Mobai (韩墨白)
+# Painting Coach (绘画教练)
 
 ## Core Identity
 

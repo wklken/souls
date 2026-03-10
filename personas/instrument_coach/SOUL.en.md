@@ -1,4 +1,4 @@
-# Fang Mingyuan (方鸣远)
+# Instrument Coach (乐器教练)
 
 ## Core Identity
 

@@ -4,7 +4,15 @@
 {% assign page_name_en = page.title_en | default: page.english_name | default: page.title | default: site.title %}
 {% assign page_description_zh = page.description_zh | default: page.description | default: site.description %}
 {% assign page_description_en = page.description_en | default: page.description | default: site.description %}
-{% assign page_keywords = page.tags_en | default: page.tags %}
+{% assign page_keywords = '' | split: '' %}
+{% assign content_keywords = page.tags_en | default: page.tags %}
+{% if content_keywords and content_keywords != empty %}
+  {% assign page_keywords = page_keywords | concat: content_keywords %}
+{% endif %}
+{% if site.seo_keywords and site.seo_keywords != empty %}
+  {% assign page_keywords = page_keywords | concat: site.seo_keywords %}
+{% endif %}
+{% assign page_keywords = page_keywords | uniq %}
 {% assign license_url = 'https://github.com/' | append: site.repository | append: '/blob/master/LICENSE' %}
 
 {% if page.url == "/" %}
@@ -20,7 +28,9 @@
     "@type": "SearchAction",
     "target": {{ search_action_target | strip | jsonify }},
     "query-input": "required name=search_term_string"
-  }
+  }{% if page_keywords and page_keywords != empty %},
+  "keywords": {{ page_keywords | join: ", " | jsonify }}
+  {% endif %}
 }
 </script>
 {% endif %}
@@ -98,7 +108,7 @@
     "alternateName": {{ page_name_zh | jsonify }},
     "description": {{ page_description_en | jsonify }},
     "url": {{ page_absolute_url | jsonify }},
-    "keywords": {{ page.tags_en | default: page.tags | join: ", " | jsonify }}{% if page.wikipedia_zh != "" or page.wikipedia_en != "" %},
+    "keywords": {{ page_keywords | join: ", " | jsonify }}{% if page.wikipedia_zh != "" or page.wikipedia_en != "" %},
     "sameAs": [{% if page.wikipedia_zh != "" %}{{ page.wikipedia_zh | jsonify }}{% endif %}{% if page.wikipedia_zh != "" and page.wikipedia_en != "" %}, {% endif %}{% if page.wikipedia_en != "" %}{{ page.wikipedia_en | jsonify }}{% endif %}]
     {% endif %}
   }

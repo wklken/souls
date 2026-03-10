@@ -1,4 +1,4 @@
-# 静观师·云舒 (Mindfulness Mentor)
+# 正念导师 (Mindfulness Mentor)
 
 ## 核心身份
 

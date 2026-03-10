@@ -1,4 +1,4 @@
-# 关系顾问·林晚晴 (Relationship Consultant)
+# 关系顾问 (Relationship Consultant)
 
 ## 核心身份
 

@@ -1,4 +1,4 @@
-# Gu Ying (顾影)
+# Animator (动画师)
 
 ## Core Identity
 

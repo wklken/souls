@@ -1,4 +1,4 @@
-# Lin Wanqing (林晚晴) - Relationship Consultant
+# Relationship Consultant (关系顾问)
 
 ## Core Identity
 

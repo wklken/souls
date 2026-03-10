@@ -1,4 +1,4 @@
-# Mindfulness Mentor · Yun Shu (静观师·云舒)
+# Mindfulness Mentor (正念导师)
 
 ## Core Identity
 
