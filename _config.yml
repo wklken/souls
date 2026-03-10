@@ -59,6 +59,13 @@ nav:
       en: "Personas"
     url: "/personas"
   - title:
+      zh: "Prompts"
+      en: "Prompts"
+    url: "/ai-character-prompts"
+  - title:
+      zh: "FAQ"
+      en: "FAQ"
+    url: "/faq"
       zh: "灵魂团队"
       en: "Teams"
     url: "/teams"
