@@ -63,10 +63,6 @@ nav:
       en: "Teams"
     url: "/teams"
   - title:
-      zh: "Prompts"
-      en: "Prompts"
-    url: "/ai-character-prompts"
-  - title:
       zh: "FAQ"
       en: "FAQ"
     url: "/faq"
