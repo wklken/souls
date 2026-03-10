@@ -76,24 +76,69 @@ a {
   position: sticky;
   top: 0;
   z-index: 40;
-  background: color-mix(in srgb, var(--bg-secondary) 82%, transparent);
-  backdrop-filter: blur(8px);
-  border-bottom: 1px solid color-mix(in srgb, var(--border-color) 70%, transparent);
+  background:
+    linear-gradient(
+      90deg,
+      color-mix(in srgb, var(--bg-secondary) 94%, var(--accent-color) 6%),
+      color-mix(in srgb, var(--bg-secondary) 96%, transparent)
+    ),
+    color-mix(in srgb, var(--bg-secondary) 82%, transparent);
+  backdrop-filter: blur(10px);
+  border-bottom: 1px solid color-mix(in srgb, var(--border-color) 76%, transparent);
+  box-shadow: 0 6px 18px rgba(24, 34, 45, 0.05);
 
   .wrapper {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 1.2rem;
-    min-height: 74px;
+    min-height: 78px;
   }
 
   .site-title {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.64rem;
+    padding: 0.2rem 0;
+    color: var(--text-color);
+
+    &:hover {
+      color: var(--text-color);
+
+      .site-title-icon {
+        transform: translateY(-1px);
+        border-color: color-mix(in srgb, var(--accent-color) 45%, var(--border-color));
+      }
+    }
+  }
+
+  .site-title-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 12px;
+    border: 1px solid color-mix(in srgb, var(--border-color) 90%, #fff 10%);
+    background:
+      radial-gradient(circle at 22% 22%, rgba(255, 255, 255, 0.45), transparent 45%),
+      color-mix(in srgb, var(--card-bg) 92%, transparent);
+    box-shadow: var(--shadow-soft);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s ease, border-color 0.2s ease;
+
+    img {
+      width: 24px;
+      height: 24px;
+      display: block;
+    }
+  }
+
+  .site-title-text {
     font-family: "Cormorant Garamond", Georgia, serif;
     font-size: 2rem;
     font-weight: 700;
+    line-height: 1;
     letter-spacing: 0.04em;
-    color: var(--text-color);
   }
 
   .site-nav {
@@ -674,6 +719,21 @@ html[lang="en"] .soul-content .soul-lang-en {
       padding-top: 0.55rem;
       padding-bottom: 0.55rem;
       min-height: 0;
+    }
+
+    .site-title-icon {
+      width: 34px;
+      height: 34px;
+      border-radius: 10px;
+
+      img {
+        width: 20px;
+        height: 20px;
+      }
+    }
+
+    .site-title-text {
+      font-size: 1.72rem;
     }
 
     .site-nav {

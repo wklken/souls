@@ -1,6 +1,14 @@
 <header class="site-header">
   <div class="wrapper">
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.brand_name | default: site.title }}</a>
+    <a class="site-title" href="{{ '/' | relative_url }}">
+        <img
+          src="{{ '/assets/favicon/favicon-32x32.png' | relative_url }}"
+          alt=""
+          width="32"
+          height="32"
+        >
+      <span class="site-title-text" data-i18n="site.title">{{ site.brand_name | default: site.title }}</span>
+    </a>
     
     <nav class="site-nav">
       {% for item in site.nav %}
