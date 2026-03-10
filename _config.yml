@@ -59,6 +59,10 @@ nav:
       en: "Personas"
     url: "/personas"
   - title:
+      zh: "灵魂团队"
+      en: "Teams"
+    url: "/teams"
+  - title:
       zh: "Prompts"
       en: "Prompts"
     url: "/ai-character-prompts"
@@ -66,10 +70,6 @@ nav:
       zh: "FAQ"
       en: "FAQ"
     url: "/faq"
-  - title:
-      zh: "灵魂团队"
-      en: "Teams"
-    url: "/teams"
 
 # 搜索配置
 search:
