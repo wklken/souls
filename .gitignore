@@ -10,3 +10,4 @@ tests/*
 vendor
 Gemfile.lock
 _site
+tmp/*
