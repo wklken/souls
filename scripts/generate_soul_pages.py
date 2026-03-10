@@ -259,7 +259,7 @@ def generate_for_category(category: str, category_name: str | dict[str, str]) ->
         primary_title_zh = strip_trailing_latin_parenthetical(title_zh)
         primary_title_en = strip_trailing_latin_parenthetical(name_en or title_en or title_zh)
         seo_title_zh = f"{primary_title_zh} AI 灵魂设定"
-        seo_title_en = f"{primary_title_en} AI Soul Prompt"
+        seo_title_en = f"{primary_title_en} Prompts - AI Character Prompt"
 
         page_path = category_dir / f"{folder.name}.md"
 
