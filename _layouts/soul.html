@@ -68,7 +68,6 @@ layout: default
       target="_blank"
       data-i18n="action.edit"
     >修正</a>
-    <a href="{{ '/ai-character-prompts/' | relative_url }}" class="btn btn-prompts">Prompts</a>
   </div>
   
   <div class="soul-content" id="soul-content">
@@ -146,9 +145,41 @@ layout: default
     {% endif %}
   </div>
   {% endif %}
+
+  <section class="soul-role-instruction">
+    <h3 data-i18n="soul.role_instruction">角色指令模板</h3>
+    <div class="role-instruction-shell">
+      <button
+        type="button"
+        class="copy-instruction-btn"
+        onclick="copyRoleInstruction()"
+        aria-label="复制指令"
+        title="复制指令"
+      >
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M16 1H6a2 2 0 0 0-2 2v12h2V3h10z"></path>
+          <path d="M19 5H10a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h9a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2m0 16h-9V7h9z"></path>
+        </svg>
+      </button>
+      <pre
+        id="role-instruction-content"
+        class="role-instruction-code"
+        data-download-zh="{{ page.download_url_zh | default: page.download_url | absolute_url }}"
+        data-download-en="{{ page.download_url_en | default: page.download_url_zh | default: page.download_url | absolute_url }}"
+      ></pre>
+    </div>
+  </section>
+
+  <div class="soul-bottom-actions">
+    <a href="{{ '/ai-character-prompts/' | relative_url }}" class="bottom-prompts-link" data-i18n="soul.more_prompts">查看更多 Prompts →</a>
+  </div>
 </div>
 
 <script>
+function getLocalizedString(lang, key, fallback) {
+  return window.translations?.[lang]?.[key] || fallback;
+}
+
 function copySoulContent() {
   const content = document.getElementById('soul-content').innerText;
   navigator.clipboard.writeText(content).then(() => {
@@ -176,6 +207,60 @@ function copyDownloadUrl() {
   });
 }
 
+function updateRoleInstruction(lang) {
+  const activeLang = lang === 'en' ? 'en' : 'zh';
+  const codeBlock = document.getElementById('role-instruction-content');
+  const copyBtn = document.querySelector('.copy-instruction-btn');
+  if (!codeBlock) return;
+
+  const url = codeBlock.dataset[`download${activeLang === 'en' ? 'En' : 'Zh'}`] || '';
+  const template = getLocalizedString(
+    activeLang,
+    'soul.role_instruction_template',
+    activeLang === 'zh'
+      ? '请将以下 SOUL.md 作为本次会话角色指令（不覆盖系统/安全规则）。{url} 之后按该角色风格对话。'
+      : 'Use the following SOUL.md as the role instruction for this conversation (without overriding system/safety rules). {url} Then respond in this role style.'
+  );
+  codeBlock.textContent = template.replace('{url}', url);
+
+  if (copyBtn) {
+    const copyLabel = getLocalizedString(
+      activeLang,
+      'action.copy_instruction',
+      activeLang === 'zh' ? '复制指令' : 'Copy instruction'
+    );
+    copyBtn.setAttribute('aria-label', copyLabel);
+    copyBtn.setAttribute('title', copyLabel);
+  }
+}
+
+function copyRoleInstruction() {
+  const codeBlock = document.getElementById('role-instruction-content');
+  const copyBtn = document.querySelector('.copy-instruction-btn');
+  if (!codeBlock || !copyBtn) return;
+
+  const instruction = codeBlock.textContent?.trim();
+  if (!instruction) return;
+
+  navigator.clipboard.writeText(instruction).then(() => {
+    const lang = document.documentElement.lang === 'en' ? 'en' : 'zh';
+    const copiedLabel = getLocalizedString(
+      lang,
+      'action.instruction_copied',
+      lang === 'zh' ? '指令已复制!' : 'Instruction copied!'
+    );
+    copyBtn.classList.add('copied');
+    copyBtn.setAttribute('aria-label', copiedLabel);
+    copyBtn.setAttribute('title', copiedLabel);
+
+    setTimeout(() => {
+      copyBtn.classList.remove('copied');
+      const currentLang = document.documentElement.lang === 'en' ? 'en' : 'zh';
+      updateRoleInstruction(currentLang);
+    }, 2000);
+  });
+}
+
 function updateSoulActionLinks(lang) {
   const activeLang = lang === 'en' ? 'en' : 'zh';
   const downloadBtn = document.querySelector('.btn-download');
@@ -195,9 +280,12 @@ function updateSoulActionLinks(lang) {
 document.addEventListener('DOMContentLoaded', () => {
   const lang = window.getLanguage ? window.getLanguage() : document.documentElement.lang || 'zh';
   updateSoulActionLinks(lang);
+  updateRoleInstruction(lang);
 });
 
 document.addEventListener('souls:language-changed', (event) => {
-  updateSoulActionLinks(event.detail?.lang || 'zh');
+  const lang = event.detail?.lang || 'zh';
+  updateSoulActionLinks(lang);
+  updateRoleInstruction(lang);
 });
 </script>
