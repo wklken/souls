@@ -22,15 +22,16 @@ permalink: /real_world/
     {% if souls.size > 0 %}
     {% for soul in souls %}
       {% assign soul_name_zh = soul.title_zh | default: soul.title %}
+      {% assign soul_name_zh_display = soul_name_zh | split: '（' | first | split: '(' | first | strip %}
       {% assign soul_name_en = soul.english_name | default: soul.title_en | default: soul.title %}
       {% assign soul_tags_zh = soul.tags_zh | default: soul.tags %}
       {% assign soul_tags_en = soul.tags_en | default: soul.tags %}
       <a href="{{ soul.url | relative_url }}" class="soul-card">
         <div
           class="soul-name"
-          data-localized-zh="{{ soul_name_zh | escape }}"
+          data-localized-zh="{{ soul_name_zh_display | escape }}"
           data-localized-en="{{ soul_name_en | escape }}"
-        >{{ soul_name_zh }}</div>
+        >{{ soul_name_zh_display }}</div>
         {% if soul_tags_zh or soul_tags_en %}
         <div
           class="soul-tags"
