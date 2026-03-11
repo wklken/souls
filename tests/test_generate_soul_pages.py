@@ -178,27 +178,21 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         i18n_script = (self.repo_root / "assets" / "js" / "i18n.js").read_text(encoding="utf-8")
         self.assertIn("querySelectorAll('[data-search-input]')", i18n_script)
 
-    def test_category_cards_do_not_map_english_secondary_line_to_chinese(self):
+    def test_category_cards_use_single_localized_title_without_subtitle(self):
         for page_name in ("real_world.md", "virtual_world.md", "personas.md"):
             page = (self.repo_root / page_name).read_text(encoding="utf-8")
-            self.assertIn('data-localized-zh="{{ soul_name_en | escape }}"', page)
+            self.assertIn('class="soul-name"', page)
             self.assertIn('data-localized-en="{{ soul_name_en | escape }}"', page)
-            self.assertNotIn('data-localized-en="{{ soul_name_zh | escape }}"', page)
+            self.assertNotIn('class="soul-english"', page)
 
-    def test_soul_layout_secondary_titles_do_not_show_chinese_in_english_mode(self):
+    def test_soul_layout_removes_secondary_name_lines(self):
         soul_layout = (self.repo_root / "_layouts" / "soul.html").read_text(encoding="utf-8")
-        self.assertIn('data-localized-en="{{ page.english_name | escape }}"', soul_layout)
-        self.assertIn('data-localized-en="{{ related_name_en | escape }}"', soul_layout)
-        self.assertNotIn('data-localized-en="{{ page_title_zh | escape }}"', soul_layout)
-        self.assertNotIn('data-localized-en="{{ related_name_zh | escape }}"', soul_layout)
+        self.assertNotIn('class="english-name"', soul_layout)
+        self.assertNotIn('class="related-soul-english"', soul_layout)
 
-    def test_soul_styles_hide_secondary_names_and_duplicate_heading_in_english(self):
+    def test_soul_styles_hide_duplicate_heading_in_content(self):
         style = (self.repo_root / "assets" / "css" / "style.scss").read_text(encoding="utf-8")
         self.assertIn("> h1:first-child {", style)
-        self.assertIn("html[lang=\"en\"]", style)
-        self.assertIn(".soul-header .english-name", style)
-        self.assertIn(".soul-card .soul-english", style)
-        self.assertIn(".related-soul-card .related-soul-english", style)
 
     def test_team_download_config_exports_single_language_fields(self):
         team_layout = (self.repo_root / "_layouts" / "team.html").read_text(encoding="utf-8")

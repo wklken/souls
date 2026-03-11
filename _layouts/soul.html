@@ -28,13 +28,6 @@ layout: default
       data-localized-zh="{{ page_title_zh | escape }}"
       data-localized-en="{{ page_title_en | escape }}"
     >{{ page_title_zh }}</h1>
-    {% if page.english_name %}
-    <p
-      class="english-name"
-      data-localized-zh="{{ page.english_name | escape }}"
-      data-localized-en="{{ page.english_name | escape }}"
-    >{{ page.english_name }}</p>
-    {% endif %}
   </div>
 
   <div class="soul-disclaimer">
@@ -104,13 +97,6 @@ layout: default
             data-localized-zh="{{ related_name_zh | escape }}"
             data-localized-en="{{ related_name_en | escape }}"
           >{{ related_name_zh }}</div>
-          {% if related_name_en and related_name_en != related_name_zh %}
-          <div
-            class="related-soul-english"
-            data-localized-zh="{{ related_name_en | escape }}"
-            data-localized-en="{{ related_name_en | escape }}"
-          >{{ related_name_en }}</div>
-          {% endif %}
           {% if related_tags_zh or related_tags_en %}
           <div
             class="related-soul-tags"

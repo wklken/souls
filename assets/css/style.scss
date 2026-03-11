@@ -458,16 +458,8 @@ a {
     font-family: "Cormorant Garamond", Georgia, serif;
     font-size: 1.36rem;
     font-weight: 600;
-    margin-bottom: 0.25rem;
-    line-height: 1.25;
-  }
-
-  .soul-english {
-    font-size: 0.82rem;
-    color: var(--text-secondary);
     margin-bottom: 0.32rem;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
+    line-height: 1.25;
   }
 
   .soul-tags {
@@ -513,12 +505,7 @@ a {
     font-family: "Cormorant Garamond", Georgia, serif;
     font-size: clamp(2rem, 3.5vw, 2.8rem);
     line-height: 1.14;
-    margin-bottom: 0.15rem;
-  }
-
-  .english-name {
-    color: var(--text-secondary);
-    font-size: 1rem;
+    margin-bottom: 0;
   }
 }
 
@@ -609,14 +596,6 @@ html[lang="en"] .soul-content .soul-lang-en {
   display: block;
 }
 
-html[lang="en"] {
-  .soul-card .soul-english,
-  .related-soul-card .related-soul-english,
-  .soul-header .english-name {
-    display: none;
-  }
-}
-
 .related-souls {
   margin-top: 1rem;
   border: 1px solid var(--border-color);
@@ -654,14 +633,7 @@ html[lang="en"] {
     font-family: "Cormorant Garamond", Georgia, serif;
     font-size: 1.15rem;
     line-height: 1.2;
-  }
-
-  .related-soul-english {
-    margin-top: 0.1rem;
-    color: var(--text-secondary);
-    font-size: 0.76rem;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
+    margin-bottom: 0.28rem;
   }
 
   .related-soul-tags {
