@@ -240,10 +240,13 @@ def generate_for_category(category: str, category_name: str | dict[str, str]) ->
 
         if not title_en:
             title_en = name_en
-        if not name_en:
-            name_en = title_en
         if not title_en:
             title_en = title_zh
+        if category == "personas":
+            # Personas are role archetypes; prefer role title over README personal names.
+            name_en = title_en
+        elif not name_en:
+            name_en = title_en
         if not tags_en:
             tags_en = tags_zh
 

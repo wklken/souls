@@ -77,6 +77,20 @@ class GenerateSoulPagesBilingualTest(unittest.TestCase):
             page,
         )
 
+    def test_persona_generation_prefers_role_title_over_readme_person_name(self):
+        persona_dir = self.root / "personas" / "er_doctor"
+        persona_dir.joinpath("README.md").write_text(
+            "# 急诊室医生\n\n## 基本信息\n- **英文名**: Eric Chen\n",
+            encoding="utf-8",
+        )
+
+        self.module.generate_for_category("personas", "专家角色")
+        page = (self.root / "personas" / "er_doctor.md").read_text(encoding="utf-8")
+
+        self.assertIn('title_en: "ER Doctor"', page)
+        self.assertIn('english_name: "ER Doctor"', page)
+        self.assertNotIn('english_name: "Eric Chen"', page)
+
 
 class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
     def setUp(self):
@@ -148,6 +162,20 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertNotIn("team_description: {", team_layout)
         self.assertNotIn("name: {", team_layout)
         self.assertNotIn("description: {", team_layout)
+
+    def test_category_cards_keep_english_text_in_english_mode(self):
+        for page_name in ("real_world.md", "virtual_world.md", "personas.md"):
+            page = (self.repo_root / page_name).read_text(encoding="utf-8")
+            self.assertIn('data-localized-en="{{ soul_name_en | escape }}"', page)
+            self.assertNotIn('data-localized-en="{{ soul_name_zh | escape }}"', page)
+
+    def test_soul_layout_does_not_render_chinese_labels_in_english_mode(self):
+        soul_layout = (self.repo_root / "_layouts" / "soul.html").read_text(encoding="utf-8")
+
+        self.assertIn('data-localized-en="{{ page.english_name | escape }}"', soul_layout)
+        self.assertNotIn('data-localized-en="{{ page_title_zh | escape }}"', soul_layout)
+        self.assertIn('data-localized-en="{{ related_name_en | escape }}"', soul_layout)
+        self.assertNotIn('data-localized-en="{{ related_name_zh | escape }}"', soul_layout)
 
     def test_category_search_script_has_normalized_matching(self):
         script = (self.repo_root / "assets" / "js" / "category-search.js").read_text(
@@ -288,77 +316,93 @@ class SoulMarkdownTableSpacingRegressionTest(unittest.TestCase):
         )
 
 
-class PersonaTitleNormalizationRegressionTest(unittest.TestCase):
-    TARGET_PERSONAS = [
-        "historian",
-        "video_editor",
-        "financial_planner",
-        "fitness_coach",
-        "economist",
-        "yoga_instructor",
-        "relationship_consultant",
-        "colorist",
-        "psychologist",
-        "sleep_consultant",
-        "sociologist",
-        "photography_mentor",
-        "psychological_counselor",
-        "sound_designer",
-        "mindfulness_mentor",
-        "political_analyst",
-        "painting_coach",
-        "game_designer",
-        "environmental_expert",
-        "organization_consultant",
-        "music_theorist",
-        "animator",
-        "medical_expert",
-        "time_management_coach",
-        "instrument_coach",
-        "legal_scholar",
-        "scientist",
-        "film_director_consultant",
-        "philosopher",
-    ]
+class PersonaContentSafetyRegressionTest(unittest.TestCase):
+    REAL_NAME_TOKENS = {"沈安宁", "何晓萍", "陈铁军", "林悦然", "温如言", "苏静莲"}
+    HIGH_RISK_REAL_WORLD_TOKENS = {"武汉大学", "南方周末", "汶川地震"}
 
     def setUp(self):
         self.repo_root = Path(__file__).resolve().parents[1]
 
     @staticmethod
-    def parse_readme_names(readme_text: str) -> tuple[str, str]:
-        zh_match = re.search(r"\*\*中文名\*\*:\s*(.+)", readme_text)
-        en_match = re.search(r"\*\*英文名\*\*:\s*(.+)", readme_text)
-        if not zh_match or not en_match:
-            return "", ""
-        return zh_match.group(1).strip(), en_match.group(1).strip()
+    def extract_section(markdown_text: str, heading: str) -> str:
+        pattern = re.compile(rf"^###\s+{re.escape(heading)}\s*\n(.*?)(?=^###\s+|\Z)", re.S | re.M)
+        match = pattern.search(markdown_text)
+        return match.group(1).strip() if match else ""
 
-    def test_recent_persona_titles_use_expert_names_not_person_names(self):
+    def test_persona_titles_use_role_labels_without_cross_language_parenthetical(self):
         offenders: list[str] = []
-
-        for slug in self.TARGET_PERSONAS:
-            folder = self.repo_root / "personas" / slug
-            readme_text = (folder / "README.md").read_text(encoding="utf-8")
-            zh_name, en_name = self.parse_readme_names(readme_text)
-
-            zh_heading = (folder / "SOUL.md").read_text(encoding="utf-8").splitlines()[0].strip()
-            en_heading = (
-                folder / "SOUL.en.md"
-            ).read_text(encoding="utf-8").splitlines()[0].strip()
-
-            expected_zh_heading = f"# {zh_name} ({en_name})"
-            expected_en_heading = f"# {en_name} ({zh_name})"
-
-            if zh_heading != expected_zh_heading or en_heading != expected_en_heading:
-                offenders.append(
-                    f"{slug}: zh='{zh_heading}' expected='{expected_zh_heading}'; "
-                    f"en='{en_heading}' expected='{expected_en_heading}'"
-                )
+        for zh_file in sorted((self.repo_root / "personas").glob("*/SOUL.md")):
+            heading = zh_file.read_text(encoding="utf-8").splitlines()[0].strip()
+            if "（" in heading or "(" in heading:
+                offenders.append(f"{zh_file.parent.name}: {heading}")
+            if any(name in heading for name in self.REAL_NAME_TOKENS):
+                offenders.append(f"{zh_file.parent.name}: {heading}")
 
         self.assertEqual(
             offenders,
             [],
-            "Expected recent persona titles to match expert names in README. "
-            f"Found {len(offenders)} offenders: {offenders}",
+            "Expected persona Chinese titles to use role labels only.",
+        )
+
+    def test_persona_english_titles_are_english_only(self):
+        offenders: list[str] = []
+        for en_file in sorted((self.repo_root / "personas").glob("*/SOUL.en.md")):
+            heading = en_file.read_text(encoding="utf-8").splitlines()[0].strip()
+            if "（" in heading or "(" in heading:
+                offenders.append(f"{en_file.parent.name}: {heading}")
+            if re.search(r"[\u4e00-\u9fff]", heading):
+                offenders.append(f"{en_file.parent.name}: {heading}")
+
+        self.assertEqual(
+            offenders,
+            [],
+            "Expected persona English titles to remain English-only.",
+        )
+
+    def test_persona_who_i_am_sections_are_deidentified(self):
+        offenders: list[str] = []
+        for zh_file in sorted((self.repo_root / "personas").glob("*/SOUL.md")):
+            content = zh_file.read_text(encoding="utf-8")
+            section = self.extract_section(content, "我是谁")
+            if not section:
+                offenders.append(f"{zh_file.parent.name}: missing section")
+                continue
+            if "虚构专家角色" not in section:
+                offenders.append(f"{zh_file.parent.name}: missing fictional marker")
+            if re.search(r"我叫\s*[\u4e00-\u9fffA-Za-z]{2,20}", section):
+                offenders.append(f"{zh_file.parent.name}: has personal-name intro")
+            if re.search(r"(?:19|20)\d{2}\s*年", section):
+                offenders.append(f"{zh_file.parent.name}: has specific year")
+            if any(token in section for token in self.HIGH_RISK_REAL_WORLD_TOKENS):
+                offenders.append(f"{zh_file.parent.name}: has real-world identifiers")
+
+        self.assertEqual(
+            offenders,
+            [],
+            "Expected persona '我是谁' sections to be de-identified and fictionalized.",
+        )
+
+    def test_persona_who_i_am_english_sections_are_deidentified(self):
+        offenders: list[str] = []
+        for en_file in sorted((self.repo_root / "personas").glob("*/SOUL.en.md")):
+            content = en_file.read_text(encoding="utf-8")
+            section = self.extract_section(content, "Who I Am")
+            if not section:
+                offenders.append(f"{en_file.parent.name}: missing section")
+                continue
+            if "fictional expert persona" not in section:
+                offenders.append(f"{en_file.parent.name}: missing fictional marker")
+            if re.search(r"\bMy name is\b", section, flags=re.I):
+                offenders.append(f"{en_file.parent.name}: has personal-name intro")
+            if re.search(r"(?:19|20)\d{2}", section):
+                offenders.append(f"{en_file.parent.name}: has specific year")
+            if re.search(r"[\u4e00-\u9fff]", section):
+                offenders.append(f"{en_file.parent.name}: contains Chinese text")
+
+        self.assertEqual(
+            offenders,
+            [],
+            "Expected persona 'Who I Am' sections to be de-identified and English-only.",
         )
 
 

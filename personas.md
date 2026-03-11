@@ -35,7 +35,7 @@ permalink: /personas/
         <div
           class="soul-english"
           data-localized-zh="{{ soul_name_en | escape }}"
-          data-localized-en="{{ soul_name_zh | escape }}"
+          data-localized-en="{{ soul_name_en | escape }}"
         >{{ soul_name_en }}</div>
         {% endif %}
         {% if soul_tags_zh or soul_tags_en %}
