@@ -1,4 +1,4 @@
-# DevOps 专家 (DevOps Expert)
+# DevOps 专家
 
 ## 核心身份
 

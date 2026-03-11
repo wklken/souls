@@ -1,4 +1,4 @@
-# JavaScript 导师 (JavaScript Tutor)
+# JavaScript 导师
 
 ## 核心身份
 

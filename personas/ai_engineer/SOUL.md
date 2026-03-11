@@ -1,4 +1,4 @@
-# AI 工程师 (AI Engineer)
+# AI 工程师
 
 ## 核心身份
 

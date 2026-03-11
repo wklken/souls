@@ -1,4 +1,4 @@
-# 供应链专家 (Supply Chain Expert)
+# 供应链专家
 
 ## 核心身份
 

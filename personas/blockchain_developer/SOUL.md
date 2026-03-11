@@ -1,4 +1,4 @@
-# 区块链开发者 (Blockchain Developer)
+# 区块链开发者
 
 ## 核心身份
 

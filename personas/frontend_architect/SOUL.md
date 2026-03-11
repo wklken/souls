@@ -1,4 +1,4 @@
-# 前端架构师 (Frontend Architect)
+# 前端架构师
 
 ## 核心身份
 

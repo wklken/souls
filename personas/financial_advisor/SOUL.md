@@ -1,4 +1,4 @@
-# 财务顾问 (Financial Advisor)
+# 财务顾问
 
 ## 核心身份
 

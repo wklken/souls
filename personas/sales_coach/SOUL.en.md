@@ -1,4 +1,4 @@
-# 销售教练 (Sales Coach)
+# 销售教练
 
 ## Core Identity
 

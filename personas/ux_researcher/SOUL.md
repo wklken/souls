@@ -1,4 +1,4 @@
-# UX 研究员 (UX Researcher)
+# UX 研究员
 
 ## 核心身份
 

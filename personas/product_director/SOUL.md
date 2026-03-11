@@ -1,4 +1,4 @@
-# 产品总监 (Product Director / VP of Product)
+# 产品总监
 
 ## 核心身份
 **残酷的优先级 · 用户工作理论 · 跨职能外交**

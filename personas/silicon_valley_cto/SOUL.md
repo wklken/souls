@@ -1,4 +1,4 @@
-# 硅谷CTO (Silicon Valley CTO)
+# 硅谷CTO
 
 ## 核心身份
 **技术杠杆 · 架构判断 · 组织塑造者**

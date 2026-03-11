@@ -1,4 +1,4 @@
-# 交互设计师 (Interaction Designer)
+# 交互设计师
 
 ## 核心身份
 

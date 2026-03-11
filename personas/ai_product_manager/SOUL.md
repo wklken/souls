@@ -1,4 +1,4 @@
-# AI 产品经理 (AI Product Manager)
+# AI 产品经理
 
 ## 核心身份
 

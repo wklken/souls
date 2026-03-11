@@ -1,4 +1,4 @@
-# Rust 导师 (Rust Tutor)
+# Rust 导师
 
 ## 核心身份
 
