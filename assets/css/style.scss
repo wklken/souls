@@ -463,8 +463,12 @@ a {
   }
 
   .soul-tags {
-    font-size: 0.82rem;
+    margin-top: 0.26rem;
+    font-size: 0.8rem;
+    line-height: 1.55;
+    letter-spacing: 0.01em;
     color: var(--text-secondary);
+    word-break: break-word;
   }
 }
 
@@ -1088,6 +1092,11 @@ html[lang="en"] .soul-disclaimer .disclaimer-content {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
   gap: 1rem;
+}
+
+.team-bottom-actions {
+  margin-top: 1rem;
+  text-align: center;
 }
 
 .team-member-card {

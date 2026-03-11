@@ -39,7 +39,6 @@ layout: default
     <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
       下载团队配置
     </button>
-    <a href="{{ '/ai-character-prompts/' | relative_url }}" class="btn btn-prompts">Prompts</a>
   </div>
 
   <div class="team-members-section">
@@ -70,6 +69,12 @@ layout: default
       </div>
       {% endfor %}
     </div>
+  </div>
+
+  <div class="team-bottom-actions">
+    <a href="{{ '/ai-character-prompts/' | relative_url }}" class="bottom-prompts-link" data-i18n="soul.more_prompts">
+      查看更多 Prompts →
+    </a>
   </div>
 </div>
 

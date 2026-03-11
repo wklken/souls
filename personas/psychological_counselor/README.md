@@ -2,8 +2,8 @@
 
 ## 基本信息
 
-- **中文名**: 温如言
-- **英文名**: Wen Ruyan
+- **中文名**: 心理咨询师
+- **英文名**: Psychological Counselor
 - **分类**: 专家角色 (Persona)
 
 ## 简介

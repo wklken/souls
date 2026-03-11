@@ -145,12 +145,64 @@ def strip_trailing_latin_parenthetical(text: str) -> str:
 
 
 def extract_tags(markdown_text: str) -> list[str]:
+    patterns = (
+        re.compile(r"\btags\s*[:：]\s*(.+)", re.I),
+        re.compile(r"\bcore\s*tags\s*[:：]\s*(.+)", re.I),
+        re.compile(r"核心标签\s*[:：]\s*(.+)"),
+    )
+
+    def split_tags(raw: str) -> list[str]:
+        cleaned_raw = raw.strip()
+        cleaned_raw = re.sub(r"^[\[\(（【]\s*", "", cleaned_raw)
+        cleaned_raw = re.sub(r"\s*[\]\)）】]$", "", cleaned_raw)
+        parts = re.split(r"[，,、；;]", cleaned_raw)
+
+        tags: list[str] = []
+        for part in parts:
+            cleaned = part.strip().strip('"\'')
+            cleaned = re.sub(r"^[\[\(（【]\s*", "", cleaned)
+            cleaned = re.sub(r"\s*[\]\)）】]$", "", cleaned)
+            cleaned = cleaned.strip()
+            if cleaned:
+                tags.append(cleaned)
+        return tags
+
     for line in markdown_text.splitlines():
-        tags_match = re.search(r"\btags:\s*(.+)", line, re.I)
-        if not tags_match:
+        for pattern in patterns:
+            tags_match = pattern.search(line)
+            if not tags_match:
+                continue
+
+            return split_tags(tags_match.group(1))
+
+    lines = markdown_text.splitlines()
+    for idx, line in enumerate(lines):
+        if not re.match(r"^#{1,6}\s*(标签|tags?)\s*$", line.strip(), re.I):
             continue
-        parts = re.split(r"[，,]", tags_match.group(1))
-        return [p.strip() for p in parts if p.strip()]
+
+        tag_lines: list[str] = []
+        for next_line in lines[idx + 1 :]:
+            stripped = next_line.strip()
+            if not stripped:
+                if tag_lines:
+                    break
+                continue
+            if re.match(r"^#{1,6}\s+\S+", stripped):
+                break
+            tag_lines.append(stripped)
+
+        if not tag_lines:
+            continue
+
+        merged = " ".join(tag_lines)
+        hashtag_tags = re.findall(r"#([^\s#]+)", merged)
+        if hashtag_tags:
+            return [tag.strip() for tag in hashtag_tags if tag.strip()]
+
+        parsed = split_tags(merged)
+        if parsed:
+            return parsed
+
     return []
 
 

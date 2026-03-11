@@ -78,6 +78,75 @@ class GenerateSoulPagesBilingualTest(unittest.TestCase):
         )
 
 
+class TagExtractionRegressionTest(unittest.TestCase):
+    def setUp(self):
+        self.module = load_module()
+
+    def test_extract_tags_strips_brackets_from_tag_lines(self):
+        markdown = "## 标签\ncategory: 专家角色 tags: [创业指导, 融资辅导, 商业模式]\n"
+        self.assertEqual(
+            self.module.extract_tags(markdown),
+            ["创业指导", "融资辅导", "商业模式"],
+        )
+
+    def test_extract_tags_supports_core_tag_labels(self):
+        zh_markdown = "## 基本信息\n- 核心标签：质量守恒定律、氧化燃烧理论、化学命名法改革\n"
+        en_markdown = (
+            "## Basic Information\n"
+            "- Core tags: Law of Conservation of Mass, Oxidation-Combustion Theory\n"
+        )
+        self.assertEqual(
+            self.module.extract_tags(zh_markdown),
+            ["质量守恒定律", "氧化燃烧理论", "化学命名法改革"],
+        )
+        self.assertEqual(
+            self.module.extract_tags(en_markdown),
+            ["Law of Conservation of Mass", "Oxidation-Combustion Theory"],
+        )
+
+    def test_extract_tags_supports_hashtag_tag_section(self):
+        markdown = "## 标签\n\n#昭烈帝 #蜀汉 #以德服人 #三顾茅庐\n"
+        self.assertEqual(
+            self.module.extract_tags(markdown),
+            ["昭烈帝", "蜀汉", "以德服人", "三顾茅庐"],
+        )
+
+
+class RealWorldLocalizedTagsRegressionTest(unittest.TestCase):
+    def setUp(self):
+        self.module = load_module()
+        self.tmpdir = tempfile.TemporaryDirectory()
+        self.root = Path(self.tmpdir.name)
+
+        soul_dir = self.root / "real_world" / "sample_chemist"
+        soul_dir.mkdir(parents=True)
+        soul_dir.joinpath("SOUL.md").write_text(
+            "# 化学家\n\n## 基本信息\n- 核心标签: 质量守恒定律、氧化燃烧理论、化学命名法改革\n",
+            encoding="utf-8",
+        )
+        soul_dir.joinpath("SOUL.en.md").write_text(
+            "# Chemist\n\n## Basic Information\n- Core Tags: Law of Conservation of Mass, Oxidation-Combustion Theory\n",
+            encoding="utf-8",
+        )
+
+        self.previous_root = self.module.ROOT
+        self.module.ROOT = self.root
+
+    def tearDown(self):
+        self.module.ROOT = self.previous_root
+        self.tmpdir.cleanup()
+
+    def test_generated_real_world_page_keeps_chinese_tags_for_zh_cards(self):
+        created = self.module.generate_for_category("real_world", "真实世界")
+        self.assertEqual(created, 1)
+
+        page = (self.root / "real_world" / "sample_chemist.md").read_text(encoding="utf-8")
+        self.assertNotIn("tags_zh: []", page)
+        self.assertIn('  - "质量守恒定律"', page)
+        self.assertIn('  - "氧化燃烧理论"', page)
+        self.assertIn('  - "Law of Conservation of Mass"', page)
+
+
 class PersonaReadmeNameLocalizationRegressionTest(unittest.TestCase):
     def setUp(self):
         self.module = load_module()
@@ -178,6 +247,20 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertGreaterEqual(soul_content_index, 0)
         self.assertLess(role_instruction_index, soul_content_index)
 
+    def test_team_layout_moves_prompts_link_to_bottom(self):
+        team_layout = (self.repo_root / "_layouts" / "team.html").read_text(encoding="utf-8")
+
+        self.assertNotIn('class="btn btn-prompts"', team_layout)
+        self.assertIn('class="team-bottom-actions"', team_layout)
+        self.assertIn('class="bottom-prompts-link"', team_layout)
+        self.assertIn('data-i18n="soul.more_prompts"', team_layout)
+
+        members_index = team_layout.find('class="team-members-section"')
+        prompts_index = team_layout.find('class="bottom-prompts-link"')
+        self.assertGreaterEqual(members_index, 0)
+        self.assertGreaterEqual(prompts_index, 0)
+        self.assertLess(members_index, prompts_index)
+
     def test_category_pages_include_local_search_bar(self):
         include = (self.repo_root / "_includes" / "category_search.html").read_text(encoding="utf-8")
         self.assertIn('id="category-search-input"', include)
@@ -199,6 +282,12 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
             self.assertIn('class="soul-name"', page)
             self.assertIn('data-localized-en="{{ soul_name_en | escape }}"', page)
             self.assertNotIn('class="soul-english"', page)
+
+    def test_category_cards_use_relaxed_tag_separator(self):
+        for page_name in ("real_world.md", "virtual_world.md", "personas.md"):
+            page = (self.repo_root / page_name).read_text(encoding="utf-8")
+            self.assertIn("join: ' · '", page)
+            self.assertNotIn("join: ', '", page)
 
     def test_soul_layout_removes_secondary_name_lines(self):
         soul_layout = (self.repo_root / "_layouts" / "soul.html").read_text(encoding="utf-8")

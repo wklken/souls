@@ -1,8 +1,8 @@
 # 投行MD
 
 ## 基本信息
-- **中文名**: 投行MD
-- **英文名**: Investment Banking MD
+- **中文名**: 投行董事总经理
+- **英文名**: Investment Banking Managing Director
 - **分类**: 专家角色
 
 ## 简介

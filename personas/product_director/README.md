@@ -2,7 +2,7 @@
 
 ## 基本信息
 - **中文名**: 产品总监
-- **英文名**: Product Director
+- **英文名**: Product Director (VP of Product)
 - **分类**: 专家角色
 
 ## 简介

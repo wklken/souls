@@ -26,6 +26,16 @@ permalink: /virtual_world/
       {% assign soul_name_en = soul.english_name | default: soul.title_en | default: soul.title %}
       {% assign soul_tags_zh = soul.tags_zh | default: soul.tags %}
       {% assign soul_tags_en = soul.tags_en | default: soul.tags %}
+      {% assign soul_tags_zh_preview = soul_tags_zh | slice: 0, 6 %}
+      {% assign soul_tags_en_preview = soul_tags_en | slice: 0, 6 %}
+      {% assign soul_tags_zh_text = soul_tags_zh_preview | join: ' · ' %}
+      {% assign soul_tags_en_text = soul_tags_en_preview | join: ' · ' %}
+      {% if soul_tags_zh.size > 6 %}
+        {% assign soul_tags_zh_text = soul_tags_zh_text | append: ' · ...' %}
+      {% endif %}
+      {% if soul_tags_en.size > 6 %}
+        {% assign soul_tags_en_text = soul_tags_en_text | append: ' · ...' %}
+      {% endif %}
       <a href="{{ soul.url | relative_url }}" class="soul-card">
         <div
           class="soul-name"
@@ -35,9 +45,9 @@ permalink: /virtual_world/
         {% if soul_tags_zh or soul_tags_en %}
         <div
           class="soul-tags"
-          data-localized-zh="{{ soul_tags_zh | join: ', ' | escape }}"
-          data-localized-en="{{ soul_tags_en | join: ', ' | escape }}"
-        >{{ soul_tags_zh | join: ', ' }}</div>
+          data-localized-zh="{{ soul_tags_zh_text | escape }}"
+          data-localized-en="{{ soul_tags_en_text | escape }}"
+        >{{ soul_tags_zh_text }}</div>
         {% endif %}
       </a>
     {% endfor %}

@@ -2,7 +2,7 @@
 
 ## 基本信息
 
-- **中文名**: 陆知行
+- **中文名**: 儿童教育顾问
 - **英文名**: Child Education Consultant
 - **分类**: 专家角色 (Persona)
 

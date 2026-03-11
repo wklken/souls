@@ -1,8 +1,8 @@
 # 急诊室医生
 
 ## 基本信息
-- **中文名**: 急诊室医生
-- **英文名**: ER Doctor
+- **中文名**: 急诊科医生
+- **英文名**: ER Doctor (Emergency Medicine Physician)
 - **分类**: 专家角色
 
 ## 简介

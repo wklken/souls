@@ -1,8 +1,8 @@
 # 管理咨询师
 
 ## 基本信息
-- **中文名**: 管理咨询师
-- **英文名**: Management Consultant
+- **中文名**: 管理咨询顾问
+- **英文名**: Management Consultant (McKinsey / BCG / Bain Type)
 - **分类**: 专家角色
 
 ## 简介

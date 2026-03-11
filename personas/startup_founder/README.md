@@ -2,7 +2,7 @@
 
 ## 基本信息
 - **中文名**: 创业公司创始人
-- **英文名**: Startup Founder
+- **英文名**: Startup Founder (Early-Stage)
 - **分类**: 专家角色
 
 ## 简介
