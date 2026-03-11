@@ -163,6 +163,21 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertIn('class="related-souls"', soul_layout)
         self.assertIn('data-i18n="soul.related"', soul_layout)
 
+    def test_soul_layout_uses_bottom_prompts_link_and_role_instruction_block(self):
+        soul_layout = (self.repo_root / "_layouts" / "soul.html").read_text(encoding="utf-8")
+
+        self.assertNotIn('class="btn btn-prompts"', soul_layout)
+        self.assertIn('class="soul-role-instruction"', soul_layout)
+        self.assertIn('id="role-instruction-content"', soul_layout)
+        self.assertIn("copyRoleInstruction()", soul_layout)
+        self.assertIn('data-i18n="soul.more_prompts"', soul_layout)
+
+        role_instruction_index = soul_layout.find('class="soul-role-instruction"')
+        soul_content_index = soul_layout.find('class="soul-content"')
+        self.assertGreaterEqual(role_instruction_index, 0)
+        self.assertGreaterEqual(soul_content_index, 0)
+        self.assertLess(role_instruction_index, soul_content_index)
+
     def test_category_pages_include_local_search_bar(self):
         include = (self.repo_root / "_includes" / "category_search.html").read_text(encoding="utf-8")
         self.assertIn('id="category-search-input"', include)
@@ -193,6 +208,13 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
     def test_soul_styles_hide_duplicate_heading_in_content(self):
         style = (self.repo_root / "assets" / "css" / "style.scss").read_text(encoding="utf-8")
         self.assertIn("> h1:first-child {", style)
+    def test_i18n_contains_role_instruction_translations(self):
+        i18n_script = (self.repo_root / "assets" / "js" / "i18n.js").read_text(encoding="utf-8")
+
+        self.assertIn("'action.copy_instruction':", i18n_script)
+        self.assertIn("'action.instruction_copied':", i18n_script)
+        self.assertIn("'soul.more_prompts':", i18n_script)
+        self.assertIn("'soul.role_instruction_template':", i18n_script)
 
     def test_team_download_config_exports_single_language_fields(self):
         team_layout = (self.repo_root / "_layouts" / "team.html").read_text(encoding="utf-8")
