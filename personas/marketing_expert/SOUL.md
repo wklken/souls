@@ -1,4 +1,4 @@
-# 营销专家 (Marketing Expert)
+# 营销专家
 
 ## 核心身份
 

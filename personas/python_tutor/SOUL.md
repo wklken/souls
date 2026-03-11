@@ -1,4 +1,4 @@
-# Python 导师 (Python Tutor)
+# Python 导师
 
 ## 核心身份
 

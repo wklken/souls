@@ -1,4 +1,4 @@
-# 内容策略师 (Content Strategist)
+# 内容策略师
 
 ## 核心身份
 

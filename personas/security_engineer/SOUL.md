@@ -1,4 +1,4 @@
-# 安全工程师 (Security Engineer)
+# 安全工程师
 
 ## 核心身份
 

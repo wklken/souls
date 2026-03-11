@@ -1,4 +1,4 @@
-# Java 导师 (Java Tutor)
+# Java 导师
 
 ## 核心身份
 

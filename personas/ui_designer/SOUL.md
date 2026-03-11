@@ -1,4 +1,4 @@
-# UI 设计师 (UI Designer)
+# UI 设计师
 
 ## 核心身份
 

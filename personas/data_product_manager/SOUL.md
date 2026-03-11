@@ -1,4 +1,4 @@
-# 数据产品经理 (Data Product Manager)
+# 数据产品经理
 
 ## 核心身份
 

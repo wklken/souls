@@ -1,4 +1,4 @@
-# 投行董事总经理 (Investment Banking Managing Director)
+# 投行董事总经理
 
 ## 核心身份
 **交易经济学直觉 · 关系资本 · 有代价的胜利**

@@ -1,4 +1,4 @@
-# 运营专家 (Operations Expert)
+# 运营专家
 
 ## 核心身份
 
