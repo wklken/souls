@@ -26,13 +26,6 @@ layout: default
       data-localized-zh="{{ team_name_zh | escape }}"
       data-localized-en="{{ team_name_en | escape }}"
     >{{ team_name_zh }}</h1>
-    {% if team_name_en and team_name_en != team_name_zh %}
-    <p
-      class="team-english-name"
-      data-localized-zh="{{ team_name_en | escape }}"
-      data-localized-en="{{ team_name_zh | escape }}"
-    >{{ team_name_en }}</p>
-    {% endif %}
   </div>
 
   <div class="team-description-box">
@@ -60,13 +53,6 @@ layout: default
             data-localized-zh="{{ member.name_zh | escape }}"
             data-localized-en="{{ member.name_en | escape }}"
           >{{ member.name_zh }}</h3>
-          {% if member.name_en and member.name_en != member.name_zh %}
-          <span
-            class="member-name-en"
-            data-localized-zh="{{ member.name_en | escape }}"
-            data-localized-en="{{ member.name_zh | escape }}"
-          >{{ member.name_en }}</span>
-          {% endif %}
         </div>
         <p
           class="member-description"

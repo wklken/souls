@@ -78,6 +78,49 @@ class GenerateSoulPagesBilingualTest(unittest.TestCase):
         )
 
 
+class PersonaReadmeNameLocalizationRegressionTest(unittest.TestCase):
+    def setUp(self):
+        self.module = load_module()
+        self.tmpdir = tempfile.TemporaryDirectory()
+        self.root = Path(self.tmpdir.name)
+
+        persona_dir = self.root / "personas" / "translation_consultant"
+        persona_dir.mkdir(parents=True)
+        persona_dir.joinpath("SOUL.md").write_text(
+            "# 翻译顾问 (Translation Consultant)\n\n中文内容。\n", encoding="utf-8"
+        )
+        persona_dir.joinpath("SOUL.en.md").write_text(
+            "# Translation Consultant (翻译顾问)\n\nEnglish content.\n", encoding="utf-8"
+        )
+        persona_dir.joinpath("README.md").write_text(
+            (
+                "# 翻译顾问\n\n"
+                "## 基本信息\n"
+                "- **中文名**: 翻译顾问\n"
+                "- **英文名**: Translation Consultant\n"
+            ),
+            encoding="utf-8",
+        )
+
+        self.previous_root = self.module.ROOT
+        self.module.ROOT = self.root
+
+    def tearDown(self):
+        self.module.ROOT = self.previous_root
+        self.tmpdir.cleanup()
+
+    def test_generated_titles_prefer_readme_names_over_bilingual_headings(self):
+        created = self.module.generate_for_category("personas", "专家角色")
+        self.assertEqual(created, 1)
+
+        page = (self.root / "personas" / "translation_consultant.md").read_text(encoding="utf-8")
+        self.assertIn('title_zh: "翻译顾问"', page)
+        self.assertIn('title_en: "Translation Consultant"', page)
+        self.assertIn('english_name: "Translation Consultant"', page)
+        self.assertNotIn('title_zh: "翻译顾问 (Translation Consultant)"', page)
+        self.assertNotIn('title_en: "Translation Consultant (翻译顾问)"', page)
+
+
 class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
     def setUp(self):
         self.repo_root = Path(__file__).resolve().parents[1]
@@ -150,6 +193,21 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         i18n_script = (self.repo_root / "assets" / "js" / "i18n.js").read_text(encoding="utf-8")
         self.assertIn("querySelectorAll('[data-search-input]')", i18n_script)
 
+    def test_category_cards_use_single_localized_title_without_subtitle(self):
+        for page_name in ("real_world.md", "virtual_world.md", "personas.md"):
+            page = (self.repo_root / page_name).read_text(encoding="utf-8")
+            self.assertIn('class="soul-name"', page)
+            self.assertIn('data-localized-en="{{ soul_name_en | escape }}"', page)
+            self.assertNotIn('class="soul-english"', page)
+
+    def test_soul_layout_removes_secondary_name_lines(self):
+        soul_layout = (self.repo_root / "_layouts" / "soul.html").read_text(encoding="utf-8")
+        self.assertNotIn('class="english-name"', soul_layout)
+        self.assertNotIn('class="related-soul-english"', soul_layout)
+
+    def test_soul_styles_hide_duplicate_heading_in_content(self):
+        style = (self.repo_root / "assets" / "css" / "style.scss").read_text(encoding="utf-8")
+        self.assertIn("> h1:first-child {", style)
     def test_i18n_contains_role_instruction_translations(self):
         i18n_script = (self.repo_root / "assets" / "js" / "i18n.js").read_text(encoding="utf-8")
 
@@ -171,6 +229,19 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertNotIn("team_description: {", team_layout)
         self.assertNotIn("name: {", team_layout)
         self.assertNotIn("description: {", team_layout)
+
+    def test_teams_pages_use_single_localized_titles_without_subtitles(self):
+        teams_page = (self.repo_root / "teams.md").read_text(encoding="utf-8")
+        team_layout = (self.repo_root / "_layouts" / "team.html").read_text(encoding="utf-8")
+
+        self.assertIn('class="team-name"', teams_page)
+        self.assertIn('data-localized-en="{{ team_name_en | escape }}"', teams_page)
+        self.assertNotIn('class="team-english"', teams_page)
+
+        self.assertIn('class="member-name"', team_layout)
+        self.assertIn('data-localized-en="{{ member.name_en | escape }}"', team_layout)
+        self.assertNotIn('class="team-english-name"', team_layout)
+        self.assertNotIn('class="member-name-en"', team_layout)
 
     def test_category_search_script_has_normalized_matching(self):
         script = (self.repo_root / "assets" / "js" / "category-search.js").read_text(

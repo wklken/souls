@@ -458,16 +458,8 @@ a {
     font-family: "Cormorant Garamond", Georgia, serif;
     font-size: 1.36rem;
     font-weight: 600;
-    margin-bottom: 0.25rem;
-    line-height: 1.25;
-  }
-
-  .soul-english {
-    font-size: 0.82rem;
-    color: var(--text-secondary);
     margin-bottom: 0.32rem;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
+    line-height: 1.25;
   }
 
   .soul-tags {
@@ -513,12 +505,7 @@ a {
     font-family: "Cormorant Garamond", Georgia, serif;
     font-size: clamp(2rem, 3.5vw, 2.8rem);
     line-height: 1.14;
-    margin-bottom: 0.15rem;
-  }
-
-  .english-name {
-    color: var(--text-secondary);
-    font-size: 1rem;
+    margin-bottom: 0;
   }
 }
 
@@ -682,6 +669,10 @@ a {
 
   .soul-lang-content {
     display: none;
+
+    > h1:first-child {
+      display: none;
+    }
   }
 }
 
@@ -727,14 +718,7 @@ html[lang="en"] .soul-content .soul-lang-en {
     font-family: "Cormorant Garamond", Georgia, serif;
     font-size: 1.15rem;
     line-height: 1.2;
-  }
-
-  .related-soul-english {
-    margin-top: 0.1rem;
-    color: var(--text-secondary);
-    font-size: 0.76rem;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
+    margin-bottom: 0.28rem;
   }
 
   .related-soul-tags {
@@ -996,14 +980,7 @@ html[lang="en"] .soul-disclaimer .disclaimer-content {
     font-size: 1.5rem;
     font-weight: 600;
     line-height: 1.25;
-    margin-bottom: 0.2rem;
-  }
-
-  .team-english {
-    font-size: 0.88rem;
-    color: var(--text-secondary);
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
+    margin-bottom: 0;
   }
 
   .team-description {
@@ -1055,13 +1032,7 @@ html[lang="en"] .soul-disclaimer .disclaimer-content {
     font-family: "Cormorant Garamond", Georgia, serif;
     font-size: clamp(2rem, 3.5vw, 2.8rem);
     line-height: 1.14;
-    margin-bottom: 0.15rem;
-  }
-
-  .team-english-name {
-    color: var(--text-secondary);
-    font-size: 1.1rem;
-    letter-spacing: 0.04em;
+    margin-bottom: 0;
   }
 }
 
@@ -1140,13 +1111,7 @@ html[lang="en"] .soul-disclaimer .disclaimer-content {
     font-family: "Cormorant Garamond", Georgia, serif;
     font-size: 1.25rem;
     font-weight: 600;
-    margin-bottom: 0.15rem;
-  }
-
-  .member-name-en {
-    font-size: 0.85rem;
-    color: var(--text-secondary);
-    letter-spacing: 0.03em;
+    margin-bottom: 0;
   }
 
   .member-description {

@@ -154,10 +154,22 @@ def extract_tags(markdown_text: str) -> list[str]:
     return []
 
 
-def extract_readme_metadata(readme_text: str) -> tuple[str, str, str]:
+def strip_trailing_cjk_parenthetical(text: str) -> str:
+    cleaned = re.sub(r"\s*[（(][^()（）]*[\u4e00-\u9fff][^()（）]*[)）]\s*$", "", text).strip()
+    return cleaned or text.strip()
+
+
+def extract_readme_metadata(readme_text: str) -> tuple[str, str, str, str]:
+    name_zh = ""
     name_en = ""
     wiki_zh = ""
     wiki_en = ""
+
+    name_zh_match = re.search(r"\*\*中文名\*\*:\s*(.+)", readme_text)
+    if name_zh_match:
+        name_zh = name_zh_match.group(1).strip()
+        if name_zh in {"待补充", "Pending", "(Pending manual verification)"}:
+            name_zh = ""
 
     name_en_match = re.search(r"\*\*英文名\*\*:\s*(.+)", readme_text)
     if name_en_match:
@@ -173,7 +185,7 @@ def extract_readme_metadata(readme_text: str) -> tuple[str, str, str]:
     if wiki_en_match:
         wiki_en = wiki_en_match.group(1).strip()
 
-    return name_en, wiki_zh, wiki_en
+    return name_zh, name_en, wiki_zh, wiki_en
 
 
 def append_yaml_list(front_matter: list[str], key: str, values: list[str]) -> None:
@@ -218,6 +230,7 @@ def generate_for_category(category: str, category_name: str | dict[str, str]) ->
 
         soul_content = soul_md.read_text(encoding="utf-8")
         title_zh = extract_heading(soul_content) or folder.name.replace("_", " ").title()
+        title_zh = strip_trailing_latin_parenthetical(title_zh)
         tags_zh = extract_tags(soul_content)
         soul_en = folder / "SOUL.en.md"
         soul_content_en = soul_content
@@ -226,9 +239,10 @@ def generate_for_category(category: str, category_name: str | dict[str, str]) ->
             en_source = "SOUL.en.md"
             soul_content_en = soul_en.read_text(encoding="utf-8")
 
-        title_en = extract_heading(soul_content_en)
+        title_en = strip_trailing_cjk_parenthetical(extract_heading(soul_content_en))
         tags_en = extract_tags(soul_content_en)
 
+        name_zh = ""
         name_en = ""
         wiki_zh = ""
         wiki_en = ""
@@ -236,7 +250,12 @@ def generate_for_category(category: str, category_name: str | dict[str, str]) ->
         readme = folder / "README.md"
         if readme.exists():
             readme_text = readme.read_text(encoding="utf-8")
-            name_en, wiki_zh, wiki_en = extract_readme_metadata(readme_text)
+            name_zh, name_en, wiki_zh, wiki_en = extract_readme_metadata(readme_text)
+
+        if name_zh:
+            title_zh = name_zh
+        if name_en:
+            title_en = name_en
 
         if not title_en:
             title_en = name_en
