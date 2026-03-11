@@ -129,6 +129,12 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertIn("copyRoleInstruction()", soul_layout)
         self.assertIn('data-i18n="soul.more_prompts"', soul_layout)
 
+        role_instruction_index = soul_layout.find('class="soul-role-instruction"')
+        soul_content_index = soul_layout.find('class="soul-content"')
+        self.assertGreaterEqual(role_instruction_index, 0)
+        self.assertGreaterEqual(soul_content_index, 0)
+        self.assertLess(role_instruction_index, soul_content_index)
+
     def test_category_pages_include_local_search_bar(self):
         include = (self.repo_root / "_includes" / "category_search.html").read_text(encoding="utf-8")
         self.assertIn('id="category-search-input"', include)
