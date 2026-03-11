@@ -208,6 +208,19 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
         self.assertNotIn("name: {", team_layout)
         self.assertNotIn("description: {", team_layout)
 
+    def test_teams_pages_use_single_localized_titles_without_subtitles(self):
+        teams_page = (self.repo_root / "teams.md").read_text(encoding="utf-8")
+        team_layout = (self.repo_root / "_layouts" / "team.html").read_text(encoding="utf-8")
+
+        self.assertIn('class="team-name"', teams_page)
+        self.assertIn('data-localized-en="{{ team_name_en | escape }}"', teams_page)
+        self.assertNotIn('class="team-english"', teams_page)
+
+        self.assertIn('class="member-name"', team_layout)
+        self.assertIn('data-localized-en="{{ member.name_en | escape }}"', team_layout)
+        self.assertNotIn('class="team-english-name"', team_layout)
+        self.assertNotIn('class="member-name-en"', team_layout)
+
     def test_category_search_script_has_normalized_matching(self):
         script = (self.repo_root / "assets" / "js" / "category-search.js").read_text(
             encoding="utf-8"

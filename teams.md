@@ -33,13 +33,6 @@ permalink: /teams/
             data-localized-zh="{{ team_name_zh | escape }}"
             data-localized-en="{{ team_name_en | escape }}"
           >{{ team_name_zh }}</div>
-          {% if team_name_en and team_name_en != team_name_zh %}
-          <div
-            class="team-english"
-            data-localized-zh="{{ team_name_en | escape }}"
-            data-localized-en="{{ team_name_zh | escape }}"
-          >{{ team_name_en }}</div>
-          {% endif %}
         </div>
         <div
           class="team-description"
