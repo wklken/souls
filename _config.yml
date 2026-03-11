@@ -51,6 +51,10 @@ stats:
 # 导航
 nav:
   - title:
+      zh: "专家角色"
+      en: "Personas"
+    url: "/personas"
+  - title:
       zh: "真实世界"
       en: "Real World"
     url: "/real_world"
@@ -58,10 +62,6 @@ nav:
       zh: "非真实世界"
       en: "Virtual World"
     url: "/virtual_world"
-  - title:
-      zh: "专家角色"
-      en: "Personas"
-    url: "/personas"
   - title:
       zh: "灵魂团队"
       en: "Teams"
