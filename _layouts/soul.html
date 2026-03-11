@@ -32,7 +32,7 @@ layout: default
     <p
       class="english-name"
       data-localized-zh="{{ page.english_name | escape }}"
-      data-localized-en="{{ page_title_zh | escape }}"
+      data-localized-en="{{ page.english_name | escape }}"
     >{{ page.english_name }}</p>
     {% endif %}
   </div>
@@ -95,7 +95,7 @@ layout: default
 
       {% if has_shared_tag %}
         {% assign related_name_zh = soul.title_zh | default: soul.title %}
-        {% assign related_name_en = soul.title_en | default: soul.english_name | default: soul.title %}
+        {% assign related_name_en = soul.english_name | default: soul.title_en | default: soul.title %}
         {% assign related_tags_zh = soul.tags_zh | default: soul.tags %}
         {% assign related_tags_en = soul.tags_en | default: soul.tags %}
         <a href="{{ soul.url | relative_url }}" class="related-soul-card">
@@ -108,7 +108,7 @@ layout: default
           <div
             class="related-soul-english"
             data-localized-zh="{{ related_name_en | escape }}"
-            data-localized-en="{{ related_name_zh | escape }}"
+            data-localized-en="{{ related_name_en | escape }}"
           >{{ related_name_en }}</div>
           {% endif %}
           {% if related_tags_zh or related_tags_en %}

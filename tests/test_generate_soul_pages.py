@@ -78,6 +78,49 @@ class GenerateSoulPagesBilingualTest(unittest.TestCase):
         )
 
 
+class PersonaReadmeNameLocalizationRegressionTest(unittest.TestCase):
+    def setUp(self):
+        self.module = load_module()
+        self.tmpdir = tempfile.TemporaryDirectory()
+        self.root = Path(self.tmpdir.name)
+
+        persona_dir = self.root / "personas" / "translation_consultant"
+        persona_dir.mkdir(parents=True)
+        persona_dir.joinpath("SOUL.md").write_text(
+            "# 翻译顾问 (Translation Consultant)\n\n中文内容。\n", encoding="utf-8"
+        )
+        persona_dir.joinpath("SOUL.en.md").write_text(
+            "# Translation Consultant (翻译顾问)\n\nEnglish content.\n", encoding="utf-8"
+        )
+        persona_dir.joinpath("README.md").write_text(
+            (
+                "# 翻译顾问\n\n"
+                "## 基本信息\n"
+                "- **中文名**: 翻译顾问\n"
+                "- **英文名**: Translation Consultant\n"
+            ),
+            encoding="utf-8",
+        )
+
+        self.previous_root = self.module.ROOT
+        self.module.ROOT = self.root
+
+    def tearDown(self):
+        self.module.ROOT = self.previous_root
+        self.tmpdir.cleanup()
+
+    def test_generated_titles_prefer_readme_names_over_bilingual_headings(self):
+        created = self.module.generate_for_category("personas", "专家角色")
+        self.assertEqual(created, 1)
+
+        page = (self.root / "personas" / "translation_consultant.md").read_text(encoding="utf-8")
+        self.assertIn('title_zh: "翻译顾问"', page)
+        self.assertIn('title_en: "Translation Consultant"', page)
+        self.assertIn('english_name: "Translation Consultant"', page)
+        self.assertNotIn('title_zh: "翻译顾问 (Translation Consultant)"', page)
+        self.assertNotIn('title_en: "Translation Consultant (翻译顾问)"', page)
+
+
 class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
     def setUp(self):
         self.repo_root = Path(__file__).resolve().parents[1]
@@ -134,6 +177,28 @@ class SiteTemplateLocalizationRegressionTest(unittest.TestCase):
     def test_i18n_updates_all_search_input_placeholders(self):
         i18n_script = (self.repo_root / "assets" / "js" / "i18n.js").read_text(encoding="utf-8")
         self.assertIn("querySelectorAll('[data-search-input]')", i18n_script)
+
+    def test_category_cards_do_not_map_english_secondary_line_to_chinese(self):
+        for page_name in ("real_world.md", "virtual_world.md", "personas.md"):
+            page = (self.repo_root / page_name).read_text(encoding="utf-8")
+            self.assertIn('data-localized-zh="{{ soul_name_en | escape }}"', page)
+            self.assertIn('data-localized-en="{{ soul_name_en | escape }}"', page)
+            self.assertNotIn('data-localized-en="{{ soul_name_zh | escape }}"', page)
+
+    def test_soul_layout_secondary_titles_do_not_show_chinese_in_english_mode(self):
+        soul_layout = (self.repo_root / "_layouts" / "soul.html").read_text(encoding="utf-8")
+        self.assertIn('data-localized-en="{{ page.english_name | escape }}"', soul_layout)
+        self.assertIn('data-localized-en="{{ related_name_en | escape }}"', soul_layout)
+        self.assertNotIn('data-localized-en="{{ page_title_zh | escape }}"', soul_layout)
+        self.assertNotIn('data-localized-en="{{ related_name_zh | escape }}"', soul_layout)
+
+    def test_soul_styles_hide_secondary_names_and_duplicate_heading_in_english(self):
+        style = (self.repo_root / "assets" / "css" / "style.scss").read_text(encoding="utf-8")
+        self.assertIn("> h1:first-child {", style)
+        self.assertIn("html[lang=\"en\"]", style)
+        self.assertIn(".soul-header .english-name", style)
+        self.assertIn(".soul-card .soul-english", style)
+        self.assertIn(".related-soul-card .related-soul-english", style)
 
     def test_team_download_config_exports_single_language_fields(self):
         team_layout = (self.repo_root / "_layouts" / "team.html").read_text(encoding="utf-8")

@@ -22,7 +22,7 @@ permalink: /personas/
     {% if souls.size > 0 %}
     {% for soul in souls %}
       {% assign soul_name_zh = soul.title_zh | default: soul.title %}
-      {% assign soul_name_en = soul.title_en | default: soul.english_name | default: soul.title %}
+      {% assign soul_name_en = soul.english_name | default: soul.title_en | default: soul.title %}
       {% assign soul_tags_zh = soul.tags_zh | default: soul.tags %}
       {% assign soul_tags_en = soul.tags_en | default: soul.tags %}
       <a href="{{ soul.url | relative_url }}" class="soul-card">
@@ -35,7 +35,7 @@ permalink: /personas/
         <div
           class="soul-english"
           data-localized-zh="{{ soul_name_en | escape }}"
-          data-localized-en="{{ soul_name_zh | escape }}"
+          data-localized-en="{{ soul_name_en | escape }}"
         >{{ soul_name_en }}</div>
         {% endif %}
         {% if soul_tags_zh or soul_tags_en %}

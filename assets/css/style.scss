@@ -597,12 +597,24 @@ a {
 
   .soul-lang-content {
     display: none;
+
+    > h1:first-child {
+      display: none;
+    }
   }
 }
 
 html[lang="zh"] .soul-content .soul-lang-zh,
 html[lang="en"] .soul-content .soul-lang-en {
   display: block;
+}
+
+html[lang="en"] {
+  .soul-card .soul-english,
+  .related-soul-card .related-soul-english,
+  .soul-header .english-name {
+    display: none;
+  }
 }
 
 .related-souls {
