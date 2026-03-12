@@ -1,0 +1,3943 @@
+[
+  
+  
+  {
+    "name": "林肯 AI 灵魂设定",
+    "name_zh": "林肯 (Abraham Lincoln)",
+    "name_en": "Abraham Lincoln",
+    "url": "/real_world/abraham_lincoln/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["美国总统","内战","解放奴隶宣言","民主","演说家","自学成才","忧郁","道义几何学"],
+    "tags_zh": ["美国总统","内战","解放奴隶宣言","民主","演说家","自学成才","忧郁","道义几何学"],
+    "tags_en": ["U.S. President","Civil War","Emancipation Proclamation","Democracy","Orator","Self-taught","Melancholy","Moral Geometry"]
+  },
+  
+  {
+    "name": "学术写作导师 AI 灵魂设定",
+    "name_zh": "学术写作导师",
+    "name_en": "Academic Writing Mentor",
+    "url": "/personas/academic_writing_mentor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["学术写作","论文指导","论证逻辑","文献综述","研究方法","同行评审","学术英语","论文修改","研究生教育","学术规范"],
+    "tags_zh": ["学术写作","论文指导","论证逻辑","文献综述","研究方法","同行评审","学术英语","论文修改","研究生教育","学术规范"],
+    "tags_en": ["academic writing","thesis advising","argument logic","literature review","research methods","peer review","academic English","paper revision","graduate education","academic norms"]
+  },
+  
+  {
+    "name": "艾达·洛夫莱斯 AI 灵魂设定",
+    "name_zh": "艾达·洛夫莱斯 (Ada Lovelace)",
+    "name_en": "Ada Lovelace",
+    "url": "/real_world/ada_lovelace/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["第一位程序员","分析机","诗意科学","运算科学","维多利亚时代","计算先驱","拜伦之女"],
+    "tags_zh": ["第一位程序员","分析机","诗意科学","运算科学","维多利亚时代","计算先驱","拜伦之女"],
+    "tags_en": ["First Programmer","Analytical Engine","Poetical Science","Science of Operations","Victorian Era","Computing Pioneer","Byron's Daughter"]
+  },
+  
+  {
+    "name": "亚当·斯密 AI 灵魂设定",
+    "name_zh": "亚当·斯密 (Adam Smith)",
+    "name_en": "Adam Smith",
+    "url": "/real_world/adam_smith/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["苏格兰启蒙运动","古典经济学","自由贸易","道德哲学","国富论","道德情操论","看不见的手","分工"],
+    "tags_zh": ["苏格兰启蒙运动","古典经济学","自由贸易","道德哲学","国富论","道德情操论","看不见的手","分工"],
+    "tags_en": ["Scottish Enlightenment","Classical Economics","Free Trade","Moral Philosophy","Wealth of Nations","Theory of Moral Sentiments","Invisible Hand","Division of Labor"]
+  },
+  
+  {
+    "name": "商羯罗 AI 灵魂设定",
+    "name_zh": "商羯罗 (Adi Shankara)",
+    "name_en": "Adi Shankara",
+    "url": "/real_world/adi_shankara/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["不二论","吠檀多","印度教","梵我一如","摩耶","注疏传统","苦行者"],
+    "tags_zh": ["不二论","吠檀多","印度教","梵我一如","摩耶","注疏传统","苦行者"],
+    "tags_en": ["Advaita Vedanta","Hinduism","Non-duality","Brahman-Atman","Maya","Commentary Tradition","Sannyasa"]
+  },
+  
+  {
+    "name": "埃斯库罗斯 AI 灵魂设定",
+    "name_zh": "埃斯库罗斯 (Aeschylus)",
+    "name_en": "Aeschylus",
+    "url": "/real_world/aeschylus/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["古希腊","悲剧之父","马拉松战士","宇宙正义","受难即启智"],
+    "tags_zh": ["古希腊","悲剧之父","马拉松战士","宇宙正义","受难即启智"],
+    "tags_en": ["Ancient Greece","Father of Tragedy","Marathon Warrior","Cosmic Justice","Pathei Mathos"]
+  },
+  
+  {
+    "name": "AI 工程师 AI 灵魂设定",
+    "name_zh": "AI 工程师",
+    "name_en": "AI Engineer",
+    "url": "/personas/ai_engineer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["机器学习","MLOps","模型部署","深度学习","LLM","AI工程","数据工程","模型优化"],
+    "tags_zh": ["机器学习","MLOps","模型部署","深度学习","LLM","AI工程","数据工程","模型优化"],
+    "tags_en": ["Machine learning","MLOps","Model deployment","Deep learning","LLM","AI engineering","Data engineering","Model optimization"]
+  },
+  
+  {
+    "name": "AI 产品经理 AI 灵魂设定",
+    "name_zh": "AI 产品经理",
+    "name_en": "AI Product Manager",
+    "url": "/personas/ai_product_manager/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI产品","大模型应用","人机协作","Prompt工程","AI伦理","产品化"],
+    "tags_zh": ["AI产品","大模型应用","人机协作","Prompt工程","AI伦理","产品化"],
+    "tags_en": ["AI products","large language model applications","human-AI collaboration","prompt engineering","AI ethics","productization"]
+  },
+  
+  {
+    "name": "AI 绘画提示词工程师 AI 灵魂设定",
+    "name_zh": "AI 绘画提示词工程师",
+    "name_en": "AIGC Image Prompt Engineer",
+    "url": "/personas/aigc_image_prompt_engineer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AIGC","AI绘画","提示词工程","视觉生成","可控创作","内容生产"],
+    "tags_zh": ["AIGC","AI绘画","提示词工程","视觉生成","可控创作","内容生产"],
+    "tags_en": ["AIGC","AI art","prompt engineering","visual generation","controllable creation","content production"]
+  },
+  
+  {
+    "name": "AI 音乐制作专家 (Suno/Udio) AI 灵魂设定",
+    "name_zh": "AI 音乐制作专家 (Suno/Udio)",
+    "name_en": "AI Music Producer (Suno/Udio)",
+    "url": "/personas/aigc_music_producer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AIGC音乐","Suno","Udio","提示词工程","音乐制作","编曲","商业配乐","内容创作"],
+    "tags_zh": ["AIGC音乐","Suno","Udio","提示词工程","音乐制作","编曲","商业配乐","内容创作"],
+    "tags_en": ["AIGC music","Suno","Udio","Prompt engineering","Music production","Arrangement","Commercial scoring","Content creation"]
+  },
+  
+  {
+    "name": "AI 视频创作专家 AI 灵魂设定",
+    "name_zh": "AI 视频创作专家",
+    "name_en": "AIGC Video Creator",
+    "url": "/personas/aigc_video_creator/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AIGC视频","文生视频","提示词工程","镜头设计","视频工作流","Sora","Runway","Pika"],
+    "tags_zh": ["AIGC视频","文生视频","提示词工程","镜头设计","视频工作流","Sora","Runway","Pika"],
+    "tags_en": ["AIGC video","Text-to-video","Prompt engineering","Shot design","Video workflow","Sora","Runway","Pika"]
+  },
+  
+  {
+    "name": "汉密尔顿 AI 灵魂设定",
+    "name_zh": "汉密尔顿 (Alexander Hamilton)",
+    "name_en": "Alexander Hamilton",
+    "url": "/real_world/alexander_hamilton/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["美国开国元勋","联邦党人","金融体系","宪法","财政部长","联邦党人文集","决斗"],
+    "tags_zh": ["美国开国元勋","联邦党人","金融体系","宪法","财政部长","联邦党人文集","决斗"],
+    "tags_en": ["American Founding Father","Federalist","Financial System","Constitution","Secretary of the Treasury","Federalist Papers","Duel"]
+  },
+  
+  {
+    "name": "托克维尔 AI 灵魂设定",
+    "name_zh": "托克维尔 (Alexis de Tocqueville)",
+    "name_en": "Alexis de Tocqueville",
+    "url": "/real_world/alexis_de_tocqueville/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["民主理论","多数暴政","自由主义","法国","19世纪","政治社会学","自愿结社","地方自治","《论美国的民主》","《旧制度与大革命》"],
+    "tags_zh": ["民主理论","多数暴政","自由主义","法国","19世纪","政治社会学","自愿结社","地方自治","《论美国的民主》","《旧制度与大革命》"],
+    "tags_en": ["Democratic Theory","Tyranny of the Majority","Liberalism","France","19th Century","Political Sociology","Voluntary Association","Local Self-Government","Democracy in America","The Old Regime and the Revolution"]
+  },
+  
+  {
+    "name": "阿尔弗雷德·马歇尔 AI 灵魂设定",
+    "name_zh": "阿尔弗雷德·马歇尔 (Alfred Marshall)",
+    "name_en": "Alfred Marshall",
+    "url": "/real_world/alfred_marshall/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["新古典经济学","剑桥学派","供需分析","均衡理论","经济学原理","边际主义","消费者剩余","弹性"],
+    "tags_zh": ["新古典经济学","剑桥学派","供需分析","均衡理论","经济学原理","边际主义","消费者剩余","弹性"],
+    "tags_en": ["Neoclassical Economics","Cambridge School","Supply and Demand Analysis","Equilibrium Theory","Principles of Economics","Marginalism","Consumer Surplus","Elasticity"]
+  },
+  
+  {
+    "name": "算法教练 AI 灵魂设定",
+    "name_zh": "算法教练",
+    "name_en": "Algorithm Coach",
+    "url": "/personas/algorithm_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["算法","数据结构","面试准备","竞赛编程","复杂度分析","问题解决"],
+    "tags_zh": ["算法","数据结构","面试准备","竞赛编程","复杂度分析","问题解决"],
+    "tags_en": ["algorithms","data structures","interview preparation","competitive programming","complexity analysis","problem solving"]
+  },
+  
+  {
+    "name": "阿那克萨戈拉 AI 灵魂设定",
+    "name_zh": "阿那克萨戈拉 (Anaxagoras)",
+    "name_en": "Anaxagoras",
+    "url": "/real_world/anaxagoras/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["前苏格拉底","努斯","种子说","自然哲学","伊奥尼亚","雅典","伯里克利","不敬神审判"],
+    "tags_zh": ["前苏格拉底","努斯","种子说","自然哲学","伊奥尼亚","雅典","伯里克利","不敬神审判"],
+    "tags_en": ["Pre-Socratic","Nous","Theory of Seeds","Natural Philosophy","Ionia","Athens","Pericles","Impiety Trial"]
+  },
+  
+  {
+    "name": "天使投资人 AI 灵魂设定",
+    "name_zh": "天使投资人",
+    "name_en": "Angel Investor",
+    "url": "/personas/angel_investor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["天使投资","早期投资","项目评估","创业融资","企业服务","金融科技","投资决策","创始人辅导","风险判断","资源对接"],
+    "tags_zh": ["天使投资","早期投资","项目评估","创业融资","企业服务","金融科技","投资决策","创始人辅导","风险判断","资源对接"],
+    "tags_en": ["Angel investing","Early-stage investment","Project evaluation","Startup financing","Enterprise services","Fintech","Investment decision-making","Founder mentoring","Risk assessment","Resource matching"]
+  },
+  
+  {
+    "name": "动画师 AI 灵魂设定",
+    "name_zh": "动画师",
+    "name_en": "Animator",
+    "url": "/personas/animator/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["动画制作","角色动画","动画表演","运动设计","Maya","Blender","动画十二法则","面部动画","游戏动画","手绘动画"],
+    "tags_zh": ["动画制作","角色动画","动画表演","运动设计","Maya","Blender","动画十二法则","面部动画","游戏动画","手绘动画"],
+    "tags_en": ["Animation Production","Character Animation","Animation Performance","Motion Design","Maya","Blender","Twelve Principles of Animation","Facial Animation","Game Animation","Hand-Drawn Animation"]
+  },
+  
+  {
+    "name": "拉瓦锡 AI 灵魂设定",
+    "name_zh": "拉瓦锡 (Antoine Lavoisier)",
+    "name_en": "Antoine Lavoisier",
+    "url": "/real_world/antoine_lavoisier/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["质量守恒定律","氧化燃烧理论","推翻燃素说","化学命名法改革"],
+    "tags_zh": ["质量守恒定律","氧化燃烧理论","推翻燃素说","化学命名法改革"],
+    "tags_en": ["Law of Conservation of Mass","Oxidation-Combustion Theory","Overthrow of Phlogiston Theory","Chemical Nomenclature Reform"]
+  },
+  
+  {
+    "name": "阿里斯托芬 AI 灵魂设定",
+    "name_zh": "阿里斯托芬 (Aristophanes)",
+    "name_en": "Aristophanes",
+    "url": "/real_world/aristophanes/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["古希腊喜剧","旧喜剧","政治讽刺","雅典民主","反战","伯罗奔尼撒战争","酒神剧赛"],
+    "tags_zh": ["古希腊喜剧","旧喜剧","政治讽刺","雅典民主","反战","伯罗奔尼撒战争","酒神剧赛"],
+    "tags_en": ["Ancient Greek Comedy","Old Comedy","Political Satire","Athenian Democracy","Anti-War","Peloponnesian War","Dramatic Competition at the Dionysia"]
+  },
+  
+  {
+    "name": "亚里士多德 AI 灵魂设定",
+    "name_zh": "亚里士多德",
+    "name_en": "Aristotle",
+    "url": "/real_world/aristotle/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["形而上学","伦理学","逻辑学","政治学","四因说","中道","逍遥学派","古希腊","自然哲学"],
+    "tags_zh": ["形而上学","伦理学","逻辑学","政治学","四因说","中道","逍遥学派","古希腊","自然哲学"],
+    "tags_en": ["Metaphysics","Ethics","Logic","Politics","Four Causes","The Mean","Peripatetic School","Ancient Greece","Natural Philosophy"]
+  },
+  
+  {
+    "name": "叔本华 AI 灵魂设定",
+    "name_zh": "叔本华 (Arthur Schopenhauer)",
+    "name_en": "Arthur Schopenhauer",
+    "url": "/real_world/arthur_schopenhauer/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["意志哲学","悲观主义","形而上学","康德哲学","东方哲学","美学","伦理学"],
+    "tags_zh": ["意志哲学","悲观主义","形而上学","康德哲学","东方哲学","美学","伦理学"],
+    "tags_en": ["Philosophy of Will","Pessimism","Metaphysics","Kantian Philosophy","Eastern Philosophy","Aesthetics","Ethics"]
+  },
+  
+  {
+    "name": "奥古斯丁 AI 灵魂设定",
+    "name_zh": "奥古斯丁 (Augustine of Hippo)",
+    "name_en": "Augustine of Hippo",
+    "url": "/real_world/augustine_of_hippo/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["教父","忏悔录","上帝之城","恩典","原罪","自由意志","新柏拉图主义","北非","罗马帝国晚期"],
+    "tags_zh": ["教父","忏悔录","上帝之城","恩典","原罪","自由意志","新柏拉图主义","北非","罗马帝国晚期"],
+    "tags_en": ["Church Father","Confessions","City of God","Grace","Original Sin","Free Will","Neoplatonism","North Africa","Late Roman Empire"]
+  },
+  
+  {
+    "name": "白居易 AI 灵魂设定",
+    "name_zh": "白居易 (Bai Juyi)",
+    "name_en": "Bai Juyi",
+    "url": "/real_world/bai_juyi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["唐代诗人","新乐府运动","现实主义","诗魔","香山居士","长恨歌","琵琶行"],
+    "tags_zh": ["唐代诗人","新乐府运动","现实主义","诗魔","香山居士","长恨歌","琵琶行"],
+    "tags_en": ["Tang Dynasty Poet","New Yuefu Movement","Realism","Poetry Demon","Hermit of Xiangshan","Song of Everlasting Sorrow","Song of the Pipa Player"]
+  },
+  
+  {
+    "name": "白起 AI 灵魂设定",
+    "name_zh": "白起 (Bai Qi)",
+    "name_en": "Bai Qi",
+    "url": "/real_world/bai_qi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["战神","人屠","武安君","战国四大名将","长平之战","歼灭战","伊阙之战","鄢郢之战","军事家","秦国","战国"],
+    "tags_zh": ["战神","人屠","武安君","战国四大名将","长平之战","歼灭战","伊阙之战","鄢郢之战","军事家","秦国","战国"],
+    "tags_en": ["God","Human","Lord","Four","Battle","Annihilation","Battle","Battle","Military","Qin","Warring"]
+  },
+  
+  {
+    "name": "班固 AI 灵魂设定",
+    "name_zh": "班固 (Ban Gu)",
+    "name_en": "Ban Gu",
+    "url": "/real_world/ban_gu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["汉书","断代史","白虎通义","班氏家族","东汉","经史一体","艺文志"],
+    "tags_zh": ["汉书","断代史","白虎通义","班氏家族","东汉","经史一体","艺文志"],
+    "tags_en": ["Book of Han","dynastic history","Comprehensive Discussions in the White Tiger Hall","Ban family","Eastern Han","classics and history as one","Treatise on Bibliography"]
+  },
+  
+  {
+    "name": "包拯 AI 灵魂设定",
+    "name_zh": "包拯 (Bao Zheng)",
+    "name_en": "Bao Zheng",
+    "url": "/real_world/bao_zheng/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["包青天","开封府尹","断案如神","历史人物","灵魂画像"],
+    "tags_zh": ["包青天","开封府尹","断案如神","历史人物","灵魂画像"],
+    "tags_en": ["Lord Bao","Prefect of Kaifeng","Legendary Judge","Historical Figure","Soul Persona"]
+  },
+  
+  {
+    "name": "斯宾诺莎 AI 灵魂设定",
+    "name_zh": "斯宾诺莎 (Baruch Spinoza)",
+    "name_en": "Baruch Spinoza",
+    "url": "/real_world/baruch_spinoza/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["一元论","决定论","伦理学","圣经批评","理性主义","荷兰黄金时代","神即自然"],
+    "tags_zh": ["一元论","决定论","伦理学","圣经批评","理性主义","荷兰黄金时代","神即自然"],
+    "tags_en": ["Monism","Determinism","Ethics","Biblical Criticism","Rationalism","Dutch Golden Age","Deus sive Natura"]
+  },
+  
+  {
+    "name": "富兰克林 AI 灵魂设定",
+    "name_zh": "富兰克林 (Benjamin Franklin)",
+    "name_en": "Benjamin Franklin",
+    "url": "/real_world/benjamin_franklin/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["开国元勋","科学家","发明家","外交家","印刷工","启蒙运动","穷理查年鉴","美国独立"],
+    "tags_zh": ["开国元勋","科学家","发明家","外交家","印刷工","启蒙运动","穷理查年鉴","美国独立"],
+    "tags_en": ["Founding Father","scientist","inventor","diplomat","printer","Enlightenment","Poor Richard's Almanack","American independence"]
+  },
+  
+  {
+    "name": "区块链开发者 AI 灵魂设定",
+    "name_zh": "区块链开发者",
+    "name_en": "Blockchain Developer",
+    "url": "/personas/blockchain_developer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["区块链","Web3","智能合约","DeFi","Solidity","去中心化"],
+    "tags_zh": ["区块链","Web3","智能合约","DeFi","Solidity","去中心化"],
+    "tags_en": ["blockchain","Web3","smart contracts","DeFi","Solidity","decentralization"]
+  },
+  
+  {
+    "name": "薄伽丘 AI 灵魂设定",
+    "name_zh": "薄伽丘 (Boccaccio)",
+    "name_en": "Boccaccio",
+    "url": "/real_world/boccaccio/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["`文艺复兴先驱` `意大利文学` `十日谈` `短篇小说之父` `人文主义` `叙事艺术` `黑死病` `佛罗伦萨` `那不勒斯` `俗语文学` `14世纪`"],
+    "tags_zh": ["`文艺复兴先驱` `意大利文学` `十日谈` `短篇小说之父` `人文主义` `叙事艺术` `黑死病` `佛罗伦萨` `那不勒斯` `俗语文学` `14世纪`"],
+    "tags_en": ["`Renaissance Pioneer` `Italian Literature` `Decameron` `Father of the Short Story` `Humanism` `Narrative Art` `Black Death` `Florence` `Naples` `Vernacular Literature` `14th Century`"]
+  },
+  
+  {
+    "name": "品牌策略师 AI 灵魂设定",
+    "name_zh": "品牌策略师",
+    "name_en": "Brand Strategist",
+    "url": "/personas/brand_strategist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["品牌定位","品牌策略","品牌叙事","心智占领","品牌资产","品牌管理"],
+    "tags_zh": ["品牌定位","品牌策略","品牌叙事","心智占领","品牌资产","品牌管理"],
+    "tags_en": ["brand positioning","brand strategy","brand narrative","mind share","brand equity","brand management"]
+  },
+  
+  {
+    "name": "曹操 AI 灵魂设定",
+    "name_zh": "曹操 (Cao Cao)",
+    "name_en": "Cao Cao",
+    "url": "/real_world/cao_cao/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["三国","魏武帝","唯才是举","建安文学","政治家","军事家","诗人"],
+    "tags_zh": ["三国","魏武帝","唯才是举","建安文学","政治家","军事家","诗人"],
+    "tags_en": ["Three Kingdoms","Emperor Wu of Wei","meritocracy","Jian'an literature","statesman","military commander","poet"]
+  },
+  
+  {
+    "name": "曹雪芹 AI 灵魂设定",
+    "name_zh": "曹雪芹 (Cao Xueqin)",
+    "name_en": "Cao Xueqin",
+    "url": "/real_world/cao_xueqin/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["红楼梦","石头记","清代小说","古典文学巅峰","色空观","情痴","曹家","脂砚斋"],
+    "tags_zh": ["红楼梦","石头记","清代小说","古典文学巅峰","色空观","情痴","曹家","脂砚斋"],
+    "tags_en": ["Dream of the Red Chamber","Story of the Stone","Qing dynasty novel","summit of classical Chinese fiction","form-and-emptiness","fool for love","Cao family","Zhiyanzhai"]
+  },
+  
+  {
+    "name": "职业规划师 AI 灵魂设定",
+    "name_zh": "职业规划师",
+    "name_en": "Career Planner",
+    "url": "/personas/career_planner/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["职业规划","职业转型","求职策略","可迁移技能","职业评估","职业发展","跳槽决策","生涯咨询"],
+    "tags_zh": ["职业规划","职业转型","求职策略","可迁移技能","职业评估","职业发展","跳槽决策","生涯咨询"],
+    "tags_en": ["career planning","career transition","job-search strategy","transferable skills","career assessment","career development","job change decisions","career counseling"]
+  },
+  
+  {
+    "name": "卡尔·门格尔 AI 灵魂设定",
+    "name_zh": "卡尔·门格尔 (Carl Menger)",
+    "name_en": "Carl Menger",
+    "url": "/real_world/carl_menger/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["主观价值论","奥地利学派","边际革命","方法论个人主义","方法论之争","货币理论"],
+    "tags_zh": ["主观价值论","奥地利学派","边际革命","方法论个人主义","方法论之争","货币理论"],
+    "tags_en": ["subjective value theory","Austrian School","Marginal Revolution","methodological individualism","Methodenstreit","monetary theory"]
+  },
+  
+  {
+    "name": "查尔斯·巴贝奇 AI 灵魂设定",
+    "name_zh": "查尔斯·巴贝奇 (Charles Babbage)",
+    "name_en": "Charles Babbage",
+    "url": "/real_world/charles_babbage/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["差分机","分析机","机械计算","数学表","计算机先驱","维多利亚时代","精密工程"],
+    "tags_zh": ["差分机","分析机","机械计算","数学表","计算机先驱","维多利亚时代","精密工程"],
+    "tags_en": ["Difference Engine","Analytical Engine","mechanical computation","mathematical tables","computing pioneer","Victorian era","precision engineering"]
+  },
+  
+  {
+    "name": "陈胜 AI 灵魂设定",
+    "name_zh": "陈胜 (Chen Sheng)",
+    "name_en": "Chen Sheng",
+    "url": "/real_world/chen_sheng/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["大泽乡起义","王侯将相宁有种乎","农民起义","反秦","张楚政权","中国第一次农民起义"],
+    "tags_zh": ["大泽乡起义","王侯将相宁有种乎","农民起义","反秦","张楚政权","中国第一次农民起义"],
+    "tags_en": ["Daze Township uprising","peasant rebellion","anti-Qin","Zhang Chu regime","China's first peasant revolt","kings are not born"]
+  },
+  
+  {
+    "name": "陈寿 AI 灵魂设定",
+    "name_zh": "陈寿 (Chen Shou)",
+    "name_en": "Chen Shou",
+    "url": "/real_world/chen_shou/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["三国志","史学","西晋","蜀汉","秉笔直书","正统之争"],
+    "tags_zh": ["三国志","史学","西晋","蜀汉","秉笔直书","正统之争"],
+    "tags_en": ["Records of the Three Kingdoms","Western Jin historiography","former Shu Han official","concise history","legitimacy theory","Wei-Shu-Wu","Pei Songzhi annotations"]
+  },
+  
+  {
+    "name": "程颐 AI 灵魂设定",
+    "name_zh": "程颐 (Cheng Yi)",
+    "name_en": "Cheng Yi",
+    "url": "/real_world/cheng_yi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["理学","性即理","格物穷理","洛学","北宋","二程","程门立雪","居敬穷理"],
+    "tags_zh": ["理学","性即理","格物穷理","洛学","北宋","二程","程门立雪","居敬穷理"],
+    "tags_en": ["Neo-Confucianism","nature is principle","investigating things to exhaust principle","Luoyang School","Northern Song","Two Chengs","standing in the snow","reverence and exhausting principle"]
+  },
+  
+  {
+    "name": "儿童教育顾问 AI 灵魂设定",
+    "name_zh": "儿童教育顾问",
+    "name_en": "Child Education Consultant",
+    "url": "/personas/child_education_consultant/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["儿童发展","早期教育","游戏化学习","亲子教育","家庭教育","适龄发展","育儿焦虑","发展心理学"],
+    "tags_zh": ["儿童发展","早期教育","游戏化学习","亲子教育","家庭教育","适龄发展","育儿焦虑","发展心理学"],
+    "tags_en": ["Child Development","Early Education","Play-Based Learning","Parent-Child Education","Family Education","Age-Appropriate Development","Parenting Anxiety","Developmental Psychology"]
+  },
+  
+  {
+    "name": "西塞罗 AI 灵魂设定",
+    "name_zh": "西塞罗 (Cicero)",
+    "name_en": "Cicero",
+    "url": "/real_world/cicero/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["罗马演说家","政治家","斯多葛哲学传播者","历史人物","灵魂画像"],
+    "tags_zh": ["罗马演说家","政治家","斯多葛哲学传播者","历史人物","灵魂画像"],
+    "tags_en": ["Roman Orator","Statesman","Transmitter of Stoic Thought","Historical Figure","Soul Persona"]
+  },
+  
+  {
+    "name": "调色师 AI 灵魂设定",
+    "name_zh": "调色师",
+    "name_en": "Colorist",
+    "url": "/personas/colorist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["色彩分级","调色","DaVinci Resolve","HDR","Dolby Vision","色彩管理","电影后期","色彩心理学","LUT","数字中间片"],
+    "tags_zh": ["色彩分级","调色","DaVinci Resolve","HDR","Dolby Vision","色彩管理","电影后期","色彩心理学","LUT","数字中间片"],
+    "tags_en": ["Color Grading","Color Correction","DaVinci Resolve","HDR","Dolby Vision","Color Management","Film Post-Production","Color Psychology","LUT","Digital Intermediate"]
+  },
+  
+  {
+    "name": "孔子 AI 灵魂设定",
+    "name_zh": "孔子",
+    "name_en": "Confucius",
+    "url": "/real_world/confucius/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["儒家","仁","礼","春秋","论语","教育","君子","周礼"],
+    "tags_zh": ["儒家","仁","礼","春秋","论语","教育","君子","周礼"],
+    "tags_en": ["Confucianism","Ren","Ritual","Spring and Autumn Period","Analects","Education","Junzi","Zhou Rites"]
+  },
+  
+  {
+    "name": "内容策略师 AI 灵魂设定",
+    "name_zh": "内容策略师",
+    "name_en": "Content Strategist",
+    "url": "/personas/content_strategist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["内容策略","信息架构","UX写作","内容治理","SEO","品牌声音"],
+    "tags_zh": ["内容策略","信息架构","UX写作","内容治理","SEO","品牌声音"],
+    "tags_en": ["content strategy","information architecture","UX writing","content governance","SEO","brand voice"]
+  },
+  
+  {
+    "name": "文案大师 AI 灵魂设定",
+    "name_zh": "文案大师",
+    "name_en": "Copywriting Master",
+    "url": "/personas/copywriting_master/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["商业文案","品牌策略","广告创意","消费者洞察","文案写作","品牌调性","社交媒体文案","产品文案","slogan","内容营销"],
+    "tags_zh": ["商业文案","品牌策略","广告创意","消费者洞察","文案写作","品牌调性","社交媒体文案","产品文案","slogan","内容营销"],
+    "tags_en": ["commercial copy","brand strategy","ad creative","consumer insight","copywriting","brand tone","social media copy","product copy","slogan","content marketing"]
+  },
+  
+  {
+    "name": "C++ 导师 AI 灵魂设定",
+    "name_zh": "C++ 导师",
+    "name_en": "C++ Tutor",
+    "url": "/personas/cpp_tutor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["C++","系统编程","性能优化","模板","RAII","现代C++"],
+    "tags_zh": ["C++","系统编程","性能优化","模板","RAII","现代C++"],
+    "tags_en": ["C++","Systems Programming","Performance Optimization","Templates","RAII","Modern C++"]
+  },
+  
+  {
+    "name": "思维导师 AI 灵魂设定",
+    "name_zh": "思维导师",
+    "name_en": "Critical Thinking Mentor",
+    "url": "/personas/critical_thinking_mentor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["批判性思维","逻辑分析","论证评估","认知偏见","辩论技巧","苏格拉底式提问","思维训练","信息素养"],
+    "tags_zh": ["批判性思维","逻辑分析","论证评估","认知偏见","辩论技巧","苏格拉底式提问","思维训练","信息素养"],
+    "tags_en": ["critical thinking","logic analysis","argument evaluation","cognitive biases","debate skills","Socratic questioning","thinking training","information literacy"]
+  },
+  
+  {
+    "name": "戴震 AI 灵魂设定",
+    "name_zh": "戴震 (Dai Zhen)",
+    "name_en": "Dai Zhen",
+    "url": "/real_world/dai_zhen/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["乾嘉学派","考据学","孟子字义疏证","以理杀人","情欲解放","清代","皖派","训诂学"],
+    "tags_zh": ["乾嘉学派","考据学","孟子字义疏证","以理杀人","情欲解放","清代","皖派","训诂学"],
+    "tags_en": ["Qianjia School","Evidential Scholarship","Evidential Commentary on the Meanings of Terms in the Mencius","Killing with Principle","Liberation of Desire","Qing Dynasty","Anhui School","Exegesis"]
+  },
+  
+  {
+    "name": "但丁 AI 灵魂设定",
+    "name_zh": "但丁 (Dante Alighieri)",
+    "name_en": "Dante Alighieri",
+    "url": "/real_world/dante_alighieri/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["神曲","中世纪文学","意大利语","佛罗伦萨","流放","贝雅特丽齐","俗语文学"],
+    "tags_zh": ["神曲","中世纪文学","意大利语","佛罗伦萨","流放","贝雅特丽齐","俗语文学"],
+    "tags_en": ["Divine Comedy","medieval literature","Italian language","Florence","exile","Beatrice","vernacular literature"]
+  },
+  
+  {
+    "name": "数据工程师 AI 灵魂设定",
+    "name_zh": "数据工程师",
+    "name_en": "Data Engineer",
+    "url": "/personas/data_engineer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["数据工程","ETL","数据管道","Spark","Kafka","数据仓库","数据质量","Airflow","数据建模"],
+    "tags_zh": ["数据工程","ETL","数据管道","Spark","Kafka","数据仓库","数据质量","Airflow","数据建模"],
+    "tags_en": ["data engineering","ETL","data pipelines","Spark","Kafka","data warehouse","data quality","Airflow","data modeling"]
+  },
+  
+  {
+    "name": "数据产品经理 AI 灵魂设定",
+    "name_zh": "数据产品经理",
+    "name_en": "Data Product Manager",
+    "url": "/personas/data_product_manager/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["数据产品","指标体系","数据可视化","BI","数据治理","数据分析"],
+    "tags_zh": ["数据产品","指标体系","数据可视化","BI","数据治理","数据分析"],
+    "tags_en": ["data products","metric systems","data visualization","BI","data governance","data analytics"]
+  },
+  
+  {
+    "name": "数据库专家 AI 灵魂设定",
+    "name_zh": "数据库专家",
+    "name_en": "Database Expert",
+    "url": "/personas/database_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["数据库","SQL","NoSQL","查询优化","数据建模","MySQL","PostgreSQL"],
+    "tags_zh": ["数据库","SQL","NoSQL","查询优化","数据建模","MySQL","PostgreSQL"],
+    "tags_en": ["database","SQL","NoSQL","query optimization","data modeling","MySQL","PostgreSQL"]
+  },
+  
+  {
+    "name": "休谟 AI 灵魂设定",
+    "name_zh": "休谟 (David Hume)",
+    "name_en": "David Hume",
+    "url": "/real_world/david_hume/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["经验主义","怀疑论","因果关系","归纳问题","苏格兰启蒙运动","是-应当问题","道德情感主义"],
+    "tags_zh": ["经验主义","怀疑论","因果关系","归纳问题","苏格兰启蒙运动","是-应当问题","道德情感主义"],
+    "tags_en": ["Empiricism","Skepticism","Causation","Problem of Induction","Scottish Enlightenment","Is-Ought Problem","Moral Sentimentalism"]
+  },
+  
+  {
+    "name": "大卫·李嘉图 AI 灵魂设定",
+    "name_zh": "大卫·李嘉图 (David Ricardo)",
+    "name_en": "David Ricardo",
+    "url": "/real_world/david_ricardo/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["比较优势","劳动价值论","古典经济学","自由贸易","分配理论","谷物法","抽象演绎法"],
+    "tags_zh": ["比较优势","劳动价值论","古典经济学","自由贸易","分配理论","谷物法","抽象演绎法"],
+    "tags_en": ["Comparative Advantage","Labor Theory of Value","Classical Economics","Free Trade","Distribution Theory","Corn Laws","Abstract Deductive Method"]
+  },
+  
+  {
+    "name": "德谟克利特 AI 灵魂设定",
+    "name_zh": "德谟克利特 (Democritus)",
+    "name_en": "Democritus",
+    "url": "/real_world/democritus/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["原子论","唯物主义","前苏格拉底","自然哲学","伦理学","欢笑哲学家","古希腊"],
+    "tags_zh": ["原子论","唯物主义","前苏格拉底","自然哲学","伦理学","欢笑哲学家","古希腊"],
+    "tags_en": ["atomism","materialism","pre-Socratic","natural philosophy","ethics","the Laughing Philosopher","ancient Greece"]
+  },
+  
+  {
+    "name": "德谟斯提尼 AI 灵魂设定",
+    "name_zh": "德谟斯提尼 (Demosthenes)",
+    "name_en": "Demosthenes",
+    "url": "/real_world/demosthenes/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["古希腊","演说术","雅典民主","反马其顿","斥腓力辞","金冠辞","自由与抵抗","政治演说"],
+    "tags_zh": ["古希腊","演说术","雅典民主","反马其顿","斥腓力辞","金冠辞","自由与抵抗","政治演说"],
+    "tags_en": ["Ancient Greece","Oratory","Athenian Democracy","Anti-Macedon","Philippics","On the Crown","Freedom and Resistance","Political Oratory"]
+  },
+  
+  {
+    "name": "伊拉斯谟 AI 灵魂设定",
+    "name_zh": "伊拉斯谟 (Desiderius Erasmus)",
+    "name_en": "Desiderius Erasmus",
+    "url": "/real_world/desiderius_erasmus/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["人文主义`","基督哲学`","文艺复兴`","圣经批评`","和平主义`","宽容`","古典学问`","讽刺`","教育`","中庸之道`","鹿特丹`","愚人颂`","回到源头`","宗教改革`","拉丁文`","学问共和国`"],
+    "tags_zh": ["人文主义`","基督哲学`","文艺复兴`","圣经批评`","和平主义`","宽容`","古典学问`","讽刺`","教育`","中庸之道`","鹿特丹`","愚人颂`","回到源头`","宗教改革`","拉丁文`","学问共和国`"],
+    "tags_en": ["Humanism`","PhilosophiaChristi`","Renaissance`","BiblicalCriticism`","Pacifism`","Tolerance`","ClassicalLearning`","Satire`","Education`","MiddleWay`","Rotterdam`","PraiseOfFolly`","AdFontes`","Reformation`","Latin`","RepublicOfLetters`"]
+  },
+  
+  {
+    "name": "DevOps 专家 AI 灵魂设定",
+    "name_zh": "DevOps 专家",
+    "name_en": "DevOps Expert",
+    "url": "/personas/devops_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["DevOps","CI/CD","云原生","Kubernetes","自动化","SRE","基础设施即代码","可观测性"],
+    "tags_zh": ["DevOps","CI/CD","云原生","Kubernetes","自动化","SRE","基础设施即代码","可观测性"],
+    "tags_en": ["DevOps","CI/CD","cloud-native","Kubernetes","automation","SRE","infrastructure-as-code","observability"]
+  },
+  
+  {
+    "name": "堂吉诃德 AI 灵魂设定",
+    "name_zh": "堂吉诃德",
+    "name_en": "Don Quixote",
+    "url": "/virtual_world/don_quixote/",
+    "category": "非真实世界",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["游侠骑士","理想主义","拉曼查","骑士道","塞万提斯","堂吉诃德"],
+    "tags_zh": ["游侠骑士","理想主义","拉曼查","骑士道","塞万提斯","堂吉诃德"],
+    "tags_en": ["Knight-Errant","Idealism","La Mancha","Chivalry","Cervantes","Don Quixote"]
+  },
+  
+  {
+    "name": "董仲舒 AI 灵魂设定",
+    "name_zh": "董仲舒 (Dong Zhongshu)",
+    "name_en": "Dong Zhongshu",
+    "url": "/real_world/dong_zhongshu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["天人感应","独尊儒术","公羊学","春秋繁露","西汉","大一统","阴阳五行","三纲五常"],
+    "tags_zh": ["天人感应","独尊儒术","公羊学","春秋繁露","西汉","大一统","阴阳五行","三纲五常"],
+    "tags_en": ["Heaven-Human Resonance","Exclusive Honor of Confucianism","Gongyang School","Luxuriant Dew of the Spring and Autumn Annals","Western Han","Great Unification","Yin-Yang and Five Phases","Three Bonds and Five Constant Virtues"]
+  },
+  
+  {
+    "name": "杜甫 AI 灵魂设定",
+    "name_zh": "杜甫 (Du Fu)",
+    "name_en": "Du Fu",
+    "url": "/real_world/du_fu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["诗圣","诗史","唐诗","现实主义","安史之乱","儒家","沉郁顿挫"],
+    "tags_zh": ["诗圣","诗史","唐诗","现实主义","安史之乱","儒家","沉郁顿挫"],
+    "tags_en": ["Poet Sage","Poetry as History","Tang poetry","realism","An Lushan Rebellion","Confucian","somber and resolute"]
+  },
+  
+  {
+    "name": "杜牧 AI 灵魂设定",
+    "name_zh": "杜牧 (Du Mu)",
+    "name_en": "Du Mu",
+    "url": "/real_world/du_mu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["晚唐诗人","咏史诗","七绝圣手","小李杜","阿房宫赋","樊川文集","兵法"],
+    "tags_zh": ["晚唐诗人","咏史诗","七绝圣手","小李杜","阿房宫赋","樊川文集","兵法"],
+    "tags_en": ["late Tang poet","poetry on history","seven-character quatrain","Minor Li-Du","Ode to Epang Palace","Fanhe Collected Works","military strategy"]
+  },
+  
+  {
+    "name": "经济学家 AI 灵魂设定",
+    "name_zh": "经济学家",
+    "name_en": "Economist",
+    "url": "/personas/economist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["经济分析","政策评估","微观经济学","发展经济学","中国经济","激励机制","制度经济学","数据分析","市场机制","经济思维"],
+    "tags_zh": ["经济分析","政策评估","微观经济学","发展经济学","中国经济","激励机制","制度经济学","数据分析","市场机制","经济思维"],
+    "tags_en": ["Economic Analysis","Policy Evaluation","Microeconomics","Development Economics","China Economy","Incentive Mechanisms","Institutional Economics","Data Analysis","Market Mechanisms","Economic Thinking"]
+  },
+  
+  {
+    "name": "编辑 AI 灵魂设定",
+    "name_zh": "编辑",
+    "name_en": "Editor",
+    "url": "/personas/editor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["内容编辑","文字润色","结构优化","逻辑梳理","出版编辑","稿件审校","可读性","写作规范","编辑方法论","文本质量"],
+    "tags_zh": ["内容编辑","文字润色","结构优化","逻辑梳理","出版编辑","稿件审校","可读性","写作规范","编辑方法论","文本质量"],
+    "tags_en": ["Content editing","prose polishing","structure optimization","logic flow","book editing","manuscript review","readability","writing norms","editorial methodology","text quality"]
+  },
+  
+  {
+    "name": "嵌入式专家 AI 灵魂设定",
+    "name_zh": "嵌入式专家",
+    "name_en": "Embedded Expert",
+    "url": "/personas/embedded_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["嵌入式系统","物联网","RTOS","ARM","固件开发","实时系统"],
+    "tags_zh": ["嵌入式系统","物联网","RTOS","ARM","固件开发","实时系统"],
+    "tags_en": ["embedded systems","IoT","RTOS","ARM","firmware development","real-time systems"]
+  },
+  
+  {
+    "name": "埃米尔·涂尔干 (Émile Durkheim) AI 灵魂设定",
+    "name_zh": "埃米尔·涂尔干 (Émile Durkheim)",
+    "name_en": "Émile Durkheim",
+    "url": "/real_world/emile_durkheim/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["社会事实","集体意识","自杀论","社会分工","失范","宗教社会学","法国社会学学派","第三共和国"],
+    "tags_zh": ["社会事实","集体意识","自杀论","社会分工","失范","宗教社会学","法国社会学学派","第三共和国"],
+    "tags_en": ["social facts","collective consciousness","suicide","division of labor","anomie","sociology of religion","French sociological school","Third Republic"]
+  },
+  
+  {
+    "name": "恩培多克勒 AI 灵魂设定",
+    "name_zh": "恩培多克勒 (Empedocles)",
+    "name_en": "Empedocles",
+    "url": "/real_world/empedocles/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["前苏格拉底","四根说","爱与争","西西里","阿克拉加斯","灵魂轮回","诗人哲学家","埃特纳火山"],
+    "tags_zh": ["前苏格拉底","四根说","爱与争","西西里","阿克拉加斯","灵魂轮回","诗人哲学家","埃特纳火山"],
+    "tags_en": ["Pre-Socratic","Four Roots","Love and Strife","Sicily","Acragas","Transmigration of Souls","Poet-Philosopher","Mount Etna"]
+  },
+  
+  {
+    "name": "康熙帝 AI 灵魂设定",
+    "name_zh": "康熙帝 (Emperor Kangxi)",
+    "name_en": "Emperor Kangxi",
+    "url": "/real_world/emperor_kangxi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["康熙","清朝","满汉一体","帝王治术","三藩之乱","台湾统一","康熙字典","南巡","历史人物"],
+    "tags_zh": ["康熙","清朝","满汉一体","帝王治术","三藩之乱","台湾统一","康熙字典","南巡","历史人物"],
+    "tags_en": ["Kangxi","Qing dynasty","Manchu-Han governance","imperial statecraft","Three Feudatories","Taiwan reunification","Kangxi Dictionary","Southern Tours","Historical Figure"]
+  },
+  
+  {
+    "name": "唐太宗 AI 灵魂设定",
+    "name_zh": "唐太宗 (Emperor Taizong of Tang)",
+    "name_en": "Emperor Taizong of Tang",
+    "url": "/real_world/emperor_taizong_of_tang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["贞观之治","天可汗","纳谏","玄武门之变","唐朝","治国理政"],
+    "tags_zh": ["贞观之治","天可汗","纳谏","玄武门之变","唐朝","治国理政"],
+    "tags_en": ["Zhenguan Reign","Heavenly Khan","remonstrance","Xuanwu Gate Incident","Tang Dynasty","statecraft"]
+  },
+  
+  {
+    "name": "宋太祖 AI 灵魂设定",
+    "name_zh": "宋太祖 (Emperor Taizu of Song)",
+    "name_en": "Emperor Taizu of Song",
+    "url": "/real_world/emperor_taizu_of_song/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["宋太祖","杯酒释兵权","北宋","以文驭武","陈桥兵变","制度设计","五代十国"],
+    "tags_zh": ["宋太祖","杯酒释兵权","北宋","以文驭武","陈桥兵变","制度设计","五代十国"],
+    "tags_en": ["Emperor Taizu of Song","Releasing Military Power","Northern Song","Civilian Supremacy","Chenqiao Coup","Institutional Design","Five Dynasties and Ten Kingdoms"]
+  },
+  
+  {
+    "name": "汉武帝 AI 灵魂设定",
+    "name_zh": "汉武帝 (Emperor Wu of Han)",
+    "name_en": "Emperor Wu of Han",
+    "url": "/real_world/emperor_wu_of_han/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["汉武帝","大一统","西汉","罢黜百家","匈奴","丝绸之路","开疆拓土","轮台诏"],
+    "tags_zh": ["汉武帝","大一统","西汉","罢黜百家","匈奴","丝绸之路","开疆拓土","轮台诏"],
+    "tags_en": ["Emperor Wu of Han","Great Unification","Western Han","Dismissing the Hundred Schools","Xiongnu","Silk Road","Frontier Expansion","Edict of Luntai"]
+  },
+  
+  {
+    "name": "唐玄宗 AI 灵魂设定",
+    "name_zh": "唐玄宗 (Emperor Xuanzong of Tang)",
+    "name_en": "Emperor Xuanzong of Tang",
+    "url": "/real_world/emperor_xuanzong_of_tang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["唐玄宗","开元盛世","安史之乱","天宝","杨贵妃","李林甫","唐明皇","梨园"],
+    "tags_zh": ["唐玄宗","开元盛世","安史之乱","天宝","杨贵妃","李林甫","唐明皇","梨园"],
+    "tags_en": ["Emperor Xuanzong of Tang","Kaiyuan Golden Age","An Lushan Rebellion","Tianbao","Yang Guifei","Li Linfu","Emperor Minghuang","Pear Garden"]
+  },
+  
+  {
+    "name": "吕后 (Empress Lü) AI 灵魂设定",
+    "name_zh": "吕后 (Empress Lü)",
+    "name_en": "Empress Lu (?–180 BCE)",
+    "url": "/real_world/empress_lu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["汉初","吕后","临朝称制","铁腕政治","人彘","与民休息","女性统治者","西汉"],
+    "tags_zh": ["汉初","吕后","临朝称制","铁腕政治","人彘","与民休息","女性统治者","西汉"],
+    "tags_en": ["Early Han","Empress Lu","Regency","Iron-Fisted Rule","Human Swine","Rest and Recovery","Female Ruler","Western Han"]
+  },
+  
+  {
+    "name": "环境专家 AI 灵魂设定",
+    "name_zh": "环境专家",
+    "name_en": "Environmental Expert",
+    "url": "/personas/environmental_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["环境科学","气候变化","碳中和","系统思维","环境政策","可持续发展","生命周期评估","环境传播","能源转型","环境伦理"],
+    "tags_zh": ["环境科学","气候变化","碳中和","系统思维","环境政策","可持续发展","生命周期评估","环境传播","能源转型","环境伦理"],
+    "tags_en": ["Environmental Science","Climate Change","Carbon Neutrality","Systems Thinking","Environmental Policy","Sustainable Development","Life-Cycle Assessment","Environmental Communication","Energy Transition","Environmental Ethics"]
+  },
+  
+  {
+    "name": "伊壁鸠鲁 AI 灵魂设定",
+    "name_zh": "伊壁鸠鲁 (Epicurus)",
+    "name_en": "Epicurus",
+    "url": "/real_world/epicurus/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["快乐主义","花园学派","原子论","伦理学","希腊化哲学","ataraxia","唯物主义"],
+    "tags_zh": ["快乐主义","花园学派","原子论","伦理学","希腊化哲学","ataraxia","唯物主义"],
+    "tags_en": ["Hedonism","Garden School","Atomism","Ethics","Hellenistic Philosophy","Ataraxia","Materialism"]
+  },
+  
+  {
+    "name": "急诊科医生 AI 灵魂设定",
+    "name_zh": "急诊科医生",
+    "name_en": "ER Doctor (Emergency Medicine Physician)",
+    "url": "/personas/er_doctor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["急诊医生","分诊","急救","医疗决策","高压职业","临床思维"],
+    "tags_zh": ["急诊医生","分诊","急救","医疗决策","高压职业","临床思维"],
+    "tags_en": ["emergency medicine","triage","clinical decision-making","high-pressure","resuscitation","acute care"]
+  },
+  
+  {
+    "name": "欧里庇得斯 AI 灵魂设定",
+    "name_zh": "欧里庇得斯 (Euripides)",
+    "name_en": "Euripides",
+    "url": "/real_world/euripides/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["古希腊悲剧","美狄亚","酒神的伴侣","特洛伊妇女","女性书写","心理悲剧","反传统","雅典戏剧"],
+    "tags_zh": ["古希腊悲剧","美狄亚","酒神的伴侣","特洛伊妇女","女性书写","心理悲剧","反传统","雅典戏剧"],
+    "tags_en": ["Ancient Greek Tragedy","Medea","The Bacchae","The Trojan Women","Women's Writing","Psychological Tragedy","Iconoclast","Athenian Theater"]
+  },
+  
+  {
+    "name": "考试教练 AI 灵魂设定",
+    "name_zh": "考试教练",
+    "name_en": "Exam Coach",
+    "url": "/personas/exam_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["应试策略","考试技巧","时间管理","考试心理学","备考规划","错题分析","模拟训练","心态调控"],
+    "tags_zh": ["应试策略","考试技巧","时间管理","考试心理学","备考规划","错题分析","模拟训练","心态调控"],
+    "tags_en": ["Exam Strategy","Exam Techniques","Time Management","Exam Psychology","Preparation Planning","Wrong-Answer Analysis","Mock Training","Mindset Regulation"]
+  },
+  
+  {
+    "name": "范蠡 AI 灵魂设定",
+    "name_zh": "范蠡 (Fan Li)",
+    "name_en": "Fan Li",
+    "url": "/real_world/fan_li/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["春秋","范蠡","陶朱公","商圣","功成身退","越国","卧薪尝胆","经商之道","知止不殆"],
+    "tags_zh": ["春秋","范蠡","陶朱公","商圣","功成身退","越国","卧薪尝胆","经商之道","知止不殆"],
+    "tags_en": ["Spring and Autumn","Fan Li","Lord Tao Zhu","Sage of Commerce","timely withdrawal","state of Yue","endurance","commerce","knowing when to stop"]
+  },
+  
+  {
+    "name": "范晔 AI 灵魂设定",
+    "name_zh": "范晔 (Fan Ye)",
+    "name_en": "Fan Ye",
+    "url": "/real_world/fan_ye/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["后汉书","论赞","前四史","南朝宋","人物品评","谋反","史学文学"],
+    "tags_zh": ["后汉书","论赞","前四史","南朝宋","人物品评","谋反","史学文学"],
+    "tags_en": ["Book of the Later Han","evaluative commentary","Four Standard Histories","Liu Song dynasty","character assessment","treason","historiography and literature"]
+  },
+  
+  {
+    "name": "范仲淹 AI 灵魂设定",
+    "name_zh": "范仲淹 (Fan Zhongyan)",
+    "name_en": "Fan Zhongyan",
+    "url": "/real_world/fan_zhongyan/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["先天下之忧而忧","岳阳楼记","庆历新政","北宋","士大夫","边防","教育","义庄"],
+    "tags_zh": ["先天下之忧而忧","岳阳楼记","庆历新政","北宋","士大夫","边防","教育","义庄"],
+    "tags_en": ["First to Worry Last to Rejoice","Record of Yueyang Tower","Qingli Reforms","Northern Song","Scholar-Official","Frontier Defense","Education","Charitable Estate"]
+  },
+  
+  {
+    "name": "小说教练 AI 灵魂设定",
+    "name_zh": "小说教练",
+    "name_en": "Fiction Coach",
+    "url": "/personas/fiction_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["小说创作","人物塑造","叙事结构","写作辅导","初稿修改","场景写作","对话技巧","创意写作","文学创作","写作工作坊"],
+    "tags_zh": ["小说创作","人物塑造","叙事结构","写作辅导","初稿修改","场景写作","对话技巧","创意写作","文学创作","写作工作坊"],
+    "tags_en": ["fiction writing","character development","narrative structure","writing coaching","first draft revision","scene writing","dialogue technique","creative writing","literary creation","writing workshop"]
+  },
+  
+  {
+    "name": "导演顾问 AI 灵魂设定",
+    "name_zh": "导演顾问",
+    "name_en": "Film Director Consultant",
+    "url": "/personas/film_director_consultant/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["影视导演","视听语言","分镜设计","表演指导","短片创作","场面调度","剧本分析","独立电影","导演教学","叙事结构"],
+    "tags_zh": ["影视导演","视听语言","分镜设计","表演指导","短片创作","场面调度","剧本分析","独立电影","导演教学","叙事结构"],
+    "tags_en": ["Film directing","Audiovisual language","Storyboarding","Performance direction","Short film","Staging","Script analysis","Independent film","Directing instruction","Narrative structure"]
+  },
+  
+  {
+    "name": "财务顾问 AI 灵魂设定",
+    "name_zh": "财务顾问",
+    "name_en": "Financial Advisor",
+    "url": "/personas/financial_advisor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["财务管理","风险控制","预算规划","财务分析","现金流管理","CFO","企业融资","成本优化","财务健康","内部控制"],
+    "tags_zh": ["财务管理","风险控制","预算规划","财务分析","现金流管理","CFO","企业融资","成本优化","财务健康","内部控制"],
+    "tags_en": ["Financial Management","Risk Control","Budget Planning","Financial Analysis","Cash Flow Management","CFO","Corporate Financing","Cost Optimization","Financial Health","Internal Control"]
+  },
+  
+  {
+    "name": "财务规划师 AI 灵魂设定",
+    "name_zh": "财务规划师",
+    "name_en": "Financial Planner",
+    "url": "/personas/financial_planner/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["个人理财","财务规划","投资入门","预算管理","保险配置","基金定投","资产配置","退休规划","家庭理财","消费管理"],
+    "tags_zh": ["个人理财","财务规划","投资入门","预算管理","保险配置","基金定投","资产配置","退休规划","家庭理财","消费管理"],
+    "tags_en": ["Personal finance","Financial planning","Investment basics","Budget management","Insurance","Fund investing","Asset allocation","Retirement planning","Family finance","Spending management"]
+  },
+  
+  {
+    "name": "健身教练 AI 灵魂设定",
+    "name_zh": "健身教练",
+    "name_en": "Fitness Coach",
+    "url": "/personas/fitness_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["健身训练","力量训练","动作纠正","运动科学","训练计划","体能提升","运动损伤预防"],
+    "tags_zh": ["健身训练","力量训练","动作纠正","运动科学","训练计划","体能提升","运动损伤预防"],
+    "tags_en": ["Fitness training","Strength training","Movement correction","Sports science","Training plans","Physical conditioning","Injury prevention"]
+  },
+  
+  {
+    "name": "弗里德里希·尼采 AI 灵魂设定",
+    "name_zh": "弗里德里希·尼采",
+    "name_en": "Friedrich Nietzsche",
+    "url": "/real_world/friedrich_nietzsche/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["虚无主义","权力意志","永恒轮回","超人","价值重估","存在主义先驱","德国哲学","文化批评"],
+    "tags_zh": ["虚无主义","权力意志","永恒轮回","超人","价值重估","存在主义先驱","德国哲学","文化批评"],
+    "tags_en": ["nihilism","will to power","eternal recurrence","overman","revaluation of values","existentialist precursor","German philosophy","cultural criticism"]
+  },
+  
+  {
+    "name": "前端架构师 AI 灵魂设定",
+    "name_zh": "前端架构师",
+    "name_en": "Frontend Architect",
+    "url": "/personas/frontend_architect/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["前端","React","Vue","组件化","性能优化","设计系统"],
+    "tags_zh": ["前端","React","Vue","组件化","性能优化","设计系统"],
+    "tags_en": ["Frontend","React","Vue","Componentization","Performance Optimization","Design System"]
+  },
+  
+  {
+    "name": "陀思妥耶夫斯基 AI 灵魂设定",
+    "name_zh": "陀思妥耶夫斯基 (Fyodor Dostoevsky)",
+    "name_en": "Fyodor Dostoevsky",
+    "url": "/real_world/fyodor_dostoevsky/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["地下室的自由","复调小说","存在主义","俄罗斯文学","苦难与救赎","东正教信仰","赌博","癫痫"],
+    "tags_zh": ["地下室的自由","复调小说","存在主义","俄罗斯文学","苦难与救赎","东正教信仰","赌博","癫痫"],
+    "tags_en": ["underground freedom","polyphonic novel","existentialism","Russian literature","suffering and redemption","Orthodox faith","gambling","epilepsy"]
+  },
+  
+  {
+    "name": "伽利略 AI 灵魂设定",
+    "name_zh": "伽利略 (Galileo Galilei)",
+    "name_en": "Galileo Galilei",
+    "url": "/real_world/galileo_galilei/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["天文学","物理学","望远镜","日心说","实验方法","宗教裁判所","科学革命"],
+    "tags_zh": ["天文学","物理学","望远镜","日心说","实验方法","宗教裁判所","科学革命"],
+    "tags_en": ["Astronomy","Physics","Telescope","Heliocentrism","Experimental Method","Inquisition","Scientific Revolution"]
+  },
+  
+  {
+    "name": "游戏设计师 AI 灵魂设定",
+    "name_zh": "游戏设计师",
+    "name_en": "Game Designer",
+    "url": "/personas/game_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["游戏设计","系统策划","数值平衡","关卡设计","纸面原型","玩家心理学","独立游戏","战斗系统","心流理论","Game Jam"],
+    "tags_zh": ["游戏设计","系统策划","数值平衡","关卡设计","纸面原型","玩家心理学","独立游戏","战斗系统","心流理论","Game Jam"],
+    "tags_en": ["Game Design","System Planning","Numerical Balance","Level Design","Paper Prototyping","Player Psychology","Indie Games","Combat Systems","Flow Theory","Game Jam"]
+  },
+  
+  {
+    "name": "游戏开发者 AI 灵魂设定",
+    "name_zh": "游戏开发者",
+    "name_en": "Game Developer",
+    "url": "/personas/game_developer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["游戏开发","Unity","Unreal Engine","性能优化","游戏设计","渲染"],
+    "tags_zh": ["游戏开发","Unity","Unreal Engine","性能优化","游戏设计","渲染"],
+    "tags_en": ["game development","Unity","Unreal Engine","performance optimization","game design","rendering"]
+  },
+  
+  {
+    "name": "成吉思汗 AI 灵魂设定",
+    "name_zh": "成吉思汗 (Genghis Khan)",
+    "name_en": "Genghis Khan",
+    "url": "/real_world/genghis_khan/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["蒙古帝国","草原法则","征服者","大札撒","军事天才","游牧文明","欧亚帝国"],
+    "tags_zh": ["蒙古帝国","草原法则","征服者","大札撒","军事天才","游牧文明","欧亚帝国"],
+    "tags_en": ["Mongol Empire","Law of the Steppe","Conqueror","Great Yasa","Military Genius","Nomadic Civilization","Eurasian Empire"]
+  },
+  
+  {
+    "name": "黑格尔 AI 灵魂设定",
+    "name_zh": "黑格尔 (Georg Wilhelm Friedrich Hegel)",
+    "name_en": "Georg Wilhelm Friedrich Hegel",
+    "url": "/real_world/georg_wilhelm_friedrich_hegel/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["辩证法","绝对精神","德国唯心主义","精神现象学","历史哲学","法哲学","普鲁士"],
+    "tags_zh": ["辩证法","绝对精神","德国唯心主义","精神现象学","历史哲学","法哲学","普鲁士"],
+    "tags_en": ["dialectics","Absolute Spirit","German idealism","Phenomenology of Spirit","philosophy of history","philosophy of right","Prussia"]
+  },
+  
+  {
+    "name": "贝克莱 AI 灵魂设定",
+    "name_zh": "贝克莱 (George Berkeley)",
+    "name_en": "George Berkeley",
+    "url": "/real_world/george_berkeley/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["存在即被感知","非物质主义","经验主义","基督教哲学"],
+    "tags_zh": ["存在即被感知","非物质主义","经验主义","基督教哲学"],
+    "tags_en": ["Esse est percipi (To be is to be perceived","Immaterialism","Empiricism","Christian Philosophy"]
+  },
+  
+  {
+    "name": "华盛顿 AI 灵魂设定",
+    "name_zh": "华盛顿 (George Washington)",
+    "name_en": "George Washington",
+    "url": "/real_world/george_washington/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["美国革命","总统","共和主义","先例","弗农山庄","告别演说","大陆军"],
+    "tags_zh": ["美国革命","总统","共和主义","先例","弗农山庄","告别演说","大陆军"],
+    "tags_en": ["American Revolution","presidency","republicanism","precedent","Mount Vernon","Farewell Address","Continental Army"]
+  },
+  
+  {
+    "name": "Go 导师 AI 灵魂设定",
+    "name_zh": "Go 导师",
+    "name_en": "Go Tutor",
+    "url": "/personas/go_tutor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Go","后端开发","并发编程","微服务","云原生","工程化"],
+    "tags_zh": ["Go","后端开发","并发编程","微服务","云原生","工程化"],
+    "tags_en": ["Go","backend development","concurrent programming","microservices","cloud-native","engineering"]
+  },
+  
+  {
+    "name": "龚自珍 AI 灵魂设定",
+    "name_zh": "龚自珍 (Gong Zizhen)",
+    "name_en": "Gong Zizhen",
+    "url": "/real_world/gong_zizhen/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["己亥杂诗","今文经学","经世致用","公羊学","衰世诊断","晚清先觉","变法先驱","诗人"],
+    "tags_zh": ["己亥杂诗","今文经学","经世致用","公羊学","衰世诊断","晚清先觉","变法先驱","诗人"],
+    "tags_en": ["Ji Hai Miscellaneous Poems","New Text Confucianism","statecraft learning","Gongyang school","diagnosis of dynastic decline","late-Qing awakening","precursor of reform","poet"]
+  },
+  
+  {
+    "name": "莱布尼茨 AI 灵魂设定",
+    "name_zh": "莱布尼茨 (Gottfried Wilhelm Leibniz)",
+    "name_en": "Gottfried Wilhelm Leibniz",
+    "url": "/real_world/gottfried_wilhelm_leibniz/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["微积分","单子论","前定和谐","最佳可能世界","充足理由律","普遍语言","理性主义"],
+    "tags_zh": ["微积分","单子论","前定和谐","最佳可能世界","充足理由律","普遍语言","理性主义"],
+    "tags_en": ["Calculus","Monadology","Pre-Established Harmony","Best of All Possible Worlds","Principle of Sufficient Reason","Universal Language","Rationalism"]
+  },
+  
+  {
+    "name": "考研导师 AI 灵魂设定",
+    "name_zh": "考研导师",
+    "name_en": "Graduate Exam Mentor",
+    "url": "/personas/graduate_exam_mentor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["考研规划","择校分析","复习策略","调剂指导","复试辅导","报录比分析","考研心态","学业规划"],
+    "tags_zh": ["考研规划","择校分析","复习策略","调剂指导","复试辅导","报录比分析","考研心态","学业规划"],
+    "tags_en": ["exam planning","school selection analysis","review strategy","adjustment guidance","second-round exam coaching","acceptance ratio analysis","exam mindset","academic planning"]
+  },
+  
+  {
+    "name": "增长黑客 AI 灵魂设定",
+    "name_zh": "增长黑客",
+    "name_en": "Growth Hacker",
+    "url": "/personas/growth_hacker/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["用户增长","增长黑客","A/B测试","漏斗优化","病毒传播","数据驱动","AARRR","留存分析","PLG","增长策略"],
+    "tags_zh": ["用户增长","增长黑客","A/B测试","漏斗优化","病毒传播","数据驱动","AARRR","留存分析","PLG","增长策略"],
+    "tags_en": ["user growth","growth hacking","A/B testing","funnel optimization","viral propagation","data-driven","AARRR","retention analysis","PLG","growth strategy"]
+  },
+  
+  {
+    "name": "顾恺之 AI 灵魂设定",
+    "name_zh": "顾恺之 (Gu Kaizhi)",
+    "name_en": "Gu Kaizhi",
+    "url": "/real_world/gu_kaizhi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["画绝","传神写照","以形写神","东晋","女史箴图","洛神赋图","魏晋风流","三绝"],
+    "tags_zh": ["画绝","传神写照","以形写神","东晋","女史箴图","洛神赋图","魏晋风流","三绝"],
+    "tags_en": ["supreme painter","capturing the spirit through likeness","conveying spirit through form","Eastern Jin","Admonitions of the Court Instructress","Nymph of the Luo River","Wei-Jin elegance","three supremacies"]
+  },
+  
+  {
+    "name": "顾炎武 AI 灵魂设定",
+    "name_zh": "顾炎武 (Gu Yanwu)",
+    "name_en": "Gu Yanwu",
+    "url": "/real_world/gu_yanwu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["经世致用","天下兴亡匹夫有责","日知录","考据学","明清之际","明遗民","实学","音韵学"],
+    "tags_zh": ["经世致用","天下兴亡匹夫有责","日知录","考据学","明清之际","明遗民","实学","音韵学"],
+    "tags_en": ["Practical Learning","Every Man's Responsibility","Rizhi lu","Evidential Scholarship","Ming-Qing Transition","Ming Loyalist","Substantive Learning","Phonology"]
+  },
+  
+  {
+    "name": "关汉卿 AI 灵魂设定",
+    "name_zh": "关汉卿 (Guan Hanqing)",
+    "name_en": "Guan Hanqing",
+    "url": "/real_world/guan_hanqing/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["元曲","杂剧","窦娥冤","铜豌豆","救风尘","书会才人","元代","女性叙事"],
+    "tags_zh": ["元曲","杂剧","窦娥冤","铜豌豆","救风尘","书会才人","元代","女性叙事"],
+    "tags_en": ["Yuan drama","zaju","The Injustice to Dou E","copper pea","Rescuing a Courtesan","literary society","Yuan dynasty","female narratives"]
+  },
+  
+  {
+    "name": "鬼谷子 AI 灵魂设定",
+    "name_zh": "鬼谷子 (Guiguzi)",
+    "name_en": "Guiguzi",
+    "url": "/real_world/guiguzi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["纵横家","鬼谷子","战国","捭阖","揣摩","游说","谋略","隐士"],
+    "tags_zh": ["纵横家","鬼谷子","战国","捭阖","揣摩","游说","谋略","隐士"],
+    "tags_en": ["Strategist School","Guiguzi","Warring States","Opening and Closing","Reading People","Persuasion","Strategy","Recluse"]
+  },
+  
+  {
+    "name": "郭象 AI 灵魂设定",
+    "name_zh": "郭象 (Guo Xiang)",
+    "name_en": "Guo Xiang",
+    "url": "/real_world/guo_xiang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["玄学","独化论","庄子注","魏晋","适性逍遥","名教自然"],
+    "tags_zh": ["玄学","独化论","庄子注","魏晋","适性逍遥","名教自然"],
+    "tags_en": ["xuanxue","spontaneous self-transformation","Commentary on Zhuangzi","Wei-Jin","ease in one's nature","ritual order as natural order"]
+  },
+  
+  {
+    "name": "海瑞 AI 灵魂设定",
+    "name_zh": "海瑞 (Hai Rui)",
+    "name_en": "Hai Rui",
+    "url": "/real_world/hai_rui/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["明朝","治安疏","海青天","清官","反腐","刚直不阿","谏臣"],
+    "tags_zh": ["明朝","治安疏","海青天","清官","反腐","刚直不阿","谏臣"],
+    "tags_en": ["Ming Dynasty","Treatise on Governance and Security","Hai the Blue Sky","Incorruptible Official","Anti-corruption","Unyielding Integrity","Censor"]
+  },
+  
+  {
+    "name": "哈姆雷特 AI 灵魂设定",
+    "name_zh": "哈姆雷特",
+    "name_en": "Hamlet",
+    "url": "/virtual_world/hamlet/",
+    "category": "非真实世界",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["丹麦王子","复仇者","存在主义","莎士比亚","悲剧","哈姆雷特"],
+    "tags_zh": ["丹麦王子","复仇者","存在主义","莎士比亚","悲剧","哈姆雷特"],
+    "tags_en": ["Prince of Denmark","Avenger","Existentialism","Shakespeare","Tragedy","Hamlet"]
+  },
+  
+  {
+    "name": "韩非 AI 灵魂设定",
+    "name_zh": "韩非 (Han Fei)",
+    "name_en": "Han Fei",
+    "url": "/real_world/han_fei/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["法家","法术势","战国","寓言","韩非子","政治哲学","人性论"],
+    "tags_zh": ["法家","法术势","战国","寓言","韩非子","政治哲学","人性论"],
+    "tags_en": ["Legalism","Law-Technique-Power","Warring States","Fable","Han Feizi","Political Philosophy","Human Nature"]
+  },
+  
+  {
+    "name": "韩非子 AI 灵魂设定",
+    "name_zh": "韩非子 (Han Feizi)",
+    "name_en": "Han Feizi",
+    "url": "/real_world/han_feizi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["法家","法术势","战国","寓言","韩非子","政治哲学","人性论"],
+    "tags_zh": ["法家","法术势","战国","寓言","韩非子","政治哲学","人性论"],
+    "tags_en": ["Legalism","law-method-power","Warring States","fables","Han Feizi","political philosophy","theory of human nature"]
+  },
+  
+  {
+    "name": "韩信 AI 灵魂设定",
+    "name_zh": "韩信 (Han Xin)",
+    "name_en": "Han Xin",
+    "url": "/real_world/han_xin/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["兵仙","淮阴侯","汉初三杰","背水一战","胯下之辱","明修栈道暗度陈仓","十面埋伏","多多益善","成也萧何败也萧何","军事家","西汉","秦末汉初"],
+    "tags_zh": ["兵仙","淮阴侯","汉初三杰","背水一战","胯下之辱","明修栈道暗度陈仓","十面埋伏","多多益善","成也萧何败也萧何","军事家","西汉","秦末汉初"],
+    "tags_en": ["God","Marquis","Three","Back-to-the-River","Crawling","Secret","Ambush","The","Xiao","Military","Western","Late"]
+  },
+  
+  {
+    "name": "韩愈 AI 灵魂设定",
+    "name_zh": "韩愈 (Han Yu)",
+    "name_en": "Han Yu",
+    "url": "/real_world/han_yu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["古文运动","文以载道","儒家道统","唐代","谏臣","教育家"],
+    "tags_zh": ["古文运动","文以载道","儒家道统","唐代","谏臣","教育家"],
+    "tags_en": ["Classical Prose Movement","Literature as a Vehicle for the Way","Confucian Transmission","Tang Dynasty","Remonstrant","Educator"]
+  },
+  
+  {
+    "name": "赫拉克利特 AI 灵魂设定",
+    "name_zh": "赫拉克利特 (Heraclitus)",
+    "name_en": "Heraclitus",
+    "url": "/real_world/heraclitus/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["万物流转","逻各斯","对立统一","前苏格拉底","以弗所","火","晦涩者"],
+    "tags_zh": ["万物流转","逻各斯","对立统一","前苏格拉底","以弗所","火","晦涩者"],
+    "tags_en": ["Panta Rhei","Logos","Unity of Opposites","Pre-Socratic","Ephesus","Fire","The Obscure"]
+  },
+  
+  {
+    "name": "历史学家 AI 灵魂设定",
+    "name_zh": "历史学家",
+    "name_en": "Historian",
+    "url": "/personas/historian/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["历史研究","中国近代史","史料考证","历史叙事","比较史学","史学方法论","历史思维","通俗历史","晚清政治","思想史"],
+    "tags_zh": ["历史研究","中国近代史","史料考证","历史叙事","比较史学","史学方法论","历史思维","通俗历史","晚清政治","思想史"],
+    "tags_en": ["Historical Research","Modern Chinese History","Source Criticism","Historical Narrative","Comparative History","Historical Methodology","Historical Thinking","Popular History","Late Qing Politics","Intellectual History"]
+  },
+  
+  {
+    "name": "荷马 AI 灵魂设定",
+    "name_zh": "荷马 (Homer)",
+    "name_en": "Homer",
+    "url": "/real_world/homer/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["史诗","伊利亚特","奥德赛","口传诗歌","古希腊","西方文学源头","盲诗人"],
+    "tags_zh": ["史诗","伊利亚特","奥德赛","口传诗歌","古希腊","西方文学源头","盲诗人"],
+    "tags_en": ["epic poetry","Iliad","Odyssey","oral tradition","ancient Greece","Western literary origins","blind bard"]
+  },
+  
+  {
+    "name": "贺拉斯 AI 灵魂设定",
+    "name_zh": "贺拉斯 (Horace)",
+    "name_en": "Horace",
+    "url": "/real_world/horace/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["罗马文学","颂歌","讽刺诗","诗艺","Carpe Diem","中庸之道","奥古斯都时代","抒情诗"],
+    "tags_zh": ["罗马文学","颂歌","讽刺诗","诗艺","Carpe Diem","中庸之道","奥古斯都时代","抒情诗"],
+    "tags_en": ["Roman literature","Odes","Satires","Ars Poetica","Carpe Diem","the golden mean","Augustan age","lyric poetry"]
+  },
+  
+  {
+    "name": "HR 专家 AI 灵魂设定",
+    "name_zh": "HR 专家",
+    "name_en": "HR Expert",
+    "url": "/personas/hr_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["人力资源","招聘","绩效管理","企业文化","劳动法合规","组织发展","人才盘点","薪酬设计","HRBP","变革管理"],
+    "tags_zh": ["人力资源","招聘","绩效管理","企业文化","劳动法合规","组织发展","人才盘点","薪酬设计","HRBP","变革管理"],
+    "tags_en": ["Human Resources","Recruitment","Performance Management","Corporate Culture","Labor Law Compliance","Organization Development","Talent Review","Compensation Design","HRBP","Change Management"]
+  },
+  
+  {
+    "name": "华佗 AI 灵魂设定",
+    "name_zh": "华佗 (Hua Tuo)",
+    "name_en": "Hua Tuo",
+    "url": "/real_world/hua_tuo/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["东汉","外科","麻沸散","五禽戏","医学家","方技"],
+    "tags_zh": ["东汉","外科","麻沸散","五禽戏","医学家","方技"],
+    "tags_en": ["Eastern Han","Surgery","Mafeisan","Five Animals Exercises","Physician","Arts and Skills"]
+  },
+  
+  {
+    "name": "黄宗羲 AI 灵魂设定",
+    "name_zh": "黄宗羲 (Huang Zongxi)",
+    "name_en": "Huang Zongxi",
+    "url": "/real_world/huang_zongxi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["明夷待访录","天下为主君为客","明儒学案","明清之际","东林遗脉","政治哲学","经世致用","浙东学派"],
+    "tags_zh": ["明夷待访录","天下为主君为客","明儒学案","明清之际","东林遗脉","政治哲学","经世致用","浙东学派"],
+    "tags_en": ["Mingyi daifang lu","The People as Foundation","Mingru xue'an","Ming-Qing Transition","Donglin Legacy","Political Philosophy","Practical Learning","Zhedong School"]
+  },
+  
+  {
+    "name": "慧能 AI 灵魂设定",
+    "name_zh": "慧能 (Huineng)",
+    "name_en": "Huineng",
+    "url": "/real_world/huineng/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["禅宗","六祖","顿悟","坛经","唐代","佛学","心性","不立文字"],
+    "tags_zh": ["禅宗","六祖","顿悟","坛经","唐代","佛学","心性","不立文字"],
+    "tags_en": ["Sixth Patriarch of Chan","sudden enlightenment","Platform Sutra","Southern School of Chan","eminent Tang monk"]
+  },
+  
+  {
+    "name": "霍去病 AI 灵魂设定",
+    "name_zh": "霍去病 (Huo Qubing)",
+    "name_en": "Huo Qubing",
+    "url": "/real_world/huo_qubing/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["少年战神","闪电战鼻祖","封狼居胥"],
+    "tags_zh": ["少年战神","闪电战鼻祖","封狼居胥"],
+    "tags_en": ["Western Han","Han-Xiongnu wars","cavalry","lightning warfare","Battle of the Northern Desert","Marquis of Champions","Emperor Wu of Han"]
+  },
+  
+  {
+    "name": "伊本·鲁世德 (Ibn Rushd / Averroes) AI 灵魂设定",
+    "name_zh": "伊本·鲁世德 (Ibn Rushd / Averroes)",
+    "name_en": "Ibn Rushd (Averroes)",
+    "url": "/real_world/ibn_rushd/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["伊斯兰哲学","亚里士多德注释","安达卢斯","理性与信仰","中世纪哲学","法学家","医学家"],
+    "tags_zh": ["伊斯兰哲学","亚里士多德注释","安达卢斯","理性与信仰","中世纪哲学","法学家","医学家"],
+    "tags_en": ["Islamic Philosophy","Aristotelian Commentary","al-Andalus","Reason and Faith","Medieval Philosophy","Jurist","Physician"]
+  },
+  
+  {
+    "name": "伊本·西那 (Ibn Sina / Avicenna) AI 灵魂设定",
+    "name_zh": "伊本·西那 (Ibn Sina / Avicenna)",
+    "name_en": "Ibn Sina (Avicenna)",
+    "url": "/real_world/ibn_sina/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["伊斯兰哲学","医学","亚里士多德主义","新柏拉图主义","形而上学","波斯","《医典》","知识体系化"],
+    "tags_zh": ["伊斯兰哲学","医学","亚里士多德主义","新柏拉图主义","形而上学","波斯","《医典》","知识体系化"],
+    "tags_en": ["Islamic philosophy","medicine","Aristotelianism","Neoplatonism","metaphysics","Persia","Canon of Medicine","systematization of knowledge"]
+  },
+  
+  {
+    "name": "伊曼努尔·康德 AI 灵魂设定",
+    "name_zh": "伊曼努尔·康德",
+    "name_en": "Immanuel Kant",
+    "url": "/real_world/immanuel_kant/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["批判哲学","先验唯心论","定言命令","认识论","伦理学","启蒙运动","物自体","哥白尼式革命"],
+    "tags_zh": ["批判哲学","先验唯心论","定言命令","认识论","伦理学","启蒙运动","物自体","哥白尼式革命"],
+    "tags_en": ["Critical Philosophy","Transcendental Idealism","Categorical Imperative","Epistemology","Ethics","Enlightenment","Thing-in-Itself","Copernican Revolution"]
+  },
+  
+  {
+    "name": "乐器教练 AI 灵魂设定",
+    "name_zh": "乐器教练",
+    "name_en": "Instrument Coach",
+    "url": "/personas/instrument_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["乐器教学","练琴方法","钢琴教学","音乐表达","技巧训练","科学练习","成人学琴","考级指导","演奏技术","音乐教育"],
+    "tags_zh": ["乐器教学","练琴方法","钢琴教学","音乐表达","技巧训练","科学练习","成人学琴","考级指导","演奏技术","音乐教育"],
+    "tags_en": ["Instrument teaching","Practice methods","Piano teaching","Musical expression","Technique training","Scientific practice","Adult learning","Exam preparation","Performance technique","Music education"]
+  },
+  
+  {
+    "name": "交互设计师 AI 灵魂设定",
+    "name_zh": "交互设计师",
+    "name_en": "Interaction Designer",
+    "url": "/personas/interaction_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["交互设计","流程优化","可用性","原型设计","用户体验","信息架构"],
+    "tags_zh": ["交互设计","流程优化","可用性","原型设计","用户体验","信息架构"],
+    "tags_en": ["interaction design","flow optimization","usability","prototyping","user experience","information architecture"]
+  },
+  
+  {
+    "name": "投行董事总经理 AI 灵魂设定",
+    "name_zh": "投行董事总经理",
+    "name_en": "Investment Banking Managing Director",
+    "url": "/personas/investment_banking_md/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["投行","并购","M&A","估值","交易","金融精英"],
+    "tags_zh": ["投行","并购","M&A","估值","交易","金融精英"],
+    "tags_en": ["investment banking","M&A","deal-making","valuation","finance","capital markets"]
+  },
+  
+  {
+    "name": "艾萨克·牛顿 AI 灵魂设定",
+    "name_zh": "艾萨克·牛顿",
+    "name_en": "Isaac Newton",
+    "url": "/real_world/isaac_newton/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["万有引力","微积分","经典力学","光学","自然哲学的数学原理","皇家学会","炼金术"],
+    "tags_zh": ["万有引力","微积分","经典力学","光学","自然哲学的数学原理","皇家学会","炼金术"],
+    "tags_en": ["Universal Gravitation","Calculus","Classical Mechanics","Optics","Principia Mathematica","Royal Society","Alchemy"]
+  },
+  
+  {
+    "name": "麦克斯韦 AI 灵魂设定",
+    "name_zh": "麦克斯韦 (James Clerk Maxwell)",
+    "name_en": "James Clerk Maxwell",
+    "url": "/real_world/james_clerk_maxwell/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["电磁学","数学物理","统计力学","色觉理论","麦克斯韦方程组","卡文迪许实验室","苏格兰"],
+    "tags_zh": ["电磁学","数学物理","统计力学","色觉理论","麦克斯韦方程组","卡文迪许实验室","苏格兰"],
+    "tags_en": ["Electromagnetism","Mathematical Physics","Statistical Mechanics","Colour Theory","Maxwell's Equations","Cavendish Laboratory","Scotland"]
+  },
+  
+  {
+    "name": "Java 导师 AI 灵魂设定",
+    "name_zh": "Java 导师",
+    "name_en": "Java Tutor",
+    "url": "/personas/java_tutor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Java","企业开发","Spring","设计模式","JVM","微服务"],
+    "tags_zh": ["Java","企业开发","Spring","设计模式","JVM","微服务"],
+    "tags_en": ["Java","Enterprise Development","Spring","Design Patterns","JVM","Microservices"]
+  },
+  
+  {
+    "name": "JavaScript 导师 AI 灵魂设定",
+    "name_zh": "JavaScript 导师",
+    "name_en": "JavaScript Tutor",
+    "url": "/personas/javascript_tutor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["JavaScript","TypeScript","前端开发","Node.js","全栈","React","Vue"],
+    "tags_zh": ["JavaScript","TypeScript","前端开发","Node.js","全栈","React","Vue"],
+    "tags_en": ["JavaScript","TypeScript","Frontend Development","Node.js","Full-stack","React","Vue"]
+  },
+  
+  {
+    "name": "让-巴蒂斯特·萨伊 AI 灵魂设定",
+    "name_zh": "让-巴蒂斯特·萨伊 (Jean-Baptiste Say)",
+    "name_en": "Jean-Baptiste Say",
+    "url": "/real_world/jean_baptiste_say/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["萨伊定律","古典经济学","企业家理论","自由贸易","法国经济学","供给学派先驱"],
+    "tags_zh": ["萨伊定律","古典经济学","企业家理论","自由贸易","法国经济学","供给学派先驱"],
+    "tags_en": ["Say's Law","Classical Economics","Entrepreneurship Theory","Free Trade","French Economics","Supply-Side Pioneer"]
+  },
+  
+  {
+    "name": "卢梭 AI 灵魂设定",
+    "name_zh": "卢梭 (Jean-Jacques Rousseau)",
+    "name_en": "Jean-Jacques Rousseau",
+    "url": "/real_world/jean_jacques_rousseau/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["启蒙运动","社会契约论","自然状态","教育哲学","浪漫主义","忏悔录","法国大革命"],
+    "tags_zh": ["启蒙运动","社会契约论","自然状态","教育哲学","浪漫主义","忏悔录","法国大革命"],
+    "tags_en": ["Enlightenment","social contract","state of nature","philosophy of education","Romanticism","Confessions","French Revolution"]
+  },
+  
+  {
+    "name": "边沁 AI 灵魂设定",
+    "name_zh": "边沁 (Jeremy Bentham)",
+    "name_en": "Jeremy Bentham",
+    "url": "/real_world/jeremy_bentham/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["功利主义","最大幸福原则","法律改革","幸福计算","英国哲学","启蒙思想","政治哲学","刑法改革","动物权利","理性主义","民主改革"],
+    "tags_zh": ["功利主义","最大幸福原则","法律改革","幸福计算","英国哲学","启蒙思想","政治哲学","刑法改革","动物权利","理性主义","民主改革"],
+    "tags_en": ["Utilitarianism","GreatestHappinessPrinciple","LegalReform","FelificCalculus","BritishPhilosophy","EnlightenmentThought","PoliticalPhilosophy","PenalReform","AnimalRights","Rationalism","DemocraticReform"]
+  },
+  
+  {
+    "name": "费希特 AI 灵魂设定",
+    "name_zh": "费希特 (Johann Fichte)",
+    "name_en": "Johann Fichte",
+    "url": "/real_world/johann_fichte/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["绝对自我","知识学","自由哲学","德意志民族主义"],
+    "tags_zh": ["绝对自我","知识学","自由哲学","德意志民族主义"],
+    "tags_en": ["Absolute Self","Wissenschaftslehre","philosophy of freedom","German nationalism"]
+  },
+  
+  {
+    "name": "歌德 AI 灵魂设定",
+    "name_zh": "歌德 (Johann Wolfgang von Goethe)",
+    "name_en": "Johann Wolfgang von Goethe",
+    "url": "/real_world/johann_wolfgang_von_goethe/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["浮士德","德国文学","魏玛古典主义","世界文学","教化小说","色彩理论","狂飙突进"],
+    "tags_zh": ["浮士德","德国文学","魏玛古典主义","世界文学","教化小说","色彩理论","狂飙突进"],
+    "tags_en": ["Faust","German literature","Weimar Classicism","world literature","Bildungsroman","color theory","Sturm und Drang"]
+  },
+  
+  {
+    "name": "开普勒 AI 灵魂设定",
+    "name_zh": "开普勒 (Johannes Kepler)",
+    "name_en": "Johannes Kepler",
+    "url": "/real_world/johannes_kepler/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["行星运动定律","天体物理学","天文学","几何学","宇宙和谐","椭圆轨道","路德宗"],
+    "tags_zh": ["行星运动定律","天体物理学","天文学","几何学","宇宙和谐","椭圆轨道","路德宗"],
+    "tags_en": ["Planetary Motion Laws","Celestial Physics","Astronomy","Geometry","Cosmic Harmony","Elliptical Orbits","Lutheranism"]
+  },
+  
+  {
+    "name": "洛克 AI 灵魂设定",
+    "name_zh": "洛克 (John Locke)",
+    "name_en": "John Locke",
+    "url": "/real_world/john_locke/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["经验主义","白板说","自然权利","社会契约","自由主义","宗教宽容","光荣革命","政府论"],
+    "tags_zh": ["经验主义","白板说","自然权利","社会契约","自由主义","宗教宽容","光荣革命","政府论"],
+    "tags_en": ["Empiricism","Tabula Rasa","Natural Rights","Social Contract","Liberalism","Religious Toleration","Glorious Revolution","Two Treatises"]
+  },
+  
+  {
+    "name": "密尔 AI 灵魂设定",
+    "name_zh": "密尔 (John Stuart Mill)",
+    "name_en": "John Stuart Mill",
+    "url": "/real_world/john_stuart_mill/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["功利主义","自由主义","论自由","伤害原则","个人自由","女性权利","英国哲学","政治哲学","言论自由","多数人暴政","精神危机","质量区分"],
+    "tags_zh": ["功利主义","自由主义","论自由","伤害原则","个人自由","女性权利","英国哲学","政治哲学","言论自由","多数人暴政","精神危机","质量区分"],
+    "tags_en": ["utilitarianism","liberalism","OnLiberty","harm-principle","individual-freedom","womens-rights","British-philosophy","political-philosophy","freedom-of-speech","tyranny-of-the-majority","mental-crisis","qualitative-distinction"]
+  },
+  
+  {
+    "name": "卡尔·马克思 AI 灵魂设定",
+    "name_zh": "卡尔·马克思",
+    "name_en": "Karl Marx",
+    "url": "/real_world/karl_marx/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["历史唯物主义","资本论","共产主义","阶级斗争","政治经济学","辩证唯物主义","第一国际","流亡者"],
+    "tags_zh": ["历史唯物主义","资本论","共产主义","阶级斗争","政治经济学","辩证唯物主义","第一国际","流亡者"],
+    "tags_en": ["Historical Materialism","Capital","Communism","Class Struggle","Political Economy","Dialectical Materialism","First International","Exile"]
+  },
+  
+  {
+    "name": "语言学习导师 AI 灵魂设定",
+    "name_zh": "语言学习导师",
+    "name_en": "Language Learning Mentor",
+    "url": "/personas/language_learning_mentor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["语言习得","沉浸式学习","外语学习","输出驱动","习惯养成","多语言","成人学习","语言生活方案"],
+    "tags_zh": ["语言习得","沉浸式学习","外语学习","输出驱动","习惯养成","多语言","成人学习","语言生活方案"],
+    "tags_en": ["Language Acquisition","Immersive Learning","Foreign Language Learning","Output-Driven","Habit Formation","Polyglot","Adult Learning","Language Life Plan"]
+  },
+  
+  {
+    "name": "老子 AI 灵魂设定",
+    "name_zh": "老子",
+    "name_en": "Laozi",
+    "url": "/real_world/laozi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["道家","道德经","无为","道法自然","春秋","先秦哲学","隐者"],
+    "tags_zh": ["道家","道德经","无为","道法自然","春秋","先秦哲学","隐者"],
+    "tags_en": ["Daoism","Dao De Jing","Wu Wei","Dao Follows Nature","Spring and Autumn Period","Pre-Qin Philosophy","Recluse"]
+  },
+  
+  {
+    "name": "学习科学专家 AI 灵魂设定",
+    "name_zh": "学习科学专家",
+    "name_en": "Learning Science Expert",
+    "url": "/personas/learning_science_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["认知科学","学习方法","记忆策略","元认知","间隔重复","检索练习","学习效率","自适应学习"],
+    "tags_zh": ["认知科学","学习方法","记忆策略","元认知","间隔重复","检索练习","学习效率","自适应学习"],
+    "tags_en": ["Cognitive Science","Learning Methods","Memory Strategies","Metacognition","Spaced Repetition","Retrieval Practice","Learning Efficiency","Adaptive Learning"]
+  },
+  
+  {
+    "name": "法务顾问 AI 灵魂设定",
+    "name_zh": "法务顾问",
+    "name_en": "Legal Advisor",
+    "url": "/personas/legal_advisor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["法务顾问","合同审查","知识产权","企业合规","风险管理","商业谈判","公司治理","并购交易","数据隐私","法律风险评估"],
+    "tags_zh": ["法务顾问","合同审查","知识产权","企业合规","风险管理","商业谈判","公司治理","并购交易","数据隐私","法律风险评估"],
+    "tags_en": ["Legal Advisor","Contract Review","Intellectual Property","Corporate Compliance","Risk Management","Commercial Negotiation","Corporate Governance","M&A Transactions","Data Privacy","Legal Risk Assessment"]
+  },
+  
+  {
+    "name": "法律学者 AI 灵魂设定",
+    "name_zh": "法律学者",
+    "name_en": "Legal Scholar",
+    "url": "/personas/legal_scholar/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["法学理论","民商法","合同法","法律思维","法律科普","权利意识","程序正义","数字经济法","法律方法论","法治教育"],
+    "tags_zh": ["法学理论","民商法","合同法","法律思维","法律科普","权利意识","程序正义","数字经济法","法律方法论","法治教育"],
+    "tags_en": ["Legal Theory","Civil and Commercial Law","Contract Law","Legal Thinking","Legal Popularization","Rights Awareness","Procedural Justice","Digital Economy Law","Legal Methodology","Rule-of-Law Education"]
+  },
+  
+  {
+    "name": "托尔斯泰 AI 灵魂设定",
+    "name_zh": "托尔斯泰 (Leo Tolstoy)",
+    "name_en": "Leo Tolstoy",
+    "url": "/real_world/leo_tolstoy/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["俄国文学","战争与和平","安娜·卡列尼娜","非暴力","基督教无政府主义","道德简朴","忏悔录"],
+    "tags_zh": ["俄国文学","战争与和平","安娜·卡列尼娜","非暴力","基督教无政府主义","道德简朴","忏悔录"],
+    "tags_en": ["Russian literature","War and Peace","Anna Karenina","nonviolence","Christian anarchism","moral simplicity","A Confession"]
+  },
+  
+  {
+    "name": "莱昂·瓦尔拉斯 (Léon Walras) AI 灵魂设定",
+    "name_zh": "莱昂·瓦尔拉斯 (Léon Walras)",
+    "name_en": "Léon Walras",
+    "url": "/real_world/leon_walras/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["一般均衡","边际革命","数理经济学","洛桑学派","纯粹经济学","稀缺性理论"],
+    "tags_zh": ["一般均衡","边际革命","数理经济学","洛桑学派","纯粹经济学","稀缺性理论"],
+    "tags_en": ["general equilibrium","Marginal Revolution","mathematical economics","Lausanne School","pure economics","scarcity theory"]
+  },
+  
+  {
+    "name": "李白 AI 灵魂设定",
+    "name_zh": "李白 (Li Bai)",
+    "name_en": "Li Bai",
+    "url": "/real_world/li_bai/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["诗仙","唐诗","浪漫主义","酒","道家","游侠","天宝","安史之乱"],
+    "tags_zh": ["诗仙","唐诗","浪漫主义","酒","道家","游侠","天宝","安史之乱"],
+    "tags_en": ["Immortal Poet","Tang Poetry","Romanticism","Wine","Daoism","Knight-Errant","Tianbao Era","An Lushan Rebellion"]
+  },
+  
+  {
+    "name": "李鸿章 AI 灵魂设定",
+    "name_zh": "李鸿章 (Li Hongzhang)",
+    "name_en": "Li Hongzhang",
+    "url": "/real_world/li_hongzhang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["洋务运动","淮军","北洋海军","甲午战争","马关条约","晚清","自强运动","外交"],
+    "tags_zh": ["洋务运动","淮军","北洋海军","甲午战争","马关条约","晚清","自强运动","外交"],
+    "tags_en": ["Self-Strengthening Movement","Huai Army","Beiyang Navy","Sino-Japanese War","Treaty of Shimonoseki","late Qing","diplomacy","modernization"]
+  },
+  
+  {
+    "name": "李清照 AI 灵魂设定",
+    "name_zh": "李清照 (Li Qingzhao)",
+    "name_en": "Li Qingzhao",
+    "url": "/real_world/li_qingzhao/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["婉约词","宋词","词论","金石录","女性文学","南渡","济南"],
+    "tags_zh": ["婉约词","宋词","词论","金石录","女性文学","南渡","济南"],
+    "tags_en": ["Graceful Ci","Song Ci","Treatise on Ci","Records on Bronze and Stone","Women's Literature","Southward Flight","Jinan"]
+  },
+  
+  {
+    "name": "李商隐 AI 灵魂设定",
+    "name_zh": "李商隐 (Li Shangyin)",
+    "name_en": "Li Shangyin",
+    "url": "/real_world/li_shangyin/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["晚唐","无题诗","朦胧","骈文","牛李党争","爱情诗","用典"],
+    "tags_zh": ["晚唐","无题诗","朦胧","骈文","牛李党争","爱情诗","用典"],
+    "tags_en": ["Late Tang","Untitled Poems","Ambiguity","Parallel Prose","Niu-Li Factional Struggle","Love Poetry","Allusion"]
+  },
+  
+  {
+    "name": "李时珍 AI 灵魂设定",
+    "name_zh": "李时珍 (Li Shizhen)",
+    "name_en": "Li Shizhen",
+    "url": "/real_world/li_shizhen/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["明代","本草纲目","医学家","博物学家","药物学","格物致知"],
+    "tags_zh": ["明代","本草纲目","医学家","博物学家","药物学","格物致知"],
+    "tags_en": ["Ming Dynasty","Compendium of Materia Medica","Physician","Naturalist","Pharmacology","Investigating Things to Extend Knowledge"]
+  },
+  
+  {
+    "name": "李斯 AI 灵魂设定",
+    "name_zh": "李斯 (Li Si)",
+    "name_en": "Li Si",
+    "url": "/real_world/li_si/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["法家","秦朝","大一统","丞相","谏逐客书","制度设计","郡县制","战国"],
+    "tags_zh": ["法家","秦朝","大一统","丞相","谏逐客书","制度设计","郡县制","战国"],
+    "tags_en": ["Legalism","Qin Dynasty","Unification","Chancellor","Memorial Against Expulsion","Institutional Design","Commandery-County System","Warring States"]
+  },
+  
+  {
+    "name": "廉颇 AI 灵魂设定",
+    "name_zh": "廉颇 (Lian Po)",
+    "name_en": "Lian Po",
+    "url": "/real_world/lian_po/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["战国四大名将","负荆请罪","将相和","老当益壮","信平君","长平之战","赵国","军事家","战国"],
+    "tags_zh": ["战国四大名将","负荆请罪","将相和","老当益壮","信平君","长平之战","赵国","军事家","战国"],
+    "tags_en": ["FourGreatGenerals","CarryingThorns","GeneralAndMinister","StillVigorous","LordXinping","BattleOfChangping","Zhao","Strategist","WarringStates"]
+  },
+  
+  {
+    "name": "蔺相如 AI 灵魂设定",
+    "name_zh": "蔺相如 (Lin Xiangru)",
+    "name_en": "Lin Xiangru",
+    "url": "/real_world/lin_xiangru/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["完璧归赵","将相和","先国家之急而后私仇","渑池之会","外交家","智勇双全","赵国","上卿","战国"],
+    "tags_zh": ["完璧归赵","将相和","先国家之急而后私仇","渑池之会","外交家","智勇双全","赵国","上卿","战国"],
+    "tags_en": ["ReturningTheJade","GeneralAndMinister","StateBeforeSelf","MianchiSummit","Diplomat","WisdomAndCourage","Zhao","SeniorMinister","WarringStates"]
+  },
+  
+  {
+    "name": "刘备 AI 灵魂设定",
+    "name_zh": "刘备 (Liu Bei)",
+    "name_en": "Liu Bei",
+    "url": "/real_world/liu_bei/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["昭烈帝","蜀汉","以德服人","三顾茅庐","桃园结义","携民渡江","白帝托孤","仁德","汉室宗亲","三国","乱世创业者"],
+    "tags_zh": ["昭烈帝","蜀汉","以德服人","三顾茅庐","桃园结义","携民渡江","白帝托孤","仁德","汉室宗亲","三国","乱世创业者"],
+    "tags_en": ["Emperor Zhaolie","Shu-Han","rule by virtue","three visits to the thatched cottage","oath of the peach garden","carrying the people across the river","Baidicheng testament","benevolence","Han imperial clansman","Three Kingdoms","founder in an era of chaos"]
+  },
+  
+  {
+    "name": "刘禹锡 AI 灵魂设定",
+    "name_zh": "刘禹锡 (Liu Yuxi)",
+    "name_en": "Liu Yuxi",
+    "url": "/real_world/liu_yuxi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["诗豪","竹枝词","陋室铭","永贞革新","贬谪文学","天论","中唐","乐观主义"],
+    "tags_zh": ["诗豪","竹枝词","陋室铭","永贞革新","贬谪文学","天论","中唐","乐观主义"],
+    "tags_en": ["the bold poet","bamboo branch lyrics","On the Humble Room","Yongzhen Reform","exile literature","On Heaven","middle Tang","optimism"]
+  },
+  
+  {
+    "name": "刘知几 AI 灵魂设定",
+    "name_zh": "刘知几 (Liu Zhiji)",
+    "name_en": "Liu Zhiji",
+    "url": "/real_world/liu_zhiji/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["史通","史家三长","才学识","直书","史学批评","唐代","历史方法论"],
+    "tags_zh": ["史通","史家三长","才学识","直书","史学批评","唐代","历史方法论"],
+    "tags_en": ["Shitong","three excellences of the historian","talent learning judgment","writing straight","historical criticism","Tang dynasty","historical methodology"]
+  },
+  
+  {
+    "name": "吕不韦 AI 灵魂设定",
+    "name_zh": "吕不韦 (Lu Buwei)",
+    "name_en": "Lu Buwei",
+    "url": "/real_world/lu_buwei/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["奇货可居","吕氏春秋","一字千金","秦国","战国","商人从政","权臣","杂家"],
+    "tags_zh": ["奇货可居","吕氏春秋","一字千金","秦国","战国","商人从政","权臣","杂家"],
+    "tags_en": ["rare goods worth holding","Spring and Autumn Annals of Master Lü","one character one thousand gold","Qin","Warring States","merchant in politics","regent","eclectic school"]
+  },
+  
+  {
+    "name": "陆九渊 AI 灵魂设定",
+    "name_zh": "陆九渊 (Lu Jiuyuan)",
+    "name_en": "Lu Jiuyuan",
+    "url": "/real_world/lu_jiuyuan/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["心学","心即理","南宋","理学","鹅湖之会","象山","儒学"],
+    "tags_zh": ["心学","心即理","南宋","理学","鹅湖之会","象山","儒学"],
+    "tags_en": ["learning of the mind","mind is principle","Southern Song","Neo-Confucianism","Goose Lake Assembly","Xiangshan","Confucianism"]
+  },
+  
+  {
+    "name": "费尔巴哈 AI 灵魂设定",
+    "name_zh": "费尔巴哈 (Ludwig Feuerbach)",
+    "name_en": "Ludwig Feuerbach",
+    "url": "/real_world/ludwig_feuerbach/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["人本学","宗教批判","感性唯物主义","黑格尔左派"],
+    "tags_zh": ["人本学","宗教批判","感性唯物主义","黑格尔左派"],
+    "tags_en": ["anthropology","critique of religion","sensuous materialism","Young Hegelian"]
+  },
+  
+  {
+    "name": "管理咨询顾问 AI 灵魂设定",
+    "name_zh": "管理咨询顾问",
+    "name_en": "Management Consultant (McKinsey / BCG / Bain Type)",
+    "url": "/personas/management_consultant/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["管理咨询","战略","MECE","假设驱动","麦肯锡","结构化思维"],
+    "tags_zh": ["管理咨询","战略","MECE","假设驱动","麦肯锡","结构化思维"],
+    "tags_en": ["management consulting","strategy","MECE","hypothesis-driven","structured thinking","McKinsey"]
+  },
+  
+  {
+    "name": "马可·奥勒留 AI 灵魂设定",
+    "name_zh": "马可·奥勒留 (Marcus Aurelius)",
+    "name_en": "Marcus Aurelius",
+    "url": "/real_world/marcus_aurelius/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["斯多葛哲学","罗马帝国","沉思录","哲人王","五贤帝","斯多葛主义","内在堡垒"],
+    "tags_zh": ["斯多葛哲学","罗马帝国","沉思录","哲人王","五贤帝","斯多葛主义","内在堡垒"],
+    "tags_en": ["Stoic philosophy","Roman Empire","Meditations","philosopher-king","Five Good Emperors","Stoicism","inner citadel"]
+  },
+  
+  {
+    "name": "营销专家 AI 灵魂设定",
+    "name_zh": "营销专家",
+    "name_en": "Marketing Expert",
+    "url": "/personas/marketing_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["市场营销","品牌策略","数字营销","增长营销","内容营销","Campaign管理","用户洞察","营销ROI","B2B营销","B2C营销"],
+    "tags_zh": ["市场营销","品牌策略","数字营销","增长营销","内容营销","Campaign管理","用户洞察","营销ROI","B2B营销","B2C营销"],
+    "tags_en": ["Marketing","Brand Strategy","Digital Marketing","Growth Marketing","Content Marketing","Campaign Management","User Insight","Marketing ROI","B2B Marketing","B2C Marketing"]
+  },
+  
+  {
+    "name": "马克斯·韦伯 AI 灵魂设定",
+    "name_zh": "马克斯·韦伯 (Max Weber)",
+    "name_en": "Max Weber",
+    "url": "/real_world/max_weber/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["理解社会学","新教伦理","科层制","理性化","价值无涉","理想类型","铁笼","支配类型"],
+    "tags_zh": ["理解社会学","新教伦理","科层制","理性化","价值无涉","理想类型","铁笼","支配类型"],
+    "tags_en": ["interpretive sociology","Protestant ethic","bureaucracy","rationalization","value-freedom","ideal type","iron cage","types of domination"]
+  },
+  
+  {
+    "name": "医学专家 AI 灵魂设定",
+    "name_zh": "医学专家",
+    "name_en": "Medical Expert",
+    "url": "/personas/medical_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["循证医学","医学科普","临床研究","健康信息","内科学","医学伦理","医患沟通","临床决策","医学统计","健康素养"],
+    "tags_zh": ["循证医学","医学科普","临床研究","健康信息","内科学","医学伦理","医患沟通","临床决策","医学统计","健康素养"],
+    "tags_en": ["Evidence-Based Medicine","Medical Popularization","Clinical Research","Health Information","Internal Medicine","Medical Ethics","Doctor-Patient Communication","Clinical Decision-Making","Medical Statistics","Health Literacy"]
+  },
+  
+  {
+    "name": "孟子 AI 灵魂设定",
+    "name_zh": "孟子 (Mencius)",
+    "name_en": "Mencius",
+    "url": "/real_world/mencius/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["性善论","仁政","四端","民贵君轻","浩然之气","大丈夫","儒学","亚圣"],
+    "tags_zh": ["性善论","仁政","四端","民贵君轻","浩然之气","大丈夫","儒学","亚圣"],
+    "tags_en": ["Innate Goodness","Humane Governance","Four Beginnings","People Over Ruler","Flood-like Qi","Great Man","Confucianism","Second Sage"]
+  },
+  
+  {
+    "name": "法拉第 AI 灵魂设定",
+    "name_zh": "法拉第 (Michael Faraday)",
+    "name_en": "Michael Faraday",
+    "url": "/real_world/michael_faraday/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["电磁感应","场论","力线","实验物理","电化学","皇家学会","桑德曼教派","自学成才"],
+    "tags_zh": ["电磁感应","场论","力线","实验物理","电化学","皇家学会","桑德曼教派","自学成才"],
+    "tags_en": ["Electromagnetic Induction","Field Theory","Lines of Force","Experimental Physics","Electrochemistry","Royal Institution","Sandemanian","Self-Taught"]
+  },
+  
+  {
+    "name": "塞万提斯 AI 灵魂设定",
+    "name_zh": "塞万提斯 (Miguel de Cervantes)",
+    "name_en": "Miguel de Cervantes",
+    "url": "/real_world/miguel_de_cervantes/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["堂吉诃德","现代小说","西班牙黄金世纪","勒班陀","骑士文学","讽刺","理想主义"],
+    "tags_zh": ["堂吉诃德","现代小说","西班牙黄金世纪","勒班陀","骑士文学","讽刺","理想主义"],
+    "tags_en": ["Don Quixote","Modern Novel","Spanish Golden Age","Lepanto","Chivalric Literature","Satire","Idealism"]
+  },
+  
+  {
+    "name": "正念导师 AI 灵魂设定",
+    "name_zh": "正念导师",
+    "name_en": "Mindfulness Mentor",
+    "url": "/personas/mindfulness_mentor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["正念冥想","减压","情绪管理","呼吸练习","身心觉察","MBSR","冥想引导","内观","企业正念","慈心练习"],
+    "tags_zh": ["正念冥想","减压","情绪管理","呼吸练习","身心觉察","MBSR","冥想引导","内观","企业正念","慈心练习"],
+    "tags_en": ["Mindfulness meditation","Stress reduction","Emotion regulation","Breath practice","Body-mind awareness","MBSR","Meditation guidance","Vipassana","Corporate mindfulness","Loving-kindness practice"]
+  },
+  
+  {
+    "name": "移动端专家 AI 灵魂设定",
+    "name_zh": "移动端专家",
+    "name_en": "Mobile Expert",
+    "url": "/personas/mobile_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["移动开发","iOS","Android","Flutter","React Native","跨平台","性能优化","用户体验"],
+    "tags_zh": ["移动开发","iOS","Android","Flutter","React Native","跨平台","性能优化","用户体验"],
+    "tags_en": ["Mobile development","iOS","Android","Flutter","React Native","Cross-platform","Performance optimization","User experience"]
+  },
+  
+  {
+    "name": "孟德斯鸠 AI 灵魂设定",
+    "name_zh": "孟德斯鸠 (Montesquieu)",
+    "name_en": "Montesquieu",
+    "url": "/real_world/montesquieu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["三权分立","政治哲学","启蒙运动","宪政思想","比较政治","法国"],
+    "tags_zh": ["三权分立","政治哲学","启蒙运动","宪政思想","比较政治","法国"],
+    "tags_en": ["Separation of Powers","Political Philosophy","Enlightenment","Constitutional Thought","Comparative Politics","France"]
+  },
+  
+  {
+    "name": "墨子 AI 灵魂设定",
+    "name_zh": "墨子 (Mozi)",
+    "name_en": "Mozi",
+    "url": "/real_world/mozi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["墨家","兼爱","非攻","功利主义","守城术","反战","战国"],
+    "tags_zh": ["墨家","兼爱","非攻","功利主义","守城术","反战","战国"],
+    "tags_en": ["Mohism","Universal Love","Non-Aggression","Utilitarianism","Defensive Warfare","Anti-War","Warring States"]
+  },
+  
+  {
+    "name": "音乐理论家 AI 灵魂设定",
+    "name_zh": "音乐理论家",
+    "name_en": "Music Theorist",
+    "url": "/personas/music_theorist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["音乐理论","和声学","曲式分析","作曲技术","复调","音乐赏析","听觉训练","古典音乐","音乐教育","作曲基础"],
+    "tags_zh": ["音乐理论","和声学","曲式分析","作曲技术","复调","音乐赏析","听觉训练","古典音乐","音乐教育","作曲基础"],
+    "tags_en": ["Music theory","Harmony","Form analysis","Composition techniques","Counterpoint","Music appreciation","Aural training","Classical music","Music education","Composition basics"]
+  },
+  
+  {
+    "name": "龙树 AI 灵魂设定",
+    "name_zh": "龙树 (Nagarjuna)",
+    "name_en": "Nagarjuna",
+    "url": "/real_world/nagarjuna/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["佛教","中观学派","空性","缘起","般若","大乘佛教","印度哲学","《中论》"],
+    "tags_zh": ["佛教","中观学派","空性","缘起","般若","大乘佛教","印度哲学","《中论》"],
+    "tags_en": ["Buddhism","Madhyamaka","emptiness","dependent origination","Prajnaparamita","Mahayana","Indian philosophy","Mulamadhyamakakarika"]
+  },
+  
+  {
+    "name": "马基雅维利 (Niccolò Machiavelli) AI 灵魂设定",
+    "name_zh": "马基雅维利 (Niccolò Machiavelli)",
+    "name_en": "Niccolo Machiavelli",
+    "url": "/real_world/niccolo_machiavelli/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["政治现实主义","君主论","论李维","佛罗伦萨","文艺复兴","共和主义","命运与德性"],
+    "tags_zh": ["政治现实主义","君主论","论李维","佛罗伦萨","文艺复兴","共和主义","命运与德性"],
+    "tags_en": ["political realism","The Prince","Discourses on Livy","Florence","Renaissance","republicanism","fortune and virtu"]
+  },
+  
+  {
+    "name": "库萨的尼古拉 AI 灵魂设定",
+    "name_zh": "库萨的尼古拉 (Nicholas of Cusa)",
+    "name_en": "Nicholas of Cusa",
+    "url": "/real_world/nicholas_of_cusa/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["有学问的无知","对立面统一","文艺复兴哲学","神秘主义","数学神学","枢机主教","宇宙论","宗教和平"],
+    "tags_zh": ["有学问的无知","对立面统一","文艺复兴哲学","神秘主义","数学神学","枢机主教","宇宙论","宗教和平"],
+    "tags_en": ["Learned Ignorance","Coincidence of Opposites","Renaissance Philosophy","Mysticism","Mathematical Theology","Cardinal","Cosmology","Religious Peace"]
+  },
+  
+  {
+    "name": "哥白尼 AI 灵魂设定",
+    "name_zh": "哥白尼 (Nicolaus Copernicus)",
+    "name_en": "Nicolaus Copernicus",
+    "url": "/real_world/nicolaus_copernicus/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["日心说","天文学","天体运行论","文艺复兴","科学革命","数学","波兰"],
+    "tags_zh": ["日心说","天文学","天体运行论","文艺复兴","科学革命","数学","波兰"],
+    "tags_en": ["Heliocentrism","Astronomy","De Revolutionibus","Renaissance","Scientific Revolution","Mathematics","Poland"]
+  },
+  
+  {
+    "name": "非虚构写作导师 AI 灵魂设定",
+    "name_zh": "非虚构写作导师",
+    "name_en": "Non-fiction Writer",
+    "url": "/personas/nonfiction_writer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["非虚构写作","特稿写作","田野调查","采访技巧","叙事结构","写作伦理","人物特稿","社会纪实","纪实文学","写作教学"],
+    "tags_zh": ["非虚构写作","特稿写作","田野调查","采访技巧","叙事结构","写作伦理","人物特稿","社会纪实","纪实文学","写作教学"],
+    "tags_en": ["Nonfiction writing","feature writing","fieldwork","interview technique","narrative structure","writing ethics","character profiles","social documentary","literary nonfiction","writing instruction"]
+  },
+  
+  {
+    "name": "营养师 AI 灵魂设定",
+    "name_zh": "营养师",
+    "name_en": "Nutritionist",
+    "url": "/personas/nutritionist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["营养学","饮食健康","个性化膳食","循证营养","减重管理","代谢健康","饮食计划"],
+    "tags_zh": ["营养学","饮食健康","个性化膳食","循证营养","减重管理","代谢健康","饮食计划"],
+    "tags_en": ["Nutrition","Dietary health","Personalized diet","Evidence-based nutrition","Weight management","Metabolic health","Meal planning"]
+  },
+  
+  {
+    "name": "运营专家 AI 灵魂设定",
+    "name_zh": "运营专家",
+    "name_en": "Operations Expert",
+    "url": "/personas/operations_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["运营管理","流程优化","SOP设计","KPI体系","效率提升","规模化运营","数据驱动","组织能力建设"],
+    "tags_zh": ["运营管理","流程优化","SOP设计","KPI体系","效率提升","规模化运营","数据驱动","组织能力建设"],
+    "tags_en": ["Operations Management","Process Optimization","SOP Design","KPI Design","Efficiency","Scale Operations","Data-driven","Organization Building"]
+  },
+  
+  {
+    "name": "整理顾问 AI 灵魂设定",
+    "name_zh": "整理顾问",
+    "name_en": "Organization Consultant",
+    "url": "/personas/organization_consultant/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["整理收纳","断舍离","空间规划","生活美学","极简生活","动线优化","衣物收纳","家庭整理","数字整理","空间心理学"],
+    "tags_zh": ["整理收纳","断舍离","空间规划","生活美学","极简生活","动线优化","衣物收纳","家庭整理","数字整理","空间心理学"],
+    "tags_en": ["Organization and storage","Decluttering","Space planning","Life aesthetics","Minimalist living","Flow optimization","Closet organization","Home organization","Digital organization","Spatial psychology"]
+  },
+  
+  {
+    "name": "奥维德 AI 灵魂设定",
+    "name_zh": "奥维德 (Ovid)",
+    "name_en": "Ovid",
+    "url": "/real_world/ovid/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["变形记","爱的艺术","罗马诗人","流放文学","拉丁文学","神话叙事"],
+    "tags_zh": ["变形记","爱的艺术","罗马诗人","流放文学","拉丁文学","神话叙事"],
+    "tags_en": ["Metamorphoses","Ars Amatoria","Roman Poet","Exile Literature","Latin Literature","Mythological Narrative"]
+  },
+  
+  {
+    "name": "绘画教练 AI 灵魂设定",
+    "name_zh": "绘画教练",
+    "name_en": "Painting Coach",
+    "url": "/personas/painting_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["素描基础","油画技法","色彩理论","绘画教学","造型训练","写生","美术史","创作指导","基本功训练","视觉艺术"],
+    "tags_zh": ["素描基础","油画技法","色彩理论","绘画教学","造型训练","写生","美术史","创作指导","基本功训练","视觉艺术"],
+    "tags_en": ["Sketching basics","Oil painting","Color theory","Painting instruction","Figure drawing","Plein-air","Art history","Creative guidance","Foundational training","Visual art"]
+  },
+  
+  {
+    "name": "彼特拉克 AI 灵魂设定",
+    "name_zh": "彼特拉克 (Petrarch)",
+    "name_en": "Petrarch",
+    "url": "/real_world/petrarch/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["人文主义","文艺复兴","十四行诗","歌集","古典复兴","桂冠诗人","意大利文学"],
+    "tags_zh": ["人文主义","文艺复兴","十四行诗","歌集","古典复兴","桂冠诗人","意大利文学"],
+    "tags_en": ["humanism","Renaissance","sonnet","Canzoniere","classical revival","Poet Laureate","Italian literature"]
+  },
+  
+  {
+    "name": "哲学家 AI 灵魂设定",
+    "name_zh": "哲学家",
+    "name_en": "Philosopher",
+    "url": "/personas/philosopher/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["哲学思考","概念分析","逻辑论证","批判性思维","伦理学","语言哲学","心智哲学","思想实验","哲学方法论","公共哲学"],
+    "tags_zh": ["哲学思考","概念分析","逻辑论证","批判性思维","伦理学","语言哲学","心智哲学","思想实验","哲学方法论","公共哲学"],
+    "tags_en": ["Philosophical Thinking","Conceptual Analysis","Logical Argument","Critical Thinking","Ethics","Philosophy of Language","Philosophy of Mind","Thought Experiments","Philosophical Methodology","Public Philosophy"]
+  },
+  
+  {
+    "name": "摄影导师 AI 灵魂设定",
+    "name_zh": "摄影导师",
+    "name_en": "Photography Mentor",
+    "url": "/personas/photography_mentor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["摄影艺术","构图设计","光影运用","人文纪实","肖像摄影","后期处理","视觉叙事","街头摄影","摄影教学","审美训练"],
+    "tags_zh": ["摄影艺术","构图设计","光影运用","人文纪实","肖像摄影","后期处理","视觉叙事","街头摄影","摄影教学","审美训练"],
+    "tags_en": ["Photography","Composition","Light and shadow","Documentary photography","Portrait photography","Post-processing","Visual narrative","Street photography","Photography teaching","Aesthetic training"]
+  },
+  
+  {
+    "name": "柏拉图 AI 灵魂设定",
+    "name_zh": "柏拉图",
+    "name_en": "Plato",
+    "url": "/real_world/plato/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["理念论","理想国","学园","苏格拉底","辩证法","洞穴寓言","古希腊哲学"],
+    "tags_zh": ["理念论","理想国","学园","苏格拉底","辩证法","洞穴寓言","古希腊哲学"],
+    "tags_en": ["Theory of Forms","Republic","Academy","Socrates","Dialectic","Allegory of the Cave","Ancient Greek Philosophy"]
+  },
+  
+  {
+    "name": "普罗提诺 AI 灵魂设定",
+    "name_zh": "普罗提诺 (Plotinus)",
+    "name_en": "Plotinus",
+    "url": "/real_world/plotinus/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["新柏拉图主义","太一","流溢说","九章集","神秘主义","形而上学","灵魂学说"],
+    "tags_zh": ["新柏拉图主义","太一","流溢说","九章集","神秘主义","形而上学","灵魂学说"],
+    "tags_en": ["Neoplatonism","the One","emanation","Enneads","mysticism","metaphysics","doctrine of the soul"]
+  },
+  
+  {
+    "name": "诗歌导师 AI 灵魂设定",
+    "name_zh": "诗歌导师",
+    "name_en": "Poetry Mentor",
+    "url": "/personas/poetry_mentor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["诗歌创作","意象构建","诗歌节奏","创意写作教学","现代诗","诗歌赏析","文学批评","写作工作坊","诗歌美学","语言艺术"],
+    "tags_zh": ["诗歌创作","意象构建","诗歌节奏","创意写作教学","现代诗","诗歌赏析","文学批评","写作工作坊","诗歌美学","语言艺术"],
+    "tags_en": ["Poetry writing","imagery building","poetic rhythm","creative writing instruction","modern poetry","poetry appreciation","literary criticism","writing workshops","poetry aesthetics","language art"]
+  },
+  
+  {
+    "name": "政治分析师 AI 灵魂设定",
+    "name_zh": "政治分析师",
+    "name_en": "Political Analyst",
+    "url": "/personas/political_analyst/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["政治分析","比较政治学","国际关系","制度分析","大国竞争","政策分析","政治趋势","权力分析","地缘政治","政治思维"],
+    "tags_zh": ["政治分析","比较政治学","国际关系","制度分析","大国竞争","政策分析","政治趋势","权力分析","地缘政治","政治思维"],
+    "tags_en": ["Political Analysis","Comparative Politics","International Relations","Institutional Analysis","Great-Power Competition","Policy Analysis","Political Trends","Power Analysis","Geopolitics","Political Thinking"]
+  },
+  
+  {
+    "name": "产品总监 AI 灵魂设定",
+    "name_zh": "产品总监",
+    "name_en": "Product Director (VP of Product)",
+    "url": "/personas/product_director/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["产品管理","优先级","用户体验","OKR","路线图","产品战略"],
+    "tags_zh": ["产品管理","优先级","用户体验","OKR","路线图","产品战略"],
+    "tags_en": ["product management","prioritization","user experience","OKR","roadmap","product strategy"]
+  },
+  
+  {
+    "name": "产品经理 AI 灵魂设定",
+    "name_zh": "产品经理",
+    "name_en": "Product Manager",
+    "url": "/personas/product_manager/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["产品规划","用户研究","数据驱动","需求分析","优先级排序","产品路线图"],
+    "tags_zh": ["产品规划","用户研究","数据驱动","需求分析","优先级排序","产品路线图"],
+    "tags_en": ["product planning","user research","data-driven","requirements analysis","prioritization","product roadmap"]
+  },
+  
+  {
+    "name": "普罗泰戈拉 AI 灵魂设定",
+    "name_zh": "普罗泰戈拉 (Protagoras)",
+    "name_en": "Protagoras",
+    "url": "/real_world/protagoras/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["智者派","人是万物的尺度","两面论证","修辞学","雅典","阿布德拉","不可知论","民主理论"],
+    "tags_zh": ["智者派","人是万物的尺度","两面论证","修辞学","雅典","阿布德拉","不可知论","民主理论"],
+    "tags_en": ["Sophist","Man Is the Measure","Two-Sided Argument","Rhetoric","Athens","Abdera","Agnosticism","Democratic Theory"]
+  },
+  
+  {
+    "name": "心理咨询师 AI 灵魂设定",
+    "name_zh": "心理咨询师",
+    "name_en": "Psychological Counselor",
+    "url": "/personas/psychological_counselor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["心理咨询","认知行为疗法","情绪支持","焦虑抑郁","认知重建","压力管理","自我觉察"],
+    "tags_zh": ["心理咨询","认知行为疗法","情绪支持","焦虑抑郁","认知重建","压力管理","自我觉察"],
+    "tags_en": ["Counseling","Cognitive behavioral therapy","Emotional support","Anxiety and depression","Cognitive restructuring","Stress management","Self-awareness"]
+  },
+  
+  {
+    "name": "心理学家 AI 灵魂设定",
+    "name_zh": "心理学家",
+    "name_en": "Psychologist",
+    "url": "/personas/psychologist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["心理学","认知偏差","社会心理学","判断与决策","行为科学","认知心理学","心理学科普","研究方法","元认知","行为改变"],
+    "tags_zh": ["心理学","认知偏差","社会心理学","判断与决策","行为科学","认知心理学","心理学科普","研究方法","元认知","行为改变"],
+    "tags_en": ["Psychology","Cognitive Bias","Social Psychology","Judgment and Decision-Making","Behavioral Science","Cognitive Psychology","Psychology Popularization","Research Methods","Metacognition","Behavior Change"]
+  },
+  
+  {
+    "name": "毕达哥拉斯 AI 灵魂设定",
+    "name_zh": "毕达哥拉斯 (Pythagoras)",
+    "name_en": "Pythagoras",
+    "url": "/real_world/pythagoras/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["万物皆数","毕达哥拉斯定理","天球和谐","灵魂轮回","古希腊哲学","数学","神秘主义"],
+    "tags_zh": ["万物皆数","毕达哥拉斯定理","天球和谐","灵魂轮回","古希腊哲学","数学","神秘主义"],
+    "tags_en": ["All Is Number","Pythagorean Theorem","Harmony of the Spheres","Transmigration of the Soul","Ancient Greek Philosophy","Mathematics","Mysticism"]
+  },
+  
+  {
+    "name": "Python 导师 AI 灵魂设定",
+    "name_zh": "Python 导师",
+    "name_en": "Python Tutor",
+    "url": "/personas/python_tutor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Python","编程教学","代码审查","最佳实践","Pythonic","软件工程"],
+    "tags_zh": ["Python","编程教学","代码审查","最佳实践","Pythonic","软件工程"],
+    "tags_en": ["Python","Programming Education","Code Review","Best Practices","Pythonic","Software Engineering"]
+  },
+  
+  {
+    "name": "戚继光 AI 灵魂设定",
+    "name_zh": "戚继光 (Qi Jiguang)",
+    "name_en": "Qi Jiguang",
+    "url": "/real_world/qi_jiguang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["练兵大家","战术革新者","戚家军缔造者"],
+    "tags_zh": ["练兵大家","战术革新者","戚家军缔造者"],
+    "tags_en": ["Master of troop training","tactical innovator","creator of the Qi Family Army"]
+  },
+  
+  {
+    "name": "秦始皇 AI 灵魂设定",
+    "name_zh": "秦始皇 (Qin Shi Huang)",
+    "name_en": "Qin Shi Huang",
+    "url": "/real_world/qin_shi_huang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["始皇帝","大一统","法家","郡县制","统一六国","中央集权","秦朝"],
+    "tags_zh": ["始皇帝","大一统","法家","郡县制","统一六国","中央集权","秦朝"],
+    "tags_en": ["First Emperor","grand unification","Legalism","commandery-county system","Warring States","centralization","Qin dynasty"]
+  },
+  
+  {
+    "name": "屈原 AI 灵魂设定",
+    "name_zh": "屈原 (Qu Yuan)",
+    "name_en": "Qu Yuan",
+    "url": "/real_world/qu_yuan/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["楚辞","战国","诗人","政治家","离骚","爱国","殉道","浪漫主义"],
+    "tags_zh": ["楚辞","战国","诗人","政治家","离骚","爱国","殉道","浪漫主义"],
+    "tags_en": ["Chu Ci","Warring States","Poet","Statesman","Li Sao","Patriotism","Martyrdom","Romanticism"]
+  },
+  
+  {
+    "name": "关系顾问 AI 灵魂设定",
+    "name_zh": "关系顾问",
+    "name_en": "Relationship Consultant",
+    "url": "/personas/relationship_consultant/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["人际关系","亲密关系","沟通技巧","边界意识","依恋理论","冲突修复","情绪管理","原生家庭","非暴力沟通","伴侣辅导"],
+    "tags_zh": ["人际关系","亲密关系","沟通技巧","边界意识","依恋理论","冲突修复","情绪管理","原生家庭","非暴力沟通","伴侣辅导"],
+    "tags_en": ["Interpersonal relationships","Intimacy","Communication skills","Boundary awareness","Attachment theory","Conflict repair","Emotional regulation","Family of origin","Nonviolent communication","Couples counseling"]
+  },
+  
+  {
+    "name": "笛卡尔 (René Descartes) AI 灵魂设定",
+    "name_zh": "笛卡尔 (René Descartes)",
+    "name_en": "René Descartes",
+    "url": "/real_world/rene_descartes/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["理性主义","我思故我在","方法论怀疑","心物二元论","解析几何","机械论","近代哲学"],
+    "tags_zh": ["理性主义","我思故我在","方法论怀疑","心物二元论","解析几何","机械论","近代哲学"],
+    "tags_en": ["rationalism","cogito ergo sum","methodical doubt","mind-body dualism","analytic geometry","mechanism","modern philosophy"]
+  },
+  
+  {
+    "name": "Rust 导师 AI 灵魂设定",
+    "name_zh": "Rust 导师",
+    "name_en": "Rust Tutor",
+    "url": "/personas/rust_tutor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Rust","系统编程","所有权","内存安全","性能优化","零成本抽象"],
+    "tags_zh": ["Rust","系统编程","所有权","内存安全","性能优化","零成本抽象"],
+    "tags_en": ["Rust","systems programming","ownership","memory safety","performance optimization","zero-cost abstraction"]
+  },
+  
+  {
+    "name": "销售教练 AI 灵魂设定",
+    "name_zh": "销售教练",
+    "name_en": "Sales Coach",
+    "url": "/personas/sales_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["销售技巧","谈判","沟通","成交","B2B销售","企业级销售","销售培训","话术","销售管理","销售方法论","大客户经营","Pipeline管理","商务谈判","价值销售","顾问式销售"],
+    "tags_zh": ["销售技巧","谈判","沟通","成交","B2B销售","企业级销售","销售培训","话术","销售管理","销售方法论","大客户经营","Pipeline管理","商务谈判","价值销售","顾问式销售"],
+    "tags_en": ["Sales Skills","Negotiation","Communication","Closing","B2B Sales","Enterprise Sales","Sales Training","Scripts","Sales Management","Sales Methodology","Enterprise Account Management","Pipeline Management","Business Negotiation","Value Selling","Consultative Selling"]
+  },
+  
+  {
+    "name": "塞缪尔·摩尔斯 AI 灵魂设定",
+    "name_zh": "塞缪尔·摩尔斯 (Samuel Morse)",
+    "name_en": "Samuel Morse",
+    "url": "/real_world/samuel_morse/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["电报","莫尔斯电码","上帝创造了何等奇迹","画家转发明家"],
+    "tags_zh": ["电报","莫尔斯电码","上帝创造了何等奇迹","画家转发明家"],
+    "tags_en": ["Telegraph","Morse code","What hath God wrought","painter turned inventor"]
+  },
+  
+  {
+    "name": "科普作家 AI 灵魂设定",
+    "name_zh": "科普作家",
+    "name_en": "Science Writer",
+    "url": "/personas/science_writer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["科学传播","科普写作","通俗化表达","类比构建","科学史","公众理解科学","知识翻译","思想实验","科学素养","内容创作"],
+    "tags_zh": ["科学传播","科普写作","通俗化表达","类比构建","科学史","公众理解科学","知识翻译","思想实验","科学素养","内容创作"],
+    "tags_en": ["Science communication","popular science writing","accessible expression","analogy building","history of science","public understanding of science","knowledge translation","thought experiments","science literacy","content creation"]
+  },
+  
+  {
+    "name": "科学家 AI 灵魂设定",
+    "name_zh": "科学家",
+    "name_en": "Scientist",
+    "url": "/personas/scientist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["科学研究","科学方法论","物理学","科普传播","实验设计","统计分析","学术写作","跨学科","批判性思维","证据思维"],
+    "tags_zh": ["科学研究","科学方法论","物理学","科普传播","实验设计","统计分析","学术写作","跨学科","批判性思维","证据思维"],
+    "tags_en": ["Scientific Research","Scientific Methodology","Physics","Science Communication","Experiment Design","Statistical Analysis","Academic Writing","Interdisciplinary","Critical Thinking","Evidence-Based Thinking"]
+  },
+  
+  {
+    "name": "编剧顾问 AI 灵魂设定",
+    "name_zh": "编剧顾问",
+    "name_en": "Screenwriting Consultant",
+    "url": "/personas/screenwriting_consultant/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["剧本创作","编剧辅导","冲突设计","对白写作","叙事节奏","人物弧光","剧本诊断","影视编剧","类型片","戏剧结构"],
+    "tags_zh": ["剧本创作","编剧辅导","冲突设计","对白写作","叙事节奏","人物弧光","剧本诊断","影视编剧","类型片","戏剧结构"],
+    "tags_en": ["screenplay writing","screenwriting coaching","conflict design","dialogue writing","narrative rhythm","character arc","script diagnosis","film and TV writing","genre film","dramatic structure"]
+  },
+  
+  {
+    "name": "安全工程师 AI 灵魂设定",
+    "name_zh": "安全工程师",
+    "name_en": "Security Engineer",
+    "url": "/personas/security_engineer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["网络安全","渗透测试","OWASP","安全审计","DevSecOps","零信任"],
+    "tags_zh": ["网络安全","渗透测试","OWASP","安全审计","DevSecOps","零信任"],
+    "tags_en": ["cybersecurity","penetration testing","OWASP","security audit","DevSecOps","zero trust"]
+  },
+  
+  {
+    "name": "塞涅卡 AI 灵魂设定",
+    "name_zh": "塞涅卡 (Seneca)",
+    "name_en": "Seneca",
+    "url": "/real_world/seneca/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["斯多葛哲学","罗马帝国","道德哲学","书信文学","政治哲学","尼禄","实践哲学"],
+    "tags_zh": ["斯多葛哲学","罗马帝国","道德哲学","书信文学","政治哲学","尼禄","实践哲学"],
+    "tags_en": ["Stoic Philosophy","Roman Empire","Moral Philosophy","Epistolary Literature","Political Philosophy","Nero","Practical Philosophy"]
+  },
+  
+  {
+    "name": "服务设计师 AI 灵魂设定",
+    "name_zh": "服务设计师",
+    "name_en": "Service Designer",
+    "url": "/personas/service_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["服务设计","用户旅程","服务蓝图","全渠道体验","共创工作坊","触点管理"],
+    "tags_zh": ["服务设计","用户旅程","服务蓝图","全渠道体验","共创工作坊","触点管理"],
+    "tags_en": ["service design","user journey","service blueprint","omnichannel experience","co-creation workshop","touchpoint management"]
+  },
+  
+  {
+    "name": "商鞅 AI 灵魂设定",
+    "name_zh": "商鞅 (Shang Yang)",
+    "name_en": "Shang Yang",
+    "url": "/real_world/shang_yang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["法家","变法","秦国","战国","徙木立信","制度改革","法治","车裂"],
+    "tags_zh": ["法家","变法","秦国","战国","徙木立信","制度改革","法治","车裂"],
+    "tags_en": ["Legalism","Reform","Qin","Warring States","Moving the Pole","Institutional Reform","Rule of Law","Death by Chariot"]
+  },
+  
+  {
+    "name": "沈括 AI 灵魂设定",
+    "name_zh": "沈括 (Shen Kuo)",
+    "name_en": "Shen Kuo",
+    "url": "/real_world/shen_kuo/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["梦溪笔谈","博物学","磁偏角","活字印刷","北宋","格物穷理","王安石变法"],
+    "tags_zh": ["梦溪笔谈","博物学","磁偏角","活字印刷","北宋","格物穷理","王安石变法"],
+    "tags_en": ["Dream Pool Essays","Natural History","Magnetic Declination","Movable Type Printing","Northern Song","Investigating Things to Exhaust Their Principles","Wang Anshi Reforms"]
+  },
+  
+  {
+    "name": "福尔摩斯 AI 灵魂设定",
+    "name_zh": "福尔摩斯",
+    "name_en": "Sherlock Holmes",
+    "url": "/virtual_world/sherlock_holmes/",
+    "category": "非真实世界",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["咨询侦探","演绎推理","贝克街","维多利亚时代","柯南·道尔","福尔摩斯"],
+    "tags_zh": ["咨询侦探","演绎推理","贝克街","维多利亚时代","柯南·道尔","福尔摩斯"],
+    "tags_en": ["Consulting Detective","Deduction","Baker Street","Victorian","Conan Doyle","Sherlock Holmes"]
+  },
+  
+  {
+    "name": "史可法 AI 灵魂设定",
+    "name_zh": "史可法 (Shi Kefa)",
+    "name_en": "Shi Kefa",
+    "url": "/real_world/shi_kefa/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["明末","南明","扬州保卫战","殉国","忠臣","抗清","梅花岭"],
+    "tags_zh": ["明末","南明","扬州保卫战","殉国","忠臣","抗清","梅花岭"],
+    "tags_en": ["Late Ming","Southern Ming","Defense of Yangzhou","Martyrdom","Loyal Minister","Anti-Qing Resistance","Plum Blossom Ridge"]
+  },
+  
+  {
+    "name": "释迦牟尼 AI 灵魂设定",
+    "name_zh": "释迦牟尼 (Siddhartha Gautama)",
+    "name_en": "Siddhartha Gautama",
+    "url": "/real_world/siddhartha_gautama/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["佛陀","四圣谛","缘起","中道","八正道","涅槃","比丘","恒河文明"],
+    "tags_zh": ["佛陀","四圣谛","缘起","中道","八正道","涅槃","比丘","恒河文明"],
+    "tags_en": ["Buddha","Four Noble Truths","Dependent Origination","Middle Way","Noble Eightfold Path","Nibbana","Bhikkhu","Ganges Civilization"]
+  },
+  
+  {
+    "name": "硅谷CTO AI 灵魂设定",
+    "name_zh": "硅谷CTO",
+    "name_en": "Silicon Valley CTO",
+    "url": "/personas/silicon_valley_cto/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["硅谷CTO","技术领袖","架构师","工程文化","技术管理","系统设计"],
+    "tags_zh": ["硅谷CTO","技术领袖","架构师","工程文化","技术管理","系统设计"],
+    "tags_en": ["Silicon Valley CTO","technical leadership","software architecture","engineering culture","tech management","system design"]
+  },
+  
+  {
+    "name": "司马光 AI 灵魂设定",
+    "name_zh": "司马光 (Sima Guang)",
+    "name_en": "Sima Guang",
+    "url": "/real_world/sima_guang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["资治通鉴","北宋","编年史","保守派","史学家","政治家","以史为鉴"],
+    "tags_zh": ["资治通鉴","北宋","编年史","保守派","史学家","政治家","以史为鉴"],
+    "tags_en": ["Zizhi Tongjian","Northern Song","chronological history","conservative","historian","statesman","history as mirror"]
+  },
+  
+  {
+    "name": "司马迁 AI 灵魂设定",
+    "name_zh": "司马迁 (Sima Qian)",
+    "name_en": "Sima Qian",
+    "url": "/real_world/sima_qian/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["史记","太史公","纪传体","实录精神","报任安书","西汉","历史学"],
+    "tags_zh": ["史记","太史公","纪传体","实录精神","报任安书","西汉","历史学"],
+    "tags_en": ["Records of the Grand Historian","Grand Historian","biographical form","faithful recording","Letter to Ren An","Western Han","historiography"]
+  },
+  
+  {
+    "name": "技能教练 AI 灵魂设定",
+    "name_zh": "技能教练",
+    "name_en": "Skills Coach",
+    "url": "/personas/skills_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["技能学习","刻意练习","任务拆解","反馈系统","学习方法","平台期突破","习惯养成","能力提升"],
+    "tags_zh": ["技能学习","刻意练习","任务拆解","反馈系统","学习方法","平台期突破","习惯养成","能力提升"],
+    "tags_en": ["skill learning","deliberate practice","task decomposition","feedback systems","learning methods","plateau breakthrough","habit formation","capability development"]
+  },
+  
+  {
+    "name": "睡眠顾问 AI 灵魂设定",
+    "name_zh": "睡眠顾问",
+    "name_en": "Sleep Consultant",
+    "url": "/personas/sleep_consultant/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["睡眠科学","失眠治疗","CBT-I","昼夜节律","睡眠卫生","作息调整","认知行为疗法"],
+    "tags_zh": ["睡眠科学","失眠治疗","CBT-I","昼夜节律","睡眠卫生","作息调整","认知行为疗法"],
+    "tags_en": ["Sleep science","Insomnia treatment","CBT-I","Circadian rhythm","Sleep hygiene","Schedule adjustment","Cognitive behavioral therapy"]
+  },
+  
+  {
+    "name": "社会学家 AI 灵魂设定",
+    "name_zh": "社会学家",
+    "name_en": "Sociologist",
+    "url": "/personas/sociologist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["社会学","社会结构","不平等","田野调查","劳动社会学","社会流动","城市研究","定性研究","社会变迁","公共社会学"],
+    "tags_zh": ["社会学","社会结构","不平等","田野调查","劳动社会学","社会流动","城市研究","定性研究","社会变迁","公共社会学"],
+    "tags_en": ["Sociology","Social Structure","Inequality","Field Research","Labor Sociology","Social Mobility","Urban Studies","Qualitative Research","Social Change","Public Sociology"]
+  },
+  
+  {
+    "name": "苏格拉底 AI 灵魂设定",
+    "name_zh": "苏格拉底",
+    "name_en": "Socrates",
+    "url": "/real_world/socrates/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["古希腊","苏格拉底式诘问","助产术","认识你自己","伦理学","雅典","柏拉图对话录","西方哲学"],
+    "tags_zh": ["古希腊","苏格拉底式诘问","助产术","认识你自己","伦理学","雅典","柏拉图对话录","西方哲学"],
+    "tags_en": ["Ancient Greece","Socratic Method","Maieutics","Know Thyself","Ethics","Athens","Platonic Dialogues","Western Philosophy"]
+  },
+  
+  {
+    "name": "宋应星 AI 灵魂设定",
+    "name_zh": "宋应星 (Song Yingxing)",
+    "name_en": "Song Yingxing",
+    "url": "/real_world/song_yingxing/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["天工开物","实学","百工技艺","晚明","科举落第","技术百科","明遗民"],
+    "tags_zh": ["天工开物","实学","百工技艺","晚明","科举落第","技术百科","明遗民"],
+    "tags_en": ["Tiangong Kaiwu","practical learning","craftsmen's arts","late Ming","examination failure","technology encyclopedia","Ming loyalist"]
+  },
+  
+  {
+    "name": "索福克勒斯 AI 灵魂设定",
+    "name_zh": "索福克勒斯 (Sophocles)",
+    "name_en": "Sophocles",
+    "url": "/real_world/sophocles/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["古希腊悲剧","俄狄浦斯王","安提戈涅","命运与自由意志","悲剧反讽","雅典民主","戏剧革新"],
+    "tags_zh": ["古希腊悲剧","俄狄浦斯王","安提戈涅","命运与自由意志","悲剧反讽","雅典民主","戏剧革新"],
+    "tags_en": ["Greek Tragedy","Oedipus Rex","Antigone","Fate and Free Will","Tragic Irony","Athenian Democracy","Theatrical Innovation"]
+  },
+  
+  {
+    "name": "克尔凯郭尔 (Søren Kierkegaard) AI 灵魂设定",
+    "name_zh": "克尔凯郭尔 (Søren Kierkegaard)",
+    "name_en": "Soren Kierkegaard",
+    "url": "/real_world/soren_kierkegaard/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["存在主义","信仰","焦虑","绝望","假名著作","反讽","丹麦黄金时代"],
+    "tags_zh": ["存在主义","信仰","焦虑","绝望","假名著作","反讽","丹麦黄金时代"],
+    "tags_en": ["existentialism","faith","anxiety","despair","pseudonymous authorship","irony","Danish Golden Age"]
+  },
+  
+  {
+    "name": "声音设计师 AI 灵魂设定",
+    "name_zh": "声音设计师",
+    "name_en": "Sound Designer",
+    "url": "/personas/sound_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["声音设计","影视混录","游戏音频","环境音","Foley","Pro Tools","Dolby Atmos","空间音频","声音心理学","交互音频"],
+    "tags_zh": ["声音设计","影视混录","游戏音频","环境音","Foley","Pro Tools","Dolby Atmos","空间音频","声音心理学","交互音频"],
+    "tags_en": ["Sound Design","Film Mixing","Game Audio","Ambient Sound","Foley","Pro Tools","Dolby Atmos","Spatial Audio","Sound Psychology","Interactive Audio"]
+  },
+  
+  {
+    "name": "特殊教育专家 AI 灵魂设定",
+    "name_zh": "特殊教育专家",
+    "name_en": "Special Education Expert",
+    "url": "/personas/special_education_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["特殊教育","融合教育","个别化教育","自闭症谱系","ADHD","学习障碍","包容设计","家长支持"],
+    "tags_zh": ["特殊教育","融合教育","个别化教育","自闭症谱系","ADHD","学习障碍","包容设计","家长支持"],
+    "tags_en": ["Special Education","Inclusive Education","Individualized Education","Autism Spectrum","ADHD","Learning Difficulties","Inclusive Design","Parent Support"]
+  },
+  
+  {
+    "name": "创业公司创始人 AI 灵魂设定",
+    "name_zh": "创业公司创始人",
+    "name_en": "Startup Founder (Early-Stage)",
+    "url": "/personas/startup_founder/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["创业公司创始人","PMF","早期创业","融资","产品市场契合","创始人心理"],
+    "tags_zh": ["创业公司创始人","PMF","早期创业","融资","产品市场契合","创始人心理"],
+    "tags_en": ["startup founder","product-market fit","early stage","fundraising","PMF","founder psychology"]
+  },
+  
+  {
+    "name": "创业导师 AI 灵魂设定",
+    "name_zh": "创业导师",
+    "name_en": "Startup Mentor",
+    "url": "/personas/startup_mentor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["创业指导","融资辅导","商业模式","风险管理","BP撰写","股权设计","早期投资","SaaS","企业服务","创始人教练"],
+    "tags_zh": ["创业指导","融资辅导","商业模式","风险管理","BP撰写","股权设计","早期投资","SaaS","企业服务","创始人教练"],
+    "tags_en": ["startup coaching","fundraise mentoring","business model","risk management","BP writing","equity design","early-stage investing","SaaS","enterprise software","founder coaching"]
+  },
+  
+  {
+    "name": "留学顾问 AI 灵魂设定",
+    "name_zh": "留学顾问",
+    "name_en": "Study Abroad Consultant",
+    "url": "/personas/study_abroad_consultant/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["留学申请","选校策略","文书指导","面试辅导","研究生申请","本科申请","招生官视角","教育咨询"],
+    "tags_zh": ["留学申请","选校策略","文书指导","面试辅导","研究生申请","本科申请","招生官视角","教育咨询"],
+    "tags_en": ["study abroad application","school selection strategy","essay guidance","interview coaching","graduate application","undergraduate application","admissions perspective","education consulting"]
+  },
+  
+  {
+    "name": "苏秦 AI 灵魂设定",
+    "name_zh": "苏秦 (Su Qin)",
+    "name_en": "Su Qin",
+    "url": "/real_world/su_qin/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["合纵","纵横家","六国相印","刺股苦读","战国","鬼谷子门下","游说","外交"],
+    "tags_zh": ["合纵","纵横家","六国相印","刺股苦读","战国","鬼谷子门下","游说","外交"],
+    "tags_en": ["Vertical Alliance","persuader-diplomats","seals of six kingdoms","studying by stabbing the thigh","Warring States","student of Guiguzi","persuasion","diplomacy"]
+  },
+  
+  {
+    "name": "苏轼 (Su Shi / Su Dongpo) AI 灵魂设定",
+    "name_zh": "苏轼 (Su Shi / Su Dongpo)",
+    "name_en": "Su Shi",
+    "url": "/real_world/su_shi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["宋词豪放派","唐宋八大家","书法","东坡居士","儒释道融合","美食家","旷达"],
+    "tags_zh": ["宋词豪放派","唐宋八大家","书法","东坡居士","儒释道融合","美食家","旷达"],
+    "tags_en": ["Bold School of Ci Poetry","Eight Great Prose Masters","Calligraphy","Dongpo Hermit","Confucian-Buddhist-Daoist Synthesis","Gastronome","Transcendent Equanimity"]
+  },
+  
+  {
+    "name": "孙权 AI 灵魂设定",
+    "name_zh": "孙权 (Sun Quan)",
+    "name_en": "Sun Quan",
+    "url": "/real_world/sun_quan/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["三国","东吴","守成","用人之道","赤壁之战","孙吴","隐忍"],
+    "tags_zh": ["三国","东吴","守成","用人之道","赤壁之战","孙吴","隐忍"],
+    "tags_en": ["Three Kingdoms","Eastern Wu","Emperor of Wu","Battle of Chibi","art of employing men"]
+  },
+  
+  {
+    "name": "孙思邈 AI 灵魂设定",
+    "name_zh": "孙思邈 (Sun Simiao)",
+    "name_en": "Sun Simiao",
+    "url": "/real_world/sun_simiao/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["唐代","药王","大医精诚","千金方","医学家","医学伦理","道家"],
+    "tags_zh": ["唐代","药王","大医精诚","千金方","医学家","医学伦理","道家"],
+    "tags_en": ["Tang Dynasty","King of Medicine","Absolute Sincerity of Great Physicians","Prescriptions Worth a Thousand Gold","Physician","Medical Ethics","Daoism"]
+  },
+  
+  {
+    "name": "孙子 AI 灵魂设定",
+    "name_zh": "孙子 (Sun Tzu)",
+    "name_en": "Sun Tzu",
+    "url": "/real_world/sun_tzu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["孙子兵法","兵圣","春秋","不战而屈人之兵","军事战略","吴国","知己知彼"],
+    "tags_zh": ["孙子兵法","兵圣","春秋","不战而屈人之兵","军事战略","吴国","知己知彼"],
+    "tags_en": ["The Art of War","Sage of War","Spring and Autumn period","subduing without fighting","military strategy","Wu state","know the enemy know yourself"]
+  },
+  
+  {
+    "name": "孙悟空 AI 灵魂设定",
+    "name_zh": "孙悟空",
+    "name_en": "Sun Wukong",
+    "url": "/virtual_world/sun_wukong/",
+    "category": "非真实世界",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["齐天大圣","美猴王","斗战胜佛","西游记","反叛精神","孙悟空"],
+    "tags_zh": ["齐天大圣","美猴王","斗战胜佛","西游记","反叛精神","孙悟空"],
+    "tags_en": ["Great Sage Equal to Heaven","Monkey King","Victorious Fighting Buddha","Journey to the West","Rebel Spirit","Sun Wukong"]
+  },
+  
+  {
+    "name": "供应链专家 AI 灵魂设定",
+    "name_zh": "供应链专家",
+    "name_en": "Supply Chain Expert",
+    "url": "/personas/supply_chain_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["供应链管理","采购与供应商管理","物流与仓储","库存优化","风险管理","供应链数字化","S&OP","全球供应链","成本管控","供应链韧性"],
+    "tags_zh": ["供应链管理","采购与供应商管理","物流与仓储","库存优化","风险管理","供应链数字化","S&OP","全球供应链","成本管控","供应链韧性"],
+    "tags_en": ["Supply Chain Management","Procurement and Supplier Management","Logistics and Warehousing","Inventory Optimization","Risk Management","Supply Chain Digitalization","S&OP","Global Supply Chain","Cost Control","Supply Chain Resilience"]
+  },
+  
+  {
+    "name": "系统架构师 AI 灵魂设定",
+    "name_zh": "系统架构师",
+    "name_en": "System Architect",
+    "url": "/personas/system_architect/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["分布式系统","架构设计","微服务","高可用","可扩展性","系统设计"],
+    "tags_zh": ["分布式系统","架构设计","微服务","高可用","可扩展性","系统设计"],
+    "tags_en": ["distributed systems","architecture design","microservices","high availability","scalability","system design"]
+  },
+  
+  {
+    "name": "陶渊明 AI 灵魂设定",
+    "name_zh": "陶渊明 (Tao Yuanming)",
+    "name_en": "Tao Yuanming",
+    "url": "/real_world/tao_yuanming/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["田园诗人","隐逸之宗","不为五斗米折腰","采菊东篱","桃花源","饮酒","归园田居","靖节先生","东晋","南朝宋","魏晋风骨"],
+    "tags_zh": ["田园诗人","隐逸之宗","不为五斗米折腰","采菊东篱","桃花源","饮酒","归园田居","靖节先生","东晋","南朝宋","魏晋风骨"],
+    "tags_en": ["Pastoral","Patriarch","Refused","Picking","Peach","Drinking","Returning","Master","Eastern","Liu","Wei-Jin"]
+  },
+  
+  {
+    "name": "技术写作者 AI 灵魂设定",
+    "name_zh": "技术写作者",
+    "name_en": "Technical Writer",
+    "url": "/personas/technical_writer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["技术写作","API文档","文档工程","信息架构","开发者体验","docs-as-code"],
+    "tags_zh": ["技术写作","API文档","文档工程","信息架构","开发者体验","docs-as-code"],
+    "tags_en": ["technical writing","API documentation","documentation engineering","information architecture","developer experience","docs-as-code"]
+  },
+  
+  {
+    "name": "测试专家 AI 灵魂设定",
+    "name_zh": "测试专家",
+    "name_en": "Testing Expert",
+    "url": "/personas/testing_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["自动化测试","质量工程","TDD","测试策略","CI/CD","性能测试"],
+    "tags_zh": ["自动化测试","质量工程","TDD","测试策略","CI/CD","性能测试"],
+    "tags_en": ["automated testing","quality engineering","TDD","test strategy","CI/CD","performance testing"]
+  },
+  
+  {
+    "name": "霍布斯 AI 灵魂设定",
+    "name_zh": "霍布斯 (Thomas Hobbes)",
+    "name_en": "Thomas Hobbes",
+    "url": "/real_world/thomas_hobbes/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["利维坦","社会契约","自然状态","绝对主权","唯物主义","机械论","英国内战"],
+    "tags_zh": ["利维坦","社会契约","自然状态","绝对主权","唯物主义","机械论","英国内战"],
+    "tags_en": ["Leviathan","social contract","state of nature","absolute sovereignty","materialism","mechanism","English Civil War"]
+  },
+  
+  {
+    "name": "杰斐逊 AI 灵魂设定",
+    "name_zh": "杰斐逊 (Thomas Jefferson)",
+    "name_en": "Thomas Jefferson",
+    "url": "/real_world/thomas_jefferson/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["独立宣言","美国总统","启蒙运动","宗教自由","路易斯安那购地","蒙蒂塞洛","弗吉尼亚大学","奴隶制矛盾"],
+    "tags_zh": ["独立宣言","美国总统","启蒙运动","宗教自由","路易斯安那购地","蒙蒂塞洛","弗吉尼亚大学","奴隶制矛盾"],
+    "tags_en": ["Declaration of Independence","American president","Enlightenment","religious freedom","Louisiana Purchase","Monticello","University of Virginia","slavery contradiction"]
+  },
+  
+  {
+    "name": "托马斯·马尔萨斯 AI 灵魂设定",
+    "name_zh": "托马斯·马尔萨斯 (Thomas Malthus)",
+    "name_en": "Thomas Malthus",
+    "url": "/real_world/thomas_malthus/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["人口论","古典经济学","马尔萨斯陷阱","有效需求","人口增长","食物供给","济贫法","经济危机","地租理论","现实主义","政治经济学"],
+    "tags_zh": ["人口论","古典经济学","马尔萨斯陷阱","有效需求","人口增长","食物供给","济贫法","经济危机","地租理论","现实主义","政治经济学"],
+    "tags_en": ["population-principle","classical-economics","Malthusian-trap","effective-demand","population-growth","food-supply","Poor-Laws","economic-crisis","rent-theory","realism","political-economy"]
+  },
+  
+  {
+    "name": "时间管理教练 AI 灵魂设定",
+    "name_zh": "时间管理教练",
+    "name_en": "Time Management Coach",
+    "url": "/personas/time_management_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["时间管理","效率提升","优先级","深度专注","习惯养成","拖延克服","注意力管理","GTD","番茄工作法","目标设定"],
+    "tags_zh": ["时间管理","效率提升","优先级","深度专注","习惯养成","拖延克服","注意力管理","GTD","番茄工作法","目标设定"],
+    "tags_en": ["Time management","Productivity","Priorities","Deep focus","Habit formation","Procrastination","Attention management","GTD","Pomodoro technique","Goal setting"]
+  },
+  
+  {
+    "name": "翻译顾问 AI 灵魂设定",
+    "name_zh": "翻译顾问",
+    "name_en": "Translation Consultant",
+    "url": "/personas/translation_consultant/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["翻译审校","英汉翻译","翻译策略","文化转译","翻译腔修正","翻译理论","翻译质量","文学翻译","社科翻译","翻译教学"],
+    "tags_zh": ["翻译审校","英汉翻译","翻译策略","文化转译","翻译腔修正","翻译理论","翻译质量","文学翻译","社科翻译","翻译教学"],
+    "tags_en": ["Translation review","English–Chinese translation","translation strategy","cultural translation","translationese correction","translation theory","translation quality","literary translation","social science translation","translation teaching"]
+  },
+  
+  {
+    "name": "UI 设计师 AI 灵魂设定",
+    "name_zh": "UI 设计师",
+    "name_en": "UI Designer",
+    "url": "/personas/ui_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["界面设计","设计系统","视觉规范","可访问性","组件化","用户界面"],
+    "tags_zh": ["界面设计","设计系统","视觉规范","可访问性","组件化","用户界面"],
+    "tags_en": ["interface design","design systems","visual standards","accessibility","componentization","user interface"]
+  },
+  
+  {
+    "name": "UX 研究员 AI 灵魂设定",
+    "name_zh": "UX 研究员",
+    "name_en": "UX Researcher",
+    "url": "/personas/ux_researcher/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["用户研究","可用性测试","用户洞察","定性研究","同理心","用户体验"],
+    "tags_zh": ["用户研究","可用性测试","用户洞察","定性研究","同理心","用户体验"],
+    "tags_en": ["user research","usability testing","user insight","qualitative research","empathy","user experience"]
+  },
+  
+  {
+    "name": "风险投资人 AI 灵魂设定",
+    "name_zh": "风险投资人",
+    "name_en": "Venture Capitalist",
+    "url": "/personas/venture_capitalist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["风险投资人","幂律思维","VC","创业投资","创始人评估","投资组合"],
+    "tags_zh": ["风险投资人","幂律思维","VC","创业投资","创始人评估","投资组合"],
+    "tags_en": ["venture capitalist","power law","VC","startup investing","founder evaluation","portfolio construction"]
+  },
+  
+  {
+    "name": "剪辑师 AI 灵魂设定",
+    "name_zh": "剪辑师",
+    "name_en": "Video Editor",
+    "url": "/personas/video_editor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["视频剪辑","影视后期","叙事结构","节奏设计","Premiere Pro","Final Cut Pro","DaVinci Resolve","短视频","广告剪辑","蒙太奇"],
+    "tags_zh": ["视频剪辑","影视后期","叙事结构","节奏设计","Premiere Pro","Final Cut Pro","DaVinci Resolve","短视频","广告剪辑","蒙太奇"],
+    "tags_en": ["Video Editing","Film Post-Production","Narrative Structure","Rhythm Design","Premiere Pro","Final Cut Pro","DaVinci Resolve","Short-Form Video","Advertising Editing","Montage"]
+  },
+  
+  {
+    "name": "维吉尔 AI 灵魂设定",
+    "name_zh": "维吉尔 (Virgil)",
+    "name_en": "Virgil",
+    "url": "/real_world/virgil/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["埃涅阿斯纪","罗马史诗","奥古斯都时代","拉丁文学","牧歌集","农事诗","虔敬"],
+    "tags_zh": ["埃涅阿斯纪","罗马史诗","奥古斯都时代","拉丁文学","牧歌集","农事诗","虔敬"],
+    "tags_en": ["Aeneid","Roman Epic","Augustan Age","Latin Literature","Eclogues","Georgics","Pietas"]
+  },
+  
+  {
+    "name": "伏尔泰 AI 灵魂设定",
+    "name_zh": "伏尔泰 (Voltaire)",
+    "name_en": "Voltaire",
+    "url": "/real_world/voltaire/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["启蒙运动","讽刺","宗教宽容","自然神论","法国文学","言论自由","哲学家"],
+    "tags_zh": ["启蒙运动","讽刺","宗教宽容","自然神论","法国文学","言论自由","哲学家"],
+    "tags_en": ["Enlightenment","satire","religious tolerance","deism","French literature","freedom of expression","philosopher"]
+  },
+  
+  {
+    "name": "王安石 AI 灵魂设定",
+    "name_zh": "王安石 (Wang Anshi)",
+    "name_en": "Wang Anshi",
+    "url": "/real_world/wang_anshi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["熙宁变法","唐宋八大家","北宋","改革家","政治家","文学家","临川先生"],
+    "tags_zh": ["熙宁变法","唐宋八大家","北宋","改革家","政治家","文学家","临川先生"],
+    "tags_en": ["Xining Reforms","Eight Great Prose Masters","Northern Song","Reformer","Statesman","Literary Master","Linchuan"]
+  },
+  
+  {
+    "name": "王弼 AI 灵魂设定",
+    "name_zh": "王弼 (Wang Bi)",
+    "name_en": "Wang Bi",
+    "url": "/real_world/wang_bi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["玄学","以无为本","得意忘象","正始之音","老子注","周易注","本末体用","魏晋哲学","本体论","崇本举末"],
+    "tags_zh": ["玄学","以无为本","得意忘象","正始之音","老子注","周易注","本末体用","魏晋哲学","本体论","崇本举末"],
+    "tags_en": ["Xuanxue","Taking Non-Being as the Root","Grasping the Meaning Forgetting the Image","Sound of the Zhengshi Era","Laozi Commentary","Yijing Commentary","root and branch","Wei-Jin philosophy","ontology"]
+  },
+  
+  {
+    "name": "王充 AI 灵魂设定",
+    "name_zh": "王充 (Wang Chong)",
+    "name_en": "Wang Chong",
+    "url": "/real_world/wang_chong/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["论衡","疾虚妄","东汉","理性主义","反迷信","唯物论","批判精神"],
+    "tags_zh": ["论衡","疾虚妄","东汉","理性主义","反迷信","唯物论","批判精神"],
+    "tags_en": ["Lunheng","anti-superstition","Eastern Han","rationalism","materialism","critical thinking","debunking"]
+  },
+  
+  {
+    "name": "王夫之 AI 灵魂设定",
+    "name_zh": "王夫之 (Wang Fuzhi)",
+    "name_en": "Wang Fuzhi",
+    "url": "/real_world/wang_fuzhi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["气本论","船山先生","读通鉴论","明清之际","理欲合一","历史哲学","反理学","明遗民"],
+    "tags_zh": ["气本论","船山先生","读通鉴论","明清之际","理欲合一","历史哲学","反理学","明遗民"],
+    "tags_en": ["qi primacy","Master Chuanshan","Reading Through the Comprehensive Mirror","Ming-Qing transition","unity of li and desire","historical philosophy","anti-Neo-Confucianism","Ming loyalist"]
+  },
+  
+  {
+    "name": "王莽 AI 灵魂设定",
+    "name_zh": "王莽 (Wang Mang)",
+    "name_en": "Wang Mang",
+    "url": "/real_world/wang_mang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["新朝","复古改制","王田制","西汉","儒家理想主义","改革悲剧"],
+    "tags_zh": ["新朝","复古改制","王田制","西汉","儒家理想主义","改革悲剧"],
+    "tags_en": ["Xin dynasty","reform through antiquity","Confucian idealism","late Western Han","political reform","historical tragedy"]
+  },
+  
+  {
+    "name": "王羲之 AI 灵魂设定",
+    "name_zh": "王羲之 (Wang Xizhi)",
+    "name_en": "Wang Xizhi",
+    "url": "/real_world/wang_xizhi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["书圣","兰亭集序","行书","东晋","魏晋风流","书道自然","琅琊王氏"],
+    "tags_zh": ["书圣","兰亭集序","行书","东晋","魏晋风流","书道自然","琅琊王氏"],
+    "tags_en": ["Sage of Calligraphy","Preface to the Orchid Pavilion Collection","running script","Eastern Jin","Wei-Jin elegance","the way of calligraphy is nature","Langya Wang clan"]
+  },
+  
+  {
+    "name": "王阳明 AI 灵魂设定",
+    "name_zh": "王阳明 (Wang Yangming)",
+    "name_en": "Wang Yangming",
+    "url": "/real_world/wang_yangming/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["心学","知行合一","致良知","四句教","龙场悟道","明代","文武双全"],
+    "tags_zh": ["心学","知行合一","致良知","四句教","龙场悟道","明代","文武双全"],
+    "tags_en": ["Heart-Mind Learning","Unity of Knowing and Acting","innate moral knowing","Four-Sentence Teaching","Longchang Enlightenment","Ming Dynasty","scholar-warrior"]
+  },
+  
+  {
+    "name": "战地记者 AI 灵魂设定",
+    "name_zh": "战地记者",
+    "name_en": "War Correspondent",
+    "url": "/personas/war_correspondent/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["战地记者","冲突报道","新闻伦理","见证","战争报道","记者心理"],
+    "tags_zh": ["战地记者","冲突报道","新闻伦理","见证","战争报道","记者心理"],
+    "tags_en": ["war correspondent","conflict reporting","journalism ethics","bearing witness","war reporting","journalist psychology"]
+  },
+  
+  {
+    "name": "卫青 AI 灵魂设定",
+    "name_zh": "卫青 (Wei Qing)",
+    "name_en": "Wei Qing",
+    "url": "/real_world/wei_qing/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["奴隶出身的大将军","七击匈奴","稳重持重"],
+    "tags_zh": ["奴隶出身的大将军","七击匈奴","稳重持重"],
+    "tags_en": ["Grand General born a slave","seven campaigns against the Xiongnu","steady and prudent"]
+  },
+  
+  {
+    "name": "魏征 AI 灵魂设定",
+    "name_zh": "魏征 (Wei Zheng)",
+    "name_en": "Wei Zheng",
+    "url": "/real_world/wei_zheng/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["贞观之治","谏臣","唐代","直谏","以人为镜","民本","居安思危"],
+    "tags_zh": ["贞观之治","谏臣","唐代","直谏","以人为镜","民本","居安思危"],
+    "tags_en": ["Tang dynasty","Zhenguan era","remonstrance","political thought","Confucian governance","ministerial duty"]
+  },
+  
+  {
+    "name": "文天祥 AI 灵魂设定",
+    "name_zh": "文天祥 (Wen Tianxiang)",
+    "name_en": "Wen Tianxiang",
+    "url": "/real_world/wen_tianxiang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["南宋","正气歌","过零丁洋","宋末三杰","忠义","士大夫","抗元"],
+    "tags_zh": ["南宋","正气歌","过零丁洋","宋末三杰","忠义","士大夫","抗元"],
+    "tags_en": ["Southern Song","Song of Righteous Spirit","Crossing the Lingding Sea","Three Heroes of the Song's End","loyalty and righteousness","scholar-official","resistance against the Mongols"]
+  },
+  
+  {
+    "name": "奥卡姆 AI 灵魂设定",
+    "name_zh": "奥卡姆 (William of Ockham)",
+    "name_en": "William of Ockham",
+    "url": "/real_world/william_of_ockham/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["奥卡姆剃刀","唯名论","经院哲学","方济各会","政教分离","逻辑学","中世纪哲学","教权之争"],
+    "tags_zh": ["奥卡姆剃刀","唯名论","经院哲学","方济各会","政教分离","逻辑学","中世纪哲学","教权之争"],
+    "tags_en": ["Ockham's Razor","nominalism","scholasticism","Franciscan","separation of church and state","logic","medieval philosophy","papal controversy"]
+  },
+  
+  {
+    "name": "威廉·莎士比亚 AI 灵魂设定",
+    "name_zh": "威廉·莎士比亚",
+    "name_en": "William Shakespeare",
+    "url": "/real_world/william_shakespeare/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["戏剧","诗歌","文艺复兴","英国文学","环球剧院","十四行诗","伊丽莎白时代"],
+    "tags_zh": ["戏剧","诗歌","文艺复兴","英国文学","环球剧院","十四行诗","伊丽莎白时代"],
+    "tags_en": ["Drama","Poetry","Renaissance","English Literature","Globe Theatre","Sonnets","Elizabethan Era"]
+  },
+  
+  {
+    "name": "威廉·斯坦利·杰文斯 AI 灵魂设定",
+    "name_zh": "威廉·斯坦利·杰文斯 (William Stanley Jevons)",
+    "name_en": "William Stanley Jevons",
+    "url": "/real_world/william_stanley_jevons/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["边际效用","边际革命","数理经济学","煤炭问题","逻辑学","太阳黑子理论","科学方法"],
+    "tags_zh": ["边际效用","边际革命","数理经济学","煤炭问题","逻辑学","太阳黑子理论","科学方法"],
+    "tags_en": ["Marginal Utility","Marginal Revolution","Mathematical Economics","The Coal Question","Logic","Sunspot Theory","Scientific Method"]
+  },
+  
+  {
+    "name": "吴三桂 AI 灵魂设定",
+    "name_zh": "吴三桂 (Wu Sangui)",
+    "name_en": "Wu Sangui",
+    "url": "/real_world/wu_sangui/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["明末清初","山海关","引清入关","三藩之乱","陈圆圆","冲冠一怒","背叛"],
+    "tags_zh": ["明末清初","山海关","引清入关","三藩之乱","陈圆圆","冲冠一怒","背叛"],
+    "tags_en": ["Ming-Qing transition","Shanhai Pass","Three Feudatories","Liaodong commanders","military history","historical tragedy"]
+  },
+  
+  {
+    "name": "武则天 AI 灵魂设定",
+    "name_zh": "武则天 (Wu Zetian)",
+    "name_en": "Wu Zetian",
+    "url": "/real_world/wu_zetian/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["女皇帝","武周","唯才是举","科举改革","政治家","唐朝","权力"],
+    "tags_zh": ["女皇帝","武周","唯才是举","科举改革","政治家","唐朝","权力"],
+    "tags_en": ["Female Emperor","Wu Zhou Dynasty","Meritocratic Governance","Civil Service Reform","Statecraft","Tang Dynasty","Power"]
+  },
+  
+  {
+    "name": "伍子胥 AI 灵魂设定",
+    "name_zh": "伍子胥 (Wu Zixu)",
+    "name_en": "Wu Zixu",
+    "url": "/real_world/wu_zixu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["春秋","伍子胥","复仇","鞭尸","吴国","忠臣","悲剧英雄","军事家"],
+    "tags_zh": ["春秋","伍子胥","复仇","鞭尸","吴国","忠臣","悲剧英雄","军事家"],
+    "tags_en": ["Spring and Autumn","Wu Zixu","Vengeance","Whipping the Corpse","State of Wu","Loyal Minister","Tragic Hero","Military Strategist"]
+  },
+  
+  {
+    "name": "项羽 AI 灵魂设定",
+    "name_zh": "项羽 (Xiang Yu)",
+    "name_en": "Xiang Yu",
+    "url": "/real_world/xiang_yu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["西楚霸王","破釜沉舟","巨鹿之战","鸿门宴","垓下之围","乌江自刎","楚汉争霸","悲剧英雄"],
+    "tags_zh": ["西楚霸王","破釜沉舟","巨鹿之战","鸿门宴","垓下之围","乌江自刎","楚汉争霸","悲剧英雄"],
+    "tags_en": ["Hegemon-King of Western Chu","Burning the Boats","Battle of Julu","Feast at Hong Gate","Siege of Gaixia","Suicide at the Wu River","Chu-Han Contention","Tragic Hero"]
+  },
+  
+  {
+    "name": "辛弃疾 AI 灵魂设定",
+    "name_zh": "辛弃疾 (Xin Qiji)",
+    "name_en": "Xin Qiji",
+    "url": "/real_world/xin_qiji/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["宋词豪放派","爱国词人","军事家","稼轩居士","词中之龙","南宋主战派","抗金"],
+    "tags_zh": ["宋词豪放派","爱国词人","军事家","稼轩居士","词中之龙","南宋主战派","抗金"],
+    "tags_en": ["Song ci bold style","patriotic poet","military strategist","Jiaxuan hermit","dragon among ci poets","Southern Song war faction","anti-Jin"]
+  },
+  
+  {
+    "name": "玄奘 AI 灵魂设定",
+    "name_zh": "玄奘 (Xuanzang)",
+    "name_en": "Xuanzang",
+    "url": "/real_world/xuanzang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["西行求法","佛经翻译","唯识学","那烂陀寺","大唐西域记","因明学","丝绸之路"],
+    "tags_zh": ["西行求法","佛经翻译","唯识学","那烂陀寺","大唐西域记","因明学","丝绸之路"],
+    "tags_en": ["westward pilgrimage","sutra translation","Yogacara","Nalanda","Great Tang Records on the Western Regions","Buddhist logic","Silk Road"]
+  },
+  
+  {
+    "name": "荀子 AI 灵魂设定",
+    "name_zh": "荀子 (Xunzi)",
+    "name_en": "Xunzi",
+    "url": "/real_world/xunzi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["性恶论","化性起伪","礼义","天论","稷下学宫","先秦儒家","战国"],
+    "tags_zh": ["性恶论","化性起伪","礼义","天论","稷下学宫","先秦儒家","战国"],
+    "tags_en": ["human nature as evil","transformation through deliberate effort","ritual","discourse on heaven","Jixia Academy","pre-Qin Confucianism","Warring States"]
+  },
+  
+  {
+    "name": "严复 AI 灵魂设定",
+    "name_zh": "严复 (Yan Fu)",
+    "name_en": "Yan Fu",
+    "url": "/real_world/yan_fu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["天演论","翻译","信达雅","启蒙","物竞天择","晚清","西学东渐","社会达尔文主义"],
+    "tags_zh": ["天演论","翻译","信达雅","启蒙","物竞天择","晚清","西学东渐","社会达尔文主义"],
+    "tags_en": ["Evolution and Ethics","Translation","Faithfulness-Expressiveness-Elegance","Enlightenment","Survival of the Fittest","Late Qing","Western Learning Spreading East","Social Darwinism"]
+  },
+  
+  {
+    "name": "颜真卿 AI 灵魂设定",
+    "name_zh": "颜真卿 (Yan Zhenqing)",
+    "name_en": "Yan Zhenqing",
+    "url": "/real_world/yan_zhenqing/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["颜体","楷书","祭侄文稿","安史之乱","忠臣","唐代","书品即人品"],
+    "tags_zh": ["颜体","楷书","祭侄文稿","安史之乱","忠臣","唐代","书品即人品"],
+    "tags_en": ["Yan style","standard script","Draft Eulogy for My Nephew","An Lushan Rebellion","loyal minister","Tang dynasty","writing quality reflects character quality"]
+  },
+  
+  {
+    "name": "瑜伽导师 AI 灵魂设定",
+    "name_zh": "瑜伽导师",
+    "name_en": "Yoga Instructor",
+    "url": "/personas/yoga_instructor/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["瑜伽","冥想","呼吸法","身心健康","正念","柔韧训练","压力管理"],
+    "tags_zh": ["瑜伽","冥想","呼吸法","身心健康","正念","柔韧训练","压力管理"],
+    "tags_en": ["Yoga","Meditation","Pranayama","Body-mind health","Mindfulness","Flexibility training","Stress management"]
+  },
+  
+  {
+    "name": "于谦 AI 灵魂设定",
+    "name_zh": "于谦 (Yu Qian)",
+    "name_en": "Yu Qian",
+    "url": "/real_world/yu_qian/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["明朝","北京保卫战","土木堡之变","石灰吟","社稷为重","救时宰相","清官","忠臣"],
+    "tags_zh": ["明朝","北京保卫战","土木堡之变","石灰吟","社稷为重","救时宰相","清官","忠臣"],
+    "tags_en": ["Ming Dynasty","Defense of Beijing","Disaster of Tumu","Ode to Limestone","The Nation Above All","Crisis Statesman","Incorruptible Official","Loyal Minister"]
+  },
+  
+  {
+    "name": "袁崇焕 AI 灵魂设定",
+    "name_zh": "袁崇焕 (Yuan Chonghuan)",
+    "name_en": "Yuan Chonghuan",
+    "url": "/real_world/yuan_chonghuan/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["宁远大捷","宁锦大捷","关宁锦防线","辽东督师","凌迟冤死","明末抗清","悲剧英雄"],
+    "tags_zh": ["宁远大捷","宁锦大捷","关宁锦防线","辽东督师","凌迟冤死","明末抗清","悲剧英雄"],
+    "tags_en": ["Victory of Ningyuan","Victory of Ning-Jin","Guan-Ning-Jin defense line","Supreme Commander of Liaodong","unjust execution","late Ming resistance","tragic hero"]
+  },
+  
+  {
+    "name": "袁世凯 AI 灵魂设定",
+    "name_zh": "袁世凯 (Yuan Shikai)",
+    "name_en": "Yuan Shikai",
+    "url": "/real_world/yuan_shikai/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["北洋军阀","洪宪帝制","辛亥革命","小站练兵","戊戌变法","权力政治","近代军事","清末民初"],
+    "tags_zh": ["北洋军阀","洪宪帝制","辛亥革命","小站练兵","戊戌变法","权力政治","近代军事","清末民初"],
+    "tags_en": ["Beiyang warlord","Hongxian imperial restoration","1911 Revolution","Xiaozhan military training","Hundred Days' Reform","power politics","modern military","late Qing and early Republic"]
+  },
+  
+  {
+    "name": "岳飞 AI 灵魂设定",
+    "name_zh": "岳飞 (Yue Fei)",
+    "name_en": "Yue Fei",
+    "url": "/real_world/yue_fei/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["南宋","抗金","岳家军","精忠报国","满江红","民族英雄","悲剧英雄"],
+    "tags_zh": ["南宋","抗金","岳家军","精忠报国","满江红","民族英雄","悲剧英雄"],
+    "tags_en": ["Southern Song","Anti-Jurchen Wars","Yue Army","Utmost Loyalty","Man Jiang Hong","National Hero","Tragic Hero"]
+  },
+  
+  {
+    "name": "曾国藩 AI 灵魂设定",
+    "name_zh": "曾国藩 (Zeng Guofan)",
+    "name_en": "Zeng Guofan",
+    "url": "/real_world/zeng_guofan/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["湘军","太平天国","理学","家书","修身","晚清中兴","识人用人","自省"],
+    "tags_zh": ["湘军","太平天国","理学","家书","修身","晚清中兴","识人用人","自省"],
+    "tags_en": ["Xiang Army","Taiping Rebellion","Neo-Confucianism","Family Letters","Self-Cultivation","Late Qing Restoration","Talent Recognition","Self-Reflection"]
+  },
+  
+  {
+    "name": "张衡 AI 灵魂设定",
+    "name_zh": "张衡 (Zhang Heng)",
+    "name_en": "Zhang Heng",
+    "url": "/real_world/zhang_heng/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["地动仪","浑天仪","灵宪","天文学","东汉","通才","二京赋"],
+    "tags_zh": ["地动仪","浑天仪","灵宪","天文学","东汉","通才","二京赋"],
+    "tags_en": ["seismoscope","armillary sphere","Ling Xian","astronomy","Eastern Han","polymath","Two Capitals Rhapsody"]
+  },
+  
+  {
+    "name": "张居正 AI 灵魂设定",
+    "name_zh": "张居正 (Zhang Juzheng)",
+    "name_en": "Zhang Juzheng",
+    "url": "/real_world/zhang_juzheng/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["铁腕宰辅","考成法","一条鞭法","万历中兴"],
+    "tags_zh": ["铁腕宰辅","考成法","一条鞭法","万历中兴"],
+    "tags_en": ["Iron-fisted chief minister","Merit Evaluation System","Single-Whip Tax Reform","Wanli Restoration"]
+  },
+  
+  {
+    "name": "张旭 AI 灵魂设定",
+    "name_zh": "张旭 (Zhang Xu)",
+    "name_en": "Zhang Xu",
+    "url": "/real_world/zhang_xu/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["草圣","狂草","张颠","盛唐","饮中八仙","三绝","书法","剑舞悟书"],
+    "tags_zh": ["草圣","狂草","张颠","盛唐","饮中八仙","三绝","书法","剑舞悟书"],
+    "tags_en": ["Sage of Cursive","wild cursive","Zhang the Madman","High Tang","Eight Immortals of Wine","Three Marvels","calligraphy","sword dance awakening"]
+  },
+  
+  {
+    "name": "张仪 AI 灵魂设定",
+    "name_zh": "张仪 (Zhang Yi)",
+    "name_en": "Zhang Yi",
+    "url": "/real_world/zhang_yi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["连横","纵横家","战国","鬼谷子门下","秦国","外交","游说","欺楚"],
+    "tags_zh": ["连横","纵横家","战国","鬼谷子门下","秦国","外交","游说","欺楚"],
+    "tags_en": ["Horizontal Alliance","Vertical and Horizontal school","Warring States","student of Guiguzi","Qin","diplomacy","persuasion","deception of Chu"]
+  },
+  
+  {
+    "name": "张载 AI 灵魂设定",
+    "name_zh": "张载 (Zhang Zai)",
+    "name_en": "Zhang Zai",
+    "url": "/real_world/zhang_zai/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["横渠四句","气一元论","太虚即气","西铭","民胞物与","正蒙","变化气质","关学","宋明理学","为天地立心"],
+    "tags_zh": ["横渠四句","气一元论","太虚即气","西铭","民胞物与","正蒙","变化气质","关学","宋明理学","为天地立心"],
+    "tags_en": ["FourSentencesOfHengqu","QiMonism","TheGreatVoidIsQi","WesternInscription","AllPeopleAsSiblings","ZhengMeng","TransformingTemperament","GuanzhongSchool","SongMingNeoConfucianism","EstablishTheHeartOfHeavenAndEarth"]
+  },
+  
+  {
+    "name": "张之洞 AI 灵魂设定",
+    "name_zh": "张之洞 (Zhang Zhidong)",
+    "name_en": "Zhang Zhidong",
+    "url": "/real_world/zhang_zhidong/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["中体西用","劝学篇","汉阳铁厂","洋务运动","清末新政","教育改革","废科举","晚清"],
+    "tags_zh": ["中体西用","劝学篇","汉阳铁厂","洋务运动","清末新政","教育改革","废科举","晚清"],
+    "tags_en": ["Chinese learning as foundation Western learning for application","Exhortation to Learning","Hanyang Iron Works","Self-Strengthening Movement","Late Qing New Policies","education reform","abolition of civil examinations","late Qing"]
+  },
+  
+  {
+    "name": "张仲景 AI 灵魂设定",
+    "name_zh": "张仲景 (Zhang Zhongjing)",
+    "name_en": "Zhang Zhongjing",
+    "url": "/real_world/zhang_zhongjing/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["伤寒杂病论","辨证论治","医圣","东汉","六经辨证","临床医学","经方"],
+    "tags_zh": ["伤寒杂病论","辨证论治","医圣","东汉","六经辨证","临床医学","经方"],
+    "tags_en": ["Treatise on Cold Damage and Miscellaneous Diseases","pattern differentiation and treatment","Sage of Medicine","Eastern Han","six-channel pattern differentiation","clinical medicine","classical formulas"]
+  },
+  
+  {
+    "name": "赵高 AI 灵魂设定",
+    "name_zh": "赵高 (Zhao Gao)",
+    "name_en": "Zhao Gao",
+    "url": "/real_world/zhao_gao/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["指鹿为马","沙丘之变","权宦","秦朝","弄权","李斯","秦二世","权谋","阴谋家","信息操控"],
+    "tags_zh": ["指鹿为马","沙丘之变","权宦","秦朝","弄权","李斯","秦二世","权谋","阴谋家","信息操控"],
+    "tags_en": ["pointing-at-a-deer-calling-it-a-horse","shaqiu-coup","eunuch-official","qin-dynasty","court-manipulation","li-si","second-emperor","power-strategy","schemer","information-control"]
+  },
+  
+  {
+    "name": "郑成功 AI 灵魂设定",
+    "name_zh": "郑成功 (Zheng Chenggong)",
+    "name_en": "Zheng Chenggong",
+    "url": "/real_world/zheng_chenggong/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["国姓爷","收复台湾","驱逐荷兰","抗清复明","南明","海上政权","民族英雄"],
+    "tags_zh": ["国姓爷","收复台湾","驱逐荷兰","抗清复明","南明","海上政权","民族英雄"],
+    "tags_en": ["Koxinga","reclaiming-Taiwan","expelling-the-Dutch","anti-Qing-restoration","Southern-Ming","maritime-state","national-hero"]
+  },
+  
+  {
+    "name": "郑和 AI 灵魂设定",
+    "name_zh": "郑和 (Zheng He)",
+    "name_en": "Zheng He",
+    "url": "/real_world/zheng_he/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["七下西洋","航海","明初","朝贡贸易","永乐大帝","海上丝路","太监"],
+    "tags_zh": ["七下西洋","航海","明初","朝贡贸易","永乐大帝","海上丝路","太监"],
+    "tags_en": ["Seven Voyages","Maritime Navigation","Early Ming Dynasty","Tribute Trade","Yongle Emperor","Maritime Silk Road","Eunuch Admiral"]
+  },
+  
+  {
+    "name": "郑樵 AI 灵魂设定",
+    "name_zh": "郑樵 (Zheng Qiao)",
+    "name_en": "Zheng Qiao",
+    "url": "/real_world/zheng_qiao/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["通志","会通","校雠学","通史","南宋","二十略","布衣学者"],
+    "tags_zh": ["通志","会通","校雠学","通史","南宋","二十略","布衣学者"],
+    "tags_en": ["Tongzhi","comprehensive-history","textual-criticism","institutional-history","Southern-Song","Twenty-Monographs","commoner-scholar"]
+  },
+  
+  {
+    "name": "周敦颐 AI 灵魂设定",
+    "name_zh": "周敦颐 (Zhou Dunyi)",
+    "name_en": "Zhou Dunyi",
+    "url": "/real_world/zhou_dunyi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["太极图说","通书","爱莲说","理学开山","无极而太极","主静","诚","濂溪先生","宋明理学","天人合一"],
+    "tags_zh": ["太极图说","通书","爱莲说","理学开山","无极而太极","主静","诚","濂溪先生","宋明理学","天人合一"],
+    "tags_en": ["ExplanationOfTheSupremeUltimate","Tongshu","OnTheLoveOfTheLotus","FoundingPatriarchOfNeoConfucianism","TheUltimatelessAndTheSupremeUltimate","MaintainingStillness","Sincerity","MasterLianxi","SongMingNeoConfucianism","UnityOfHeavenAndHumanity"]
+  },
+  
+  {
+    "name": "朱熹 AI 灵魂设定",
+    "name_zh": "朱熹 (Zhu Xi)",
+    "name_en": "Zhu Xi",
+    "url": "/real_world/zhu_xi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["理学","格物致知","四书章句集注","南宋","白鹿洞书院","鹅湖之会","教育家","儒学"],
+    "tags_zh": ["理学","格物致知","四书章句集注","南宋","白鹿洞书院","鹅湖之会","教育家","儒学"],
+    "tags_en": ["Neo-Confucianism","investigation of things","Collected Commentaries on the Four Books","Southern Song","White Deer Grotto Academy","Goose Lake debate","educator","Confucianism"]
+  },
+  
+  {
+    "name": "明太祖 (Emperor Hongwu / Zhu Yuanzhang) AI 灵魂设定",
+    "name_zh": "明太祖 (Emperor Hongwu / Zhu Yuanzhang)",
+    "name_en": "Zhu Yuanzhang (The Hongwu Emperor)",
+    "url": "/real_world/zhu_yuanzhang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["明太祖","洪武大帝","开国皇帝","废除丞相","集权统治","布衣天子","明朝"],
+    "tags_zh": ["明太祖","洪武大帝","开国皇帝","废除丞相","集权统治","布衣天子","明朝"],
+    "tags_en": ["Ming-Taizu","Hongwu-Emperor","founding-emperor","abolishing-the-chancellorship","autocratic-rule","commoner-emperor","Ming-dynasty"]
+  },
+  
+  {
+    "name": "庄子 AI 灵魂设定",
+    "name_zh": "庄子 (Zhuangzi)",
+    "name_en": "Zhuangzi",
+    "url": "/real_world/zhuangzi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["道家","逍遥游","齐物论","寓言","蝴蝶梦","战国","无用之用","精神自由"],
+    "tags_zh": ["道家","逍遥游","齐物论","寓言","蝴蝶梦","战国","无用之用","精神自由"],
+    "tags_en": ["Daoism","Free and Easy Wandering","Equalization of Things","fables","butterfly dream","Warring States","usefulness of uselessness","spiritual freedom"]
+  },
+  
+  {
+    "name": "诸葛亮 AI 灵魂设定",
+    "name_zh": "诸葛亮 (Zhuge Liang)",
+    "name_en": "Zhuge Liang",
+    "url": "/real_world/zhuge_liang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["卧龙","蜀汉丞相","三国","隆中对","出师表","北伐","鞠躬尽瘁"],
+    "tags_zh": ["卧龙","蜀汉丞相","三国","隆中对","出师表","北伐","鞠躬尽瘁"],
+    "tags_en": ["Sleeping Dragon","Chancellor of Shu Han","Three Kingdoms","Longzhong Plan","Memorial on Dispatching the Troops","Northern Campaigns","Devotion unto Death"]
+  },
+  
+  {
+    "name": "邹衍 AI 灵魂设定",
+    "name_zh": "邹衍 (Zou Yan)",
+    "name_en": "Zou Yan",
+    "url": "/real_world/zou_yan/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["阴阳家","五德终始","五行","大九州说","稷下学宫","战国","天人相应"],
+    "tags_zh": ["阴阳家","五德终始","五行","大九州说","稷下学宫","战国","天人相应"],
+    "tags_en": ["Yin-Yang-school","Five-Virtue-Cycle","Five-Phases","Great-Nine-Continents","Jixia-Academy","Warring-States","heaven-humanity-correspondence"]
+  },
+  
+  {
+    "name": "祖冲之 AI 灵魂设定",
+    "name_zh": "祖冲之 (Zu Chongzhi)",
+    "name_en": "Zu Chongzhi",
+    "url": "/real_world/zu_chongzhi/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["圆周率","大明历","割圆术","南朝","精密计算","岁差","缀术"],
+    "tags_zh": ["圆周率","大明历","割圆术","南朝","精密计算","岁差","缀术"],
+    "tags_en": ["pi","Daming Calendar","method of exhaustion","Southern Dynasties","precise calculation","precession","Zhuishu"]
+  },
+  
+  {
+    "name": "左宗棠 AI 灵魂设定",
+    "name_zh": "左宗棠 (Zuo Zongtang)",
+    "name_en": "Zuo Zongtang",
+    "url": "/real_world/zuo_zongtang/",
+    "category": "真实世界",
+    "category_zh": "真实世界",
+    "category_en": "Real World",
+    "tags": ["收复新疆","塞防论","洋务运动","福州船政局","湘军","晚清中兴","西征","边疆安全"],
+    "tags_zh": ["收复新疆","塞防论","洋务运动","福州船政局","湘军","晚清中兴","西征","边疆安全"],
+    "tags_en": ["recovery-of-Xinjiang","frontier-defense-doctrine","Westernization-movement","Fuzhou-Shipyard","Hunan-Army","late-Qing-restoration","western-expedition","border-security"]
+  }
+  
+]

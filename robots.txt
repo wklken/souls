@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_layouts/
+Disallow: /_includes/
+
+Sitemap: https://agent-souls.com/sitemap.xml
