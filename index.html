@@ -17,7 +17,7 @@
   <meta name="souls-search-url" content="/search.json">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="icon" type="image/x-icon" href="/assets/favicon/favicon.ico">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
@@ -157,25 +157,28 @@
 
 <div class="home-container">
   <div class="hero">
+    <p
+      class="hero-kicker"
+      data-localized-zh="AI 灵魂提示词库"
+      data-localized-en="AI Soul Prompt Library"
+    >AI 灵魂提示词库</p>
     <h1 class="hero-title" data-i18n="site.title">Souls</h1>
-    <p class="hero-slogan" data-i18n="site.slogan">与历史对话，让思想碰撞；与角色对话，让故事映照当下；与专家对话，让能力不断进化</p>
-    <p class="hero-slogan-en" data-i18n="site.slogan_en">Dialogue with history, let minds collide; dialogue with characters, let stories reflect the present; dialogue with experts, let capabilities keep evolving.</p>
-
-    <div class="home-disclaimer">
-      <div class="disclaimer-banner">
-        <span class="disclaimer-icon">⚠️</span>
-        <span data-i18n="disclaimer.home_notice">本网站所有内容均为 AI 生成，仅供娱乐和学习参考</span>
-        <span data-i18n="disclaimer.home_notice_en">All content on this site is AI-generated for entertainment and educational purposes</span>
-      </div>
-    </div>
-    
-    <div class="stats-bar">
-      <span data-i18n="stats.total" data-count="304">共收录 304 位人物</span>
-      <span class="stats-detail">
-        <span data-i18n="stats.real" data-count="200">200 位历史人物</span> ·
-        <span data-i18n="stats.virtual" data-count="4">4 位虚构角色</span> ·
-        <span data-i18n="stats.personas" data-count="100">100 位专家角色</span>
-      </span>
+    <div class="hero-slogan-lines">
+      <p
+        class="hero-slogan-line"
+        data-localized-zh="与历史对话，让思想碰撞"
+        data-localized-en="Dialogue with history, let minds collide"
+      >与历史对话，让思想碰撞</p>
+      <p
+        class="hero-slogan-line"
+        data-localized-zh="与角色对话，让故事映照当下"
+        data-localized-en="Dialogue with characters, let stories reflect the present"
+      >与角色对话，让故事映照当下</p>
+      <p
+        class="hero-slogan-line"
+        data-localized-zh="与专家对话，让能力不断进化"
+        data-localized-en="Dialogue with experts, let capabilities keep evolving"
+      >与专家对话，让能力不断进化</p>
     </div>
   </div>
   
@@ -199,6 +202,17 @@
 
 <script src="/assets/js/search.js"></script>
 
+  </div>
+
+  <div class="home-stats-panel">
+    <div class="stats-bar">
+      <span data-i18n="stats.total" data-count="304">共收录 304 位人物</span>
+      <span class="stats-detail">
+        <span data-i18n="stats.real" data-count="200">200 位历史人物</span> ·
+        <span data-i18n="stats.virtual" data-count="4">4 位虚构角色</span> ·
+        <span data-i18n="stats.personas" data-count="100">100 位专家角色</span>
+      </span>
+    </div>
   </div>
   
   <div class="categories-section">
@@ -236,12 +250,18 @@
       </a>
     </div>
   </div>
+
 </div>
 
   </main>
   
   <footer class="site-footer">
   <div class="wrapper">
+    <div class="footer-disclaimer">
+      <span class="disclaimer-icon">⚠️</span>
+      <span data-i18n="disclaimer.home_notice">本网站所有内容均为 AI 生成，仅供娱乐和学习参考</span>
+      <span data-i18n="disclaimer.home_notice_en">All content on this site is AI-generated for entertainment and educational purposes</span>
+    </div>
     <p>
       <span data-i18n="footer.copyright">© 2026 Souls Project</span> ·
       <a href="https://github.com/wklken/souls" target="_blank">GitHub</a> ·

@@ -17,7 +17,7 @@
   <meta name="souls-search-url" content="/search.json">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Cormorant+Garamond:wght@500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@500;600;700;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/css/style.css">
   <link rel="icon" type="image/x-icon" href="/assets/favicon/favicon.ico">
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
@@ -260,14 +260,6 @@
       download
       data-i18n="action.download"
     >下载</a>
-    <a
-      href="https://github.com/wklken/souls/edit/master/real_world/ibn_sina/SOUL.md"
-      class="btn btn-edit"
-      data-edit-zh="https://github.com/wklken/souls/edit/master/real_world/ibn_sina/SOUL.md"
-      data-edit-en="https://github.com/wklken/souls/edit/master/real_world/ibn_sina/SOUL.en.md"
-      target="_blank"
-      data-i18n="action.edit"
-    >修正</a>
   </div>
 
   <script id="agent-role-instruction-template" type="application/json">
@@ -5299,16 +5291,10 @@ function copyRoleInstruction() {
 function updateSoulActionLinks(lang) {
   const activeLang = lang === 'en' ? 'en' : 'zh';
   const downloadBtn = document.querySelector('.btn-download');
-  const editBtn = document.querySelector('.btn-edit');
 
   if (downloadBtn) {
     const href = downloadBtn.dataset[`download${activeLang === 'en' ? 'En' : 'Zh'}`];
     if (href) downloadBtn.href = href;
-  }
-
-  if (editBtn) {
-    const href = editBtn.dataset[`edit${activeLang === 'en' ? 'En' : 'Zh'}`];
-    if (href) editBtn.href = href;
   }
 }
 
@@ -5329,6 +5315,11 @@ document.addEventListener('souls:language-changed', (event) => {
   
   <footer class="site-footer">
   <div class="wrapper">
+    <div class="footer-disclaimer">
+      <span class="disclaimer-icon">⚠️</span>
+      <span data-i18n="disclaimer.home_notice">本网站所有内容均为 AI 生成，仅供娱乐和学习参考</span>
+      <span data-i18n="disclaimer.home_notice_en">All content on this site is AI-generated for entertainment and educational purposes</span>
+    </div>
     <p>
       <span data-i18n="footer.copyright">© 2026 Souls Project</span> ·
       <a href="https://github.com/wklken/souls" target="_blank">GitHub</a> ·
