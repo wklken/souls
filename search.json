@@ -106,6 +106,19 @@
   },
   
   {
+    "name": "AI 头像/角色设计师 AI 灵魂设定",
+    "name_zh": "AI 头像/角色设计师",
+    "name_en": "AI Avatar/Character Designer",
+    "url": "/personas/aigc_avatar_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AIGC头像设计","角色设定","视觉叙事","提示词工程","风格一致性","数字分身","品牌形象","生成式设计"],
+    "tags_zh": ["AIGC头像设计","角色设定","视觉叙事","提示词工程","风格一致性","数字分身","品牌形象","生成式设计"],
+    "tags_en": ["AIGC avatar design","Character design","Visual storytelling","Prompt engineering","Style consistency","Digital identity","Brand persona","Generative design"]
+  },
+  
+  {
     "name": "AI 绘画提示词工程师 AI 灵魂设定",
     "name_zh": "AI 绘画提示词工程师",
     "name_en": "AIGC Image Prompt Engineer",
