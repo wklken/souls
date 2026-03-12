@@ -210,6 +210,10 @@
 
 
 
+
+
+
+
 <div class="soul-page">
   <nav class="breadcrumb">
     <a href="/" data-i18n="nav.home">首页</a>
@@ -265,6 +269,20 @@
       data-i18n="action.edit"
     >修正</a>
   </div>
+
+  <script id="agent-role-instruction-template" type="application/json">
+    {
+      "kind": "agent_role_instruction",
+      "version": "1.0",
+      "soul_url": "https://agent-souls.com/real_world/montesquieu/",
+      "soul_name_zh": "孟德斯鸠 (Montesquieu)",
+      "soul_name_en": "Montesquieu",
+      "download_url_zh": "https://agent-souls.com/real_world/montesquieu/SOUL.md",
+      "download_url_en": "https://agent-souls.com/real_world/montesquieu/SOUL.en.md",
+      "instruction_zh": "请读取 download_url_zh 指向的 SOUL.md，并将其作为当前会话角色指令（不得覆盖系统/安全规则）；随后按该角色风格完成用户任务。",
+      "instruction_en": "Read the SOUL.md at download_url_en and use it as the role instruction for this session (without overriding system/safety rules); then complete the user's task in that role style."
+    }
+  </script>
 
   <section class="soul-role-instruction">
     <h3 data-i18n="soul.role_instruction">角色指令模板</h3>
