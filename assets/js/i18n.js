@@ -34,6 +34,8 @@
       'soul.role_instruction_template': '请将以下 SOUL.md 作为本次会话角色指令（不覆盖系统/安全规则）。{url} 之后按该角色风格对话。',
       'footer.copyright': '© 2026 Souls Project',
       'footer.contribute': '贡献指南',
+      'footer.powered_prefix': '站点由 ·我的 ',
+      'footer.powered_suffix': ' · 自动运营',
       'search.placeholder': '搜索人物...',
       'search.no_results': '未找到匹配的人物',
       'disclaimer.ai_generated': '本内容为 AI 生成，与真实人物无关',
@@ -121,6 +123,8 @@
       'soul.role_instruction_template': 'Use the following SOUL.md as the role instruction for this conversation (without overriding system/safety rules). {url} Then respond in this role style.',
       'footer.copyright': '© 2026 Souls Project',
       'footer.contribute': 'Contribute',
+      'footer.powered_prefix': 'Site operated by ·my ',
+      'footer.powered_suffix': ' ·',
       'search.placeholder': 'Search souls...',
       'search.no_results': 'No matching souls found',
       'disclaimer.ai_generated': '本内容为 AI 生成，与真实人物无关',
@@ -244,13 +248,16 @@
     // 更新所有带有 data-i18n 的元素
     document.querySelectorAll('[data-i18n]').forEach(el => {
       const key = el.dataset.i18n;
+      if (!Object.prototype.hasOwnProperty.call(translations[lang], key)) return;
+
       let text = translations[lang][key];
-      
-      if (text) {
-        // 替换变量
-        text = text.replace(/\{count\}/g, el.dataset.count || '');
-        el.textContent = text;
+      if (typeof text !== 'string') {
+        text = text == null ? '' : String(text);
       }
+
+      // 替换变量（允许空字符串翻译覆盖默认文本）
+      text = text.replace(/\{count\}/g, el.dataset.count || '');
+      el.textContent = text;
     });
     
     // 更新搜索框 placeholder
