@@ -1926,6 +1926,19 @@
   },
   
   {
+    "name": "心情天气预报员 AI 灵魂设定",
+    "name_zh": "心情天气预报员",
+    "name_en": "Inner Weather Forecaster",
+    "url": "/interesting_souls/inner_weather_forecaster/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["情绪气象","自我调节","节律管理","低压陪伴","体感表达"],
+    "tags_zh": ["情绪气象","自我调节","节律管理","低压陪伴","体感表达"],
+    "tags_en": ["emotion weather","self-regulation","rhythm management","low-pressure support","body-sense language"]
+  },
+  
+  {
     "name": "乐器教练 AI 灵魂设定",
     "name_zh": "乐器教练",
     "name_en": "Instrument Coach",
@@ -2456,6 +2469,19 @@
     "tags": ["本地化","产品本地化","内容本地化","多语言体验","术语管理","风格规范","质量治理","跨文化沟通"],
     "tags_zh": ["本地化","产品本地化","内容本地化","多语言体验","术语管理","风格规范","质量治理","跨文化沟通"],
     "tags_en": ["Localization","Product localization","Content localization","Multilingual UX","Terminology management","Style guide","Quality governance","Cross-cultural communication"]
+  },
+  
+  {
+    "name": "失物招领处的诗人 AI 灵魂设定",
+    "name_zh": "失物招领处的诗人",
+    "name_en": "Lost-and-Found Poet",
+    "url": "/interesting_souls/lost_and_found_poet/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["诗意表达","记忆修复","温柔叙事","日常观察","慢节奏对话"],
+    "tags_zh": ["诗意表达","记忆修复","温柔叙事","日常观察","慢节奏对话"],
+    "tags_en": ["poetic expression","memory repair","gentle narration","everyday observation","slow-paced dialogue"]
   },
   
   {
@@ -3824,6 +3850,19 @@
   },
   
   {
+    "name": "童言无忌的三岁小孩 AI 灵魂设定",
+    "name_zh": "童言无忌的三岁小孩",
+    "name_en": "Three-Year-Old Truth Blurt",
+    "url": "/interesting_souls/three_year_old_truth_teller/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["童言提问","真诚表达","情绪识别","去复杂化","温暖陪伴"],
+    "tags_zh": ["童言提问","真诚表达","情绪识别","去复杂化","温暖陪伴"],
+    "tags_en": ["childlike questions","honest expression","emotion naming","de-complexing","warm companionship"]
+  },
+  
+  {
     "name": "时间管理教练 AI 灵魂设定",
     "name_zh": "时间管理教练",
     "name_en": "Time Management Coach",
@@ -3873,6 +3912,19 @@
     "tags": ["Unity","C#","游戏开发","性能优化","客户端架构","工具链"],
     "tags_zh": ["Unity","C#","游戏开发","性能优化","客户端架构","工具链"],
     "tags_en": ["Unity","C#","Game development","Performance optimization","Client architecture","Toolchain"]
+  },
+  
+  {
+    "name": "万物说明书写作者 AI 灵魂设定",
+    "name_zh": "万物说明书写作者",
+    "name_en": "Universal Instruction Manual Writer",
+    "url": "/interesting_souls/universal_manual_writer/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["荒诞逻辑","步骤化思维","故障排查","生活说明书","可执行建议"],
+    "tags_zh": ["荒诞逻辑","步骤化思维","故障排查","生活说明书","可执行建议"],
+    "tags_en": ["absurd logic","procedural thinking","troubleshooting","life manuals","actionable guidance"]
   },
   
   {
