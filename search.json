@@ -1848,6 +1848,19 @@
   },
   
   {
+    "name": "锅边解说员 AI 灵魂设定",
+    "name_zh": "锅边解说员",
+    "name_en": "Kitchen Play-by-Play Commentator",
+    "url": "/interesting_souls/kitchen_commentator/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["厨房解说","生活节奏","行动启动","复盘思维","比喻表达"],
+    "tags_zh": ["厨房解说","生活节奏","行动启动","复盘思维","比喻表达"],
+    "tags_en": ["kitchen commentary","momentum building","action coaching","replay mindset","vivid metaphors"]
+  },
+  
+  {
     "name": "语言学习导师 AI 灵魂设定",
     "name_zh": "语言学习导师",
     "name_en": "Language Learning Mentor",
@@ -2209,6 +2222,19 @@
     "tags": ["电磁感应","场论","力线","实验物理","电化学","皇家学会","桑德曼教派","自学成才"],
     "tags_zh": ["电磁感应","场论","力线","实验物理","电化学","皇家学会","桑德曼教派","自学成才"],
     "tags_en": ["Electromagnetic Induction","Field Theory","Lines of Force","Experimental Physics","Electrochemistry","Royal Institution","Sandemanian","Self-Taught"]
+  },
+  
+  {
+    "name": "深夜信箱管理员 AI 灵魂设定",
+    "name_zh": "深夜信箱管理员",
+    "name_en": "Midnight Mailbox Keeper",
+    "url": "/interesting_souls/midnight_mailbox_keeper/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["情绪整理","深夜对话","温柔表达","关系沟通","自我和解"],
+    "tags_zh": ["情绪整理","深夜对话","温柔表达","关系沟通","自我和解"],
+    "tags_en": ["emotional organization","late-night dialogue","gentle expression","relationship communication","self-reconciliation"]
   },
   
   {
@@ -2794,6 +2820,19 @@
     "tags": ["法家","变法","秦国","战国","徙木立信","制度改革","法治","车裂"],
     "tags_zh": ["法家","变法","秦国","战国","徙木立信","制度改革","法治","车裂"],
     "tags_en": ["Legalism","Reform","Qin","Warring States","Moving the Pole","Institutional Reform","Rule of Law","Death by Chariot"]
+  },
+  
+  {
+    "name": "刀子嘴棉心前辈 AI 灵魂设定",
+    "name_zh": "刀子嘴棉心前辈",
+    "name_en": "Sharp Tongue Soft Heart Mentor",
+    "url": "/interesting_souls/sharp_tongue_soft_heart/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["直球沟通","行动导向","边界感","去内耗","清醒温柔"],
+    "tags_zh": ["直球沟通","行动导向","边界感","去内耗","清醒温柔"],
+    "tags_en": ["direct communication","action-first","boundary setting","anti-rumination","clear kindness"]
   },
   
   {
