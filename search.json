@@ -249,6 +249,19 @@
   },
   
   {
+    "name": "Android/Kotlin 开发专家 AI 灵魂设定",
+    "name_zh": "Android/Kotlin 开发专家",
+    "name_en": "Android/Kotlin Development Expert",
+    "url": "/personas/android_kotlin_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Android","Kotlin","移动开发","Jetpack Compose","架构设计","性能优化","工程化","稳定性"],
+    "tags_zh": ["Android","Kotlin","移动开发","Jetpack Compose","架构设计","性能优化","工程化","稳定性"],
+    "tags_en": ["Android","Kotlin","Mobile Development","Jetpack Compose","Architecture Design","Performance Optimization","Engineering Practice","Stability"]
+  },
+  
+  {
     "name": "男科医生 AI 灵魂设定",
     "name_zh": "男科医生",
     "name_en": "Andrologist",
@@ -665,6 +678,19 @@
   },
   
   {
+    "name": "计算机视觉工程师 AI 灵魂设定",
+    "name_zh": "计算机视觉工程师",
+    "name_en": "Computer Vision Engineer",
+    "url": "/personas/computer_vision_engineer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["计算机视觉","图像识别","检测分割","视觉部署","边缘推理","数据闭环","质量工程","工业AI"],
+    "tags_zh": ["计算机视觉","图像识别","检测分割","视觉部署","边缘推理","数据闭环","质量工程","工业AI"],
+    "tags_en": ["Computer vision","Image recognition","Detection and segmentation","Vision deployment","Edge inference","Data loop","Quality engineering","Industrial AI"]
+  },
+  
+  {
     "name": "孔子 AI 灵魂设定",
     "name_zh": "孔子",
     "name_en": "Confucius",
@@ -834,6 +860,19 @@
   },
   
   {
+    "name": "数据科学家 AI 灵魂设定",
+    "name_zh": "数据科学家",
+    "name_en": "Data Scientist",
+    "url": "/personas/data_scientist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["数据科学","统计推断","实验设计","因果分析","机器学习","业务决策","模型评估","增长分析"],
+    "tags_zh": ["数据科学","统计推断","实验设计","因果分析","机器学习","业务决策","模型评估","增长分析"],
+    "tags_en": ["data science","statistical inference","experiment design","causal analysis","machine learning","business decision-making","model evaluation","growth analytics"]
+  },
+  
+  {
     "name": "数据库专家 AI 灵魂设定",
     "name_zh": "数据库专家",
     "name_en": "Database Expert",
@@ -906,9 +945,9 @@
     "category": "专家角色",
     "category_zh": "专家角色",
     "category_en": "Personas",
-    "tags": ["牙科","口腔健康","龋病管理","牙周维护","微创修复","医患沟通","预防导向","长期随访"],
-    "tags_zh": ["牙科","口腔健康","龋病管理","牙周维护","微创修复","医患沟通","预防导向","长期随访"],
-    "tags_en": ["dentistry","oral health","caries management","periodontal maintenance","minimally invasive restoration","clinician-patient communication","prevention-first","long-term follow-up"]
+    "tags": ["牙科","口腔健康","预防医学","修复治疗","牙周管理","疼痛管理","患者沟通","长期随访"],
+    "tags_zh": ["牙科","口腔健康","预防医学","修复治疗","牙周管理","疼痛管理","患者沟通","长期随访"],
+    "tags_en": ["Dentistry","Oral health","Preventive care","Restorative treatment","Periodontal management","Pain management","Patient communication","Long-term follow-up"]
   },
   
   {
@@ -1338,6 +1377,19 @@
     "tags": ["健身训练","力量训练","动作纠正","运动科学","训练计划","体能提升","运动损伤预防"],
     "tags_zh": ["健身训练","力量训练","动作纠正","运动科学","训练计划","体能提升","运动损伤预防"],
     "tags_en": ["Fitness training","Strength training","Movement correction","Sports science","Training plans","Physical conditioning","Injury prevention"]
+  },
+  
+  {
+    "name": "Flutter 跨平台开发专家 AI 灵魂设定",
+    "name_zh": "Flutter 跨平台开发专家",
+    "name_en": "Flutter Expert",
+    "url": "/personas/flutter_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Flutter","Dart","跨平台开发","状态管理","性能优化","工程化交付","架构设计","移动应用"],
+    "tags_zh": ["Flutter","Dart","跨平台开发","状态管理","性能优化","工程化交付","架构设计","移动应用"],
+    "tags_en": ["Flutter","Dart","Cross-platform development","State management","Performance optimization","Engineering delivery","Architecture design","Mobile apps"]
   },
   
   {
@@ -1928,14 +1980,14 @@
   {
     "name": "iOS/Swift 开发专家 AI 灵魂设定",
     "name_zh": "iOS/Swift 开发专家",
-    "name_en": "iOS/Swift Expert",
+    "name_en": "iOS/Swift Development Expert",
     "url": "/personas/ios_swift_expert/",
     "category": "专家角色",
     "category_zh": "专家角色",
     "category_en": "Personas",
-    "tags": ["iOS开发","Swift","移动架构","性能优化","稳定性治理","用户体验","工程效率","测试自动化"],
-    "tags_zh": ["iOS开发","Swift","移动架构","性能优化","稳定性治理","用户体验","工程效率","测试自动化"],
-    "tags_en": ["iOS development","Swift","mobile architecture","performance optimization","stability governance","user experience","engineering efficiency","test automation"]
+    "tags": ["iOS","Swift","移动开发","性能优化","架构设计","工程化","稳定性","用户体验"],
+    "tags_zh": ["iOS","Swift","移动开发","性能优化","架构设计","工程化","稳定性","用户体验"],
+    "tags_en": ["iOS","Swift","Mobile Development","Performance Optimization","Architecture Design","Engineering Practice","Stability","User Experience"]
   },
   
   {
@@ -2381,6 +2433,19 @@
   },
   
   {
+    "name": "LLM 微调专家 AI 灵魂设定",
+    "name_zh": "LLM 微调专家",
+    "name_en": "LLM Fine-Tuning Expert",
+    "url": "/personas/llm_fine_tuning_expert/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["LLM微调","指令对齐","数据工程","评测体系","模型安全","模型运营","持续学习","训练闭环"],
+    "tags_zh": ["LLM微调","指令对齐","数据工程","评测体系","模型安全","模型运营","持续学习","训练闭环"],
+    "tags_en": ["LLM fine-tuning","instruction alignment","data engineering","evaluation framework","model safety","model operations","continuous learning","training loop"]
+  },
+  
+  {
     "name": "本地化专家 AI 灵魂设定",
     "name_zh": "本地化专家",
     "name_en": "Localization Specialist",
@@ -2693,6 +2758,19 @@
   },
   
   {
+    "name": "自然语言处理工程师 AI 灵魂设定",
+    "name_zh": "自然语言处理工程师",
+    "name_en": "NLP Engineer",
+    "url": "/personas/nlp_engineer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["自然语言处理","语义理解","信息抽取","检索增强生成","对话系统","文本建模","评测体系","模型工程"],
+    "tags_zh": ["自然语言处理","语义理解","信息抽取","检索增强生成","对话系统","文本建模","评测体系","模型工程"],
+    "tags_en": ["Natural language processing","Semantic understanding","Information extraction","Retrieval-augmented generation","Dialogue systems","Text modeling","Evaluation framework","Model engineering"]
+  },
+  
+  {
     "name": "非虚构写作导师 AI 灵魂设定",
     "name_zh": "非虚构写作导师",
     "name_en": "Non-fiction Writer",
@@ -2940,6 +3018,19 @@
   },
   
   {
+    "name": "提示词工程师（通用） AI 灵魂设定",
+    "name_zh": "提示词工程师（通用）",
+    "name_en": "Prompt Engineer (General)",
+    "url": "/personas/prompt_engineer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["提示词工程","LLM","任务拆解","工作流编排","评测优化","人机协作"],
+    "tags_zh": ["提示词工程","LLM","任务拆解","工作流编排","评测优化","人机协作"],
+    "tags_en": ["Prompt engineering","LLM","Task decomposition","Workflow orchestration","Evaluation optimization","Human-AI collaboration"]
+  },
+  
+  {
     "name": "普罗泰戈拉 AI 灵魂设定",
     "name_zh": "普罗泰戈拉 (Protagoras)",
     "name_en": "Protagoras",
@@ -3067,6 +3158,19 @@
     "tags": ["量化开发","算法交易","市场微结构","风险控制","低延迟系统","回测框架","数据治理","可观测性"],
     "tags_zh": ["量化开发","算法交易","市场微结构","风险控制","低延迟系统","回测框架","数据治理","可观测性"],
     "tags_en": ["Quantitative development","Algorithmic trading","Market microstructure","Risk control","Low-latency systems","Backtesting frameworks","Data governance","Observability"]
+  },
+  
+  {
+    "name": "RAG 系统架构师 AI 灵魂设定",
+    "name_zh": "RAG 系统架构师",
+    "name_en": "RAG System Architect",
+    "url": "/personas/rag_system_architect/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["RAG","信息检索","知识库架构","生成式AI","系统设计","评测体系","安全治理","成本优化"],
+    "tags_zh": ["RAG","信息检索","知识库架构","生成式AI","系统设计","评测体系","安全治理","成本优化"],
+    "tags_en": ["RAG","Information retrieval","Knowledge base architecture","Generative AI","System design","Evaluation framework","Safety governance","Cost optimization"]
   },
   
   {
