@@ -281,6 +281,47 @@
       ></pre>
     </div>
   </section>
+
+  <section class="soul-openclaw-guide">
+    <h3 data-i18n="soul.openclaw_guide_title">OpenClaw 使用指引</h3>
+    <p class="openclaw-guide-intro" data-i18n="soul.openclaw_guide_intro">
+      只要 3 步。
+    </p>
+    <ol class="openclaw-guide-steps">
+      <li>
+        <code>clawhub install find-souls</code>
+      </li>
+      <li>
+        <span data-i18n="soul.openclaw_step_run">输入命令：</span>
+        <pre
+          id="openclaw-find-souls-command"
+          class="openclaw-guide-code"
+          data-soul-name-zh="加密货币交易员"
+          data-soul-name-en="Crypto Trader"
+        ></pre>
+      </li>
+      <li>
+        <span data-i18n="soul.openclaw_step_clear_prefix">切换后执行</span>
+        <code>/clear</code>
+        <span data-i18n="soul.openclaw_step_clear_suffix">（或直接新开会话）。</span>
+      </li>
+    </ol>
+    <p class="openclaw-guide-links">
+      <a
+        href="https://clawhub.ai/wklken/find-souls"
+        target="_blank"
+        rel="noopener noreferrer"
+        data-i18n="soul.openclaw_link_skill"
+      >查看 find-souls</a>
+      <span aria-hidden="true"> · </span>
+      <a
+        href="https://docs.openclaw.ai/tools/clawhub"
+        target="_blank"
+        rel="noopener noreferrer"
+        data-i18n="soul.openclaw_link_docs"
+      >查看 ClawHub 文档</a>
+    </p>
+  </section>
   
   <div class="soul-content" id="soul-content">
     
@@ -4135,6 +4176,15 @@ function updateRoleInstruction(lang) {
   }
 }
 
+function updateOpenClawGuide(lang) {
+  const activeLang = lang === 'en' ? 'en' : 'zh';
+  const commandBlock = document.getElementById('openclaw-find-souls-command');
+  if (!commandBlock) return;
+
+  const soulName = commandBlock.dataset[`soulName${activeLang === 'en' ? 'En' : 'Zh'}`] || '';
+  commandBlock.textContent = `/find-souls ${soulName}`.trim();
+}
+
 function copyRoleInstruction() {
   const codeBlock = document.getElementById('role-instruction-content');
   const copyBtn = document.querySelector('.copy-instruction-btn');
@@ -4176,12 +4226,14 @@ document.addEventListener('DOMContentLoaded', () => {
   const lang = window.getLanguage ? window.getLanguage() : document.documentElement.lang || 'zh';
   updateSoulActionLinks(lang);
   updateRoleInstruction(lang);
+  updateOpenClawGuide(lang);
 });
 
 document.addEventListener('souls:language-changed', (event) => {
   const lang = event.detail?.lang || 'zh';
   updateSoulActionLinks(lang);
   updateRoleInstruction(lang);
+  updateOpenClawGuide(lang);
 });
 </script>
 
