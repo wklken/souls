@@ -431,6 +431,19 @@
   },
   
   {
+    "name": "咖啡师 AI 灵魂设定",
+    "name_zh": "咖啡师",
+    "name_en": "Barista",
+    "url": "/personas/barista/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["咖啡师","精品咖啡","萃取控制","杯测","门店运营","吧台训练"],
+    "tags_zh": ["咖啡师","精品咖啡","萃取控制","杯测","门店运营","吧台训练"],
+    "tags_en": ["barista","specialty coffee","extraction control","cupping","shop operations","bar training"]
+  },
+  
+  {
     "name": "斯宾诺莎 AI 灵魂设定",
     "name_zh": "斯宾诺莎 (Baruch Spinoza)",
     "name_en": "Baruch Spinoza",
@@ -496,6 +509,19 @@
   },
   
   {
+    "name": "品牌视觉设计师 AI 灵魂设定",
+    "name_zh": "品牌视觉设计师",
+    "name_en": "Brand Identity Designer",
+    "url": "/personas/brand_identity_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["品牌设计","视觉识别","VI系统","品牌升级","设计规范","一致性治理"],
+    "tags_zh": ["品牌设计","视觉识别","VI系统","品牌升级","设计规范","一致性治理"],
+    "tags_en": ["brand identity","visual recognition","VI system","rebranding","design standards","consistency governance"]
+  },
+  
+  {
     "name": "品牌策略师 AI 灵魂设定",
     "name_zh": "品牌策略师",
     "name_en": "Brand Strategist",
@@ -506,6 +532,19 @@
     "tags": ["品牌定位","品牌策略","品牌叙事","心智占领","品牌资产","品牌管理"],
     "tags_zh": ["品牌定位","品牌策略","品牌叙事","心智占领","品牌资产","品牌管理"],
     "tags_en": ["brand positioning","brand strategy","brand narrative","mind share","brand equity","brand management"]
+  },
+  
+  {
+    "name": "书法家 AI 灵魂设定",
+    "name_zh": "书法家",
+    "name_en": "Calligrapher",
+    "url": "/personas/calligrapher/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["书法","笔法","结体","章法","传统艺术","日课训练"],
+    "tags_zh": ["书法","笔法","结体","章法","传统艺术","日课训练"],
+    "tags_en": ["calligraphy","stroke method","character structure","composition","traditional art","daily practice"]
   },
   
   {
@@ -951,6 +990,19 @@
   },
   
   {
+    "name": "辩论教练 AI 灵魂设定",
+    "name_zh": "辩论教练",
+    "name_en": "Debate Coach",
+    "url": "/personas/debate_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["辩论","论证","逻辑","证据","公共表达","攻防训练"],
+    "tags_zh": ["辩论","论证","逻辑","证据","公共表达","攻防训练"],
+    "tags_en": ["debate","argumentation","logic","evidence","public speaking","clash training"]
+  },
+  
+  {
     "name": "德谟克利特 AI 灵魂设定",
     "name_zh": "德谟克利特 (Democritus)",
     "name_en": "Democritus",
@@ -1302,6 +1354,19 @@
   },
   
   {
+    "name": "活动策划师 AI 灵魂设定",
+    "name_zh": "活动策划师",
+    "name_en": "Event Planner",
+    "url": "/personas/event_planner/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["活动策划","现场统筹","流程设计","目标管理","复盘","品牌活动"],
+    "tags_zh": ["活动策划","现场统筹","流程设计","目标管理","复盘","品牌活动"],
+    "tags_en": ["event planning","live operations","process design","objective management","review","brand events"]
+  },
+  
+  {
     "name": "考试教练 AI 灵魂设定",
     "name_zh": "考试教练",
     "name_en": "Exam Coach",
@@ -1364,6 +1429,32 @@
     "tags": ["先天下之忧而忧","岳阳楼记","庆历新政","北宋","士大夫","边防","教育","义庄"],
     "tags_zh": ["先天下之忧而忧","岳阳楼记","庆历新政","北宋","士大夫","边防","教育","义庄"],
     "tags_en": ["First to Worry Last to Rejoice","Record of Yueyang Tower","Qingli Reforms","Northern Song","Scholar-Official","Frontier Defense","Education","Charitable Estate"]
+  },
+  
+  {
+    "name": "服装设计师 AI 灵魂设定",
+    "name_zh": "服装设计师",
+    "name_en": "Fashion Designer",
+    "url": "/personas/fashion_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["服装设计","廓形","版型","面料","系列开发","穿着体验"],
+    "tags_zh": ["服装设计","廓形","版型","面料","系列开发","穿着体验"],
+    "tags_en": ["fashion design","silhouette","pattern","fabric","collection development","wearability"]
+  },
+  
+  {
+    "name": "风水师 AI 灵魂设定",
+    "name_zh": "风水师",
+    "name_en": "Feng Shui Consultant",
+    "url": "/personas/feng_shui_master/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["风水师","空间布局","方位分析","居住秩序","店铺优化","环境调整"],
+    "tags_zh": ["风水师","空间布局","方位分析","居住秩序","店铺优化","环境调整"],
+    "tags_en": ["feng shui consultant","spatial layout","orientation analysis","living order","shop optimization","environment adjustment"]
   },
   
   {
@@ -1523,6 +1614,19 @@
   },
   
   {
+    "name": "园艺师 AI 灵魂设定",
+    "name_zh": "园艺师",
+    "name_en": "Gardener",
+    "url": "/personas/gardener/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["园艺师","庭院设计","土壤管理","植物养护","季节管理","病虫害预防"],
+    "tags_zh": ["园艺师","庭院设计","土壤管理","植物养护","季节管理","病虫害预防"],
+    "tags_en": ["gardener","yard design","soil management","plant care","seasonal planning","pest prevention"]
+  },
+  
+  {
     "name": "遗传咨询师 AI 灵魂设定",
     "name_zh": "遗传咨询师",
     "name_en": "Genetic Counselor",
@@ -1653,6 +1757,19 @@
   },
   
   {
+    "name": "平面设计师 AI 灵魂设定",
+    "name_zh": "平面设计师",
+    "name_en": "Graphic Designer",
+    "url": "/personas/graphic_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["平面设计","版式","视觉传达","信息设计","品牌物料","多端适配"],
+    "tags_zh": ["平面设计","版式","视觉传达","信息设计","品牌物料","多端适配"],
+    "tags_en": ["graphic design","layout","visual communication","information design","brand assets","cross-platform"]
+  },
+  
+  {
     "name": "增长黑客 AI 灵魂设定",
     "name_zh": "增长黑客",
     "name_en": "Growth Hacker",
@@ -1754,6 +1871,19 @@
     "tags": ["明朝","治安疏","海青天","清官","反腐","刚直不阿","谏臣"],
     "tags_zh": ["明朝","治安疏","海青天","清官","反腐","刚直不阿","谏臣"],
     "tags_en": ["Ming Dynasty","Treatise on Governance and Security","Hai the Blue Sky","Incorruptible Official","Anti-corruption","Unyielding Integrity","Censor"]
+  },
+  
+  {
+    "name": "发型师 AI 灵魂设定",
+    "name_zh": "发型师",
+    "name_en": "Hair Stylist",
+    "url": "/personas/hair_stylist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["发型设计","剪发","染烫","发质管理","造型","居家护理"],
+    "tags_zh": ["发型设计","剪发","染烫","发质管理","造型","居家护理"],
+    "tags_en": ["hairstyling","haircut","color/perm","hair health","styling","home care"]
   },
   
   {
@@ -1874,6 +2004,19 @@
   },
   
   {
+    "name": "家庭教育顾问 AI 灵魂设定",
+    "name_zh": "家庭教育顾问",
+    "name_en": "Homeschooling Consultant",
+    "url": "/personas/homeschooling_consultant/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["家庭教育","项目制学习","亲子协作","学习规划","节奏管理","自主学习"],
+    "tags_zh": ["家庭教育","项目制学习","亲子协作","学习规划","节奏管理","自主学习"],
+    "tags_en": ["homeschooling","project learning","parent-child collaboration","learning planning","rhythm management","self-directed learning"]
+  },
+  
+  {
     "name": "贺拉斯 AI 灵魂设定",
     "name_zh": "贺拉斯 (Horace)",
     "name_en": "Horace",
@@ -1978,6 +2121,19 @@
   },
   
   {
+    "name": "插画师 AI 灵魂设定",
+    "name_zh": "插画师",
+    "name_en": "Illustrator",
+    "url": "/personas/illustrator/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["插画","视觉叙事","角色设计","构图","配色","商业插画"],
+    "tags_zh": ["插画","视觉叙事","角色设计","构图","配色","商业插画"],
+    "tags_en": ["illustration","visual storytelling","character design","composition","color","commercial art"]
+  },
+  
+  {
     "name": "伊曼努尔·康德 AI 灵魂设定",
     "name_zh": "伊曼努尔·康德",
     "name_en": "Immanuel Kant",
@@ -2027,6 +2183,19 @@
     "tags": ["交互设计","流程优化","可用性","原型设计","用户体验","信息架构"],
     "tags_zh": ["交互设计","流程优化","可用性","原型设计","用户体验","信息架构"],
     "tags_en": ["interaction design","flow optimization","usability","prototyping","user experience","information architecture"]
+  },
+  
+  {
+    "name": "室内设计师 AI 灵魂设定",
+    "name_zh": "室内设计师",
+    "name_en": "Interior Designer",
+    "url": "/personas/interior_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["室内设计","空间规划","动线","收纳","照明","居住体验"],
+    "tags_zh": ["室内设计","空间规划","动线","收纳","照明","居住体验"],
+    "tags_en": ["interior design","space planning","circulation","storage","lighting","living experience"]
   },
   
   {
@@ -2157,6 +2326,19 @@
     "tags": ["功利主义","最大幸福原则","法律改革","幸福计算","英国哲学","启蒙思想","政治哲学","刑法改革","动物权利","理性主义","民主改革"],
     "tags_zh": ["功利主义","最大幸福原则","法律改革","幸福计算","英国哲学","启蒙思想","政治哲学","刑法改革","动物权利","理性主义","民主改革"],
     "tags_en": ["Utilitarianism","GreatestHappinessPrinciple","LegalReform","FelificCalculus","BritishPhilosophy","EnlightenmentThought","PoliticalPhilosophy","PenalReform","AnimalRights","Rationalism","DemocraticReform"]
+  },
+  
+  {
+    "name": "珠宝设计师 AI 灵魂设定",
+    "name_zh": "珠宝设计师",
+    "name_en": "Jewelry Designer",
+    "url": "/personas/jewelry_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["珠宝设计","定制首饰","材质工艺","佩戴体验","情感设计","微结构"],
+    "tags_zh": ["珠宝设计","定制首饰","材质工艺","佩戴体验","情感设计","微结构"],
+    "tags_en": ["jewelry design","custom jewelry","material craft","wearability","emotional design","micro-structure"]
   },
   
   {
@@ -2602,6 +2784,19 @@
   },
   
   {
+    "name": "化妆师 AI 灵魂设定",
+    "name_zh": "化妆师",
+    "name_en": "Makeup Artist",
+    "url": "/personas/makeup_artist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["化妆","底妆","妆面设计","婚礼跟妆","镜头妆","形象管理"],
+    "tags_zh": ["化妆","底妆","妆面设计","婚礼跟妆","镜头妆","形象管理"],
+    "tags_en": ["makeup","base makeup","look design","wedding makeup","camera makeup","image styling"]
+  },
+  
+  {
     "name": "管理咨询顾问 AI 灵魂设定",
     "name_zh": "管理咨询顾问",
     "name_en": "Management Consultant (McKinsey / BCG / Bain Type)",
@@ -2677,6 +2872,19 @@
     "tags": ["循证医学","医学科普","临床研究","健康信息","内科学","医学伦理","医患沟通","临床决策","医学统计","健康素养"],
     "tags_zh": ["循证医学","医学科普","临床研究","健康信息","内科学","医学伦理","医患沟通","临床决策","医学统计","健康素养"],
     "tags_en": ["Evidence-Based Medicine","Medical Popularization","Clinical Research","Health Information","Internal Medicine","Medical Ethics","Doctor-Patient Communication","Clinical Decision-Making","Medical Statistics","Health Literacy"]
+  },
+  
+  {
+    "name": "记忆力训练师 AI 灵魂设定",
+    "name_zh": "记忆力训练师",
+    "name_en": "Memory Trainer",
+    "url": "/personas/memory_trainer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["记忆训练","主动回忆","间隔复习","学习方法","备考","认知效率"],
+    "tags_zh": ["记忆训练","主动回忆","间隔复习","学习方法","备考","认知效率"],
+    "tags_en": ["memory training","active recall","spaced repetition","study methods","exam prep","cognitive efficiency"]
   },
   
   {
@@ -2768,6 +2976,19 @@
     "tags": ["三权分立","政治哲学","启蒙运动","宪政思想","比较政治","法国"],
     "tags_zh": ["三权分立","政治哲学","启蒙运动","宪政思想","比较政治","法国"],
     "tags_en": ["Separation of Powers","Political Philosophy","Enlightenment","Constitutional Thought","Comparative Politics","France"]
+  },
+  
+  {
+    "name": "蒙台梭利教师 AI 灵魂设定",
+    "name_zh": "蒙台梭利教师",
+    "name_en": "Montessori Teacher",
+    "url": "/personas/montessori_teacher/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["蒙台梭利","幼儿教育","混龄课堂","学习环境","儿童发展","家校共育"],
+    "tags_zh": ["蒙台梭利","幼儿教育","混龄课堂","学习环境","儿童发展","家校共育"],
+    "tags_en": ["Montessori","early education","mixed-age classroom","learning environment","child development","home-school"]
   },
   
   {
@@ -2966,6 +3187,19 @@
   },
   
   {
+    "name": "包装设计师 AI 灵魂设定",
+    "name_zh": "包装设计师",
+    "name_en": "Packaging Designer",
+    "url": "/personas/packaging_designer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["包装设计","货架陈列","结构设计","材料工艺","消费品牌","量产规范"],
+    "tags_zh": ["包装设计","货架陈列","结构设计","材料工艺","消费品牌","量产规范"],
+    "tags_en": ["packaging design","shelf merchandising","structural design","material process","consumer brand","production spec"]
+  },
+  
+  {
     "name": "绘画教练 AI 灵魂设定",
     "name_zh": "绘画教练",
     "name_en": "Painting Coach",
@@ -2989,6 +3223,19 @@
     "tags": ["儿科","儿童健康","生长发育","家庭照护","风险分层","预防保健","医患沟通"],
     "tags_zh": ["儿科","儿童健康","生长发育","家庭照护","风险分层","预防保健","医患沟通"],
     "tags_en": ["Pediatrics","Child health","Growth and development","Family caregiving","Risk stratification","Preventive care","Clinical communication"]
+  },
+  
+  {
+    "name": "私人厨师 AI 灵魂设定",
+    "name_zh": "私人厨师",
+    "name_en": "Personal Chef",
+    "url": "/personas/personal_chef/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["私人厨师","饮食管理","定制菜单","备餐","营养平衡","家庭餐食"],
+    "tags_zh": ["私人厨师","饮食管理","定制菜单","备餐","营养平衡","家庭餐食"],
+    "tags_en": ["personal chef","diet management","custom menu","meal prep","nutrition balance","home meals"]
   },
   
   {
@@ -3096,6 +3343,19 @@
   },
   
   {
+    "name": "陶艺师 AI 灵魂设定",
+    "name_zh": "陶艺师",
+    "name_en": "Pottery Artist",
+    "url": "/personas/pottery_artist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["陶艺","拉坯","器物设计","釉色","窑烧","手作工艺"],
+    "tags_zh": ["陶艺","拉坯","器物设计","釉色","窑烧","手作工艺"],
+    "tags_en": ["pottery","wheel throwing","vessel design","glaze","kiln firing","craft"]
+  },
+  
+  {
     "name": "产品总监 AI 灵魂设定",
     "name_zh": "产品总监",
     "name_en": "Product Director (VP of Product)",
@@ -3119,6 +3379,19 @@
     "tags": ["产品规划","用户研究","数据驱动","需求分析","优先级排序","产品路线图"],
     "tags_zh": ["产品规划","用户研究","数据驱动","需求分析","优先级排序","产品路线图"],
     "tags_en": ["product planning","user research","data-driven","requirements analysis","prioritization","product roadmap"]
+  },
+  
+  {
+    "name": "整理收纳师 AI 灵魂设定",
+    "name_zh": "整理收纳师",
+    "name_en": "Professional Organizer",
+    "url": "/personas/professional_organizer/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["整理收纳","断舍离","空间管理","家庭效率","习惯养成","回位系统"],
+    "tags_zh": ["整理收纳","断舍离","空间管理","家庭效率","习惯养成","回位系统"],
+    "tags_en": ["professional organizing","decluttering","space management","home efficiency","habit building","return path"]
   },
   
   {
@@ -3184,6 +3457,19 @@
     "tags": ["心理学","认知偏差","社会心理学","判断与决策","行为科学","认知心理学","心理学科普","研究方法","元认知","行为改变"],
     "tags_zh": ["心理学","认知偏差","社会心理学","判断与决策","行为科学","认知心理学","心理学科普","研究方法","元认知","行为改变"],
     "tags_en": ["Psychology","Cognitive Bias","Social Psychology","Judgment and Decision-Making","Behavioral Science","Cognitive Psychology","Psychology Popularization","Research Methods","Metacognition","Behavior Change"]
+  },
+  
+  {
+    "name": "演讲教练 AI 灵魂设定",
+    "name_zh": "演讲教练",
+    "name_en": "Public Speaking Coach",
+    "url": "/personas/public_speaking_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["演讲","表达训练","汇报","路演","沟通","临场发挥"],
+    "tags_zh": ["演讲","表达训练","汇报","路演","沟通","临场发挥"],
+    "tags_en": ["public speaking","communication training","reporting","pitching","persuasion","live delivery"]
   },
   
   {
@@ -3655,6 +3941,19 @@
   },
   
   {
+    "name": "侍酒师 AI 灵魂设定",
+    "name_zh": "侍酒师",
+    "name_en": "Sommelier",
+    "url": "/personas/sommelier/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["侍酒师","餐酒搭配","酒单设计","风味分析","服务体验","品鉴"],
+    "tags_zh": ["侍酒师","餐酒搭配","酒单设计","风味分析","服务体验","品鉴"],
+    "tags_en": ["sommelier","food-wine pairing","wine list design","flavor analysis","service experience","tasting"]
+  },
+  
+  {
     "name": "宋应星 AI 灵魂设定",
     "name_zh": "宋应星 (Song Yingxing)",
     "name_en": "Song Yingxing",
@@ -3730,6 +4029,32 @@
     "tags": ["特殊教育","融合教育","个别化教育","自闭症谱系","ADHD","学习障碍","包容设计","家长支持"],
     "tags_zh": ["特殊教育","融合教育","个别化教育","自闭症谱系","ADHD","学习障碍","包容设计","家长支持"],
     "tags_en": ["Special Education","Inclusive Education","Individualized Education","Autism Spectrum","ADHD","Learning Difficulties","Inclusive Design","Parent Support"]
+  },
+  
+  {
+    "name": "特殊教育教师 AI 灵魂设定",
+    "name_zh": "特殊教育教师",
+    "name_en": "Special Education Teacher",
+    "url": "/personas/special_education_teacher/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["特殊教育","融合教育","IEP","课堂支持","行为干预","家校协同"],
+    "tags_zh": ["特殊教育","融合教育","IEP","课堂支持","行为干预","家校协同"],
+    "tags_en": ["special education","inclusive education","IEP","classroom support","behavior support","home-school"]
+  },
+  
+  {
+    "name": "速读教练 AI 灵魂设定",
+    "name_zh": "速读教练",
+    "name_en": "Speed Reading Coach",
+    "url": "/personas/speed_reading_coach/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["速读","阅读策略","信息筛选","学习效率","文献阅读","知识管理"],
+    "tags_zh": ["速读","阅读策略","信息筛选","学习效率","文献阅读","知识管理"],
+    "tags_en": ["speed reading","reading strategy","information filtering","learning efficiency","literature reading","knowledge management"]
   },
   
   {
@@ -3889,6 +4214,32 @@
   },
   
   {
+    "name": "纹身设计师 AI 灵魂设定",
+    "name_zh": "纹身设计师",
+    "name_en": "Tattoo Artist",
+    "url": "/personas/tattoo_artist/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["纹身","身体艺术","图案设计","覆盖修复","长期审美","护理"],
+    "tags_zh": ["纹身","身体艺术","图案设计","覆盖修复","长期审美","护理"],
+    "tags_en": ["tattoo","body art","motif design","cover-up","long-term aesthetics","aftercare"]
+  },
+  
+  {
+    "name": "茶艺师 AI 灵魂设定",
+    "name_zh": "茶艺师",
+    "name_en": "Tea Master",
+    "url": "/personas/tea_master/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["茶艺师","茶席","冲泡","接待服务","感官体验","茶文化"],
+    "tags_zh": ["茶艺师","茶席","冲泡","接待服务","感官体验","茶文化"],
+    "tags_en": ["tea master","tea table","brewing","hospitality","sensory experience","tea culture"]
+  },
+  
+  {
     "name": "技术写作者 AI 灵魂设定",
     "name_zh": "技术写作者",
     "name_en": "Technical Writer",
@@ -4016,6 +4367,19 @@
     "tags": ["翻译审校","英汉翻译","翻译策略","文化转译","翻译腔修正","翻译理论","翻译质量","文学翻译","社科翻译","翻译教学"],
     "tags_zh": ["翻译审校","英汉翻译","翻译策略","文化转译","翻译腔修正","翻译理论","翻译质量","文学翻译","社科翻译","翻译教学"],
     "tags_en": ["Translation review","English–Chinese translation","translation strategy","cultural translation","translationese correction","translation theory","translation quality","literary translation","social science translation","translation teaching"]
+  },
+  
+  {
+    "name": "旅行规划师 AI 灵魂设定",
+    "name_zh": "旅行规划师",
+    "name_en": "Travel Planner",
+    "url": "/personas/travel_planner/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["旅行规划","自由行","路线优化","预算管理","行程设计","风险预案"],
+    "tags_zh": ["旅行规划","自由行","路线优化","预算管理","行程设计","风险预案"],
+    "tags_en": ["travel planning","independent travel","route optimization","budget management","itinerary design","contingency"]
   },
   
   {
@@ -4289,6 +4653,19 @@
     "tags": ["战地记者","冲突报道","新闻伦理","见证","战争报道","记者心理"],
     "tags_zh": ["战地记者","冲突报道","新闻伦理","见证","战争报道","记者心理"],
     "tags_en": ["war correspondent","conflict reporting","journalism ethics","bearing witness","war reporting","journalist psychology"]
+  },
+  
+  {
+    "name": "婚礼策划师 AI 灵魂设定",
+    "name_zh": "婚礼策划师",
+    "name_en": "Wedding Planner",
+    "url": "/personas/wedding_planner/",
+    "category": "专家角色",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["婚礼策划","流程统筹","仪式设计","情绪管理","供应商协同","现场执行"],
+    "tags_zh": ["婚礼策划","流程统筹","仪式设计","情绪管理","供应商协同","现场执行"],
+    "tags_en": ["wedding planning","run-of-show","ceremony design","emotion management","vendor coordination","live execution"]
   },
   
   {
