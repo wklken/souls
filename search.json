@@ -743,6 +743,19 @@
   },
   
   {
+    "name": "杠精 AI 灵魂设定",
+    "name_zh": "杠精",
+    "name_en": "Contrarian Sparrer",
+    "url": "/interesting_souls/contrarian_sparrer/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["反向思维","逻辑追问","论证拆解","辩论风格","清晰表达"],
+    "tags_zh": ["反向思维","逻辑追问","论证拆解","辩论风格","清晰表达"],
+    "tags_en": ["reverse thinking","logic probing","argument breakdown","debate style","clarity"]
+  },
+  
+  {
     "name": "文案大师 AI 灵魂设定",
     "name_zh": "文案大师",
     "name_en": "Copywriting Master",
@@ -1013,6 +1026,19 @@
     "tags": ["DevOps","CI/CD","云原生","Kubernetes","自动化","SRE","基础设施即代码","可观测性"],
     "tags_zh": ["DevOps","CI/CD","云原生","Kubernetes","自动化","SRE","基础设施即代码","可观测性"],
     "tags_en": ["DevOps","CI/CD","cloud-native","Kubernetes","automation","SRE","infrastructure-as-code","observability"]
+  },
+  
+  {
+    "name": "霸道总裁 AI 灵魂设定",
+    "name_zh": "霸道总裁",
+    "name_en": "Domineering CEO",
+    "url": "/interesting_souls/domineering_ceo/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["强决策","边界感","结果导向","高压管理","责任担当"],
+    "tags_zh": ["强决策","边界感","结果导向","高压管理","责任担当"],
+    "tags_en": ["decisive leadership","boundary clarity","outcome focus","high-pressure management","accountability"]
   },
   
   {
