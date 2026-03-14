@@ -236,6 +236,19 @@
   },
   
   {
+    "name": "巷口护栏 AI 灵魂设定",
+    "name_zh": "巷口护栏",
+    "name_en": "Alley Guardrail",
+    "url": "/interesting_souls/alley_guardrail/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["嘴硬心软","义气感","大白话","现实智慧","保护欲"],
+    "tags_zh": ["嘴硬心软","义气感","大白话","现实智慧","保护欲"],
+    "tags_en": ["hard-soft care","loyalty","plain speech","practical wisdom","protectiveness"]
+  },
+  
+  {
     "name": "阿那克萨戈拉 AI 灵魂设定",
     "name_zh": "阿那克萨戈拉 (Anaxagoras)",
     "name_en": "Anaxagoras",
@@ -558,6 +571,19 @@
     "tags": ["差分机","分析机","机械计算","数学表","计算机先驱","维多利亚时代","精密工程"],
     "tags_zh": ["差分机","分析机","机械计算","数学表","计算机先驱","维多利亚时代","精密工程"],
     "tags_en": ["Difference Engine","Analytical Engine","mechanical computation","mathematical tables","computing pioneer","Victorian era","precision engineering"]
+  },
+  
+  {
+    "name": "清单监察员 AI 灵魂设定",
+    "name_zh": "清单监察员",
+    "name_en": "Checklist Inspector",
+    "url": "/interesting_souls/checklist_inspector/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["流程管理","清单思维","秩序感","复盘习惯","抗混乱"],
+    "tags_zh": ["流程管理","清单思维","秩序感","复盘习惯","抗混乱"],
+    "tags_en": ["process management","checklist mindset","order","review habit","anti-chaos"]
   },
   
   {
@@ -1770,6 +1796,19 @@
   },
   
   {
+    "name": "刺猬队长 AI 灵魂设定",
+    "name_zh": "刺猬队长",
+    "name_en": "Hedgehog Captain",
+    "url": "/interesting_souls/hedgehog_captain/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["反差魅力","嘴硬心软","保护型人格","行动派","低温温柔"],
+    "tags_zh": ["反差魅力","嘴硬心软","保护型人格","行动派","低温温柔"],
+    "tags_en": ["contrast charm","hard-soft care","protector type","action style","low-temp warmth"]
+  },
+  
+  {
     "name": "赫拉克利特 AI 灵魂设定",
     "name_zh": "赫拉克利特 (Heraclitus)",
     "name_en": "Heraclitus",
@@ -2823,6 +2862,19 @@
   },
   
   {
+    "name": "旧派玫瑰 AI 灵魂设定",
+    "name_zh": "旧派玫瑰",
+    "name_en": "Old-School Rose",
+    "url": "/interesting_souls/old_school_rose/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["优雅锋利","老派机智","边界感","克制幽默","高标准"],
+    "tags_zh": ["优雅锋利","老派机智","边界感","克制幽默","高标准"],
+    "tags_en": ["elegant edge","old-school wit","boundaries","restrained humor","high standards"]
+  },
+  
+  {
     "name": "运营专家 AI 灵魂设定",
     "name_zh": "运营专家",
     "name_en": "Operations Expert",
@@ -3291,6 +3343,19 @@
   },
   
   {
+    "name": "场面调度员 AI 灵魂设定",
+    "name_zh": "场面调度员",
+    "name_en": "Scene Dispatcher",
+    "url": "/interesting_souls/scene_dispatcher/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["叙事能力","节奏控制","场景感","比喻密集","情绪调度"],
+    "tags_zh": ["叙事能力","节奏控制","场景感","比喻密集","情绪调度"],
+    "tags_en": ["narrative craft","rhythm control","scenework","dense metaphor","emotion staging"]
+  },
+  
+  {
     "name": "科普作家 AI 灵魂设定",
     "name_zh": "科普作家",
     "name_en": "Science Writer",
@@ -3603,6 +3668,19 @@
   },
   
   {
+    "name": "抱歉工程师 AI 灵魂设定",
+    "name_zh": "抱歉工程师",
+    "name_en": "Sorry Engineer",
+    "url": "/interesting_souls/sorry_engineer/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["高礼貌","细节控","焦虑可爱","沟通修复","温和表达"],
+    "tags_zh": ["高礼貌","细节控","焦虑可爱","沟通修复","温和表达"],
+    "tags_en": ["high courtesy","detail focus","anxious charm","communication repair","gentle expression"]
+  },
+  
+  {
     "name": "声音设计师 AI 灵魂设定",
     "name_zh": "声音设计师",
     "name_en": "Sound Designer",
@@ -3811,6 +3889,19 @@
   },
   
   {
+    "name": "华词小姐 AI 灵魂设定",
+    "name_zh": "华词小姐",
+    "name_en": "Theatrical Queen",
+    "url": "/interesting_souls/theatrical_queen/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["戏剧表达","审美生活","夸张修辞","情绪张力","仪式感"],
+    "tags_zh": ["戏剧表达","审美生活","夸张修辞","情绪张力","仪式感"],
+    "tags_en": ["dramatic expression","aesthetic living","ornate rhetoric","emotional tension","ritual"]
+  },
+  
+  {
     "name": "霍布斯 AI 灵魂设定",
     "name_zh": "霍布斯 (Thomas Hobbes)",
     "name_en": "Thomas Hobbes",
@@ -3876,6 +3967,19 @@
   },
   
   {
+    "name": "铁皮操盘手 AI 灵魂设定",
+    "name_zh": "铁皮操盘手",
+    "name_en": "Tinplate Operator",
+    "url": "/interesting_souls/tinplate_operator/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["执行力","推进节奏","结果导向","吐槽风格","任务拆解"],
+    "tags_zh": ["执行力","推进节奏","结果导向","吐槽风格","任务拆解"],
+    "tags_en": ["execution","delivery rhythm","outcome focus","dry push style","task decomposition"]
+  },
+  
+  {
     "name": "翻译顾问 AI 灵魂设定",
     "name_zh": "翻译顾问",
     "name_en": "Translation Consultant",
@@ -3886,6 +3990,19 @@
     "tags": ["翻译审校","英汉翻译","翻译策略","文化转译","翻译腔修正","翻译理论","翻译质量","文学翻译","社科翻译","翻译教学"],
     "tags_zh": ["翻译审校","英汉翻译","翻译策略","文化转译","翻译腔修正","翻译理论","翻译质量","文学翻译","社科翻译","翻译教学"],
     "tags_en": ["Translation review","English–Chinese translation","translation strategy","cultural translation","translationese correction","translation theory","translation quality","literary translation","social science translation","translation teaching"]
+  },
+  
+  {
+    "name": "热点园丁 AI 灵魂设定",
+    "name_zh": "热点园丁",
+    "name_en": "Trend Gardener",
+    "url": "/interesting_souls/trend_gardener/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["网感表达","传播节奏","信息修剪","轻快机灵","社交洞察"],
+    "tags_zh": ["网感表达","传播节奏","信息修剪","轻快机灵","社交洞察"],
+    "tags_en": ["networked language","communication rhythm","info pruning","agile tone","social insight"]
   },
   
   {
@@ -4419,6 +4536,19 @@
     "tags": ["湘军","太平天国","理学","家书","修身","晚清中兴","识人用人","自省"],
     "tags_zh": ["湘军","太平天国","理学","家书","修身","晚清中兴","识人用人","自省"],
     "tags_en": ["Xiang Army","Taiping Rebellion","Neo-Confucianism","Family Letters","Self-Cultivation","Late Qing Restoration","Talent Recognition","Self-Reflection"]
+  },
+  
+  {
+    "name": "零度顾问 AI 灵魂设定",
+    "name_zh": "零度顾问",
+    "name_en": "Zero-Degree Advisor",
+    "url": "/interesting_souls/zero_degree_advisor/",
+    "category": "有趣灵魂",
+    "category_zh": "有趣灵魂",
+    "category_en": "Interesting Souls",
+    "tags": ["冷幽默","极简表达","洞察力","反转金句","低情绪高准确"],
+    "tags_zh": ["冷幽默","极简表达","洞察力","反转金句","低情绪高准确"],
+    "tags_en": ["dry humor","minimal expression","insight","reversal lines","low-emotion precision"]
   },
   
   {
