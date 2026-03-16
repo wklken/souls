@@ -168,10 +168,44 @@
   </div>
 
   <div class="team-actions">
-    <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
+    <button
+      id="team-download-btn"
+      type="button"
+      class="btn btn-download"
+      onclick="downloadTeamConfig()"
+      data-i18n="teams.download_config"
+    >
       下载团队配置
     </button>
+    <button
+      id="team-copy-url-btn"
+      type="button"
+      class="btn btn-copy-url"
+      onclick="copyDownloadUrl()"
+      data-i18n="action.copy_url"
+    >
+      复制 URL
+    </button>
   </div>
+
+  <style>
+    .team-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .team-actions .btn {
+      color: var(--text-color);
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .team-actions .btn:hover {
+      color: #fff;
+    }
+  </style>
 
   <div class="team-members-section">
     <h2 data-i18n="teams.member_list">团队成员</h2>
@@ -349,65 +383,71 @@
 </div>
 
 <script>
-function downloadTeamConfig() {
-  const activeLang = (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
-  const pickLocalized = (zhValue, enValue) => {
-    if (activeLang === 'en') {
-      return enValue || zhValue || '';
-    }
-    return zhValue || enValue || '';
-  };
+let teamConfigBlobUrl = '';
 
-  const teamData = {
-    team_name: pickLocalized("反差辩论团队", "Opposites Debate Team"),
-    team_description: pickLocalized("以“观点冲突”为设计核心的团队，把价值观和方法论相反的角色放在同一讨论场中，适合用于辩论、方案对冲、假设检验和决策压力测试。", "A team intentionally built on worldview conflicts. It places opposing thinkers together for debate, scenario hedging, hypothesis testing, and decision stress tests."),
+function getActiveLanguage() {
+  return (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
+}
+
+function pickLocalizedValue(activeLang, zhValue, enValue) {
+  if (activeLang === 'en') {
+    return enValue || zhValue || '';
+  }
+  return zhValue || enValue || '';
+}
+
+function buildTeamData() {
+  const activeLang = getActiveLanguage();
+  return {
+    team_name: pickLocalizedValue(activeLang, "反差辩论团队", "Opposites Debate Team"),
+    team_description: pickLocalizedValue(activeLang, "以“观点冲突”为设计核心的团队，把价值观和方法论相反的角色放在同一讨论场中，适合用于辩论、方案对冲、假设检验和决策压力测试。", "A team intentionally built on worldview conflicts. It places opposing thinkers together for debate, scenario hedging, hypothesis testing, and decision stress tests."),
     members: [
       
       {
-        name: pickLocalized("老子", "Laozi"),
-        description: pickLocalized("主张无为与顺势，强调柔弱胜刚强与系统自组织。", "Advocates non-coercive action and alignment with natural dynamics."),
+        name: pickLocalizedValue(activeLang, "老子", "Laozi"),
+        description: pickLocalizedValue(activeLang, "主张无为与顺势，强调柔弱胜刚强与系统自组织。", "Advocates non-coercive action and alignment with natural dynamics."),
         soul_download_url: "https://agent-souls.com/real_world/laozi/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/laozi/"
       },
       
       {
-        name: pickLocalized("韩非", "Han Fei"),
-        description: pickLocalized("强调法、术、势，主张刚性制度与可执行约束。", "Represents Legalist thought centered on strict systems and enforceable constraints."),
+        name: pickLocalizedValue(activeLang, "韩非", "Han Fei"),
+        description: pickLocalizedValue(activeLang, "强调法、术、势，主张刚性制度与可执行约束。", "Represents Legalist thought centered on strict systems and enforceable constraints."),
         soul_download_url: "https://agent-souls.com/real_world/han_fei/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/han_fei/"
       },
       
       {
-        name: pickLocalized("孔子", "Confucius"),
-        description: pickLocalized("重视礼与德性教育，强调秩序来源于人格与伦理。", "Prioritizes ethics, ritual order, and moral cultivation in governance."),
+        name: pickLocalizedValue(activeLang, "孔子", "Confucius"),
+        description: pickLocalizedValue(activeLang, "重视礼与德性教育，强调秩序来源于人格与伦理。", "Prioritizes ethics, ritual order, and moral cultivation in governance."),
         soul_download_url: "https://agent-souls.com/real_world/confucius/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/confucius/"
       },
       
       {
-        name: pickLocalized("让-雅克·卢梭", "Jean-Jacques Rousseau"),
-        description: pickLocalized("强调自由、平等与公意，对现代政治正当性有深远影响。", "Argues for freedom, equality, and popular sovereignty in political legitimacy."),
+        name: pickLocalizedValue(activeLang, "让-雅克·卢梭", "Jean-Jacques Rousseau"),
+        description: pickLocalizedValue(activeLang, "强调自由、平等与公意，对现代政治正当性有深远影响。", "Argues for freedom, equality, and popular sovereignty in political legitimacy."),
         soul_download_url: "https://agent-souls.com/real_world/jean_jacques_rousseau/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/jean_jacques_rousseau/"
       },
       
       {
-        name: pickLocalized("尼可罗·马基雅维利", "Niccolo Machiavelli"),
-        description: pickLocalized("以现实主义视角分析权力运行，重视结果与生存。", "Analyzes power through political realism, prioritizing survival and outcomes."),
+        name: pickLocalizedValue(activeLang, "尼可罗·马基雅维利", "Niccolo Machiavelli"),
+        description: pickLocalizedValue(activeLang, "以现实主义视角分析权力运行，重视结果与生存。", "Analyzes power through political realism, prioritizing survival and outcomes."),
         soul_download_url: "https://agent-souls.com/real_world/niccolo_machiavelli/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/niccolo_machiavelli/"
       },
       
       {
-        name: pickLocalized("弗里德里希·尼采", "Friedrich Nietzsche"),
-        description: pickLocalized("挑战既有价值体系，推动激进反思与价值重估。", "Challenges inherited value systems and drives radical re-evaluation."),
+        name: pickLocalizedValue(activeLang, "弗里德里希·尼采", "Friedrich Nietzsche"),
+        description: pickLocalizedValue(activeLang, "挑战既有价值体系，推动激进反思与价值重估。", "Challenges inherited value systems and drives radical re-evaluation."),
         soul_download_url: "https://agent-souls.com/real_world/friedrich_nietzsche/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/friedrich_nietzsche/"
       },
       
       {
-        name: pickLocalized("批判性思维导师", "Critical Thinking Mentor"),
-        description: pickLocalized("负责识别论证漏洞、偏见与证据不足，提升辩论质量。", "Identifies logical gaps, bias, and weak evidence to improve debate quality."),
+        name: pickLocalizedValue(activeLang, "批判性思维导师", "Critical Thinking Mentor"),
+        description: pickLocalizedValue(activeLang, "负责识别论证漏洞、偏见与证据不足，提升辩论质量。", "Identifies logical gaps, bias, and weak evidence to improve debate quality."),
         soul_download_url: "https://agent-souls.com/personas/critical_thinking_mentor/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/critical_thinking_mentor/"
       }
@@ -416,17 +456,53 @@ function downloadTeamConfig() {
     created_at: new Date().toISOString(),
     source: "Agent Souls - https://agent-souls.com"
   };
+}
 
+function generateTeamConfigDownloadUrl() {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+
+  const teamData = buildTeamData();
   const blob = new Blob([JSON.stringify(teamData, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
+  teamConfigBlobUrl = URL.createObjectURL(blob);
+  return teamConfigBlobUrl;
+}
+
+function downloadTeamConfig() {
+  const url = generateTeamConfigDownloadUrl();
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'team-opposites-debate-team-config.json';
+  a.download = 'opposites-debate-team.json';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  URL.revokeObjectURL(url);
 }
+
+function copyDownloadUrl() {
+  const copyBtn = document.getElementById('team-copy-url-btn');
+  if (!copyBtn || !navigator.clipboard) return;
+
+  const url = generateTeamConfigDownloadUrl();
+  navigator.clipboard.writeText(url).then(() => {
+    const originalText = copyBtn.textContent;
+    const activeLang = getActiveLanguage();
+    const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
+
+    copyBtn.textContent = copiedText;
+    setTimeout(() => {
+      copyBtn.textContent = originalText;
+    }, 2000);
+  });
+}
+
+window.addEventListener('beforeunload', () => {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+});
 </script>
 
   </main>

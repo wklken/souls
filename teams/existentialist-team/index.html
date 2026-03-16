@@ -168,10 +168,44 @@
   </div>
 
   <div class="team-actions">
-    <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
+    <button
+      id="team-download-btn"
+      type="button"
+      class="btn btn-download"
+      onclick="downloadTeamConfig()"
+      data-i18n="teams.download_config"
+    >
       下载团队配置
     </button>
+    <button
+      id="team-copy-url-btn"
+      type="button"
+      class="btn btn-copy-url"
+      onclick="copyDownloadUrl()"
+      data-i18n="action.copy_url"
+    >
+      复制 URL
+    </button>
   </div>
+
+  <style>
+    .team-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .team-actions .btn {
+      color: var(--text-color);
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .team-actions .btn:hover {
+      color: #fff;
+    }
+  </style>
 
   <div class="team-members-section">
     <h2 data-i18n="teams.member_list">团队成员</h2>
@@ -234,30 +268,36 @@
 </div>
 
 <script>
-function downloadTeamConfig() {
-  const activeLang = (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
-  const pickLocalized = (zhValue, enValue) => {
-    if (activeLang === 'en') {
-      return enValue || zhValue || '';
-    }
-    return zhValue || enValue || '';
-  };
+let teamConfigBlobUrl = '';
 
-  const teamData = {
-    team_name: pickLocalized("存在主义团队", "Existentialist Team"),
-    team_description: pickLocalized("来自文学世界的存在主义代表人物，探讨存在的意义、自由与选择。哈姆雷特的犹豫、堂吉诃德的执着，让 AI 以文学角色的深度与你对话。", "Existentialist figures from the literary world, exploring the meaning of existence, freedom, and choice. Hamlet's hesitation, Don Quixote's persistence—experience profound literary conversations with AI."),
+function getActiveLanguage() {
+  return (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
+}
+
+function pickLocalizedValue(activeLang, zhValue, enValue) {
+  if (activeLang === 'en') {
+    return enValue || zhValue || '';
+  }
+  return zhValue || enValue || '';
+}
+
+function buildTeamData() {
+  const activeLang = getActiveLanguage();
+  return {
+    team_name: pickLocalizedValue(activeLang, "存在主义团队", "Existentialist Team"),
+    team_description: pickLocalizedValue(activeLang, "来自文学世界的存在主义代表人物，探讨存在的意义、自由与选择。哈姆雷特的犹豫、堂吉诃德的执着，让 AI 以文学角色的深度与你对话。", "Existentialist figures from the literary world, exploring the meaning of existence, freedom, and choice. Hamlet's hesitation, Don Quixote's persistence—experience profound literary conversations with AI."),
     members: [
       
       {
-        name: pickLocalized("哈姆雷特", "Hamlet"),
-        description: pickLocalized("莎士比亚悲剧中的丹麦王子，'生存还是毁灭'的提出者，代表对人类存在意义的深刻追问。", "Prince of Denmark in Shakespeare's tragedy, originator of 'To be or not to be', represents profound inquiry into the meaning of human existence."),
+        name: pickLocalizedValue(activeLang, "哈姆雷特", "Hamlet"),
+        description: pickLocalizedValue(activeLang, "莎士比亚悲剧中的丹麦王子，'生存还是毁灭'的提出者，代表对人类存在意义的深刻追问。", "Prince of Denmark in Shakespeare's tragedy, originator of 'To be or not to be', represents profound inquiry into the meaning of human existence."),
         soul_download_url: "https://agent-souls.com/virtual_world/hamlet/SOUL.md",
         soul_page_url: "https://agent-souls.com/virtual_world/hamlet/"
       },
       
       {
-        name: pickLocalized("堂吉诃德", "Don Quixote"),
-        description: pickLocalized("塞万提斯笔下的理想主义骑士，执着于自己的梦想，象征人类对理想的永恒追求。", "The idealistic knight from Cervantes' novel, persistently pursuing his dreams, symbolizes humanity's eternal pursuit of ideals."),
+        name: pickLocalizedValue(activeLang, "堂吉诃德", "Don Quixote"),
+        description: pickLocalizedValue(activeLang, "塞万提斯笔下的理想主义骑士，执着于自己的梦想，象征人类对理想的永恒追求。", "The idealistic knight from Cervantes' novel, persistently pursuing his dreams, symbolizes humanity's eternal pursuit of ideals."),
         soul_download_url: "https://agent-souls.com/virtual_world/don_quixote/SOUL.md",
         soul_page_url: "https://agent-souls.com/virtual_world/don_quixote/"
       }
@@ -266,17 +306,53 @@ function downloadTeamConfig() {
     created_at: new Date().toISOString(),
     source: "Agent Souls - https://agent-souls.com"
   };
+}
 
+function generateTeamConfigDownloadUrl() {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+
+  const teamData = buildTeamData();
   const blob = new Blob([JSON.stringify(teamData, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
+  teamConfigBlobUrl = URL.createObjectURL(blob);
+  return teamConfigBlobUrl;
+}
+
+function downloadTeamConfig() {
+  const url = generateTeamConfigDownloadUrl();
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'team-existentialist-team-config.json';
+  a.download = 'existentialist-team.json';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  URL.revokeObjectURL(url);
 }
+
+function copyDownloadUrl() {
+  const copyBtn = document.getElementById('team-copy-url-btn');
+  if (!copyBtn || !navigator.clipboard) return;
+
+  const url = generateTeamConfigDownloadUrl();
+  navigator.clipboard.writeText(url).then(() => {
+    const originalText = copyBtn.textContent;
+    const activeLang = getActiveLanguage();
+    const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
+
+    copyBtn.textContent = copiedText;
+    setTimeout(() => {
+      copyBtn.textContent = originalText;
+    }, 2000);
+  });
+}
+
+window.addEventListener('beforeunload', () => {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+});
 </script>
 
   </main>

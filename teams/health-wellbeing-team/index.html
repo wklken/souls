@@ -168,10 +168,44 @@
   </div>
 
   <div class="team-actions">
-    <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
+    <button
+      id="team-download-btn"
+      type="button"
+      class="btn btn-download"
+      onclick="downloadTeamConfig()"
+      data-i18n="teams.download_config"
+    >
       下载团队配置
     </button>
+    <button
+      id="team-copy-url-btn"
+      type="button"
+      class="btn btn-copy-url"
+      onclick="copyDownloadUrl()"
+      data-i18n="action.copy_url"
+    >
+      复制 URL
+    </button>
   </div>
+
+  <style>
+    .team-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .team-actions .btn {
+      color: var(--text-color);
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .team-actions .btn:hover {
+      color: #fff;
+    }
+  </style>
 
   <div class="team-members-section">
     <h2 data-i18n="teams.member_list">团队成员</h2>
@@ -395,79 +429,85 @@
 </div>
 
 <script>
-function downloadTeamConfig() {
-  const activeLang = (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
-  const pickLocalized = (zhValue, enValue) => {
-    if (activeLang === 'en') {
-      return enValue || zhValue || '';
-    }
-    return zhValue || enValue || '';
-  };
+let teamConfigBlobUrl = '';
 
-  const teamData = {
-    team_name: pickLocalized("健康疗愈团队", "Health & Wellbeing Team"),
-    team_description: pickLocalized("融合古今医学、心理学与生活方式管理的团队。适合健康咨询、康复建议、压力管理、睡眠与营养改善等长期陪伴型场景。", "A cross-disciplinary team combining medicine, psychology, and lifestyle coaching. Suitable for long-term health guidance, stress management, sleep, and nutrition improvement."),
+function getActiveLanguage() {
+  return (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
+}
+
+function pickLocalizedValue(activeLang, zhValue, enValue) {
+  if (activeLang === 'en') {
+    return enValue || zhValue || '';
+  }
+  return zhValue || enValue || '';
+}
+
+function buildTeamData() {
+  const activeLang = getActiveLanguage();
+  return {
+    team_name: pickLocalizedValue(activeLang, "健康疗愈团队", "Health & Wellbeing Team"),
+    team_description: pickLocalizedValue(activeLang, "融合古今医学、心理学与生活方式管理的团队。适合健康咨询、康复建议、压力管理、睡眠与营养改善等长期陪伴型场景。", "A cross-disciplinary team combining medicine, psychology, and lifestyle coaching. Suitable for long-term health guidance, stress management, sleep, and nutrition improvement."),
     members: [
       
       {
-        name: pickLocalized("华佗", "Hua Tuo"),
-        description: pickLocalized("东汉名医，擅长外科与养生并重，强调预防与整体调理。", "A renowned Eastern Han physician known for surgery and preventive wellness."),
+        name: pickLocalizedValue(activeLang, "华佗", "Hua Tuo"),
+        description: pickLocalizedValue(activeLang, "东汉名医，擅长外科与养生并重，强调预防与整体调理。", "A renowned Eastern Han physician known for surgery and preventive wellness."),
         soul_download_url: "https://agent-souls.com/real_world/hua_tuo/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/hua_tuo/"
       },
       
       {
-        name: pickLocalized("孙思邈", "Sun Simiao"),
-        description: pickLocalized("唐代医药学家，重视医德与系统性临床经验。", "A Tang medical scholar emphasizing ethics and systematic clinical knowledge."),
+        name: pickLocalizedValue(activeLang, "孙思邈", "Sun Simiao"),
+        description: pickLocalizedValue(activeLang, "唐代医药学家，重视医德与系统性临床经验。", "A Tang medical scholar emphasizing ethics and systematic clinical knowledge."),
         soul_download_url: "https://agent-souls.com/real_world/sun_simiao/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/sun_simiao/"
       },
       
       {
-        name: pickLocalized("李时珍", "Li Shizhen"),
-        description: pickLocalized("《本草纲目》作者，擅长长期观察与知识归纳。", "Author of Compendium of Materia Medica, known for long-term observation and synthesis."),
+        name: pickLocalizedValue(activeLang, "李时珍", "Li Shizhen"),
+        description: pickLocalizedValue(activeLang, "《本草纲目》作者，擅长长期观察与知识归纳。", "Author of Compendium of Materia Medica, known for long-term observation and synthesis."),
         soul_download_url: "https://agent-souls.com/real_world/li_shizhen/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/li_shizhen/"
       },
       
       {
-        name: pickLocalized("医学专家", "Medical Expert"),
-        description: pickLocalized("提供现代医学框架下的健康解读与就医建议。", "Provides modern medical interpretation and practical care guidance."),
+        name: pickLocalizedValue(activeLang, "医学专家", "Medical Expert"),
+        description: pickLocalizedValue(activeLang, "提供现代医学框架下的健康解读与就医建议。", "Provides modern medical interpretation and practical care guidance."),
         soul_download_url: "https://agent-souls.com/personas/medical_expert/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/medical_expert/"
       },
       
       {
-        name: pickLocalized("心理学家", "Psychologist"),
-        description: pickLocalized("聚焦情绪与行为模式，帮助建立稳定的心理调节机制。", "Focuses on emotional and behavioral patterns for sustainable mental regulation."),
+        name: pickLocalizedValue(activeLang, "心理学家", "Psychologist"),
+        description: pickLocalizedValue(activeLang, "聚焦情绪与行为模式，帮助建立稳定的心理调节机制。", "Focuses on emotional and behavioral patterns for sustainable mental regulation."),
         soul_download_url: "https://agent-souls.com/personas/psychologist/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/psychologist/"
       },
       
       {
-        name: pickLocalized("营养师", "Nutritionist"),
-        description: pickLocalized("围绕饮食结构和代谢目标给出个性化营养建议。", "Provides personalized nutrition recommendations aligned to diet and metabolic goals."),
+        name: pickLocalizedValue(activeLang, "营养师", "Nutritionist"),
+        description: pickLocalizedValue(activeLang, "围绕饮食结构和代谢目标给出个性化营养建议。", "Provides personalized nutrition recommendations aligned to diet and metabolic goals."),
         soul_download_url: "https://agent-souls.com/personas/nutritionist/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/nutritionist/"
       },
       
       {
-        name: pickLocalized("睡眠顾问", "Sleep Consultant"),
-        description: pickLocalized("优化睡眠节律与作息习惯，改善疲劳与恢复效率。", "Optimizes sleep rhythms and routines to improve recovery and energy."),
+        name: pickLocalizedValue(activeLang, "睡眠顾问", "Sleep Consultant"),
+        description: pickLocalizedValue(activeLang, "优化睡眠节律与作息习惯，改善疲劳与恢复效率。", "Optimizes sleep rhythms and routines to improve recovery and energy."),
         soul_download_url: "https://agent-souls.com/personas/sleep_consultant/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/sleep_consultant/"
       },
       
       {
-        name: pickLocalized("健身教练", "Fitness Coach"),
-        description: pickLocalized("结合体能目标制定训练计划，提升身体素质与执行力。", "Designs training programs for physical goals and consistent execution."),
+        name: pickLocalizedValue(activeLang, "健身教练", "Fitness Coach"),
+        description: pickLocalizedValue(activeLang, "结合体能目标制定训练计划，提升身体素质与执行力。", "Designs training programs for physical goals and consistent execution."),
         soul_download_url: "https://agent-souls.com/personas/fitness_coach/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/fitness_coach/"
       },
       
       {
-        name: pickLocalized("正念导师", "Mindfulness Mentor"),
-        description: pickLocalized("通过正念练习与注意力训练提升压力管理能力。", "Uses mindfulness and attention training to strengthen stress resilience."),
+        name: pickLocalizedValue(activeLang, "正念导师", "Mindfulness Mentor"),
+        description: pickLocalizedValue(activeLang, "通过正念练习与注意力训练提升压力管理能力。", "Uses mindfulness and attention training to strengthen stress resilience."),
         soul_download_url: "https://agent-souls.com/personas/mindfulness_mentor/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/mindfulness_mentor/"
       }
@@ -476,17 +516,53 @@ function downloadTeamConfig() {
     created_at: new Date().toISOString(),
     source: "Agent Souls - https://agent-souls.com"
   };
+}
 
+function generateTeamConfigDownloadUrl() {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+
+  const teamData = buildTeamData();
   const blob = new Blob([JSON.stringify(teamData, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
+  teamConfigBlobUrl = URL.createObjectURL(blob);
+  return teamConfigBlobUrl;
+}
+
+function downloadTeamConfig() {
+  const url = generateTeamConfigDownloadUrl();
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'team-health-wellbeing-team-config.json';
+  a.download = 'health-wellbeing-team.json';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  URL.revokeObjectURL(url);
 }
+
+function copyDownloadUrl() {
+  const copyBtn = document.getElementById('team-copy-url-btn');
+  if (!copyBtn || !navigator.clipboard) return;
+
+  const url = generateTeamConfigDownloadUrl();
+  navigator.clipboard.writeText(url).then(() => {
+    const originalText = copyBtn.textContent;
+    const activeLang = getActiveLanguage();
+    const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
+
+    copyBtn.textContent = copiedText;
+    setTimeout(() => {
+      copyBtn.textContent = originalText;
+    }, 2000);
+  });
+}
+
+window.addEventListener('beforeunload', () => {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+});
 </script>
 
   </main>

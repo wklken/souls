@@ -168,10 +168,44 @@
   </div>
 
   <div class="team-actions">
-    <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
+    <button
+      id="team-download-btn"
+      type="button"
+      class="btn btn-download"
+      onclick="downloadTeamConfig()"
+      data-i18n="teams.download_config"
+    >
       下载团队配置
     </button>
+    <button
+      id="team-copy-url-btn"
+      type="button"
+      class="btn btn-copy-url"
+      onclick="copyDownloadUrl()"
+      data-i18n="action.copy_url"
+    >
+      复制 URL
+    </button>
   </div>
+
+  <style>
+    .team-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .team-actions .btn {
+      color: var(--text-color);
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .team-actions .btn:hover {
+      color: #fff;
+    }
+  </style>
 
   <div class="team-members-section">
     <h2 data-i18n="teams.member_list">团队成员</h2>
@@ -349,65 +383,71 @@
 </div>
 
 <script>
-function downloadTeamConfig() {
-  const activeLang = (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
-  const pickLocalized = (zhValue, enValue) => {
-    if (activeLang === 'en') {
-      return enValue || zhValue || '';
-    }
-    return zhValue || enValue || '';
-  };
+let teamConfigBlobUrl = '';
 
-  const teamData = {
-    team_name: pickLocalized("战略指挥团队", "Strategy Command Team"),
-    team_description: pickLocalized("以战略、战术与组织执行为核心的跨时代团队。既有孙子、诸葛亮等兵法与谋略大师，也有现代管理与运营专家，适合用于复杂决策、竞争分析与行动方案推演。", "A cross-era team focused on strategy, tactics, and execution. From Sun Tzu and Zhuge Liang to modern management and operations experts, it is ideal for complex decisions, competitive analysis, and action planning."),
+function getActiveLanguage() {
+  return (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
+}
+
+function pickLocalizedValue(activeLang, zhValue, enValue) {
+  if (activeLang === 'en') {
+    return enValue || zhValue || '';
+  }
+  return zhValue || enValue || '';
+}
+
+function buildTeamData() {
+  const activeLang = getActiveLanguage();
+  return {
+    team_name: pickLocalizedValue(activeLang, "战略指挥团队", "Strategy Command Team"),
+    team_description: pickLocalizedValue(activeLang, "以战略、战术与组织执行为核心的跨时代团队。既有孙子、诸葛亮等兵法与谋略大师，也有现代管理与运营专家，适合用于复杂决策、竞争分析与行动方案推演。", "A cross-era team focused on strategy, tactics, and execution. From Sun Tzu and Zhuge Liang to modern management and operations experts, it is ideal for complex decisions, competitive analysis, and action planning."),
     members: [
       
       {
-        name: pickLocalized("孙子", "Sun Tzu"),
-        description: pickLocalized("《孙子兵法》作者，强调知彼知己、避实击虚，是战略思维的经典代表。", "Author of The Art of War, known for strategic principles such as knowing both self and opponent."),
+        name: pickLocalizedValue(activeLang, "孙子", "Sun Tzu"),
+        description: pickLocalizedValue(activeLang, "《孙子兵法》作者，强调知彼知己、避实击虚，是战略思维的经典代表。", "Author of The Art of War, known for strategic principles such as knowing both self and opponent."),
         soul_download_url: "https://agent-souls.com/real_world/sun_tzu/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/sun_tzu/"
       },
       
       {
-        name: pickLocalized("诸葛亮", "Zhuge Liang"),
-        description: pickLocalized("三国时期顶级谋略家与组织者，擅长长期规划、资源统筹与风险控制。", "A top strategist and organizer of the Three Kingdoms era, strong in long-term planning and resource coordination."),
+        name: pickLocalizedValue(activeLang, "诸葛亮", "Zhuge Liang"),
+        description: pickLocalizedValue(activeLang, "三国时期顶级谋略家与组织者，擅长长期规划、资源统筹与风险控制。", "A top strategist and organizer of the Three Kingdoms era, strong in long-term planning and resource coordination."),
         soul_download_url: "https://agent-souls.com/real_world/zhuge_liang/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/zhuge_liang/"
       },
       
       {
-        name: pickLocalized("韩信", "Han Xin"),
-        description: pickLocalized("汉初名将，善于出奇制胜与战场调度，强调战术灵活性与时机把握。", "A renowned early Han general known for flexible battlefield tactics and timing."),
+        name: pickLocalizedValue(activeLang, "韩信", "Han Xin"),
+        description: pickLocalizedValue(activeLang, "汉初名将，善于出奇制胜与战场调度，强调战术灵活性与时机把握。", "A renowned early Han general known for flexible battlefield tactics and timing."),
         soul_download_url: "https://agent-souls.com/real_world/han_xin/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/han_xin/"
       },
       
       {
-        name: pickLocalized("戚继光", "Qi Jiguang"),
-        description: pickLocalized("明代军事家，重视训练体系与战法标准化，擅长把策略落地为执行体系。", "A Ming military leader who emphasized training systems and standardized execution."),
+        name: pickLocalizedValue(activeLang, "戚继光", "Qi Jiguang"),
+        description: pickLocalizedValue(activeLang, "明代军事家，重视训练体系与战法标准化，擅长把策略落地为执行体系。", "A Ming military leader who emphasized training systems and standardized execution."),
         soul_download_url: "https://agent-souls.com/real_world/qi_jiguang/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/qi_jiguang/"
       },
       
       {
-        name: pickLocalized("魏征", "Wei Zheng"),
-        description: pickLocalized("唐代名臣，以直谏著称，擅长用制度与反馈机制校正决策偏差。", "A Tang statesman known for candid remonstrance and governance feedback mechanisms."),
+        name: pickLocalizedValue(activeLang, "魏征", "Wei Zheng"),
+        description: pickLocalizedValue(activeLang, "唐代名臣，以直谏著称，擅长用制度与反馈机制校正决策偏差。", "A Tang statesman known for candid remonstrance and governance feedback mechanisms."),
         soul_download_url: "https://agent-souls.com/real_world/wei_zheng/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/wei_zheng/"
       },
       
       {
-        name: pickLocalized("管理咨询顾问", "Management Consultant"),
-        description: pickLocalized("擅长结构化拆解复杂问题，建立战略路径和关键里程碑。", "Specializes in structuring complex problems into strategic roadmaps and milestones."),
+        name: pickLocalizedValue(activeLang, "管理咨询顾问", "Management Consultant"),
+        description: pickLocalizedValue(activeLang, "擅长结构化拆解复杂问题，建立战略路径和关键里程碑。", "Specializes in structuring complex problems into strategic roadmaps and milestones."),
         soul_download_url: "https://agent-souls.com/personas/management_consultant/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/management_consultant/"
       },
       
       {
-        name: pickLocalized("运营专家", "Operations Expert"),
-        description: pickLocalized("聚焦流程、协同与效率提升，确保战略方案稳定执行。", "Focuses on process, coordination, and efficiency to ensure stable execution."),
+        name: pickLocalizedValue(activeLang, "运营专家", "Operations Expert"),
+        description: pickLocalizedValue(activeLang, "聚焦流程、协同与效率提升，确保战略方案稳定执行。", "Focuses on process, coordination, and efficiency to ensure stable execution."),
         soul_download_url: "https://agent-souls.com/personas/operations_expert/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/operations_expert/"
       }
@@ -416,17 +456,53 @@ function downloadTeamConfig() {
     created_at: new Date().toISOString(),
     source: "Agent Souls - https://agent-souls.com"
   };
+}
 
+function generateTeamConfigDownloadUrl() {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+
+  const teamData = buildTeamData();
   const blob = new Blob([JSON.stringify(teamData, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
+  teamConfigBlobUrl = URL.createObjectURL(blob);
+  return teamConfigBlobUrl;
+}
+
+function downloadTeamConfig() {
+  const url = generateTeamConfigDownloadUrl();
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'team-strategy-command-team-config.json';
+  a.download = 'strategy-command-team.json';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  URL.revokeObjectURL(url);
 }
+
+function copyDownloadUrl() {
+  const copyBtn = document.getElementById('team-copy-url-btn');
+  if (!copyBtn || !navigator.clipboard) return;
+
+  const url = generateTeamConfigDownloadUrl();
+  navigator.clipboard.writeText(url).then(() => {
+    const originalText = copyBtn.textContent;
+    const activeLang = getActiveLanguage();
+    const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
+
+    copyBtn.textContent = copiedText;
+    setTimeout(() => {
+      copyBtn.textContent = originalText;
+    }, 2000);
+  });
+}
+
+window.addEventListener('beforeunload', () => {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+});
 </script>
 
   </main>

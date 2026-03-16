@@ -168,10 +168,44 @@
   </div>
 
   <div class="team-actions">
-    <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
+    <button
+      id="team-download-btn"
+      type="button"
+      class="btn btn-download"
+      onclick="downloadTeamConfig()"
+      data-i18n="teams.download_config"
+    >
       下载团队配置
     </button>
+    <button
+      id="team-copy-url-btn"
+      type="button"
+      class="btn btn-copy-url"
+      onclick="copyDownloadUrl()"
+      data-i18n="action.copy_url"
+    >
+      复制 URL
+    </button>
   </div>
+
+  <style>
+    .team-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .team-actions .btn {
+      color: var(--text-color);
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .team-actions .btn:hover {
+      color: #fff;
+    }
+  </style>
 
   <div class="team-members-section">
     <h2 data-i18n="teams.member_list">团队成员</h2>
@@ -372,72 +406,78 @@
 </div>
 
 <script>
-function downloadTeamConfig() {
-  const activeLang = (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
-  const pickLocalized = (zhValue, enValue) => {
-    if (activeLang === 'en') {
-      return enValue || zhValue || '';
-    }
-    return zhValue || enValue || '';
-  };
+let teamConfigBlobUrl = '';
 
-  const teamData = {
-    team_name: pickLocalized("哲学家团队", "Philosopher Team"),
-    team_description: pickLocalized("汇聚东西方最伟大的哲学家，从古希腊的苏格拉底、柏拉图、亚里士多德，到中国的孔子、老子，再到德国的康德、尼采。让 AI 以哲学家的思维方式与你探讨人生、伦理与真理。", "A team of the greatest philosophers from East and West, from ancient Greek Socrates, Plato, and Aristotle, to Chinese Confucius and Laozi, to German Kant and Nietzsche. Experience philosophical thinking on life, ethics, and truth."),
+function getActiveLanguage() {
+  return (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
+}
+
+function pickLocalizedValue(activeLang, zhValue, enValue) {
+  if (activeLang === 'en') {
+    return enValue || zhValue || '';
+  }
+  return zhValue || enValue || '';
+}
+
+function buildTeamData() {
+  const activeLang = getActiveLanguage();
+  return {
+    team_name: pickLocalizedValue(activeLang, "哲学家团队", "Philosopher Team"),
+    team_description: pickLocalizedValue(activeLang, "汇聚东西方最伟大的哲学家，从古希腊的苏格拉底、柏拉图、亚里士多德，到中国的孔子、老子，再到德国的康德、尼采。让 AI 以哲学家的思维方式与你探讨人生、伦理与真理。", "A team of the greatest philosophers from East and West, from ancient Greek Socrates, Plato, and Aristotle, to Chinese Confucius and Laozi, to German Kant and Nietzsche. Experience philosophical thinking on life, ethics, and truth."),
     members: [
       
       {
-        name: pickLocalized("苏格拉底", "Socrates"),
-        description: pickLocalized("古希腊哲学家，苏格拉底式诘问法的创始人，主张'认识你自己'，通过不断提问引导人们发现真理。", "Ancient Greek philosopher, founder of the Socratic method, advocated 'Know Thyself', guided people to discover truth through questioning."),
+        name: pickLocalizedValue(activeLang, "苏格拉底", "Socrates"),
+        description: pickLocalizedValue(activeLang, "古希腊哲学家，苏格拉底式诘问法的创始人，主张'认识你自己'，通过不断提问引导人们发现真理。", "Ancient Greek philosopher, founder of the Socratic method, advocated 'Know Thyself', guided people to discover truth through questioning."),
         soul_download_url: "https://agent-souls.com/real_world/socrates/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/socrates/"
       },
       
       {
-        name: pickLocalized("柏拉图", "Plato"),
-        description: pickLocalized("苏格拉底的学生，西方哲学史上最重要的哲学家之一，提出了理念论和理想国的概念。", "Student of Socrates, one of the most important philosophers in Western history, proposed the Theory of Forms and the concept of the ideal state."),
+        name: pickLocalizedValue(activeLang, "柏拉图", "Plato"),
+        description: pickLocalizedValue(activeLang, "苏格拉底的学生，西方哲学史上最重要的哲学家之一，提出了理念论和理想国的概念。", "Student of Socrates, one of the most important philosophers in Western history, proposed the Theory of Forms and the concept of the ideal state."),
         soul_download_url: "https://agent-souls.com/real_world/plato/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/plato/"
       },
       
       {
-        name: pickLocalized("亚里士多德", "Aristotle"),
-        description: pickLocalized("柏拉图的学生，百科全书式的哲学家，在逻辑学、伦理学、政治学、物理学等领域都有开创性贡献。", "Student of Plato, encyclopedic philosopher, made groundbreaking contributions to logic, ethics, politics, physics, and more."),
+        name: pickLocalizedValue(activeLang, "亚里士多德", "Aristotle"),
+        description: pickLocalizedValue(activeLang, "柏拉图的学生，百科全书式的哲学家，在逻辑学、伦理学、政治学、物理学等领域都有开创性贡献。", "Student of Plato, encyclopedic philosopher, made groundbreaking contributions to logic, ethics, politics, physics, and more."),
         soul_download_url: "https://agent-souls.com/real_world/aristotle/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/aristotle/"
       },
       
       {
-        name: pickLocalized("孔子", "Confucius"),
-        description: pickLocalized("中国古代思想家、教育家，儒家学派创始人，提倡仁义礼智信，影响东亚文化数千年。", "Ancient Chinese thinker and educator, founder of Confucianism, advocated benevolence, righteousness, propriety, wisdom, and faithfulness."),
+        name: pickLocalizedValue(activeLang, "孔子", "Confucius"),
+        description: pickLocalizedValue(activeLang, "中国古代思想家、教育家，儒家学派创始人，提倡仁义礼智信，影响东亚文化数千年。", "Ancient Chinese thinker and educator, founder of Confucianism, advocated benevolence, righteousness, propriety, wisdom, and faithfulness."),
         soul_download_url: "https://agent-souls.com/real_world/confucius/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/confucius/"
       },
       
       {
-        name: pickLocalized("老子", "Laozi"),
-        description: pickLocalized("道家学派创始人，著有《道德经》，主张无为而治、道法自然，影响深远的东方哲学家。", "Founder of Taoism, author of Tao Te Ching, advocated wu wei (non-action) and harmony with nature."),
+        name: pickLocalizedValue(activeLang, "老子", "Laozi"),
+        description: pickLocalizedValue(activeLang, "道家学派创始人，著有《道德经》，主张无为而治、道法自然，影响深远的东方哲学家。", "Founder of Taoism, author of Tao Te Ching, advocated wu wei (non-action) and harmony with nature."),
         soul_download_url: "https://agent-souls.com/real_world/laozi/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/laozi/"
       },
       
       {
-        name: pickLocalized("塞涅卡", "Seneca"),
-        description: pickLocalized("古罗马斯多葛派哲学家、政治家、剧作家，强调内心平静与德性的重要性。", "Roman Stoic philosopher, statesman, and dramatist, emphasized inner peace and the importance of virtue."),
+        name: pickLocalizedValue(activeLang, "塞涅卡", "Seneca"),
+        description: pickLocalizedValue(activeLang, "古罗马斯多葛派哲学家、政治家、剧作家，强调内心平静与德性的重要性。", "Roman Stoic philosopher, statesman, and dramatist, emphasized inner peace and the importance of virtue."),
         soul_download_url: "https://agent-souls.com/real_world/seneca/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/seneca/"
       },
       
       {
-        name: pickLocalized("康德", "Immanuel Kant"),
-        description: pickLocalized("德国古典哲学创始人，提出'纯粹理性批判'，探讨知识、道德与审美的先验基础。", "Founder of German classical philosophy, author of Critique of Pure Reason, explored transcendental foundations of knowledge, morality, and aesthetics."),
+        name: pickLocalizedValue(activeLang, "康德", "Immanuel Kant"),
+        description: pickLocalizedValue(activeLang, "德国古典哲学创始人，提出'纯粹理性批判'，探讨知识、道德与审美的先验基础。", "Founder of German classical philosophy, author of Critique of Pure Reason, explored transcendental foundations of knowledge, morality, and aesthetics."),
         soul_download_url: "https://agent-souls.com/real_world/immanuel_kant/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/immanuel_kant/"
       },
       
       {
-        name: pickLocalized("尼采", "Friedrich Nietzsche"),
-        description: pickLocalized("德国哲学家，提出'超人'、'权力意志'、'上帝已死'等思想，对现代哲学影响深远。", "German philosopher, introduced concepts of Übermensch, will to power, and 'God is dead', profoundly influenced modern philosophy."),
+        name: pickLocalizedValue(activeLang, "尼采", "Friedrich Nietzsche"),
+        description: pickLocalizedValue(activeLang, "德国哲学家，提出'超人'、'权力意志'、'上帝已死'等思想，对现代哲学影响深远。", "German philosopher, introduced concepts of Übermensch, will to power, and 'God is dead', profoundly influenced modern philosophy."),
         soul_download_url: "https://agent-souls.com/real_world/friedrich_nietzsche/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/friedrich_nietzsche/"
       }
@@ -446,17 +486,53 @@ function downloadTeamConfig() {
     created_at: new Date().toISOString(),
     source: "Agent Souls - https://agent-souls.com"
   };
+}
 
+function generateTeamConfigDownloadUrl() {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+
+  const teamData = buildTeamData();
   const blob = new Blob([JSON.stringify(teamData, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
+  teamConfigBlobUrl = URL.createObjectURL(blob);
+  return teamConfigBlobUrl;
+}
+
+function downloadTeamConfig() {
+  const url = generateTeamConfigDownloadUrl();
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'team-philosopher-team-config.json';
+  a.download = 'philosopher-team.json';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  URL.revokeObjectURL(url);
 }
+
+function copyDownloadUrl() {
+  const copyBtn = document.getElementById('team-copy-url-btn');
+  if (!copyBtn || !navigator.clipboard) return;
+
+  const url = generateTeamConfigDownloadUrl();
+  navigator.clipboard.writeText(url).then(() => {
+    const originalText = copyBtn.textContent;
+    const activeLang = getActiveLanguage();
+    const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
+
+    copyBtn.textContent = copiedText;
+    setTimeout(() => {
+      copyBtn.textContent = originalText;
+    }, 2000);
+  });
+}
+
+window.addEventListener('beforeunload', () => {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+});
 </script>
 
   </main>

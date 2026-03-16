@@ -168,10 +168,44 @@
   </div>
 
   <div class="team-actions">
-    <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
+    <button
+      id="team-download-btn"
+      type="button"
+      class="btn btn-download"
+      onclick="downloadTeamConfig()"
+      data-i18n="teams.download_config"
+    >
       下载团队配置
     </button>
+    <button
+      id="team-copy-url-btn"
+      type="button"
+      class="btn btn-copy-url"
+      onclick="copyDownloadUrl()"
+      data-i18n="action.copy_url"
+    >
+      复制 URL
+    </button>
   </div>
+
+  <style>
+    .team-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .team-actions .btn {
+      color: var(--text-color);
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .team-actions .btn:hover {
+      color: #fff;
+    }
+  </style>
 
   <div class="team-members-section">
     <h2 data-i18n="teams.member_list">团队成员</h2>
@@ -372,72 +406,78 @@
 </div>
 
 <script>
-function downloadTeamConfig() {
-  const activeLang = (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
-  const pickLocalized = (zhValue, enValue) => {
-    if (activeLang === 'en') {
-      return enValue || zhValue || '';
-    }
-    return zhValue || enValue || '';
-  };
+let teamConfigBlobUrl = '';
 
-  const teamData = {
-    team_name: pickLocalized("创新实验室团队", "Innovation Lab Team"),
-    team_description: pickLocalized("围绕科学发现与工程实现构建的团队，从经典科学家到现代 AI 与数据工程角色，适合用于技术路线探索、实验设计与创新产品孵化。", "A team built for scientific discovery and engineering implementation. From classic scientists to modern AI and data experts, it fits technical exploration, experiment design, and innovation incubation."),
+function getActiveLanguage() {
+  return (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
+}
+
+function pickLocalizedValue(activeLang, zhValue, enValue) {
+  if (activeLang === 'en') {
+    return enValue || zhValue || '';
+  }
+  return zhValue || enValue || '';
+}
+
+function buildTeamData() {
+  const activeLang = getActiveLanguage();
+  return {
+    team_name: pickLocalizedValue(activeLang, "创新实验室团队", "Innovation Lab Team"),
+    team_description: pickLocalizedValue(activeLang, "围绕科学发现与工程实现构建的团队，从经典科学家到现代 AI 与数据工程角色，适合用于技术路线探索、实验设计与创新产品孵化。", "A team built for scientific discovery and engineering implementation. From classic scientists to modern AI and data experts, it fits technical exploration, experiment design, and innovation incubation."),
     members: [
       
       {
-        name: pickLocalized("艾达·洛芙莱斯", "Ada Lovelace"),
-        description: pickLocalized("被誉为早期计算思想先驱，善于把抽象概念转化为可执行逻辑。", "A pioneer of computational thinking, translating abstract concepts into executable logic."),
+        name: pickLocalizedValue(activeLang, "艾达·洛芙莱斯", "Ada Lovelace"),
+        description: pickLocalizedValue(activeLang, "被誉为早期计算思想先驱，善于把抽象概念转化为可执行逻辑。", "A pioneer of computational thinking, translating abstract concepts into executable logic."),
         soul_download_url: "https://agent-souls.com/real_world/ada_lovelace/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/ada_lovelace/"
       },
       
       {
-        name: pickLocalized("查尔斯·巴贝奇", "Charles Babbage"),
-        description: pickLocalized("机械计算机设想者，擅长系统化工程设计与长期技术愿景。", "Conceived mechanical computing architectures and long-horizon engineering systems."),
+        name: pickLocalizedValue(activeLang, "查尔斯·巴贝奇", "Charles Babbage"),
+        description: pickLocalizedValue(activeLang, "机械计算机设想者，擅长系统化工程设计与长期技术愿景。", "Conceived mechanical computing architectures and long-horizon engineering systems."),
         soul_download_url: "https://agent-souls.com/real_world/charles_babbage/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/charles_babbage/"
       },
       
       {
-        name: pickLocalized("艾萨克·牛顿", "Isaac Newton"),
-        description: pickLocalized("经典物理奠基者，强调严谨建模、定量分析与第一性原理。", "A founder of classical physics, emphasizing rigorous modeling and first-principles thinking."),
+        name: pickLocalizedValue(activeLang, "艾萨克·牛顿", "Isaac Newton"),
+        description: pickLocalizedValue(activeLang, "经典物理奠基者，强调严谨建模、定量分析与第一性原理。", "A founder of classical physics, emphasizing rigorous modeling and first-principles thinking."),
         soul_download_url: "https://agent-souls.com/real_world/isaac_newton/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/isaac_newton/"
       },
       
       {
-        name: pickLocalized("詹姆斯·克拉克·麦克斯韦", "James Clerk Maxwell"),
-        description: pickLocalized("统一电磁理论的科学家，擅长跨学科整合与框架统一。", "Unified electromagnetic theory and exemplifies cross-domain framework integration."),
+        name: pickLocalizedValue(activeLang, "詹姆斯·克拉克·麦克斯韦", "James Clerk Maxwell"),
+        description: pickLocalizedValue(activeLang, "统一电磁理论的科学家，擅长跨学科整合与框架统一。", "Unified electromagnetic theory and exemplifies cross-domain framework integration."),
         soul_download_url: "https://agent-souls.com/real_world/james_clerk_maxwell/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/james_clerk_maxwell/"
       },
       
       {
-        name: pickLocalized("迈克尔·法拉第", "Michael Faraday"),
-        description: pickLocalized("以实验见长的科学家，重视可验证性、可复现性与工程落地。", "An experiment-driven scientist focused on verifiability, reproducibility, and practical application."),
+        name: pickLocalizedValue(activeLang, "迈克尔·法拉第", "Michael Faraday"),
+        description: pickLocalizedValue(activeLang, "以实验见长的科学家，重视可验证性、可复现性与工程落地。", "An experiment-driven scientist focused on verifiability, reproducibility, and practical application."),
         soul_download_url: "https://agent-souls.com/real_world/michael_faraday/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/michael_faraday/"
       },
       
       {
-        name: pickLocalized("AI 工程师", "AI Engineer"),
-        description: pickLocalized("负责模型与应用结合，推动智能能力在真实业务中落地。", "Bridges models and applications to deliver AI capabilities in real workflows."),
+        name: pickLocalizedValue(activeLang, "AI 工程师", "AI Engineer"),
+        description: pickLocalizedValue(activeLang, "负责模型与应用结合，推动智能能力在真实业务中落地。", "Bridges models and applications to deliver AI capabilities in real workflows."),
         soul_download_url: "https://agent-souls.com/personas/ai_engineer/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/ai_engineer/"
       },
       
       {
-        name: pickLocalized("数据工程师", "Data Engineer"),
-        description: pickLocalized("构建稳定的数据管道与数据资产体系，为算法与分析提供底座。", "Builds robust data pipelines and infrastructure for analytics and AI systems."),
+        name: pickLocalizedValue(activeLang, "数据工程师", "Data Engineer"),
+        description: pickLocalizedValue(activeLang, "构建稳定的数据管道与数据资产体系，为算法与分析提供底座。", "Builds robust data pipelines and infrastructure for analytics and AI systems."),
         soul_download_url: "https://agent-souls.com/personas/data_engineer/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/data_engineer/"
       },
       
       {
-        name: pickLocalized("科学家", "Scientist"),
-        description: pickLocalized("提供实验设计、假设验证与科研方法论支持。", "Provides experiment design, hypothesis testing, and scientific methodology support."),
+        name: pickLocalizedValue(activeLang, "科学家", "Scientist"),
+        description: pickLocalizedValue(activeLang, "提供实验设计、假设验证与科研方法论支持。", "Provides experiment design, hypothesis testing, and scientific methodology support."),
         soul_download_url: "https://agent-souls.com/personas/scientist/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/scientist/"
       }
@@ -446,17 +486,53 @@ function downloadTeamConfig() {
     created_at: new Date().toISOString(),
     source: "Agent Souls - https://agent-souls.com"
   };
+}
 
+function generateTeamConfigDownloadUrl() {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+
+  const teamData = buildTeamData();
   const blob = new Blob([JSON.stringify(teamData, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
+  teamConfigBlobUrl = URL.createObjectURL(blob);
+  return teamConfigBlobUrl;
+}
+
+function downloadTeamConfig() {
+  const url = generateTeamConfigDownloadUrl();
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'team-innovation-lab-team-config.json';
+  a.download = 'innovation-lab-team.json';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  URL.revokeObjectURL(url);
 }
+
+function copyDownloadUrl() {
+  const copyBtn = document.getElementById('team-copy-url-btn');
+  if (!copyBtn || !navigator.clipboard) return;
+
+  const url = generateTeamConfigDownloadUrl();
+  navigator.clipboard.writeText(url).then(() => {
+    const originalText = copyBtn.textContent;
+    const activeLang = getActiveLanguage();
+    const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
+
+    copyBtn.textContent = copiedText;
+    setTimeout(() => {
+      copyBtn.textContent = originalText;
+    }, 2000);
+  });
+}
+
+window.addEventListener('beforeunload', () => {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+});
 </script>
 
   </main>

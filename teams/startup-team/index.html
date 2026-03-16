@@ -168,10 +168,44 @@
   </div>
 
   <div class="team-actions">
-    <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
+    <button
+      id="team-download-btn"
+      type="button"
+      class="btn btn-download"
+      onclick="downloadTeamConfig()"
+      data-i18n="teams.download_config"
+    >
       下载团队配置
     </button>
+    <button
+      id="team-copy-url-btn"
+      type="button"
+      class="btn btn-copy-url"
+      onclick="copyDownloadUrl()"
+      data-i18n="action.copy_url"
+    >
+      复制 URL
+    </button>
   </div>
+
+  <style>
+    .team-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .team-actions .btn {
+      color: var(--text-color);
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .team-actions .btn:hover {
+      color: #fff;
+    }
+  </style>
 
   <div class="team-members-section">
     <h2 data-i18n="teams.member_list">团队成员</h2>
@@ -349,65 +383,71 @@
 </div>
 
 <script>
-function downloadTeamConfig() {
-  const activeLang = (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
-  const pickLocalized = (zhValue, enValue) => {
-    if (activeLang === 'en') {
-      return enValue || zhValue || '';
-    }
-    return zhValue || enValue || '';
-  };
+let teamConfigBlobUrl = '';
 
-  const teamData = {
-    team_name: pickLocalized("创业产品团队", "Startup Product Team"),
-    team_description: pickLocalized("完整的创业产品团队配置，涵盖产品、技术、增长、投资等核心角色。从 AI 产品经理到 CTO，从增长黑客到投资人，为你的创业项目提供全方位 AI 顾问支持。", "A complete startup product team covering core roles in product, technology, growth, and investment. From AI Product Manager to CTO, from Growth Hacker to Angel Investor, providing comprehensive AI advisory support for your startup."),
+function getActiveLanguage() {
+  return (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
+}
+
+function pickLocalizedValue(activeLang, zhValue, enValue) {
+  if (activeLang === 'en') {
+    return enValue || zhValue || '';
+  }
+  return zhValue || enValue || '';
+}
+
+function buildTeamData() {
+  const activeLang = getActiveLanguage();
+  return {
+    team_name: pickLocalizedValue(activeLang, "创业产品团队", "Startup Product Team"),
+    team_description: pickLocalizedValue(activeLang, "完整的创业产品团队配置，涵盖产品、技术、增长、投资等核心角色。从 AI 产品经理到 CTO，从增长黑客到投资人，为你的创业项目提供全方位 AI 顾问支持。", "A complete startup product team covering core roles in product, technology, growth, and investment. From AI Product Manager to CTO, from Growth Hacker to Angel Investor, providing comprehensive AI advisory support for your startup."),
     members: [
       
       {
-        name: pickLocalized("AI 产品经理", "AI Product Manager"),
-        description: pickLocalized("专注于 AI 产品定义、需求分析和用户体验设计，帮助团队打造智能产品。", "Focuses on AI product definition, requirement analysis, and user experience design, helping teams build intelligent products."),
+        name: pickLocalizedValue(activeLang, "AI 产品经理", "AI Product Manager"),
+        description: pickLocalizedValue(activeLang, "专注于 AI 产品定义、需求分析和用户体验设计，帮助团队打造智能产品。", "Focuses on AI product definition, requirement analysis, and user experience design, helping teams build intelligent products."),
         soul_download_url: "https://agent-souls.com/personas/ai_product_manager/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/ai_product_manager/"
       },
       
       {
-        name: pickLocalized("天使投资人", "Angel Investor"),
-        description: pickLocalized("早期投资专家，评估商业模式、团队和市场机会，为创业者提供战略指导。", "Early-stage investment expert, evaluates business models, teams, and market opportunities, providing strategic guidance for entrepreneurs."),
+        name: pickLocalizedValue(activeLang, "天使投资人", "Angel Investor"),
+        description: pickLocalizedValue(activeLang, "早期投资专家，评估商业模式、团队和市场机会，为创业者提供战略指导。", "Early-stage investment expert, evaluates business models, teams, and market opportunities, providing strategic guidance for entrepreneurs."),
         soul_download_url: "https://agent-souls.com/personas/angel_investor/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/angel_investor/"
       },
       
       {
-        name: pickLocalized("增长黑客", "Growth Hacker"),
-        description: pickLocalized("专注于用户增长和留存，运用数据驱动的方法实现产品的病毒式传播。", "Focuses on user growth and retention, using data-driven methods to achieve viral growth for products."),
+        name: pickLocalizedValue(activeLang, "增长黑客", "Growth Hacker"),
+        description: pickLocalizedValue(activeLang, "专注于用户增长和留存，运用数据驱动的方法实现产品的病毒式传播。", "Focuses on user growth and retention, using data-driven methods to achieve viral growth for products."),
         soul_download_url: "https://agent-souls.com/personas/growth_hacker/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/growth_hacker/"
       },
       
       {
-        name: pickLocalized("前端架构师", "Frontend Architect"),
-        description: pickLocalized("前端技术专家，负责技术选型、架构设计和性能优化，打造优秀的用户界面。", "Frontend technology expert, responsible for technology selection, architecture design, and performance optimization, creating excellent user interfaces."),
+        name: pickLocalizedValue(activeLang, "前端架构师", "Frontend Architect"),
+        description: pickLocalizedValue(activeLang, "前端技术专家，负责技术选型、架构设计和性能优化，打造优秀的用户界面。", "Frontend technology expert, responsible for technology selection, architecture design, and performance optimization, creating excellent user interfaces."),
         soul_download_url: "https://agent-souls.com/personas/frontend_architect/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/frontend_architect/"
       },
       
       {
-        name: pickLocalized("DevOps 专家", "DevOps Expert"),
-        description: pickLocalized("运维与开发一体化专家，构建 CI/CD 流程，保障系统稳定性和部署效率。", "DevOps specialist, builds CI/CD pipelines, ensures system stability and deployment efficiency."),
+        name: pickLocalizedValue(activeLang, "DevOps 专家", "DevOps Expert"),
+        description: pickLocalizedValue(activeLang, "运维与开发一体化专家，构建 CI/CD 流程，保障系统稳定性和部署效率。", "DevOps specialist, builds CI/CD pipelines, ensures system stability and deployment efficiency."),
         soul_download_url: "https://agent-souls.com/personas/devops_expert/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/devops_expert/"
       },
       
       {
-        name: pickLocalized("内容策略师", "Content Strategist"),
-        description: pickLocalized("内容营销专家，制定内容策略，提升品牌影响力和用户参与度。", "Content marketing expert, develops content strategies to enhance brand influence and user engagement."),
+        name: pickLocalizedValue(activeLang, "内容策略师", "Content Strategist"),
+        description: pickLocalizedValue(activeLang, "内容营销专家，制定内容策略，提升品牌影响力和用户参与度。", "Content marketing expert, develops content strategies to enhance brand influence and user engagement."),
         soul_download_url: "https://agent-souls.com/personas/content_strategist/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/content_strategist/"
       },
       
       {
-        name: pickLocalized("品牌策略师", "Brand Strategist"),
-        description: pickLocalized("品牌建设专家，定义品牌定位和调性，打造独特的品牌形象。", "Brand building expert, defines brand positioning and tone, creates unique brand identity."),
+        name: pickLocalizedValue(activeLang, "品牌策略师", "Brand Strategist"),
+        description: pickLocalizedValue(activeLang, "品牌建设专家，定义品牌定位和调性，打造独特的品牌形象。", "Brand building expert, defines brand positioning and tone, creates unique brand identity."),
         soul_download_url: "https://agent-souls.com/personas/brand_strategist/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/brand_strategist/"
       }
@@ -416,17 +456,53 @@ function downloadTeamConfig() {
     created_at: new Date().toISOString(),
     source: "Agent Souls - https://agent-souls.com"
   };
+}
 
+function generateTeamConfigDownloadUrl() {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+
+  const teamData = buildTeamData();
   const blob = new Blob([JSON.stringify(teamData, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
+  teamConfigBlobUrl = URL.createObjectURL(blob);
+  return teamConfigBlobUrl;
+}
+
+function downloadTeamConfig() {
+  const url = generateTeamConfigDownloadUrl();
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'team-startup-team-config.json';
+  a.download = 'startup-team.json';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  URL.revokeObjectURL(url);
 }
+
+function copyDownloadUrl() {
+  const copyBtn = document.getElementById('team-copy-url-btn');
+  if (!copyBtn || !navigator.clipboard) return;
+
+  const url = generateTeamConfigDownloadUrl();
+  navigator.clipboard.writeText(url).then(() => {
+    const originalText = copyBtn.textContent;
+    const activeLang = getActiveLanguage();
+    const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
+
+    copyBtn.textContent = copiedText;
+    setTimeout(() => {
+      copyBtn.textContent = originalText;
+    }, 2000);
+  });
+}
+
+window.addEventListener('beforeunload', () => {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+});
 </script>
 
   </main>

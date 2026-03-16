@@ -168,10 +168,44 @@
   </div>
 
   <div class="team-actions">
-    <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
+    <button
+      id="team-download-btn"
+      type="button"
+      class="btn btn-download"
+      onclick="downloadTeamConfig()"
+      data-i18n="teams.download_config"
+    >
       下载团队配置
     </button>
+    <button
+      id="team-copy-url-btn"
+      type="button"
+      class="btn btn-copy-url"
+      onclick="copyDownloadUrl()"
+      data-i18n="action.copy_url"
+    >
+      复制 URL
+    </button>
   </div>
+
+  <style>
+    .team-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .team-actions .btn {
+      color: var(--text-color);
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .team-actions .btn:hover {
+      color: #fff;
+    }
+  </style>
 
   <div class="team-members-section">
     <h2 data-i18n="teams.member_list">团队成员</h2>
@@ -372,72 +406,78 @@
 </div>
 
 <script>
-function downloadTeamConfig() {
-  const activeLang = (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
-  const pickLocalized = (zhValue, enValue) => {
-    if (activeLang === 'en') {
-      return enValue || zhValue || '';
-    }
-    return zhValue || enValue || '';
-  };
+let teamConfigBlobUrl = '';
 
-  const teamData = {
-    team_name: pickLocalized("公共治理团队", "Policy & Governance Team"),
-    team_description: pickLocalized("聚焦制度设计、公共政策与组织治理。结合历史政治家与现代政策顾问角色，适合政策分析、治理方案和制度风险评估。", "A team focused on institutional design, public policy, and governance. It combines historical statesmen with modern advisors for policy analysis and governance planning."),
+function getActiveLanguage() {
+  return (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
+}
+
+function pickLocalizedValue(activeLang, zhValue, enValue) {
+  if (activeLang === 'en') {
+    return enValue || zhValue || '';
+  }
+  return zhValue || enValue || '';
+}
+
+function buildTeamData() {
+  const activeLang = getActiveLanguage();
+  return {
+    team_name: pickLocalizedValue(activeLang, "公共治理团队", "Policy & Governance Team"),
+    team_description: pickLocalizedValue(activeLang, "聚焦制度设计、公共政策与组织治理。结合历史政治家与现代政策顾问角色，适合政策分析、治理方案和制度风险评估。", "A team focused on institutional design, public policy, and governance. It combines historical statesmen with modern advisors for policy analysis and governance planning."),
     members: [
       
       {
-        name: pickLocalized("亚伯拉罕·林肯", "Abraham Lincoln"),
-        description: pickLocalized("在危机中推进国家整合与制度重构，擅长价值与现实平衡。", "Led institutional reconstruction in crisis while balancing values and pragmatism."),
+        name: pickLocalizedValue(activeLang, "亚伯拉罕·林肯", "Abraham Lincoln"),
+        description: pickLocalizedValue(activeLang, "在危机中推进国家整合与制度重构，擅长价值与现实平衡。", "Led institutional reconstruction in crisis while balancing values and pragmatism."),
         soul_download_url: "https://agent-souls.com/real_world/abraham_lincoln/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/abraham_lincoln/"
       },
       
       {
-        name: pickLocalized("亚历山大·汉密尔顿", "Alexander Hamilton"),
-        description: pickLocalized("现代财政与国家治理架构的重要设计者，强调制度化能力建设。", "A key architect of modern fiscal and state capacity institutions."),
+        name: pickLocalizedValue(activeLang, "亚历山大·汉密尔顿", "Alexander Hamilton"),
+        description: pickLocalizedValue(activeLang, "现代财政与国家治理架构的重要设计者，强调制度化能力建设。", "A key architect of modern fiscal and state capacity institutions."),
         soul_download_url: "https://agent-souls.com/real_world/alexander_hamilton/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/alexander_hamilton/"
       },
       
       {
-        name: pickLocalized("孟德斯鸠", "Montesquieu"),
-        description: pickLocalized("提出分权思想，强调权力制衡与制度边界。", "Known for separation of powers and constitutional checks and balances."),
+        name: pickLocalizedValue(activeLang, "孟德斯鸠", "Montesquieu"),
+        description: pickLocalizedValue(activeLang, "提出分权思想，强调权力制衡与制度边界。", "Known for separation of powers and constitutional checks and balances."),
         soul_download_url: "https://agent-souls.com/real_world/montesquieu/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/montesquieu/"
       },
       
       {
-        name: pickLocalized("王安石", "Wang Anshi"),
-        description: pickLocalized("北宋改革家，擅长系统性制度变革与财政治理。", "A Song reformer skilled in systemic institutional and fiscal reform."),
+        name: pickLocalizedValue(activeLang, "王安石", "Wang Anshi"),
+        description: pickLocalizedValue(activeLang, "北宋改革家，擅长系统性制度变革与财政治理。", "A Song reformer skilled in systemic institutional and fiscal reform."),
         soul_download_url: "https://agent-souls.com/real_world/wang_anshi/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/wang_anshi/"
       },
       
       {
-        name: pickLocalized("张居正", "Zhang Juzheng"),
-        description: pickLocalized("明代改革重臣，强调行政效率、考核机制与财政整顿。", "A Ming reform statesman focused on administrative efficiency and fiscal discipline."),
+        name: pickLocalizedValue(activeLang, "张居正", "Zhang Juzheng"),
+        description: pickLocalizedValue(activeLang, "明代改革重臣，强调行政效率、考核机制与财政整顿。", "A Ming reform statesman focused on administrative efficiency and fiscal discipline."),
         soul_download_url: "https://agent-souls.com/real_world/zhang_juzheng/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/zhang_juzheng/"
       },
       
       {
-        name: pickLocalized("政治分析师", "Political Analyst"),
-        description: pickLocalized("提供当代政治结构与政策博弈分析，辅助策略判断。", "Provides modern political-structure and policy-game analysis for strategy support."),
+        name: pickLocalizedValue(activeLang, "政治分析师", "Political Analyst"),
+        description: pickLocalizedValue(activeLang, "提供当代政治结构与政策博弈分析，辅助策略判断。", "Provides modern political-structure and policy-game analysis for strategy support."),
         soul_download_url: "https://agent-souls.com/personas/political_analyst/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/political_analyst/"
       },
       
       {
-        name: pickLocalized("法律学者", "Legal Scholar"),
-        description: pickLocalized("从法理与制度合规角度评估政策方案的可行性。", "Evaluates policy options through legal theory and institutional compliance."),
+        name: pickLocalizedValue(activeLang, "法律学者", "Legal Scholar"),
+        description: pickLocalizedValue(activeLang, "从法理与制度合规角度评估政策方案的可行性。", "Evaluates policy options through legal theory and institutional compliance."),
         soul_download_url: "https://agent-souls.com/personas/legal_scholar/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/legal_scholar/"
       },
       
       {
-        name: pickLocalized("经济学家", "Economist"),
-        description: pickLocalized("评估政策对资源配置、激励机制与长期增长的影响。", "Assesses policy impact on allocation, incentives, and long-term growth."),
+        name: pickLocalizedValue(activeLang, "经济学家", "Economist"),
+        description: pickLocalizedValue(activeLang, "评估政策对资源配置、激励机制与长期增长的影响。", "Assesses policy impact on allocation, incentives, and long-term growth."),
         soul_download_url: "https://agent-souls.com/personas/economist/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/economist/"
       }
@@ -446,17 +486,53 @@ function downloadTeamConfig() {
     created_at: new Date().toISOString(),
     source: "Agent Souls - https://agent-souls.com"
   };
+}
 
+function generateTeamConfigDownloadUrl() {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+
+  const teamData = buildTeamData();
   const blob = new Blob([JSON.stringify(teamData, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
+  teamConfigBlobUrl = URL.createObjectURL(blob);
+  return teamConfigBlobUrl;
+}
+
+function downloadTeamConfig() {
+  const url = generateTeamConfigDownloadUrl();
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'team-policy-governance-team-config.json';
+  a.download = 'policy-governance-team.json';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  URL.revokeObjectURL(url);
 }
+
+function copyDownloadUrl() {
+  const copyBtn = document.getElementById('team-copy-url-btn');
+  if (!copyBtn || !navigator.clipboard) return;
+
+  const url = generateTeamConfigDownloadUrl();
+  navigator.clipboard.writeText(url).then(() => {
+    const originalText = copyBtn.textContent;
+    const activeLang = getActiveLanguage();
+    const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
+
+    copyBtn.textContent = copiedText;
+    setTimeout(() => {
+      copyBtn.textContent = originalText;
+    }, 2000);
+  });
+}
+
+window.addEventListener('beforeunload', () => {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+});
 </script>
 
   </main>

@@ -168,10 +168,44 @@
   </div>
 
   <div class="team-actions">
-    <button class="btn btn-download" onclick="downloadTeamConfig()" data-i18n="teams.download_config">
+    <button
+      id="team-download-btn"
+      type="button"
+      class="btn btn-download"
+      onclick="downloadTeamConfig()"
+      data-i18n="teams.download_config"
+    >
       下载团队配置
     </button>
+    <button
+      id="team-copy-url-btn"
+      type="button"
+      class="btn btn-copy-url"
+      onclick="copyDownloadUrl()"
+      data-i18n="action.copy_url"
+    >
+      复制 URL
+    </button>
   </div>
+
+  <style>
+    .team-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 0.55rem;
+    }
+
+    .team-actions .btn {
+      color: var(--text-color);
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .team-actions .btn:hover {
+      color: #fff;
+    }
+  </style>
 
   <div class="team-members-section">
     <h2 data-i18n="teams.member_list">团队成员</h2>
@@ -372,72 +406,78 @@
 </div>
 
 <script>
-function downloadTeamConfig() {
-  const activeLang = (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
-  const pickLocalized = (zhValue, enValue) => {
-    if (activeLang === 'en') {
-      return enValue || zhValue || '';
-    }
-    return zhValue || enValue || '';
-  };
+let teamConfigBlobUrl = '';
 
-  const teamData = {
-    team_name: pickLocalized("青年天才团队", "Young Prodigy Team"),
-    team_description: pickLocalized("以“年轻成名、早期突破”为共同特征的团队。适合高密度学习、短周期冲刺和个人成长规划场景，强调速度、潜力与方法。", "A team centered on early achievement and youthful breakthroughs. Useful for intensive learning, short-cycle execution, and growth planning."),
+function getActiveLanguage() {
+  return (typeof window.getLanguage === 'function' && window.getLanguage() === 'en') ? 'en' : 'zh';
+}
+
+function pickLocalizedValue(activeLang, zhValue, enValue) {
+  if (activeLang === 'en') {
+    return enValue || zhValue || '';
+  }
+  return zhValue || enValue || '';
+}
+
+function buildTeamData() {
+  const activeLang = getActiveLanguage();
+  return {
+    team_name: pickLocalizedValue(activeLang, "青年天才团队", "Young Prodigy Team"),
+    team_description: pickLocalizedValue(activeLang, "以“年轻成名、早期突破”为共同特征的团队。适合高密度学习、短周期冲刺和个人成长规划场景，强调速度、潜力与方法。", "A team centered on early achievement and youthful breakthroughs. Useful for intensive learning, short-cycle execution, and growth planning."),
     members: [
       
       {
-        name: pickLocalized("霍去病", "Huo Qubing"),
-        description: pickLocalized("年少成名的军事天才，代表高压环境下的快速决断与执行。", "A young military prodigy known for rapid decision-making and execution."),
+        name: pickLocalizedValue(activeLang, "霍去病", "Huo Qubing"),
+        description: pickLocalizedValue(activeLang, "年少成名的军事天才，代表高压环境下的快速决断与执行。", "A young military prodigy known for rapid decision-making and execution."),
         soul_download_url: "https://agent-souls.com/real_world/huo_qubing/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/huo_qubing/"
       },
       
       {
-        name: pickLocalized("王弼", "Wang Bi"),
-        description: pickLocalized("少年哲学家，以极高抽象能力重构经典解释体系。", "A young philosopher with exceptional abstract reasoning and reinterpretation ability."),
+        name: pickLocalizedValue(activeLang, "王弼", "Wang Bi"),
+        description: pickLocalizedValue(activeLang, "少年哲学家，以极高抽象能力重构经典解释体系。", "A young philosopher with exceptional abstract reasoning and reinterpretation ability."),
         soul_download_url: "https://agent-souls.com/real_world/wang_bi/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/wang_bi/"
       },
       
       {
-        name: pickLocalized("艾达·洛芙莱斯", "Ada Lovelace"),
-        description: pickLocalized("早期计算思想先驱，代表跨学科背景下的前瞻创造力。", "A pioneering computational thinker representing cross-disciplinary creativity."),
+        name: pickLocalizedValue(activeLang, "艾达·洛芙莱斯", "Ada Lovelace"),
+        description: pickLocalizedValue(activeLang, "早期计算思想先驱，代表跨学科背景下的前瞻创造力。", "A pioneering computational thinker representing cross-disciplinary creativity."),
         soul_download_url: "https://agent-souls.com/real_world/ada_lovelace/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/ada_lovelace/"
       },
       
       {
-        name: pickLocalized("亚历山大·汉密尔顿", "Alexander Hamilton"),
-        description: pickLocalized("青年时期即参与国家制度构建，兼具表达力与组织力。", "Contributed to state-building at a young age with strong rhetoric and organization."),
+        name: pickLocalizedValue(activeLang, "亚历山大·汉密尔顿", "Alexander Hamilton"),
+        description: pickLocalizedValue(activeLang, "青年时期即参与国家制度构建，兼具表达力与组织力。", "Contributed to state-building at a young age with strong rhetoric and organization."),
         soul_download_url: "https://agent-souls.com/real_world/alexander_hamilton/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/alexander_hamilton/"
       },
       
       {
-        name: pickLocalized("约翰·斯图亚特·密尔", "John Stuart Mill"),
-        description: pickLocalized("典型的早熟型思想家，强调理性训练与终身自我修正。", "A classic early-formed thinker emphasizing disciplined reasoning and self-correction."),
+        name: pickLocalizedValue(activeLang, "约翰·斯图亚特·密尔", "John Stuart Mill"),
+        description: pickLocalizedValue(activeLang, "典型的早熟型思想家，强调理性训练与终身自我修正。", "A classic early-formed thinker emphasizing disciplined reasoning and self-correction."),
         soul_download_url: "https://agent-souls.com/real_world/john_stuart_mill/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/john_stuart_mill/"
       },
       
       {
-        name: pickLocalized("约翰·沃尔夫冈·冯·歌德", "Johann Wolfgang von Goethe"),
-        description: pickLocalized("青年期即以文学创作震动欧洲，兼具艺术与思想成长曲线。", "Rose to literary prominence early and embodies sustained artistic development."),
+        name: pickLocalizedValue(activeLang, "约翰·沃尔夫冈·冯·歌德", "Johann Wolfgang von Goethe"),
+        description: pickLocalizedValue(activeLang, "青年期即以文学创作震动欧洲，兼具艺术与思想成长曲线。", "Rose to literary prominence early and embodies sustained artistic development."),
         soul_download_url: "https://agent-souls.com/real_world/johann_wolfgang_von_goethe/SOUL.md",
         soul_page_url: "https://agent-souls.com/real_world/johann_wolfgang_von_goethe/"
       },
       
       {
-        name: pickLocalized("职业规划师", "Career Planner"),
-        description: pickLocalized("帮助高潜个体明确路径、节奏与关键转折点。", "Helps high-potential individuals define path, pace, and key inflection points."),
+        name: pickLocalizedValue(activeLang, "职业规划师", "Career Planner"),
+        description: pickLocalizedValue(activeLang, "帮助高潜个体明确路径、节奏与关键转折点。", "Helps high-potential individuals define path, pace, and key inflection points."),
         soul_download_url: "https://agent-souls.com/personas/career_planner/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/career_planner/"
       },
       
       {
-        name: pickLocalized("技能教练", "Skills Coach"),
-        description: pickLocalized("聚焦核心能力刻意训练，提升短期进步效率。", "Focuses on deliberate practice of core skills for faster short-term improvement."),
+        name: pickLocalizedValue(activeLang, "技能教练", "Skills Coach"),
+        description: pickLocalizedValue(activeLang, "聚焦核心能力刻意训练，提升短期进步效率。", "Focuses on deliberate practice of core skills for faster short-term improvement."),
         soul_download_url: "https://agent-souls.com/personas/skills_coach/SOUL.md",
         soul_page_url: "https://agent-souls.com/personas/skills_coach/"
       }
@@ -446,17 +486,53 @@ function downloadTeamConfig() {
     created_at: new Date().toISOString(),
     source: "Agent Souls - https://agent-souls.com"
   };
+}
 
+function generateTeamConfigDownloadUrl() {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+
+  const teamData = buildTeamData();
   const blob = new Blob([JSON.stringify(teamData, null, 2)], { type: 'application/json' });
-  const url = URL.createObjectURL(blob);
+  teamConfigBlobUrl = URL.createObjectURL(blob);
+  return teamConfigBlobUrl;
+}
+
+function downloadTeamConfig() {
+  const url = generateTeamConfigDownloadUrl();
   const a = document.createElement('a');
   a.href = url;
-  a.download = 'team-young-prodigy-team-config.json';
+  a.download = 'young-prodigy-team.json';
   document.body.appendChild(a);
   a.click();
   document.body.removeChild(a);
-  URL.revokeObjectURL(url);
 }
+
+function copyDownloadUrl() {
+  const copyBtn = document.getElementById('team-copy-url-btn');
+  if (!copyBtn || !navigator.clipboard) return;
+
+  const url = generateTeamConfigDownloadUrl();
+  navigator.clipboard.writeText(url).then(() => {
+    const originalText = copyBtn.textContent;
+    const activeLang = getActiveLanguage();
+    const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
+
+    copyBtn.textContent = copiedText;
+    setTimeout(() => {
+      copyBtn.textContent = originalText;
+    }, 2000);
+  });
+}
+
+window.addEventListener('beforeunload', () => {
+  if (teamConfigBlobUrl) {
+    URL.revokeObjectURL(teamConfigBlobUrl);
+    teamConfigBlobUrl = '';
+  }
+});
 </script>
 
   </main>
