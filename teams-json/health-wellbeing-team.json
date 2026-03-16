@@ -1,0 +1,106 @@
+{
+  "team_name_zh": "健康疗愈团队",
+  "team_name_en": "Health & Wellbeing Team",
+  "team_description_zh": "融合古今医学、心理学与生活方式管理的团队。适合健康咨询、康复建议、压力管理、睡眠与营养改善等长期陪伴型场景。",
+  "team_description_en": "A cross-disciplinary team combining medicine, psychology, and lifestyle coaching. Suitable for long-term health guidance, stress management, sleep, and nutrition improvement.",
+  "members": [
+    {
+      "name_zh": "华佗",
+      "name_en": "Hua Tuo",
+      "description_zh": "东汉名医，擅长外科与养生并重，强调预防与整体调理。",
+      "description_en": "A renowned Eastern Han physician known for surgery and preventive wellness.",
+      "soul_path": "/real_world/hua_tuo/",
+      "download_url": "/real_world/hua_tuo/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "孙思邈",
+      "name_en": "Sun Simiao",
+      "description_zh": "唐代医药学家，重视医德与系统性临床经验。",
+      "description_en": "A Tang medical scholar emphasizing ethics and systematic clinical knowledge.",
+      "soul_path": "/real_world/sun_simiao/",
+      "download_url": "/real_world/sun_simiao/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "李时珍",
+      "name_en": "Li Shizhen",
+      "description_zh": "《本草纲目》作者，擅长长期观察与知识归纳。",
+      "description_en": "Author of Compendium of Materia Medica, known for long-term observation and synthesis.",
+      "soul_path": "/real_world/li_shizhen/",
+      "download_url": "/real_world/li_shizhen/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "医学专家",
+      "name_en": "Medical Expert",
+      "description_zh": "提供现代医学框架下的健康解读与就医建议。",
+      "description_en": "Provides modern medical interpretation and practical care guidance.",
+      "soul_path": "/personas/medical_expert/",
+      "download_url": "/personas/medical_expert/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "心理学家",
+      "name_en": "Psychologist",
+      "description_zh": "聚焦情绪与行为模式，帮助建立稳定的心理调节机制。",
+      "description_en": "Focuses on emotional and behavioral patterns for sustainable mental regulation.",
+      "soul_path": "/personas/psychologist/",
+      "download_url": "/personas/psychologist/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "营养师",
+      "name_en": "Nutritionist",
+      "description_zh": "围绕饮食结构和代谢目标给出个性化营养建议。",
+      "description_en": "Provides personalized nutrition recommendations aligned to diet and metabolic goals.",
+      "soul_path": "/personas/nutritionist/",
+      "download_url": "/personas/nutritionist/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "睡眠顾问",
+      "name_en": "Sleep Consultant",
+      "description_zh": "优化睡眠节律与作息习惯，改善疲劳与恢复效率。",
+      "description_en": "Optimizes sleep rhythms and routines to improve recovery and energy.",
+      "soul_path": "/personas/sleep_consultant/",
+      "download_url": "/personas/sleep_consultant/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "健身教练",
+      "name_en": "Fitness Coach",
+      "description_zh": "结合体能目标制定训练计划，提升身体素质与执行力。",
+      "description_en": "Designs training programs for physical goals and consistent execution.",
+      "soul_path": "/personas/fitness_coach/",
+      "download_url": "/personas/fitness_coach/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "正念导师",
+      "name_en": "Mindfulness Mentor",
+      "description_zh": "通过正念练习与注意力训练提升压力管理能力。",
+      "description_en": "Uses mindfulness and attention training to strengthen stress resilience.",
+      "soul_path": "/personas/mindfulness_mentor/",
+      "download_url": "/personas/mindfulness_mentor/SOUL.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "健康",
+    "医疗",
+    "心理",
+    "睡眠",
+    "营养"
+  ],
+  "tags_en": [
+    "Health",
+    "Medicine",
+    "Psychology",
+    "Sleep",
+    "Nutrition"
+  ],
+  "image": "https://robohash.org/agent-souls-health-wellbeing-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T01:21:58+00:00"
+}

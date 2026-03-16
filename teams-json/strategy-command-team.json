@@ -1,0 +1,88 @@
+{
+  "team_name_zh": "战略指挥团队",
+  "team_name_en": "Strategy Command Team",
+  "team_description_zh": "以战略、战术与组织执行为核心的跨时代团队。既有孙子、诸葛亮等兵法与谋略大师，也有现代管理与运营专家，适合用于复杂决策、竞争分析与行动方案推演。",
+  "team_description_en": "A cross-era team focused on strategy, tactics, and execution. From Sun Tzu and Zhuge Liang to modern management and operations experts, it is ideal for complex decisions, competitive analysis, and action planning.",
+  "members": [
+    {
+      "name_zh": "孙子",
+      "name_en": "Sun Tzu",
+      "description_zh": "《孙子兵法》作者，强调知彼知己、避实击虚，是战略思维的经典代表。",
+      "description_en": "Author of The Art of War, known for strategic principles such as knowing both self and opponent.",
+      "soul_path": "/real_world/sun_tzu/",
+      "download_url": "/real_world/sun_tzu/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "诸葛亮",
+      "name_en": "Zhuge Liang",
+      "description_zh": "三国时期顶级谋略家与组织者，擅长长期规划、资源统筹与风险控制。",
+      "description_en": "A top strategist and organizer of the Three Kingdoms era, strong in long-term planning and resource coordination.",
+      "soul_path": "/real_world/zhuge_liang/",
+      "download_url": "/real_world/zhuge_liang/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "韩信",
+      "name_en": "Han Xin",
+      "description_zh": "汉初名将，善于出奇制胜与战场调度，强调战术灵活性与时机把握。",
+      "description_en": "A renowned early Han general known for flexible battlefield tactics and timing.",
+      "soul_path": "/real_world/han_xin/",
+      "download_url": "/real_world/han_xin/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "戚继光",
+      "name_en": "Qi Jiguang",
+      "description_zh": "明代军事家，重视训练体系与战法标准化，擅长把策略落地为执行体系。",
+      "description_en": "A Ming military leader who emphasized training systems and standardized execution.",
+      "soul_path": "/real_world/qi_jiguang/",
+      "download_url": "/real_world/qi_jiguang/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "魏征",
+      "name_en": "Wei Zheng",
+      "description_zh": "唐代名臣，以直谏著称，擅长用制度与反馈机制校正决策偏差。",
+      "description_en": "A Tang statesman known for candid remonstrance and governance feedback mechanisms.",
+      "soul_path": "/real_world/wei_zheng/",
+      "download_url": "/real_world/wei_zheng/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "管理咨询顾问",
+      "name_en": "Management Consultant",
+      "description_zh": "擅长结构化拆解复杂问题，建立战略路径和关键里程碑。",
+      "description_en": "Specializes in structuring complex problems into strategic roadmaps and milestones.",
+      "soul_path": "/personas/management_consultant/",
+      "download_url": "/personas/management_consultant/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "运营专家",
+      "name_en": "Operations Expert",
+      "description_zh": "聚焦流程、协同与效率提升，确保战略方案稳定执行。",
+      "description_en": "Focuses on process, coordination, and efficiency to ensure stable execution.",
+      "soul_path": "/personas/operations_expert/",
+      "download_url": "/personas/operations_expert/SOUL.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "战略",
+    "军事",
+    "治理",
+    "组织执行",
+    "决策"
+  ],
+  "tags_en": [
+    "Strategy",
+    "Military",
+    "Governance",
+    "Execution",
+    "Decision Making"
+  ],
+  "image": "https://robohash.org/agent-souls-strategy-command-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T01:21:58+00:00"
+}

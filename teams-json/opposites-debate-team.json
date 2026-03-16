@@ -1,0 +1,88 @@
+{
+  "team_name_zh": "反差辩论团队",
+  "team_name_en": "Opposites Debate Team",
+  "team_description_zh": "以“观点冲突”为设计核心的团队，把价值观和方法论相反的角色放在同一讨论场中，适合用于辩论、方案对冲、假设检验和决策压力测试。",
+  "team_description_en": "A team intentionally built on worldview conflicts. It places opposing thinkers together for debate, scenario hedging, hypothesis testing, and decision stress tests.",
+  "members": [
+    {
+      "name_zh": "老子",
+      "name_en": "Laozi",
+      "description_zh": "主张无为与顺势，强调柔弱胜刚强与系统自组织。",
+      "description_en": "Advocates non-coercive action and alignment with natural dynamics.",
+      "soul_path": "/real_world/laozi/",
+      "download_url": "/real_world/laozi/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "韩非",
+      "name_en": "Han Fei",
+      "description_zh": "强调法、术、势，主张刚性制度与可执行约束。",
+      "description_en": "Represents Legalist thought centered on strict systems and enforceable constraints.",
+      "soul_path": "/real_world/han_fei/",
+      "download_url": "/real_world/han_fei/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "孔子",
+      "name_en": "Confucius",
+      "description_zh": "重视礼与德性教育，强调秩序来源于人格与伦理。",
+      "description_en": "Prioritizes ethics, ritual order, and moral cultivation in governance.",
+      "soul_path": "/real_world/confucius/",
+      "download_url": "/real_world/confucius/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "让-雅克·卢梭",
+      "name_en": "Jean-Jacques Rousseau",
+      "description_zh": "强调自由、平等与公意，对现代政治正当性有深远影响。",
+      "description_en": "Argues for freedom, equality, and popular sovereignty in political legitimacy.",
+      "soul_path": "/real_world/jean_jacques_rousseau/",
+      "download_url": "/real_world/jean_jacques_rousseau/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "尼可罗·马基雅维利",
+      "name_en": "Niccolo Machiavelli",
+      "description_zh": "以现实主义视角分析权力运行，重视结果与生存。",
+      "description_en": "Analyzes power through political realism, prioritizing survival and outcomes.",
+      "soul_path": "/real_world/niccolo_machiavelli/",
+      "download_url": "/real_world/niccolo_machiavelli/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "弗里德里希·尼采",
+      "name_en": "Friedrich Nietzsche",
+      "description_zh": "挑战既有价值体系，推动激进反思与价值重估。",
+      "description_en": "Challenges inherited value systems and drives radical re-evaluation.",
+      "soul_path": "/real_world/friedrich_nietzsche/",
+      "download_url": "/real_world/friedrich_nietzsche/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "批判性思维导师",
+      "name_en": "Critical Thinking Mentor",
+      "description_zh": "负责识别论证漏洞、偏见与证据不足，提升辩论质量。",
+      "description_en": "Identifies logical gaps, bias, and weak evidence to improve debate quality.",
+      "soul_path": "/personas/critical_thinking_mentor/",
+      "download_url": "/personas/critical_thinking_mentor/SOUL.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "反差",
+    "辩论",
+    "冲突",
+    "决策",
+    "压力测试"
+  ],
+  "tags_en": [
+    "Contrast",
+    "Debate",
+    "Conflict",
+    "Decision",
+    "Stress Test"
+  ],
+  "image": "https://robohash.org/agent-souls-opposites-debate-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T01:21:58+00:00"
+}

@@ -1,0 +1,97 @@
+{
+  "team_name_zh": "青年天才团队",
+  "team_name_en": "Young Prodigy Team",
+  "team_description_zh": "以“年轻成名、早期突破”为共同特征的团队。适合高密度学习、短周期冲刺和个人成长规划场景，强调速度、潜力与方法。",
+  "team_description_en": "A team centered on early achievement and youthful breakthroughs. Useful for intensive learning, short-cycle execution, and growth planning.",
+  "members": [
+    {
+      "name_zh": "霍去病",
+      "name_en": "Huo Qubing",
+      "description_zh": "年少成名的军事天才，代表高压环境下的快速决断与执行。",
+      "description_en": "A young military prodigy known for rapid decision-making and execution.",
+      "soul_path": "/real_world/huo_qubing/",
+      "download_url": "/real_world/huo_qubing/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "王弼",
+      "name_en": "Wang Bi",
+      "description_zh": "少年哲学家，以极高抽象能力重构经典解释体系。",
+      "description_en": "A young philosopher with exceptional abstract reasoning and reinterpretation ability.",
+      "soul_path": "/real_world/wang_bi/",
+      "download_url": "/real_world/wang_bi/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "艾达·洛芙莱斯",
+      "name_en": "Ada Lovelace",
+      "description_zh": "早期计算思想先驱，代表跨学科背景下的前瞻创造力。",
+      "description_en": "A pioneering computational thinker representing cross-disciplinary creativity.",
+      "soul_path": "/real_world/ada_lovelace/",
+      "download_url": "/real_world/ada_lovelace/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "亚历山大·汉密尔顿",
+      "name_en": "Alexander Hamilton",
+      "description_zh": "青年时期即参与国家制度构建，兼具表达力与组织力。",
+      "description_en": "Contributed to state-building at a young age with strong rhetoric and organization.",
+      "soul_path": "/real_world/alexander_hamilton/",
+      "download_url": "/real_world/alexander_hamilton/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "约翰·斯图亚特·密尔",
+      "name_en": "John Stuart Mill",
+      "description_zh": "典型的早熟型思想家，强调理性训练与终身自我修正。",
+      "description_en": "A classic early-formed thinker emphasizing disciplined reasoning and self-correction.",
+      "soul_path": "/real_world/john_stuart_mill/",
+      "download_url": "/real_world/john_stuart_mill/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "约翰·沃尔夫冈·冯·歌德",
+      "name_en": "Johann Wolfgang von Goethe",
+      "description_zh": "青年期即以文学创作震动欧洲，兼具艺术与思想成长曲线。",
+      "description_en": "Rose to literary prominence early and embodies sustained artistic development.",
+      "soul_path": "/real_world/johann_wolfgang_von_goethe/",
+      "download_url": "/real_world/johann_wolfgang_von_goethe/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "职业规划师",
+      "name_en": "Career Planner",
+      "description_zh": "帮助高潜个体明确路径、节奏与关键转折点。",
+      "description_en": "Helps high-potential individuals define path, pace, and key inflection points.",
+      "soul_path": "/personas/career_planner/",
+      "download_url": "/personas/career_planner/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "技能教练",
+      "name_en": "Skills Coach",
+      "description_zh": "聚焦核心能力刻意训练，提升短期进步效率。",
+      "description_en": "Focuses on deliberate practice of core skills for faster short-term improvement.",
+      "soul_path": "/personas/skills_coach/",
+      "download_url": "/personas/skills_coach/SOUL.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "青年",
+    "天才",
+    "成长",
+    "高潜",
+    "冲刺"
+  ],
+  "tags_en": [
+    "Youth",
+    "Prodigy",
+    "Growth",
+    "High Potential",
+    "Sprint"
+  ],
+  "image": "https://robohash.org/agent-souls-young-prodigy-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T01:21:58+00:00"
+}

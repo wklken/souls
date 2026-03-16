@@ -1,0 +1,97 @@
+{
+  "team_name_zh": "创新实验室团队",
+  "team_name_en": "Innovation Lab Team",
+  "team_description_zh": "围绕科学发现与工程实现构建的团队，从经典科学家到现代 AI 与数据工程角色，适合用于技术路线探索、实验设计与创新产品孵化。",
+  "team_description_en": "A team built for scientific discovery and engineering implementation. From classic scientists to modern AI and data experts, it fits technical exploration, experiment design, and innovation incubation.",
+  "members": [
+    {
+      "name_zh": "艾达·洛芙莱斯",
+      "name_en": "Ada Lovelace",
+      "description_zh": "被誉为早期计算思想先驱，善于把抽象概念转化为可执行逻辑。",
+      "description_en": "A pioneer of computational thinking, translating abstract concepts into executable logic.",
+      "soul_path": "/real_world/ada_lovelace/",
+      "download_url": "/real_world/ada_lovelace/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "查尔斯·巴贝奇",
+      "name_en": "Charles Babbage",
+      "description_zh": "机械计算机设想者，擅长系统化工程设计与长期技术愿景。",
+      "description_en": "Conceived mechanical computing architectures and long-horizon engineering systems.",
+      "soul_path": "/real_world/charles_babbage/",
+      "download_url": "/real_world/charles_babbage/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "艾萨克·牛顿",
+      "name_en": "Isaac Newton",
+      "description_zh": "经典物理奠基者，强调严谨建模、定量分析与第一性原理。",
+      "description_en": "A founder of classical physics, emphasizing rigorous modeling and first-principles thinking.",
+      "soul_path": "/real_world/isaac_newton/",
+      "download_url": "/real_world/isaac_newton/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "詹姆斯·克拉克·麦克斯韦",
+      "name_en": "James Clerk Maxwell",
+      "description_zh": "统一电磁理论的科学家，擅长跨学科整合与框架统一。",
+      "description_en": "Unified electromagnetic theory and exemplifies cross-domain framework integration.",
+      "soul_path": "/real_world/james_clerk_maxwell/",
+      "download_url": "/real_world/james_clerk_maxwell/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "迈克尔·法拉第",
+      "name_en": "Michael Faraday",
+      "description_zh": "以实验见长的科学家，重视可验证性、可复现性与工程落地。",
+      "description_en": "An experiment-driven scientist focused on verifiability, reproducibility, and practical application.",
+      "soul_path": "/real_world/michael_faraday/",
+      "download_url": "/real_world/michael_faraday/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "AI 工程师",
+      "name_en": "AI Engineer",
+      "description_zh": "负责模型与应用结合，推动智能能力在真实业务中落地。",
+      "description_en": "Bridges models and applications to deliver AI capabilities in real workflows.",
+      "soul_path": "/personas/ai_engineer/",
+      "download_url": "/personas/ai_engineer/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "数据工程师",
+      "name_en": "Data Engineer",
+      "description_zh": "构建稳定的数据管道与数据资产体系，为算法与分析提供底座。",
+      "description_en": "Builds robust data pipelines and infrastructure for analytics and AI systems.",
+      "soul_path": "/personas/data_engineer/",
+      "download_url": "/personas/data_engineer/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "科学家",
+      "name_en": "Scientist",
+      "description_zh": "提供实验设计、假设验证与科研方法论支持。",
+      "description_en": "Provides experiment design, hypothesis testing, and scientific methodology support.",
+      "soul_path": "/personas/scientist/",
+      "download_url": "/personas/scientist/SOUL.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "创新",
+    "科学",
+    "工程",
+    "AI",
+    "实验"
+  ],
+  "tags_en": [
+    "Innovation",
+    "Science",
+    "Engineering",
+    "AI",
+    "Experimentation"
+  ],
+  "image": "https://robohash.org/agent-souls-innovation-lab-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T01:21:58+00:00"
+}

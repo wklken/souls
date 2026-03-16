@@ -1,0 +1,97 @@
+{
+  "team_name_zh": "哲学家团队",
+  "team_name_en": "Philosopher Team",
+  "team_description_zh": "汇聚东西方最伟大的哲学家，从古希腊的苏格拉底、柏拉图、亚里士多德，到中国的孔子、老子，再到德国的康德、尼采。让 AI 以哲学家的思维方式与你探讨人生、伦理与真理。",
+  "team_description_en": "A team of the greatest philosophers from East and West, from ancient Greek Socrates, Plato, and Aristotle, to Chinese Confucius and Laozi, to German Kant and Nietzsche. Experience philosophical thinking on life, ethics, and truth.",
+  "members": [
+    {
+      "name_zh": "苏格拉底",
+      "name_en": "Socrates",
+      "description_zh": "古希腊哲学家，苏格拉底式诘问法的创始人，主张'认识你自己'，通过不断提问引导人们发现真理。",
+      "description_en": "Ancient Greek philosopher, founder of the Socratic method, advocated 'Know Thyself', guided people to discover truth through questioning.",
+      "soul_path": "/real_world/socrates/",
+      "download_url": "/real_world/socrates/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "柏拉图",
+      "name_en": "Plato",
+      "description_zh": "苏格拉底的学生，西方哲学史上最重要的哲学家之一，提出了理念论和理想国的概念。",
+      "description_en": "Student of Socrates, one of the most important philosophers in Western history, proposed the Theory of Forms and the concept of the ideal state.",
+      "soul_path": "/real_world/plato/",
+      "download_url": "/real_world/plato/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "亚里士多德",
+      "name_en": "Aristotle",
+      "description_zh": "柏拉图的学生，百科全书式的哲学家，在逻辑学、伦理学、政治学、物理学等领域都有开创性贡献。",
+      "description_en": "Student of Plato, encyclopedic philosopher, made groundbreaking contributions to logic, ethics, politics, physics, and more.",
+      "soul_path": "/real_world/aristotle/",
+      "download_url": "/real_world/aristotle/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "孔子",
+      "name_en": "Confucius",
+      "description_zh": "中国古代思想家、教育家，儒家学派创始人，提倡仁义礼智信，影响东亚文化数千年。",
+      "description_en": "Ancient Chinese thinker and educator, founder of Confucianism, advocated benevolence, righteousness, propriety, wisdom, and faithfulness.",
+      "soul_path": "/real_world/confucius/",
+      "download_url": "/real_world/confucius/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "老子",
+      "name_en": "Laozi",
+      "description_zh": "道家学派创始人，著有《道德经》，主张无为而治、道法自然，影响深远的东方哲学家。",
+      "description_en": "Founder of Taoism, author of Tao Te Ching, advocated wu wei (non-action) and harmony with nature.",
+      "soul_path": "/real_world/laozi/",
+      "download_url": "/real_world/laozi/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "塞涅卡",
+      "name_en": "Seneca",
+      "description_zh": "古罗马斯多葛派哲学家、政治家、剧作家，强调内心平静与德性的重要性。",
+      "description_en": "Roman Stoic philosopher, statesman, and dramatist, emphasized inner peace and the importance of virtue.",
+      "soul_path": "/real_world/seneca/",
+      "download_url": "/real_world/seneca/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "康德",
+      "name_en": "Immanuel Kant",
+      "description_zh": "德国古典哲学创始人，提出'纯粹理性批判'，探讨知识、道德与审美的先验基础。",
+      "description_en": "Founder of German classical philosophy, author of Critique of Pure Reason, explored transcendental foundations of knowledge, morality, and aesthetics.",
+      "soul_path": "/real_world/immanuel_kant/",
+      "download_url": "/real_world/immanuel_kant/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "尼采",
+      "name_en": "Friedrich Nietzsche",
+      "description_zh": "德国哲学家，提出'超人'、'权力意志'、'上帝已死'等思想，对现代哲学影响深远。",
+      "description_en": "German philosopher, introduced concepts of Übermensch, will to power, and 'God is dead', profoundly influenced modern philosophy.",
+      "soul_path": "/real_world/friedrich_nietzsche/",
+      "download_url": "/real_world/friedrich_nietzsche/SOUL.md",
+      "category": "real_world"
+    }
+  ],
+  "tags": [
+    "哲学",
+    "思想家",
+    "智慧",
+    "西方哲学",
+    "东方哲学"
+  ],
+  "tags_en": [
+    "Philosophy",
+    "Thinkers",
+    "Wisdom",
+    "Western Philosophy",
+    "Eastern Philosophy"
+  ],
+  "image": "https://robohash.org/agent-souls-philosopher-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T01:21:58+00:00"
+}

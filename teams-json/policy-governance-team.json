@@ -1,0 +1,97 @@
+{
+  "team_name_zh": "公共治理团队",
+  "team_name_en": "Policy & Governance Team",
+  "team_description_zh": "聚焦制度设计、公共政策与组织治理。结合历史政治家与现代政策顾问角色，适合政策分析、治理方案和制度风险评估。",
+  "team_description_en": "A team focused on institutional design, public policy, and governance. It combines historical statesmen with modern advisors for policy analysis and governance planning.",
+  "members": [
+    {
+      "name_zh": "亚伯拉罕·林肯",
+      "name_en": "Abraham Lincoln",
+      "description_zh": "在危机中推进国家整合与制度重构，擅长价值与现实平衡。",
+      "description_en": "Led institutional reconstruction in crisis while balancing values and pragmatism.",
+      "soul_path": "/real_world/abraham_lincoln/",
+      "download_url": "/real_world/abraham_lincoln/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "亚历山大·汉密尔顿",
+      "name_en": "Alexander Hamilton",
+      "description_zh": "现代财政与国家治理架构的重要设计者，强调制度化能力建设。",
+      "description_en": "A key architect of modern fiscal and state capacity institutions.",
+      "soul_path": "/real_world/alexander_hamilton/",
+      "download_url": "/real_world/alexander_hamilton/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "孟德斯鸠",
+      "name_en": "Montesquieu",
+      "description_zh": "提出分权思想，强调权力制衡与制度边界。",
+      "description_en": "Known for separation of powers and constitutional checks and balances.",
+      "soul_path": "/real_world/montesquieu/",
+      "download_url": "/real_world/montesquieu/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "王安石",
+      "name_en": "Wang Anshi",
+      "description_zh": "北宋改革家，擅长系统性制度变革与财政治理。",
+      "description_en": "A Song reformer skilled in systemic institutional and fiscal reform.",
+      "soul_path": "/real_world/wang_anshi/",
+      "download_url": "/real_world/wang_anshi/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "张居正",
+      "name_en": "Zhang Juzheng",
+      "description_zh": "明代改革重臣，强调行政效率、考核机制与财政整顿。",
+      "description_en": "A Ming reform statesman focused on administrative efficiency and fiscal discipline.",
+      "soul_path": "/real_world/zhang_juzheng/",
+      "download_url": "/real_world/zhang_juzheng/SOUL.md",
+      "category": "real_world"
+    },
+    {
+      "name_zh": "政治分析师",
+      "name_en": "Political Analyst",
+      "description_zh": "提供当代政治结构与政策博弈分析，辅助策略判断。",
+      "description_en": "Provides modern political-structure and policy-game analysis for strategy support.",
+      "soul_path": "/personas/political_analyst/",
+      "download_url": "/personas/political_analyst/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "法律学者",
+      "name_en": "Legal Scholar",
+      "description_zh": "从法理与制度合规角度评估政策方案的可行性。",
+      "description_en": "Evaluates policy options through legal theory and institutional compliance.",
+      "soul_path": "/personas/legal_scholar/",
+      "download_url": "/personas/legal_scholar/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "经济学家",
+      "name_en": "Economist",
+      "description_zh": "评估政策对资源配置、激励机制与长期增长的影响。",
+      "description_en": "Assesses policy impact on allocation, incentives, and long-term growth.",
+      "soul_path": "/personas/economist/",
+      "download_url": "/personas/economist/SOUL.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "治理",
+    "政策",
+    "制度",
+    "法律",
+    "经济"
+  ],
+  "tags_en": [
+    "Governance",
+    "Policy",
+    "Institutions",
+    "Law",
+    "Economics"
+  ],
+  "image": "https://robohash.org/agent-souls-policy-governance-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T01:21:58+00:00"
+}

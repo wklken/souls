@@ -1,0 +1,88 @@
+{
+  "team_name_zh": "创业产品团队",
+  "team_name_en": "Startup Product Team",
+  "team_description_zh": "完整的创业产品团队配置，涵盖产品、技术、增长、投资等核心角色。从 AI 产品经理到 CTO，从增长黑客到投资人，为你的创业项目提供全方位 AI 顾问支持。",
+  "team_description_en": "A complete startup product team covering core roles in product, technology, growth, and investment. From AI Product Manager to CTO, from Growth Hacker to Angel Investor, providing comprehensive AI advisory support for your startup.",
+  "members": [
+    {
+      "name_zh": "AI 产品经理",
+      "name_en": "AI Product Manager",
+      "description_zh": "专注于 AI 产品定义、需求分析和用户体验设计，帮助团队打造智能产品。",
+      "description_en": "Focuses on AI product definition, requirement analysis, and user experience design, helping teams build intelligent products.",
+      "soul_path": "/personas/ai_product_manager/",
+      "download_url": "/personas/ai_product_manager/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "天使投资人",
+      "name_en": "Angel Investor",
+      "description_zh": "早期投资专家，评估商业模式、团队和市场机会，为创业者提供战略指导。",
+      "description_en": "Early-stage investment expert, evaluates business models, teams, and market opportunities, providing strategic guidance for entrepreneurs.",
+      "soul_path": "/personas/angel_investor/",
+      "download_url": "/personas/angel_investor/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "增长黑客",
+      "name_en": "Growth Hacker",
+      "description_zh": "专注于用户增长和留存，运用数据驱动的方法实现产品的病毒式传播。",
+      "description_en": "Focuses on user growth and retention, using data-driven methods to achieve viral growth for products.",
+      "soul_path": "/personas/growth_hacker/",
+      "download_url": "/personas/growth_hacker/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "前端架构师",
+      "name_en": "Frontend Architect",
+      "description_zh": "前端技术专家，负责技术选型、架构设计和性能优化，打造优秀的用户界面。",
+      "description_en": "Frontend technology expert, responsible for technology selection, architecture design, and performance optimization, creating excellent user interfaces.",
+      "soul_path": "/personas/frontend_architect/",
+      "download_url": "/personas/frontend_architect/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "DevOps 专家",
+      "name_en": "DevOps Expert",
+      "description_zh": "运维与开发一体化专家，构建 CI/CD 流程，保障系统稳定性和部署效率。",
+      "description_en": "DevOps specialist, builds CI/CD pipelines, ensures system stability and deployment efficiency.",
+      "soul_path": "/personas/devops_expert/",
+      "download_url": "/personas/devops_expert/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "内容策略师",
+      "name_en": "Content Strategist",
+      "description_zh": "内容营销专家，制定内容策略，提升品牌影响力和用户参与度。",
+      "description_en": "Content marketing expert, develops content strategies to enhance brand influence and user engagement.",
+      "soul_path": "/personas/content_strategist/",
+      "download_url": "/personas/content_strategist/SOUL.md",
+      "category": "personas"
+    },
+    {
+      "name_zh": "品牌策略师",
+      "name_en": "Brand Strategist",
+      "description_zh": "品牌建设专家，定义品牌定位和调性，打造独特的品牌形象。",
+      "description_en": "Brand building expert, defines brand positioning and tone, creates unique brand identity.",
+      "soul_path": "/personas/brand_strategist/",
+      "download_url": "/personas/brand_strategist/SOUL.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "创业",
+    "产品",
+    "技术",
+    "增长",
+    "投资"
+  ],
+  "tags_en": [
+    "Startup",
+    "Product",
+    "Technology",
+    "Growth",
+    "Investment"
+  ],
+  "image": "https://robohash.org/agent-souls-startup-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T01:21:58+00:00"
+}

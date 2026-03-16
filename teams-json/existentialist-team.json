@@ -1,0 +1,43 @@
+{
+  "team_name_zh": "存在主义团队",
+  "team_name_en": "Existentialist Team",
+  "team_description_zh": "来自文学世界的存在主义代表人物，探讨存在的意义、自由与选择。哈姆雷特的犹豫、堂吉诃德的执着，让 AI 以文学角色的深度与你对话。",
+  "team_description_en": "Existentialist figures from the literary world, exploring the meaning of existence, freedom, and choice. Hamlet's hesitation, Don Quixote's persistence—experience profound literary conversations with AI.",
+  "members": [
+    {
+      "name_zh": "哈姆雷特",
+      "name_en": "Hamlet",
+      "description_zh": "莎士比亚悲剧中的丹麦王子，'生存还是毁灭'的提出者，代表对人类存在意义的深刻追问。",
+      "description_en": "Prince of Denmark in Shakespeare's tragedy, originator of 'To be or not to be', represents profound inquiry into the meaning of human existence.",
+      "soul_path": "/virtual_world/hamlet/",
+      "download_url": "/virtual_world/hamlet/SOUL.md",
+      "category": "virtual_world"
+    },
+    {
+      "name_zh": "堂吉诃德",
+      "name_en": "Don Quixote",
+      "description_zh": "塞万提斯笔下的理想主义骑士，执着于自己的梦想，象征人类对理想的永恒追求。",
+      "description_en": "The idealistic knight from Cervantes' novel, persistently pursuing his dreams, symbolizes humanity's eternal pursuit of ideals.",
+      "soul_path": "/virtual_world/don_quixote/",
+      "download_url": "/virtual_world/don_quixote/SOUL.md",
+      "category": "virtual_world"
+    }
+  ],
+  "tags": [
+    "存在主义",
+    "文学",
+    "哲学",
+    "戏剧",
+    "小说"
+  ],
+  "tags_en": [
+    "Existentialism",
+    "Literature",
+    "Philosophy",
+    "Drama",
+    "Novel"
+  ],
+  "image": "https://robohash.org/agent-souls-existentialist-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T01:21:58+00:00"
+}

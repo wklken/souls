@@ -510,16 +510,15 @@ function downloadTeamConfig() {
   document.body.removeChild(a);
 }
 
+// 静态 JSON 文件的 URL（预生成，可永久分享）
+const TEAM_JSON_URL = "https://agent-souls.com/teams-json/innovation-lab-team.json";
+
 function copyDownloadUrl() {
   const copyBtn = document.getElementById('team-copy-url-btn');
   if (!copyBtn || !navigator.clipboard) return;
 
-  // 复制带下载参数的页面 URL，而不是临时的 blob URL
-  const url = new URL(window.location.href);
-  url.searchParams.set('download', '1');
-  const shareableUrl = url.toString();
-
-  navigator.clipboard.writeText(shareableUrl).then(() => {
+  // 复制静态 JSON 文件的永久 URL
+  navigator.clipboard.writeText(TEAM_JSON_URL).then(() => {
     const originalText = copyBtn.textContent;
     const activeLang = getActiveLanguage();
     const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
@@ -530,17 +529,6 @@ function copyDownloadUrl() {
     }, 2000);
   });
 }
-
-// 页面加载时检查是否需要自动下载
-(function checkAutoDownload() {
-  const url = new URL(window.location.href);
-  if (url.searchParams.get('download') === '1') {
-    // 延迟一点执行，确保页面完全加载
-    setTimeout(() => {
-      downloadTeamConfig();
-    }, 500);
-  }
-})();
 
 window.addEventListener('beforeunload', () => {
   if (teamConfigBlobUrl) {
