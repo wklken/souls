@@ -419,6 +419,13 @@ function pickLocalizedValue(activeLang, zhValue, enValue) {
   return zhValue || enValue || '';
 }
 
+function localizedSoulDownloadUrl(baseUrl, activeLang) {
+  if (activeLang !== 'en') {
+    return baseUrl;
+  }
+  return baseUrl.replace(/\/SOUL\.md$/, '/SOUL.en.md');
+}
+
 function buildTeamData() {
   const activeLang = getActiveLanguage();
   return {
@@ -429,56 +436,56 @@ function buildTeamData() {
       {
         name: pickLocalizedValue(activeLang, "霍去病", "Huo Qubing"),
         description: pickLocalizedValue(activeLang, "年少成名的军事天才，代表高压环境下的快速决断与执行。", "A young military prodigy known for rapid decision-making and execution."),
-        soul_download_url: "https://agent-souls.com/real_world/huo_qubing/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/huo_qubing/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/huo_qubing/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "王弼", "Wang Bi"),
         description: pickLocalizedValue(activeLang, "少年哲学家，以极高抽象能力重构经典解释体系。", "A young philosopher with exceptional abstract reasoning and reinterpretation ability."),
-        soul_download_url: "https://agent-souls.com/real_world/wang_bi/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/wang_bi/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/wang_bi/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "艾达·洛芙莱斯", "Ada Lovelace"),
         description: pickLocalizedValue(activeLang, "早期计算思想先驱，代表跨学科背景下的前瞻创造力。", "A pioneering computational thinker representing cross-disciplinary creativity."),
-        soul_download_url: "https://agent-souls.com/real_world/ada_lovelace/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/ada_lovelace/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/ada_lovelace/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "亚历山大·汉密尔顿", "Alexander Hamilton"),
         description: pickLocalizedValue(activeLang, "青年时期即参与国家制度构建，兼具表达力与组织力。", "Contributed to state-building at a young age with strong rhetoric and organization."),
-        soul_download_url: "https://agent-souls.com/real_world/alexander_hamilton/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/alexander_hamilton/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/alexander_hamilton/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "约翰·斯图亚特·密尔", "John Stuart Mill"),
         description: pickLocalizedValue(activeLang, "典型的早熟型思想家，强调理性训练与终身自我修正。", "A classic early-formed thinker emphasizing disciplined reasoning and self-correction."),
-        soul_download_url: "https://agent-souls.com/real_world/john_stuart_mill/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/john_stuart_mill/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/john_stuart_mill/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "约翰·沃尔夫冈·冯·歌德", "Johann Wolfgang von Goethe"),
         description: pickLocalizedValue(activeLang, "青年期即以文学创作震动欧洲，兼具艺术与思想成长曲线。", "Rose to literary prominence early and embodies sustained artistic development."),
-        soul_download_url: "https://agent-souls.com/real_world/johann_wolfgang_von_goethe/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/johann_wolfgang_von_goethe/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/johann_wolfgang_von_goethe/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "职业规划师", "Career Planner"),
         description: pickLocalizedValue(activeLang, "帮助高潜个体明确路径、节奏与关键转折点。", "Helps high-potential individuals define path, pace, and key inflection points."),
-        soul_download_url: "https://agent-souls.com/personas/career_planner/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/career_planner/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/career_planner/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "技能教练", "Skills Coach"),
         description: pickLocalizedValue(activeLang, "聚焦核心能力刻意训练，提升短期进步效率。", "Focuses on deliberate practice of core skills for faster short-term improvement."),
-        soul_download_url: "https://agent-souls.com/personas/skills_coach/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/skills_coach/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/skills_coach/"
       }
       
@@ -510,15 +517,21 @@ function downloadTeamConfig() {
   document.body.removeChild(a);
 }
 
-// 静态 JSON 文件的 URL（预生成，可永久分享）
-const TEAM_JSON_URL = "https://agent-souls.com/teams-json/young-prodigy-team.json";
+const TEAM_JSON_URLS = {
+  zh: "https://agent-souls.com/teams-json/zh/young-prodigy-team.json",
+  en: "https://agent-souls.com/teams-json/en/young-prodigy-team.json"
+};
+
+function getTeamJsonUrl() {
+  const activeLang = getActiveLanguage();
+  return TEAM_JSON_URLS[activeLang] || TEAM_JSON_URLS.zh;
+}
 
 function copyDownloadUrl() {
   const copyBtn = document.getElementById('team-copy-url-btn');
   if (!copyBtn || !navigator.clipboard) return;
 
-  // 复制静态 JSON 文件的永久 URL
-  navigator.clipboard.writeText(TEAM_JSON_URL).then(() => {
+  navigator.clipboard.writeText(getTeamJsonUrl()).then(() => {
     const originalText = copyBtn.textContent;
     const activeLang = getActiveLanguage();
     const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';

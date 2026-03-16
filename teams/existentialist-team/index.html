@@ -281,6 +281,13 @@ function pickLocalizedValue(activeLang, zhValue, enValue) {
   return zhValue || enValue || '';
 }
 
+function localizedSoulDownloadUrl(baseUrl, activeLang) {
+  if (activeLang !== 'en') {
+    return baseUrl;
+  }
+  return baseUrl.replace(/\/SOUL\.md$/, '/SOUL.en.md');
+}
+
 function buildTeamData() {
   const activeLang = getActiveLanguage();
   return {
@@ -291,14 +298,14 @@ function buildTeamData() {
       {
         name: pickLocalizedValue(activeLang, "哈姆雷特", "Hamlet"),
         description: pickLocalizedValue(activeLang, "莎士比亚悲剧中的丹麦王子，'生存还是毁灭'的提出者，代表对人类存在意义的深刻追问。", "Prince of Denmark in Shakespeare's tragedy, originator of 'To be or not to be', represents profound inquiry into the meaning of human existence."),
-        soul_download_url: "https://agent-souls.com/virtual_world/hamlet/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/virtual_world/hamlet/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/virtual_world/hamlet/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "堂吉诃德", "Don Quixote"),
         description: pickLocalizedValue(activeLang, "塞万提斯笔下的理想主义骑士，执着于自己的梦想，象征人类对理想的永恒追求。", "The idealistic knight from Cervantes' novel, persistently pursuing his dreams, symbolizes humanity's eternal pursuit of ideals."),
-        soul_download_url: "https://agent-souls.com/virtual_world/don_quixote/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/virtual_world/don_quixote/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/virtual_world/don_quixote/"
       }
       
@@ -330,15 +337,21 @@ function downloadTeamConfig() {
   document.body.removeChild(a);
 }
 
-// 静态 JSON 文件的 URL（预生成，可永久分享）
-const TEAM_JSON_URL = "https://agent-souls.com/teams-json/existentialist-team.json";
+const TEAM_JSON_URLS = {
+  zh: "https://agent-souls.com/teams-json/zh/existentialist-team.json",
+  en: "https://agent-souls.com/teams-json/en/existentialist-team.json"
+};
+
+function getTeamJsonUrl() {
+  const activeLang = getActiveLanguage();
+  return TEAM_JSON_URLS[activeLang] || TEAM_JSON_URLS.zh;
+}
 
 function copyDownloadUrl() {
   const copyBtn = document.getElementById('team-copy-url-btn');
   if (!copyBtn || !navigator.clipboard) return;
 
-  // 复制静态 JSON 文件的永久 URL
-  navigator.clipboard.writeText(TEAM_JSON_URL).then(() => {
+  navigator.clipboard.writeText(getTeamJsonUrl()).then(() => {
     const originalText = copyBtn.textContent;
     const activeLang = getActiveLanguage();
     const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';

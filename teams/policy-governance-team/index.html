@@ -419,6 +419,13 @@ function pickLocalizedValue(activeLang, zhValue, enValue) {
   return zhValue || enValue || '';
 }
 
+function localizedSoulDownloadUrl(baseUrl, activeLang) {
+  if (activeLang !== 'en') {
+    return baseUrl;
+  }
+  return baseUrl.replace(/\/SOUL\.md$/, '/SOUL.en.md');
+}
+
 function buildTeamData() {
   const activeLang = getActiveLanguage();
   return {
@@ -429,56 +436,56 @@ function buildTeamData() {
       {
         name: pickLocalizedValue(activeLang, "亚伯拉罕·林肯", "Abraham Lincoln"),
         description: pickLocalizedValue(activeLang, "在危机中推进国家整合与制度重构，擅长价值与现实平衡。", "Led institutional reconstruction in crisis while balancing values and pragmatism."),
-        soul_download_url: "https://agent-souls.com/real_world/abraham_lincoln/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/abraham_lincoln/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/abraham_lincoln/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "亚历山大·汉密尔顿", "Alexander Hamilton"),
         description: pickLocalizedValue(activeLang, "现代财政与国家治理架构的重要设计者，强调制度化能力建设。", "A key architect of modern fiscal and state capacity institutions."),
-        soul_download_url: "https://agent-souls.com/real_world/alexander_hamilton/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/alexander_hamilton/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/alexander_hamilton/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "孟德斯鸠", "Montesquieu"),
         description: pickLocalizedValue(activeLang, "提出分权思想，强调权力制衡与制度边界。", "Known for separation of powers and constitutional checks and balances."),
-        soul_download_url: "https://agent-souls.com/real_world/montesquieu/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/montesquieu/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/montesquieu/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "王安石", "Wang Anshi"),
         description: pickLocalizedValue(activeLang, "北宋改革家，擅长系统性制度变革与财政治理。", "A Song reformer skilled in systemic institutional and fiscal reform."),
-        soul_download_url: "https://agent-souls.com/real_world/wang_anshi/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/wang_anshi/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/wang_anshi/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "张居正", "Zhang Juzheng"),
         description: pickLocalizedValue(activeLang, "明代改革重臣，强调行政效率、考核机制与财政整顿。", "A Ming reform statesman focused on administrative efficiency and fiscal discipline."),
-        soul_download_url: "https://agent-souls.com/real_world/zhang_juzheng/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/zhang_juzheng/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/zhang_juzheng/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "政治分析师", "Political Analyst"),
         description: pickLocalizedValue(activeLang, "提供当代政治结构与政策博弈分析，辅助策略判断。", "Provides modern political-structure and policy-game analysis for strategy support."),
-        soul_download_url: "https://agent-souls.com/personas/political_analyst/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/political_analyst/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/political_analyst/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "法律学者", "Legal Scholar"),
         description: pickLocalizedValue(activeLang, "从法理与制度合规角度评估政策方案的可行性。", "Evaluates policy options through legal theory and institutional compliance."),
-        soul_download_url: "https://agent-souls.com/personas/legal_scholar/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/legal_scholar/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/legal_scholar/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "经济学家", "Economist"),
         description: pickLocalizedValue(activeLang, "评估政策对资源配置、激励机制与长期增长的影响。", "Assesses policy impact on allocation, incentives, and long-term growth."),
-        soul_download_url: "https://agent-souls.com/personas/economist/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/economist/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/economist/"
       }
       
@@ -510,15 +517,21 @@ function downloadTeamConfig() {
   document.body.removeChild(a);
 }
 
-// 静态 JSON 文件的 URL（预生成，可永久分享）
-const TEAM_JSON_URL = "https://agent-souls.com/teams-json/policy-governance-team.json";
+const TEAM_JSON_URLS = {
+  zh: "https://agent-souls.com/teams-json/zh/policy-governance-team.json",
+  en: "https://agent-souls.com/teams-json/en/policy-governance-team.json"
+};
+
+function getTeamJsonUrl() {
+  const activeLang = getActiveLanguage();
+  return TEAM_JSON_URLS[activeLang] || TEAM_JSON_URLS.zh;
+}
 
 function copyDownloadUrl() {
   const copyBtn = document.getElementById('team-copy-url-btn');
   if (!copyBtn || !navigator.clipboard) return;
 
-  // 复制静态 JSON 文件的永久 URL
-  navigator.clipboard.writeText(TEAM_JSON_URL).then(() => {
+  navigator.clipboard.writeText(getTeamJsonUrl()).then(() => {
     const originalText = copyBtn.textContent;
     const activeLang = getActiveLanguage();
     const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';

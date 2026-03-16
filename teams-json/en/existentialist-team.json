@@ -1,0 +1,30 @@
+{
+  "team_name": "Existentialist Team",
+  "team_description": "Existentialist figures from the literary world, exploring the meaning of existence, freedom, and choice. Hamlet's hesitation, Don Quixote's persistence—experience profound literary conversations with AI.",
+  "members": [
+    {
+      "name": "Hamlet",
+      "description": "Prince of Denmark in Shakespeare's tragedy, originator of 'To be or not to be', represents profound inquiry into the meaning of human existence.",
+      "soul_path": "/virtual_world/hamlet/",
+      "download_url": "/virtual_world/hamlet/SOUL.en.md",
+      "category": "virtual_world"
+    },
+    {
+      "name": "Don Quixote",
+      "description": "The idealistic knight from Cervantes' novel, persistently pursuing his dreams, symbolizes humanity's eternal pursuit of ideals.",
+      "soul_path": "/virtual_world/don_quixote/",
+      "download_url": "/virtual_world/don_quixote/SOUL.en.md",
+      "category": "virtual_world"
+    }
+  ],
+  "tags": [
+    "Existentialism",
+    "Literature",
+    "Philosophy",
+    "Drama",
+    "Novel"
+  ],
+  "image": "https://robohash.org/agent-souls-existentialist-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T15:31:45+00:00"
+}

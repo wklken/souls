@@ -442,6 +442,13 @@ function pickLocalizedValue(activeLang, zhValue, enValue) {
   return zhValue || enValue || '';
 }
 
+function localizedSoulDownloadUrl(baseUrl, activeLang) {
+  if (activeLang !== 'en') {
+    return baseUrl;
+  }
+  return baseUrl.replace(/\/SOUL\.md$/, '/SOUL.en.md');
+}
+
 function buildTeamData() {
   const activeLang = getActiveLanguage();
   return {
@@ -452,63 +459,63 @@ function buildTeamData() {
       {
         name: pickLocalizedValue(activeLang, "华佗", "Hua Tuo"),
         description: pickLocalizedValue(activeLang, "东汉名医，擅长外科与养生并重，强调预防与整体调理。", "A renowned Eastern Han physician known for surgery and preventive wellness."),
-        soul_download_url: "https://agent-souls.com/real_world/hua_tuo/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/hua_tuo/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/hua_tuo/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "孙思邈", "Sun Simiao"),
         description: pickLocalizedValue(activeLang, "唐代医药学家，重视医德与系统性临床经验。", "A Tang medical scholar emphasizing ethics and systematic clinical knowledge."),
-        soul_download_url: "https://agent-souls.com/real_world/sun_simiao/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/sun_simiao/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/sun_simiao/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "李时珍", "Li Shizhen"),
         description: pickLocalizedValue(activeLang, "《本草纲目》作者，擅长长期观察与知识归纳。", "Author of Compendium of Materia Medica, known for long-term observation and synthesis."),
-        soul_download_url: "https://agent-souls.com/real_world/li_shizhen/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/li_shizhen/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/li_shizhen/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "医学专家", "Medical Expert"),
         description: pickLocalizedValue(activeLang, "提供现代医学框架下的健康解读与就医建议。", "Provides modern medical interpretation and practical care guidance."),
-        soul_download_url: "https://agent-souls.com/personas/medical_expert/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/medical_expert/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/medical_expert/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "心理学家", "Psychologist"),
         description: pickLocalizedValue(activeLang, "聚焦情绪与行为模式，帮助建立稳定的心理调节机制。", "Focuses on emotional and behavioral patterns for sustainable mental regulation."),
-        soul_download_url: "https://agent-souls.com/personas/psychologist/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/psychologist/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/psychologist/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "营养师", "Nutritionist"),
         description: pickLocalizedValue(activeLang, "围绕饮食结构和代谢目标给出个性化营养建议。", "Provides personalized nutrition recommendations aligned to diet and metabolic goals."),
-        soul_download_url: "https://agent-souls.com/personas/nutritionist/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/nutritionist/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/nutritionist/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "睡眠顾问", "Sleep Consultant"),
         description: pickLocalizedValue(activeLang, "优化睡眠节律与作息习惯，改善疲劳与恢复效率。", "Optimizes sleep rhythms and routines to improve recovery and energy."),
-        soul_download_url: "https://agent-souls.com/personas/sleep_consultant/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/sleep_consultant/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/sleep_consultant/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "健身教练", "Fitness Coach"),
         description: pickLocalizedValue(activeLang, "结合体能目标制定训练计划，提升身体素质与执行力。", "Designs training programs for physical goals and consistent execution."),
-        soul_download_url: "https://agent-souls.com/personas/fitness_coach/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/fitness_coach/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/fitness_coach/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "正念导师", "Mindfulness Mentor"),
         description: pickLocalizedValue(activeLang, "通过正念练习与注意力训练提升压力管理能力。", "Uses mindfulness and attention training to strengthen stress resilience."),
-        soul_download_url: "https://agent-souls.com/personas/mindfulness_mentor/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/mindfulness_mentor/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/mindfulness_mentor/"
       }
       
@@ -540,15 +547,21 @@ function downloadTeamConfig() {
   document.body.removeChild(a);
 }
 
-// 静态 JSON 文件的 URL（预生成，可永久分享）
-const TEAM_JSON_URL = "https://agent-souls.com/teams-json/health-wellbeing-team.json";
+const TEAM_JSON_URLS = {
+  zh: "https://agent-souls.com/teams-json/zh/health-wellbeing-team.json",
+  en: "https://agent-souls.com/teams-json/en/health-wellbeing-team.json"
+};
+
+function getTeamJsonUrl() {
+  const activeLang = getActiveLanguage();
+  return TEAM_JSON_URLS[activeLang] || TEAM_JSON_URLS.zh;
+}
 
 function copyDownloadUrl() {
   const copyBtn = document.getElementById('team-copy-url-btn');
   if (!copyBtn || !navigator.clipboard) return;
 
-  // 复制静态 JSON 文件的永久 URL
-  navigator.clipboard.writeText(TEAM_JSON_URL).then(() => {
+  navigator.clipboard.writeText(getTeamJsonUrl()).then(() => {
     const originalText = copyBtn.textContent;
     const activeLang = getActiveLanguage();
     const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';

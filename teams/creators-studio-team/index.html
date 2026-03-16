@@ -442,6 +442,13 @@ function pickLocalizedValue(activeLang, zhValue, enValue) {
   return zhValue || enValue || '';
 }
 
+function localizedSoulDownloadUrl(baseUrl, activeLang) {
+  if (activeLang !== 'en') {
+    return baseUrl;
+  }
+  return baseUrl.replace(/\/SOUL\.md$/, '/SOUL.en.md');
+}
+
 function buildTeamData() {
   const activeLang = getActiveLanguage();
   return {
@@ -452,63 +459,63 @@ function buildTeamData() {
       {
         name: pickLocalizedValue(activeLang, "李白", "Li Bai"),
         description: pickLocalizedValue(activeLang, "唐代诗人，想象力与语言张力极强，适合创意发想与诗性表达。", "A Tang poet with powerful imagination and expressive language for creative ideation."),
-        soul_download_url: "https://agent-souls.com/real_world/li_bai/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/li_bai/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/li_bai/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "杜甫", "Du Fu"),
         description: pickLocalizedValue(activeLang, "以现实关怀和结构严谨见长，适合主题深化与文本打磨。", "Known for social depth and disciplined structure, ideal for thematic refinement."),
-        soul_download_url: "https://agent-souls.com/real_world/du_fu/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/du_fu/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/du_fu/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "威廉·莎士比亚", "William Shakespeare"),
         description: pickLocalizedValue(activeLang, "戏剧与人物塑造大师，擅长冲突设计与人物语言。", "A master of drama and character arcs, excellent at conflict and dialogue."),
-        soul_download_url: "https://agent-souls.com/real_world/william_shakespeare/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/william_shakespeare/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/william_shakespeare/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "曹雪芹", "Cao Xueqin"),
         description: pickLocalizedValue(activeLang, "长篇叙事与群像刻画代表，适合复杂世界观和人物关系设计。", "A representative of long-form narrative and ensemble characterization."),
-        soul_download_url: "https://agent-souls.com/real_world/cao_xueqin/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/cao_xueqin/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/cao_xueqin/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "编辑", "Editor"),
         description: pickLocalizedValue(activeLang, "负责文本结构、逻辑与表达精度，提升成稿质量。", "Refines structure, logic, and clarity to improve manuscript quality."),
-        soul_download_url: "https://agent-souls.com/personas/editor/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/editor/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/editor/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "小说写作教练", "Fiction Coach"),
         description: pickLocalizedValue(activeLang, "聚焦情节、人物和章节推进，帮助持续产出可读性内容。", "Focuses on plot, characters, and chapter progression for readable output."),
-        soul_download_url: "https://agent-souls.com/personas/fiction_coach/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/fiction_coach/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/fiction_coach/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "文案大师", "Copywriting Master"),
         description: pickLocalizedValue(activeLang, "强化传播导向与转化目标，适合营销场景与品牌表达。", "Optimizes messaging for reach and conversion in marketing contexts."),
-        soul_download_url: "https://agent-souls.com/personas/copywriting_master/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/copywriting_master/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/copywriting_master/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "编剧顾问", "Screenwriting Consultant"),
         description: pickLocalizedValue(activeLang, "擅长场景节奏与戏剧结构，帮助脚本更具可拍性。", "Specializes in scene rhythm and dramatic structure for production-ready scripts."),
-        soul_download_url: "https://agent-souls.com/personas/screenwriting_consultant/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/screenwriting_consultant/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/screenwriting_consultant/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "诗歌导师", "Poetry Mentor"),
         description: pickLocalizedValue(activeLang, "提升意象密度、节奏和修辞，增强语言美感。", "Strengthens imagery, rhythm, and rhetorical quality in poetic writing."),
-        soul_download_url: "https://agent-souls.com/personas/poetry_mentor/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/poetry_mentor/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/poetry_mentor/"
       }
       
@@ -540,15 +547,21 @@ function downloadTeamConfig() {
   document.body.removeChild(a);
 }
 
-// 静态 JSON 文件的 URL（预生成，可永久分享）
-const TEAM_JSON_URL = "https://agent-souls.com/teams-json/creators-studio-team.json";
+const TEAM_JSON_URLS = {
+  zh: "https://agent-souls.com/teams-json/zh/creators-studio-team.json",
+  en: "https://agent-souls.com/teams-json/en/creators-studio-team.json"
+};
+
+function getTeamJsonUrl() {
+  const activeLang = getActiveLanguage();
+  return TEAM_JSON_URLS[activeLang] || TEAM_JSON_URLS.zh;
+}
 
 function copyDownloadUrl() {
   const copyBtn = document.getElementById('team-copy-url-btn');
   if (!copyBtn || !navigator.clipboard) return;
 
-  // 复制静态 JSON 文件的永久 URL
-  navigator.clipboard.writeText(TEAM_JSON_URL).then(() => {
+  navigator.clipboard.writeText(getTeamJsonUrl()).then(() => {
     const originalText = copyBtn.textContent;
     const activeLang = getActiveLanguage();
     const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';

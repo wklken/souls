@@ -1,0 +1,79 @@
+{
+  "team_name": "Health & Wellbeing Team",
+  "team_description": "A cross-disciplinary team combining medicine, psychology, and lifestyle coaching. Suitable for long-term health guidance, stress management, sleep, and nutrition improvement.",
+  "members": [
+    {
+      "name": "Hua Tuo",
+      "description": "A renowned Eastern Han physician known for surgery and preventive wellness.",
+      "soul_path": "/real_world/hua_tuo/",
+      "download_url": "/real_world/hua_tuo/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Sun Simiao",
+      "description": "A Tang medical scholar emphasizing ethics and systematic clinical knowledge.",
+      "soul_path": "/real_world/sun_simiao/",
+      "download_url": "/real_world/sun_simiao/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Li Shizhen",
+      "description": "Author of Compendium of Materia Medica, known for long-term observation and synthesis.",
+      "soul_path": "/real_world/li_shizhen/",
+      "download_url": "/real_world/li_shizhen/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Medical Expert",
+      "description": "Provides modern medical interpretation and practical care guidance.",
+      "soul_path": "/personas/medical_expert/",
+      "download_url": "/personas/medical_expert/SOUL.en.md",
+      "category": "personas"
+    },
+    {
+      "name": "Psychologist",
+      "description": "Focuses on emotional and behavioral patterns for sustainable mental regulation.",
+      "soul_path": "/personas/psychologist/",
+      "download_url": "/personas/psychologist/SOUL.en.md",
+      "category": "personas"
+    },
+    {
+      "name": "Nutritionist",
+      "description": "Provides personalized nutrition recommendations aligned to diet and metabolic goals.",
+      "soul_path": "/personas/nutritionist/",
+      "download_url": "/personas/nutritionist/SOUL.en.md",
+      "category": "personas"
+    },
+    {
+      "name": "Sleep Consultant",
+      "description": "Optimizes sleep rhythms and routines to improve recovery and energy.",
+      "soul_path": "/personas/sleep_consultant/",
+      "download_url": "/personas/sleep_consultant/SOUL.en.md",
+      "category": "personas"
+    },
+    {
+      "name": "Fitness Coach",
+      "description": "Designs training programs for physical goals and consistent execution.",
+      "soul_path": "/personas/fitness_coach/",
+      "download_url": "/personas/fitness_coach/SOUL.en.md",
+      "category": "personas"
+    },
+    {
+      "name": "Mindfulness Mentor",
+      "description": "Uses mindfulness and attention training to strengthen stress resilience.",
+      "soul_path": "/personas/mindfulness_mentor/",
+      "download_url": "/personas/mindfulness_mentor/SOUL.en.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "Health",
+    "Medicine",
+    "Psychology",
+    "Sleep",
+    "Nutrition"
+  ],
+  "image": "https://robohash.org/agent-souls-health-wellbeing-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T15:31:45+00:00"
+}

@@ -1,0 +1,72 @@
+{
+  "team_name": "Policy & Governance Team",
+  "team_description": "A team focused on institutional design, public policy, and governance. It combines historical statesmen with modern advisors for policy analysis and governance planning.",
+  "members": [
+    {
+      "name": "Abraham Lincoln",
+      "description": "Led institutional reconstruction in crisis while balancing values and pragmatism.",
+      "soul_path": "/real_world/abraham_lincoln/",
+      "download_url": "/real_world/abraham_lincoln/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Alexander Hamilton",
+      "description": "A key architect of modern fiscal and state capacity institutions.",
+      "soul_path": "/real_world/alexander_hamilton/",
+      "download_url": "/real_world/alexander_hamilton/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Montesquieu",
+      "description": "Known for separation of powers and constitutional checks and balances.",
+      "soul_path": "/real_world/montesquieu/",
+      "download_url": "/real_world/montesquieu/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Wang Anshi",
+      "description": "A Song reformer skilled in systemic institutional and fiscal reform.",
+      "soul_path": "/real_world/wang_anshi/",
+      "download_url": "/real_world/wang_anshi/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Zhang Juzheng",
+      "description": "A Ming reform statesman focused on administrative efficiency and fiscal discipline.",
+      "soul_path": "/real_world/zhang_juzheng/",
+      "download_url": "/real_world/zhang_juzheng/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Political Analyst",
+      "description": "Provides modern political-structure and policy-game analysis for strategy support.",
+      "soul_path": "/personas/political_analyst/",
+      "download_url": "/personas/political_analyst/SOUL.en.md",
+      "category": "personas"
+    },
+    {
+      "name": "Legal Scholar",
+      "description": "Evaluates policy options through legal theory and institutional compliance.",
+      "soul_path": "/personas/legal_scholar/",
+      "download_url": "/personas/legal_scholar/SOUL.en.md",
+      "category": "personas"
+    },
+    {
+      "name": "Economist",
+      "description": "Assesses policy impact on allocation, incentives, and long-term growth.",
+      "soul_path": "/personas/economist/",
+      "download_url": "/personas/economist/SOUL.en.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "Governance",
+    "Policy",
+    "Institutions",
+    "Law",
+    "Economics"
+  ],
+  "image": "https://robohash.org/agent-souls-policy-governance-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T15:31:45+00:00"
+}

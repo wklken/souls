@@ -396,6 +396,13 @@ function pickLocalizedValue(activeLang, zhValue, enValue) {
   return zhValue || enValue || '';
 }
 
+function localizedSoulDownloadUrl(baseUrl, activeLang) {
+  if (activeLang !== 'en') {
+    return baseUrl;
+  }
+  return baseUrl.replace(/\/SOUL\.md$/, '/SOUL.en.md');
+}
+
 function buildTeamData() {
   const activeLang = getActiveLanguage();
   return {
@@ -406,49 +413,49 @@ function buildTeamData() {
       {
         name: pickLocalizedValue(activeLang, "老子", "Laozi"),
         description: pickLocalizedValue(activeLang, "主张无为与顺势，强调柔弱胜刚强与系统自组织。", "Advocates non-coercive action and alignment with natural dynamics."),
-        soul_download_url: "https://agent-souls.com/real_world/laozi/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/laozi/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/laozi/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "韩非", "Han Fei"),
         description: pickLocalizedValue(activeLang, "强调法、术、势，主张刚性制度与可执行约束。", "Represents Legalist thought centered on strict systems and enforceable constraints."),
-        soul_download_url: "https://agent-souls.com/real_world/han_fei/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/han_fei/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/han_fei/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "孔子", "Confucius"),
         description: pickLocalizedValue(activeLang, "重视礼与德性教育，强调秩序来源于人格与伦理。", "Prioritizes ethics, ritual order, and moral cultivation in governance."),
-        soul_download_url: "https://agent-souls.com/real_world/confucius/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/confucius/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/confucius/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "让-雅克·卢梭", "Jean-Jacques Rousseau"),
         description: pickLocalizedValue(activeLang, "强调自由、平等与公意，对现代政治正当性有深远影响。", "Argues for freedom, equality, and popular sovereignty in political legitimacy."),
-        soul_download_url: "https://agent-souls.com/real_world/jean_jacques_rousseau/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/jean_jacques_rousseau/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/jean_jacques_rousseau/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "尼可罗·马基雅维利", "Niccolo Machiavelli"),
         description: pickLocalizedValue(activeLang, "以现实主义视角分析权力运行，重视结果与生存。", "Analyzes power through political realism, prioritizing survival and outcomes."),
-        soul_download_url: "https://agent-souls.com/real_world/niccolo_machiavelli/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/niccolo_machiavelli/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/niccolo_machiavelli/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "弗里德里希·尼采", "Friedrich Nietzsche"),
         description: pickLocalizedValue(activeLang, "挑战既有价值体系，推动激进反思与价值重估。", "Challenges inherited value systems and drives radical re-evaluation."),
-        soul_download_url: "https://agent-souls.com/real_world/friedrich_nietzsche/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/friedrich_nietzsche/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/friedrich_nietzsche/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "批判性思维导师", "Critical Thinking Mentor"),
         description: pickLocalizedValue(activeLang, "负责识别论证漏洞、偏见与证据不足，提升辩论质量。", "Identifies logical gaps, bias, and weak evidence to improve debate quality."),
-        soul_download_url: "https://agent-souls.com/personas/critical_thinking_mentor/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/critical_thinking_mentor/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/critical_thinking_mentor/"
       }
       
@@ -480,15 +487,21 @@ function downloadTeamConfig() {
   document.body.removeChild(a);
 }
 
-// 静态 JSON 文件的 URL（预生成，可永久分享）
-const TEAM_JSON_URL = "https://agent-souls.com/teams-json/opposites-debate-team.json";
+const TEAM_JSON_URLS = {
+  zh: "https://agent-souls.com/teams-json/zh/opposites-debate-team.json",
+  en: "https://agent-souls.com/teams-json/en/opposites-debate-team.json"
+};
+
+function getTeamJsonUrl() {
+  const activeLang = getActiveLanguage();
+  return TEAM_JSON_URLS[activeLang] || TEAM_JSON_URLS.zh;
+}
 
 function copyDownloadUrl() {
   const copyBtn = document.getElementById('team-copy-url-btn');
   if (!copyBtn || !navigator.clipboard) return;
 
-  // 复制静态 JSON 文件的永久 URL
-  navigator.clipboard.writeText(TEAM_JSON_URL).then(() => {
+  navigator.clipboard.writeText(getTeamJsonUrl()).then(() => {
     const originalText = copyBtn.textContent;
     const activeLang = getActiveLanguage();
     const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';

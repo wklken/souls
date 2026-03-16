@@ -1,0 +1,72 @@
+{
+  "team_name": "Philosopher Team",
+  "team_description": "A team of the greatest philosophers from East and West, from ancient Greek Socrates, Plato, and Aristotle, to Chinese Confucius and Laozi, to German Kant and Nietzsche. Experience philosophical thinking on life, ethics, and truth.",
+  "members": [
+    {
+      "name": "Socrates",
+      "description": "Ancient Greek philosopher, founder of the Socratic method, advocated 'Know Thyself', guided people to discover truth through questioning.",
+      "soul_path": "/real_world/socrates/",
+      "download_url": "/real_world/socrates/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Plato",
+      "description": "Student of Socrates, one of the most important philosophers in Western history, proposed the Theory of Forms and the concept of the ideal state.",
+      "soul_path": "/real_world/plato/",
+      "download_url": "/real_world/plato/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Aristotle",
+      "description": "Student of Plato, encyclopedic philosopher, made groundbreaking contributions to logic, ethics, politics, physics, and more.",
+      "soul_path": "/real_world/aristotle/",
+      "download_url": "/real_world/aristotle/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Confucius",
+      "description": "Ancient Chinese thinker and educator, founder of Confucianism, advocated benevolence, righteousness, propriety, wisdom, and faithfulness.",
+      "soul_path": "/real_world/confucius/",
+      "download_url": "/real_world/confucius/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Laozi",
+      "description": "Founder of Taoism, author of Tao Te Ching, advocated wu wei (non-action) and harmony with nature.",
+      "soul_path": "/real_world/laozi/",
+      "download_url": "/real_world/laozi/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Seneca",
+      "description": "Roman Stoic philosopher, statesman, and dramatist, emphasized inner peace and the importance of virtue.",
+      "soul_path": "/real_world/seneca/",
+      "download_url": "/real_world/seneca/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Immanuel Kant",
+      "description": "Founder of German classical philosophy, author of Critique of Pure Reason, explored transcendental foundations of knowledge, morality, and aesthetics.",
+      "soul_path": "/real_world/immanuel_kant/",
+      "download_url": "/real_world/immanuel_kant/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Friedrich Nietzsche",
+      "description": "German philosopher, introduced concepts of Übermensch, will to power, and 'God is dead', profoundly influenced modern philosophy.",
+      "soul_path": "/real_world/friedrich_nietzsche/",
+      "download_url": "/real_world/friedrich_nietzsche/SOUL.en.md",
+      "category": "real_world"
+    }
+  ],
+  "tags": [
+    "Philosophy",
+    "Thinkers",
+    "Wisdom",
+    "Western Philosophy",
+    "Eastern Philosophy"
+  ],
+  "image": "https://robohash.org/agent-souls-philosopher-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T15:31:45+00:00"
+}

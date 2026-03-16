@@ -1,0 +1,72 @@
+{
+  "team_name": "Young Prodigy Team",
+  "team_description": "A team centered on early achievement and youthful breakthroughs. Useful for intensive learning, short-cycle execution, and growth planning.",
+  "members": [
+    {
+      "name": "Huo Qubing",
+      "description": "A young military prodigy known for rapid decision-making and execution.",
+      "soul_path": "/real_world/huo_qubing/",
+      "download_url": "/real_world/huo_qubing/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Wang Bi",
+      "description": "A young philosopher with exceptional abstract reasoning and reinterpretation ability.",
+      "soul_path": "/real_world/wang_bi/",
+      "download_url": "/real_world/wang_bi/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Ada Lovelace",
+      "description": "A pioneering computational thinker representing cross-disciplinary creativity.",
+      "soul_path": "/real_world/ada_lovelace/",
+      "download_url": "/real_world/ada_lovelace/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Alexander Hamilton",
+      "description": "Contributed to state-building at a young age with strong rhetoric and organization.",
+      "soul_path": "/real_world/alexander_hamilton/",
+      "download_url": "/real_world/alexander_hamilton/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "John Stuart Mill",
+      "description": "A classic early-formed thinker emphasizing disciplined reasoning and self-correction.",
+      "soul_path": "/real_world/john_stuart_mill/",
+      "download_url": "/real_world/john_stuart_mill/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Johann Wolfgang von Goethe",
+      "description": "Rose to literary prominence early and embodies sustained artistic development.",
+      "soul_path": "/real_world/johann_wolfgang_von_goethe/",
+      "download_url": "/real_world/johann_wolfgang_von_goethe/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Career Planner",
+      "description": "Helps high-potential individuals define path, pace, and key inflection points.",
+      "soul_path": "/personas/career_planner/",
+      "download_url": "/personas/career_planner/SOUL.en.md",
+      "category": "personas"
+    },
+    {
+      "name": "Skills Coach",
+      "description": "Focuses on deliberate practice of core skills for faster short-term improvement.",
+      "soul_path": "/personas/skills_coach/",
+      "download_url": "/personas/skills_coach/SOUL.en.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "Youth",
+    "Prodigy",
+    "Growth",
+    "High Potential",
+    "Sprint"
+  ],
+  "image": "https://robohash.org/agent-souls-young-prodigy-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T15:31:45+00:00"
+}

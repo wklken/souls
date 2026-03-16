@@ -396,6 +396,13 @@ function pickLocalizedValue(activeLang, zhValue, enValue) {
   return zhValue || enValue || '';
 }
 
+function localizedSoulDownloadUrl(baseUrl, activeLang) {
+  if (activeLang !== 'en') {
+    return baseUrl;
+  }
+  return baseUrl.replace(/\/SOUL\.md$/, '/SOUL.en.md');
+}
+
 function buildTeamData() {
   const activeLang = getActiveLanguage();
   return {
@@ -406,49 +413,49 @@ function buildTeamData() {
       {
         name: pickLocalizedValue(activeLang, "AI 产品经理", "AI Product Manager"),
         description: pickLocalizedValue(activeLang, "专注于 AI 产品定义、需求分析和用户体验设计，帮助团队打造智能产品。", "Focuses on AI product definition, requirement analysis, and user experience design, helping teams build intelligent products."),
-        soul_download_url: "https://agent-souls.com/personas/ai_product_manager/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/ai_product_manager/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/ai_product_manager/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "天使投资人", "Angel Investor"),
         description: pickLocalizedValue(activeLang, "早期投资专家，评估商业模式、团队和市场机会，为创业者提供战略指导。", "Early-stage investment expert, evaluates business models, teams, and market opportunities, providing strategic guidance for entrepreneurs."),
-        soul_download_url: "https://agent-souls.com/personas/angel_investor/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/angel_investor/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/angel_investor/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "增长黑客", "Growth Hacker"),
         description: pickLocalizedValue(activeLang, "专注于用户增长和留存，运用数据驱动的方法实现产品的病毒式传播。", "Focuses on user growth and retention, using data-driven methods to achieve viral growth for products."),
-        soul_download_url: "https://agent-souls.com/personas/growth_hacker/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/growth_hacker/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/growth_hacker/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "前端架构师", "Frontend Architect"),
         description: pickLocalizedValue(activeLang, "前端技术专家，负责技术选型、架构设计和性能优化，打造优秀的用户界面。", "Frontend technology expert, responsible for technology selection, architecture design, and performance optimization, creating excellent user interfaces."),
-        soul_download_url: "https://agent-souls.com/personas/frontend_architect/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/frontend_architect/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/frontend_architect/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "DevOps 专家", "DevOps Expert"),
         description: pickLocalizedValue(activeLang, "运维与开发一体化专家，构建 CI/CD 流程，保障系统稳定性和部署效率。", "DevOps specialist, builds CI/CD pipelines, ensures system stability and deployment efficiency."),
-        soul_download_url: "https://agent-souls.com/personas/devops_expert/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/devops_expert/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/devops_expert/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "内容策略师", "Content Strategist"),
         description: pickLocalizedValue(activeLang, "内容营销专家，制定内容策略，提升品牌影响力和用户参与度。", "Content marketing expert, develops content strategies to enhance brand influence and user engagement."),
-        soul_download_url: "https://agent-souls.com/personas/content_strategist/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/content_strategist/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/content_strategist/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "品牌策略师", "Brand Strategist"),
         description: pickLocalizedValue(activeLang, "品牌建设专家，定义品牌定位和调性，打造独特的品牌形象。", "Brand building expert, defines brand positioning and tone, creates unique brand identity."),
-        soul_download_url: "https://agent-souls.com/personas/brand_strategist/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/brand_strategist/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/brand_strategist/"
       }
       
@@ -480,15 +487,21 @@ function downloadTeamConfig() {
   document.body.removeChild(a);
 }
 
-// 静态 JSON 文件的 URL（预生成，可永久分享）
-const TEAM_JSON_URL = "https://agent-souls.com/teams-json/startup-team.json";
+const TEAM_JSON_URLS = {
+  zh: "https://agent-souls.com/teams-json/zh/startup-team.json",
+  en: "https://agent-souls.com/teams-json/en/startup-team.json"
+};
+
+function getTeamJsonUrl() {
+  const activeLang = getActiveLanguage();
+  return TEAM_JSON_URLS[activeLang] || TEAM_JSON_URLS.zh;
+}
 
 function copyDownloadUrl() {
   const copyBtn = document.getElementById('team-copy-url-btn');
   if (!copyBtn || !navigator.clipboard) return;
 
-  // 复制静态 JSON 文件的永久 URL
-  navigator.clipboard.writeText(TEAM_JSON_URL).then(() => {
+  navigator.clipboard.writeText(getTeamJsonUrl()).then(() => {
     const originalText = copyBtn.textContent;
     const activeLang = getActiveLanguage();
     const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';

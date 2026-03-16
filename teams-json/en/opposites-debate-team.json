@@ -1,0 +1,65 @@
+{
+  "team_name": "Opposites Debate Team",
+  "team_description": "A team intentionally built on worldview conflicts. It places opposing thinkers together for debate, scenario hedging, hypothesis testing, and decision stress tests.",
+  "members": [
+    {
+      "name": "Laozi",
+      "description": "Advocates non-coercive action and alignment with natural dynamics.",
+      "soul_path": "/real_world/laozi/",
+      "download_url": "/real_world/laozi/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Han Fei",
+      "description": "Represents Legalist thought centered on strict systems and enforceable constraints.",
+      "soul_path": "/real_world/han_fei/",
+      "download_url": "/real_world/han_fei/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Confucius",
+      "description": "Prioritizes ethics, ritual order, and moral cultivation in governance.",
+      "soul_path": "/real_world/confucius/",
+      "download_url": "/real_world/confucius/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Jean-Jacques Rousseau",
+      "description": "Argues for freedom, equality, and popular sovereignty in political legitimacy.",
+      "soul_path": "/real_world/jean_jacques_rousseau/",
+      "download_url": "/real_world/jean_jacques_rousseau/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Niccolo Machiavelli",
+      "description": "Analyzes power through political realism, prioritizing survival and outcomes.",
+      "soul_path": "/real_world/niccolo_machiavelli/",
+      "download_url": "/real_world/niccolo_machiavelli/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Friedrich Nietzsche",
+      "description": "Challenges inherited value systems and drives radical re-evaluation.",
+      "soul_path": "/real_world/friedrich_nietzsche/",
+      "download_url": "/real_world/friedrich_nietzsche/SOUL.en.md",
+      "category": "real_world"
+    },
+    {
+      "name": "Critical Thinking Mentor",
+      "description": "Identifies logical gaps, bias, and weak evidence to improve debate quality.",
+      "soul_path": "/personas/critical_thinking_mentor/",
+      "download_url": "/personas/critical_thinking_mentor/SOUL.en.md",
+      "category": "personas"
+    }
+  ],
+  "tags": [
+    "Contrast",
+    "Debate",
+    "Conflict",
+    "Decision",
+    "Stress Test"
+  ],
+  "image": "https://robohash.org/agent-souls-opposites-debate-team.png?size=1200x630&set=set4&bgset=bg1",
+  "source": "https://agent-souls.com",
+  "generated_at": "2026-03-16T15:31:45+00:00"
+}

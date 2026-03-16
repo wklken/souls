@@ -396,6 +396,13 @@ function pickLocalizedValue(activeLang, zhValue, enValue) {
   return zhValue || enValue || '';
 }
 
+function localizedSoulDownloadUrl(baseUrl, activeLang) {
+  if (activeLang !== 'en') {
+    return baseUrl;
+  }
+  return baseUrl.replace(/\/SOUL\.md$/, '/SOUL.en.md');
+}
+
 function buildTeamData() {
   const activeLang = getActiveLanguage();
   return {
@@ -406,49 +413,49 @@ function buildTeamData() {
       {
         name: pickLocalizedValue(activeLang, "孙子", "Sun Tzu"),
         description: pickLocalizedValue(activeLang, "《孙子兵法》作者，强调知彼知己、避实击虚，是战略思维的经典代表。", "Author of The Art of War, known for strategic principles such as knowing both self and opponent."),
-        soul_download_url: "https://agent-souls.com/real_world/sun_tzu/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/sun_tzu/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/sun_tzu/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "诸葛亮", "Zhuge Liang"),
         description: pickLocalizedValue(activeLang, "三国时期顶级谋略家与组织者，擅长长期规划、资源统筹与风险控制。", "A top strategist and organizer of the Three Kingdoms era, strong in long-term planning and resource coordination."),
-        soul_download_url: "https://agent-souls.com/real_world/zhuge_liang/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/zhuge_liang/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/zhuge_liang/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "韩信", "Han Xin"),
         description: pickLocalizedValue(activeLang, "汉初名将，善于出奇制胜与战场调度，强调战术灵活性与时机把握。", "A renowned early Han general known for flexible battlefield tactics and timing."),
-        soul_download_url: "https://agent-souls.com/real_world/han_xin/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/han_xin/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/han_xin/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "戚继光", "Qi Jiguang"),
         description: pickLocalizedValue(activeLang, "明代军事家，重视训练体系与战法标准化，擅长把策略落地为执行体系。", "A Ming military leader who emphasized training systems and standardized execution."),
-        soul_download_url: "https://agent-souls.com/real_world/qi_jiguang/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/qi_jiguang/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/qi_jiguang/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "魏征", "Wei Zheng"),
         description: pickLocalizedValue(activeLang, "唐代名臣，以直谏著称，擅长用制度与反馈机制校正决策偏差。", "A Tang statesman known for candid remonstrance and governance feedback mechanisms."),
-        soul_download_url: "https://agent-souls.com/real_world/wei_zheng/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/real_world/wei_zheng/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/real_world/wei_zheng/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "管理咨询顾问", "Management Consultant"),
         description: pickLocalizedValue(activeLang, "擅长结构化拆解复杂问题，建立战略路径和关键里程碑。", "Specializes in structuring complex problems into strategic roadmaps and milestones."),
-        soul_download_url: "https://agent-souls.com/personas/management_consultant/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/management_consultant/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/management_consultant/"
       },
       
       {
         name: pickLocalizedValue(activeLang, "运营专家", "Operations Expert"),
         description: pickLocalizedValue(activeLang, "聚焦流程、协同与效率提升，确保战略方案稳定执行。", "Focuses on process, coordination, and efficiency to ensure stable execution."),
-        soul_download_url: "https://agent-souls.com/personas/operations_expert/SOUL.md",
+        soul_download_url: localizedSoulDownloadUrl("https://agent-souls.com/personas/operations_expert/SOUL.md", activeLang),
         soul_page_url: "https://agent-souls.com/personas/operations_expert/"
       }
       
@@ -480,15 +487,21 @@ function downloadTeamConfig() {
   document.body.removeChild(a);
 }
 
-// 静态 JSON 文件的 URL（预生成，可永久分享）
-const TEAM_JSON_URL = "https://agent-souls.com/teams-json/strategy-command-team.json";
+const TEAM_JSON_URLS = {
+  zh: "https://agent-souls.com/teams-json/zh/strategy-command-team.json",
+  en: "https://agent-souls.com/teams-json/en/strategy-command-team.json"
+};
+
+function getTeamJsonUrl() {
+  const activeLang = getActiveLanguage();
+  return TEAM_JSON_URLS[activeLang] || TEAM_JSON_URLS.zh;
+}
 
 function copyDownloadUrl() {
   const copyBtn = document.getElementById('team-copy-url-btn');
   if (!copyBtn || !navigator.clipboard) return;
 
-  // 复制静态 JSON 文件的永久 URL
-  navigator.clipboard.writeText(TEAM_JSON_URL).then(() => {
+  navigator.clipboard.writeText(getTeamJsonUrl()).then(() => {
     const originalText = copyBtn.textContent;
     const activeLang = getActiveLanguage();
     const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
