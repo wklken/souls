@@ -334,8 +334,12 @@ function copyDownloadUrl() {
   const copyBtn = document.getElementById('team-copy-url-btn');
   if (!copyBtn || !navigator.clipboard) return;
 
-  const url = generateTeamConfigDownloadUrl();
-  navigator.clipboard.writeText(url).then(() => {
+  // 复制带下载参数的页面 URL，而不是临时的 blob URL
+  const url = new URL(window.location.href);
+  url.searchParams.set('download', '1');
+  const shareableUrl = url.toString();
+
+  navigator.clipboard.writeText(shareableUrl).then(() => {
     const originalText = copyBtn.textContent;
     const activeLang = getActiveLanguage();
     const copiedText = activeLang === 'en' ? 'URL Copied!' : 'URL已复制!';
@@ -346,6 +350,17 @@ function copyDownloadUrl() {
     }, 2000);
   });
 }
+
+// 页面加载时检查是否需要自动下载
+(function checkAutoDownload() {
+  const url = new URL(window.location.href);
+  if (url.searchParams.get('download') === '1') {
+    // 延迟一点执行，确保页面完全加载
+    setTimeout(() => {
+      downloadTeamConfig();
+    }, 500);
+  }
+})();
 
 window.addEventListener('beforeunload', () => {
   if (teamConfigBlobUrl) {
