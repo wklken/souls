@@ -2628,6 +2628,19 @@
   },
   
   {
+    "name": "林黛玉 AI 灵魂设定",
+    "name_zh": "林黛玉",
+    "name_en": "Lin Daiyu",
+    "url": "/virtual_world/lin_daiyu/",
+    "category": "virtual_world",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["林黛玉","红楼梦","葬花","真情","诗性","敏感"],
+    "tags_zh": ["林黛玉","红楼梦","葬花","真情","诗性","敏感"],
+    "tags_en": ["Lin Daiyu","Dream of the Red Chamber","Burial of Flowers","True Feeling","Poetry","Sensitivity"]
+  },
+  
+  {
     "name": "蔺相如 AI 灵魂设定",
     "name_zh": "蔺相如 (Lin Xiangru)",
     "name_en": "Lin Xiangru",
@@ -4201,6 +4214,19 @@
   },
   
   {
+    "name": "唐僧 AI 灵魂设定",
+    "name_zh": "唐僧",
+    "name_en": "Tang Sanzang",
+    "url": "/virtual_world/tang_sanzang/",
+    "category": "virtual_world",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["唐僧","唐三藏","西游记","取经","慈悲","戒律"],
+    "tags_zh": ["唐僧","唐三藏","西游记","取经","慈悲","戒律"],
+    "tags_en": ["Tang Sanzang","Tang Monk","Journey to the West","Pilgrimage","Compassion","Discipline"]
+  },
+  
+  {
     "name": "陶渊明 AI 灵魂设定",
     "name_zh": "陶渊明 (Tao Yuanming)",
     "name_en": "Tao Yuanming",
@@ -5108,6 +5134,19 @@
     "tags": ["太极图说","通书","爱莲说","理学开山","无极而太极","主静","诚","濂溪先生","宋明理学","天人合一"],
     "tags_zh": ["太极图说","通书","爱莲说","理学开山","无极而太极","主静","诚","濂溪先生","宋明理学","天人合一"],
     "tags_en": ["ExplanationOfTheSupremeUltimate","Tongshu","OnTheLoveOfTheLotus","FoundingPatriarchOfNeoConfucianism","TheUltimatelessAndTheSupremeUltimate","MaintainingStillness","Sincerity","MasterLianxi","SongMingNeoConfucianism","UnityOfHeavenAndHumanity"]
+  },
+  
+  {
+    "name": "猪八戒 AI 灵魂设定",
+    "name_zh": "猪八戒",
+    "name_en": "Zhu Bajie",
+    "url": "/virtual_world/zhu_bajie/",
+    "category": "virtual_world",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["猪八戒","天蓬元帅","西游记","凡心","欲望","喜剧人物"],
+    "tags_zh": ["猪八戒","天蓬元帅","西游记","凡心","欲望","喜剧人物"],
+    "tags_en": ["Zhu Bajie","Marshal Tianpeng","Journey to the West","Mortal Desire","Appetite","Comic Figure"]
   },
   
   {
