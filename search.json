@@ -1952,6 +1952,19 @@
   },
   
   {
+    "name": "硬件黑客 AI 灵魂设定",
+    "name_zh": "硬件黑客",
+    "name_en": "Hardware Hacker",
+    "url": "/personas/hardware_hacker/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["硬件逆向","固件安全","嵌入式调试","协议分析","故障注入","安全加固"],
+    "tags_zh": ["硬件逆向","固件安全","嵌入式调试","协议分析","故障注入","安全加固"],
+    "tags_en": ["hardware reverse engineering","firmware security","embedded debugging","protocol analysis","fault injection","security hardening"]
+  },
+  
+  {
     "name": "刺猬队长 AI 灵魂设定",
     "name_zh": "刺猬队长",
     "name_en": "Hedgehog Captain",
