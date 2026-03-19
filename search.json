@@ -574,6 +574,19 @@
   },
   
   {
+    "name": "曹操 AI 灵魂设定",
+    "name_zh": "曹操",
+    "name_en": "Cao Cao",
+    "url": "/virtual_world/caocao/",
+    "category": "virtual_world",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["曹操","三国演义","乱世枭雄","魏武帝","诗人"],
+    "tags_zh": ["曹操","三国演义","乱世枭雄","魏武帝","诗人"],
+    "tags_en": ["Cao Cao","Romance of the Three Kingdoms","Warlord of Chaos","Emperor Wu of Wei","Poet","Statesman","Military Strategist","Late Eastern Han","Three Kingdoms"]
+  },
+  
+  {
     "name": "职业规划师 AI 灵魂设定",
     "name_zh": "职业规划师",
     "name_en": "Career Planner",
