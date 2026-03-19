@@ -80,6 +80,19 @@
   },
   
   {
+    "name": "Agent评测工程师 AI 灵魂设定",
+    "name_zh": "Agent评测工程师",
+    "name_en": "Agent Evaluation Engineer",
+    "url": "/personas/agent_evaluation_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Agent评测","质量门禁","基准数据集","失败样本分析","回归测试","多代理系统","模型对齐","可靠性工程"],
+    "tags_zh": ["Agent评测","质量门禁","基准数据集","失败样本分析","回归测试","多代理系统","模型对齐","可靠性工程"],
+    "tags_en": ["Agent evaluation","Quality gates","Benchmark datasets","Failure-case analysis","Regression testing","Multi-agent systems","Model alignment","Reliability engineering"]
+  },
+  
+  {
     "name": "AI Agent 架构师 AI 灵魂设定",
     "name_zh": "AI Agent 架构师",
     "name_en": "AI Agent Architect",
@@ -90,6 +103,45 @@
     "tags": ["AI Agent","代理架构","多代理系统","任务编排","上下文工程","系统可靠性","权限治理","可观测性"],
     "tags_zh": ["AI Agent","代理架构","多代理系统","任务编排","上下文工程","系统可靠性","权限治理","可观测性"],
     "tags_en": ["AI Agent","Agent architecture","Multi-agent systems","Task orchestration","Context engineering","System reliability","Permission governance","Observability"]
+  },
+  
+  {
+    "name": "AI Agent运营工程师 AI 灵魂设定",
+    "name_zh": "AI Agent运营工程师",
+    "name_en": "AI Agent Operations Engineer",
+    "url": "/personas/ai_agent_operations_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Agent运维","可靠性工程","故障响应","灰度发布","告警治理","SLO管理","多代理系统","运行成本优化"],
+    "tags_zh": ["Agent运维","可靠性工程","故障响应","灰度发布","告警治理","SLO管理","多代理系统","运行成本优化"],
+    "tags_en": ["Agent operations","Reliability engineering","Incident response","Canary release","Alert governance","SLO management","Multi-agent systems","Runtime cost optimization"]
+  },
+  
+  {
+    "name": "AI编程团队落地教练 AI 灵魂设定",
+    "name_zh": "AI编程团队落地教练",
+    "name_en": "AI Coding Team Lead",
+    "url": "/personas/ai_coding_team_lead/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI编程落地","团队协作流程","工程效能","代码评审","质量门禁","开发规范","技术领导力","知识沉淀"],
+    "tags_zh": ["AI编程落地","团队协作流程","工程效能","代码评审","质量门禁","开发规范","技术领导力","知识沉淀"],
+    "tags_en": ["AI coding adoption","Team collaboration workflow","Engineering productivity","Code review","Quality gates","Development standards","Technical leadership","Knowledge capture"]
+  },
+  
+  {
+    "name": "AI开发工具链集成专家 AI 灵魂设定",
+    "name_zh": "AI开发工具链集成专家",
+    "name_en": "AI DevTool Integrator",
+    "url": "/personas/ai_devtool_integrator/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI开发工具链","平台工程","DevEx","CI/CD","质量门禁","自动化测试","发布治理","可观测性"],
+    "tags_zh": ["AI开发工具链","平台工程","DevEx","CI/CD","质量门禁","自动化测试","发布治理","可观测性"],
+    "tags_en": ["AI development toolchain","Platform engineering","DevEx","CI/CD","Quality gates","Automated testing","Release governance","Observability"]
   },
   
   {
@@ -106,6 +158,19 @@
   },
   
   {
+    "name": "AI评测工程师 AI 灵魂设定",
+    "name_zh": "AI评测工程师",
+    "name_en": "AI Evaluation Engineer",
+    "url": "/personas/ai_evaluation_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI评测","质量门禁","基准数据集","回归测试","失败样本分析","模型治理","发布策略","可靠性工程"],
+    "tags_zh": ["AI评测","质量门禁","基准数据集","回归测试","失败样本分析","模型治理","发布策略","可靠性工程"],
+    "tags_en": ["AI evaluation","Quality gates","Benchmark datasets","Regression testing","Failure-case analysis","Model governance","Release strategy","Reliability engineering"]
+  },
+  
+  {
     "name": "AI 产品经理 AI 灵魂设定",
     "name_zh": "AI 产品经理",
     "name_en": "AI Product Manager",
@@ -116,6 +181,32 @@
     "tags": ["AI产品","大模型应用","人机协作","Prompt工程","AI伦理","产品化"],
     "tags_zh": ["AI产品","大模型应用","人机协作","Prompt工程","AI伦理","产品化"],
     "tags_en": ["AI products","large language model applications","human-AI collaboration","prompt engineering","AI ethics","productization"]
+  },
+  
+  {
+    "name": "AI短剧制作人 AI 灵魂设定",
+    "name_zh": "AI短剧制作人",
+    "name_en": "AI Short Drama Producer",
+    "url": "/personas/ai_short_drama_producer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI短剧","内容制作","节奏设计","脚本策划","AIGC视频","短视频运营","爆款方法论","数据复盘"],
+    "tags_zh": ["AI短剧","内容制作","节奏设计","脚本策划","AIGC视频","短视频运营","爆款方法论","数据复盘"],
+    "tags_en": ["AI short drama","Content production","Rhythm design","Script planning","AIGC video","Short-video operations","Hit methodology","Data review"]
+  },
+  
+  {
+    "name": "AI工作流自动化顾问 AI 灵魂设定",
+    "name_zh": "AI工作流自动化顾问",
+    "name_en": "AI Workflow Automation Consultant",
+    "url": "/personas/ai_workflow_automation_consultant/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["工作流自动化","AI Agent","流程编排","RPA","人机协作","流程治理","效率优化","系统可观测性"],
+    "tags_zh": ["工作流自动化","AI Agent","流程编排","RPA","人机协作","流程治理","效率优化","系统可观测性"],
+    "tags_en": ["Workflow automation","AI Agent","Process orchestration","RPA","Human-AI collaboration","Process governance","Efficiency optimization","System observability"]
   },
   
   {
@@ -730,6 +821,19 @@
   },
   
   {
+    "name": "Cohort课程教练 AI 灵魂设定",
+    "name_zh": "Cohort课程教练",
+    "name_en": "Cohort Course Facilitator",
+    "url": "/personas/cohort_course_facilitator/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Cohort课程","课程教练","学习引导","教学运营","学员留存","作业反馈","同伴学习","能力迁移"],
+    "tags_zh": ["Cohort课程","课程教练","学习引导","教学运营","学员留存","作业反馈","同伴学习","能力迁移"],
+    "tags_en": ["Cohort programs","Course facilitation","Learning guidance","Teaching operations","Learner retention","Assignment feedback","Peer learning","Capability transfer"]
+  },
+  
+  {
     "name": "调色师 AI 灵魂设定",
     "name_zh": "调色师",
     "name_en": "Colorist",
@@ -740,6 +844,19 @@
     "tags": ["色彩分级","调色","DaVinci Resolve","HDR","Dolby Vision","色彩管理","电影后期","色彩心理学","LUT","数字中间片"],
     "tags_zh": ["色彩分级","调色","DaVinci Resolve","HDR","Dolby Vision","色彩管理","电影后期","色彩心理学","LUT","数字中间片"],
     "tags_en": ["Color Grading","Color Correction","DaVinci Resolve","HDR","Dolby Vision","Color Management","Film Post-Production","Color Psychology","LUT","Digital Intermediate"]
+  },
+  
+  {
+    "name": "社群变现运营经理 AI 灵魂设定",
+    "name_zh": "社群变现运营经理",
+    "name_en": "Community Monetization Manager",
+    "url": "/personas/community_monetization_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["社群变现","会员运营","私域增长","用户留存","复购策略","社群产品","活动运营","知识服务"],
+    "tags_zh": ["社群变现","会员运营","私域增长","用户留存","复购策略","社群产品","活动运营","知识服务"],
+    "tags_en": ["Community monetization","Membership operations","Private-domain growth","User retention","Repurchase strategy","Community products","Event operations","Knowledge services"]
   },
   
   {
@@ -821,6 +938,19 @@
   },
   
   {
+    "name": "公司法律师 AI 灵魂设定",
+    "name_zh": "公司法律师",
+    "name_en": "Corporate Lawyer",
+    "url": "/personas/corporate_lawyer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["公司法务","合同谈判","公司治理","交易结构","合规管理","风险控制","授权机制","争议预防"],
+    "tags_zh": ["公司法务","合同谈判","公司治理","交易结构","合规管理","风险控制","授权机制","争议预防"],
+    "tags_en": ["Corporate legal affairs","Contract negotiation","Corporate governance","Transaction structure","Compliance management","Risk control","Authorization systems","Dispute prevention"]
+  },
+  
+  {
     "name": "课程设计师 (知识付费) AI 灵魂设定",
     "name_zh": "课程设计师 (知识付费)",
     "name_en": "Course Designer (Knowledge Commerce)",
@@ -860,6 +990,19 @@
   },
   
   {
+    "name": "跨境合规经理 AI 灵魂设定",
+    "name_zh": "跨境合规经理",
+    "name_en": "Cross-Border Compliance Manager",
+    "url": "/personas/cross_border_compliance_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["跨境合规","风险治理","流程控制","第三方管理","审计准备","事件响应","证据留痕","组织协同"],
+    "tags_zh": ["跨境合规","风险治理","流程控制","第三方管理","审计准备","事件响应","证据留痕","组织协同"],
+    "tags_en": ["Cross-border compliance","Risk governance","Process controls","Third-party oversight","Audit readiness","Incident response","Evidence management","Organizational coordination"]
+  },
+  
+  {
     "name": "跨境电商运营 AI 灵魂设定",
     "name_zh": "跨境电商运营",
     "name_en": "Cross-Border E-commerce Operations Expert",
@@ -870,6 +1013,19 @@
     "tags": ["跨境电商","Amazon运营","TikTok Shop运营","Temu运营","选品策略","广告投放","利润模型","合规风控"],
     "tags_zh": ["跨境电商","Amazon运营","TikTok Shop运营","Temu运营","选品策略","广告投放","利润模型","合规风控"],
     "tags_en": ["Cross-border e-commerce","Amazon operations","TikTok Shop operations","Temu operations","Product selection strategy","Ad operations","Profit model","Compliance risk control"]
+  },
+  
+  {
+    "name": "跨境支付专家 AI 灵魂设定",
+    "name_zh": "跨境支付专家",
+    "name_en": "Cross-Border Payment Specialist",
+    "url": "/personas/cross_border_payment_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["跨境支付","支付风控","通道路由","拒付治理","清结算","对账体系","资金效率","合规治理"],
+    "tags_zh": ["跨境支付","支付风控","通道路由","拒付治理","清结算","对账体系","资金效率","合规治理"],
+    "tags_en": ["Cross-border payments","Payment risk control","Route orchestration","Chargeback governance","Settlement","Reconciliation","Capital efficiency","Compliance governance"]
   },
   
   {
@@ -2154,9 +2310,9 @@
     "category": "personas",
     "category_zh": "专家角色",
     "category_en": "Personas",
-    "tags": ["插画","视觉叙事","角色设计","构图","配色","商业插画"],
-    "tags_zh": ["插画","视觉叙事","角色设计","构图","配色","商业插画"],
-    "tags_en": ["illustration","visual storytelling","character design","composition","color","commercial art"]
+    "tags": ["插画设计","视觉叙事","角色设定","构图策略","配色系统","商业创意","品牌视觉","内容插画"],
+    "tags_zh": ["插画设计","视觉叙事","角色设定","构图策略","配色系统","商业创意","品牌视觉","内容插画"],
+    "tags_en": ["Illustration design","Visual storytelling","Character design","Composition strategy","Color systems","Commercial creativity","Brand visuals","Content illustration"]
   },
   
   {
@@ -2261,6 +2417,19 @@
     "tags": ["iOS","Swift","移动开发","性能优化","架构设计","工程化","稳定性","用户体验"],
     "tags_zh": ["iOS","Swift","移动开发","性能优化","架构设计","工程化","稳定性","用户体验"],
     "tags_en": ["iOS","Swift","Mobile Development","Performance Optimization","Architecture Design","Engineering Practice","Stability","User Experience"]
+  },
+  
+  {
+    "name": "知识产权律师 AI 灵魂设定",
+    "name_zh": "知识产权律师",
+    "name_en": "IP Lawyer",
+    "url": "/personas/ip_lawyer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["知识产权","著作权","商标保护","专利布局","商业秘密","许可协议","侵权应对","合规治理"],
+    "tags_zh": ["知识产权","著作权","商标保护","专利布局","商业秘密","许可协议","侵权应对","合规治理"],
+    "tags_en": ["Intellectual property","Copyright","Trademark protection","Patent strategy","Trade secrets","Licensing agreements","Infringement response","Compliance governance"]
   },
   
   {
@@ -2456,6 +2625,19 @@
     "tags": ["厨房解说","生活节奏","行动启动","复盘思维","比喻表达"],
     "tags_zh": ["厨房解说","生活节奏","行动启动","复盘思维","比喻表达"],
     "tags_en": ["kitchen commentary","momentum building","action coaching","replay mindset","vivid metaphors"]
+  },
+  
+  {
+    "name": "知识变现策略师 AI 灵魂设定",
+    "name_zh": "知识变现策略师",
+    "name_en": "Knowledge Monetization Strategist",
+    "url": "/personas/knowledge_monetization_strategist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["知识变现","知识产品","课程运营","产品梯度","转化漏斗","复购策略","个人品牌","内容商业化"],
+    "tags_zh": ["知识变现","知识产品","课程运营","产品梯度","转化漏斗","复购策略","个人品牌","内容商业化"],
+    "tags_en": ["Knowledge monetization","Knowledge products","Course operations","Product ladder","Conversion funnel","Repurchase strategy","Personal brand","Content commercialization"]
   },
   
   {
@@ -2745,6 +2927,19 @@
   },
   
   {
+    "name": "LLM运营工程师 AI 灵魂设定",
+    "name_zh": "LLM运营工程师",
+    "name_en": "LLM Operations Engineer",
+    "url": "/personas/llm_operations_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["LLM运营","模型治理","线上评测","灰度发布","回滚策略","提示工程治理","成本优化","系统可靠性"],
+    "tags_zh": ["LLM运营","模型治理","线上评测","灰度发布","回滚策略","提示工程治理","成本优化","系统可靠性"],
+    "tags_en": ["LLM operations","Model governance","Online evaluation","Canary release","Rollback strategy","Prompt governance","Cost optimization","System reliability"]
+  },
+  
+  {
     "name": "本地化专家 AI 灵魂设定",
     "name_zh": "本地化专家",
     "name_en": "Localization Specialist",
@@ -3025,9 +3220,9 @@
     "category": "personas",
     "category_zh": "专家角色",
     "category_en": "Personas",
-    "tags": ["蒙台梭利","幼儿教育","混龄课堂","学习环境","儿童发展","家校共育"],
-    "tags_zh": ["蒙台梭利","幼儿教育","混龄课堂","学习环境","儿童发展","家校共育"],
-    "tags_en": ["Montessori","early education","mixed-age classroom","learning environment","child development","home-school"]
+    "tags": ["蒙台梭利教育","儿童发展","准备环境","自主学习","学习引导","家园共育","课堂秩序","成长观察"],
+    "tags_zh": ["蒙台梭利教育","儿童发展","准备环境","自主学习","学习引导","家园共育","课堂秩序","成长观察"],
+    "tags_en": ["Montessori education","Child development","Prepared environment","Self-directed learning","Learning guidance","Family-school collaboration","Classroom order","Growth observation"]
   },
   
   {
@@ -3236,6 +3431,19 @@
     "tags": ["包装设计","货架陈列","结构设计","材料工艺","消费品牌","量产规范"],
     "tags_zh": ["包装设计","货架陈列","结构设计","材料工艺","消费品牌","量产规范"],
     "tags_en": ["packaging design","shelf merchandising","structural design","material process","consumer brand","production spec"]
+  },
+  
+  {
+    "name": "付费通讯运营官 AI 灵魂设定",
+    "name_zh": "付费通讯运营官",
+    "name_en": "Paid Newsletter Operator",
+    "url": "/personas/paid_newsletter_operator/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["付费通讯","订阅增长","邮件运营","内容策略","用户留存","续费优化","会员运营","知识服务"],
+    "tags_zh": ["付费通讯","订阅增长","邮件运营","内容策略","用户留存","续费优化","会员运营","知识服务"],
+    "tags_en": ["Paid newsletters","Subscription growth","Email operations","Content strategy","User retention","Renewal optimization","Membership operations","Knowledge services"]
   },
   
   {
@@ -4380,6 +4588,19 @@
     "tags": ["童言提问","真诚表达","情绪识别","去复杂化","温暖陪伴"],
     "tags_zh": ["童言提问","真诚表达","情绪识别","去复杂化","温暖陪伴"],
     "tags_en": ["childlike questions","honest expression","emotion naming","de-complexing","warm companionship"]
+  },
+  
+  {
+    "name": "TikTok Shop增长运营专家 AI 灵魂设定",
+    "name_zh": "TikTok Shop增长运营专家",
+    "name_en": "TikTok Shop Growth Operator",
+    "url": "/personas/tiktok_shop_growth_operator/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["TikTok Shop","内容电商","增长运营","直播带货","短视频转化","达人合作","广告投流","GMV增长"],
+    "tags_zh": ["TikTok Shop","内容电商","增长运营","直播带货","短视频转化","达人合作","广告投流","GMV增长"],
+    "tags_en": ["TikTok Shop","Content commerce","Growth operations","Livestream selling","Short-video conversion","Creator collaboration","Paid media","GMV growth"]
   },
   
   {
