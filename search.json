@@ -119,6 +119,19 @@
   },
   
   {
+    "name": "AI代码审查专家 AI 灵魂设定",
+    "name_zh": "AI代码审查专家",
+    "name_en": "AI Code Review Specialist",
+    "url": "/personas/ai_code_review_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI代码审查","代码质量","软件工程","DevOps","人机协作"],
+    "tags_zh": ["AI代码审查","代码质量","软件工程","DevOps","人机协作"],
+    "tags_en": ["AI Code Review","Code Quality","Software Engineering","DevOps","Human-Machine Collaboration"]
+  },
+  
+  {
     "name": "AI编程团队落地教练 AI 灵魂设定",
     "name_zh": "AI编程团队落地教练",
     "name_en": "AI Coding Team Lead",
@@ -207,6 +220,19 @@
     "tags": ["AI语音","品牌声音","语音内容策略","听觉识别","内容分发","风格一致性","品牌表达","生成式内容"],
     "tags_zh": ["AI语音","品牌声音","语音内容策略","听觉识别","内容分发","风格一致性","品牌表达","生成式内容"],
     "tags_en": ["AI voice","brand voice","audio content strategy","auditory identity","content distribution","style consistency","brand expression","generative content"]
+  },
+  
+  {
+    "name": "AI声音品牌设计师 AI 灵魂设定",
+    "name_zh": "AI声音品牌设计师",
+    "name_en": "AI Voice Brand Designer",
+    "url": "/personas/ai_voice_brand_designer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI声音设计","声音品牌","语音交互","品牌人格","听觉设计"],
+    "tags_zh": ["AI声音设计","声音品牌","语音交互","品牌人格","听觉设计"],
+    "tags_en": ["AI Voice Design","Voice Brand","Voice Interaction","Brand Personality","Auditory Design"]
   },
   
   {
@@ -1068,6 +1094,19 @@
   },
   
   {
+    "name": "创作者合作经理 AI 灵魂设定",
+    "name_zh": "创作者合作经理",
+    "name_en": "Creator Partnership Manager",
+    "url": "/personas/creator_partnership_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["创作者经济","KOL合作","内容营销","影响力营销","品牌合作"],
+    "tags_zh": ["创作者经济","KOL合作","内容营销","影响力营销","品牌合作"],
+    "tags_en": ["Creator Economy","KOL Collaboration","Content Marketing","Influencer Marketing","Brand Partnership"]
+  },
+  
+  {
     "name": "思维导师 AI 灵魂设定",
     "name_zh": "思维导师",
     "name_en": "Critical Thinking Mentor",
@@ -1351,6 +1390,19 @@
     "tags": ["DevOps","CI/CD","云原生","Kubernetes","自动化","SRE","基础设施即代码","可观测性"],
     "tags_zh": ["DevOps","CI/CD","云原生","Kubernetes","自动化","SRE","基础设施即代码","可观测性"],
     "tags_en": ["DevOps","CI/CD","cloud-native","Kubernetes","automation","SRE","infrastructure-as-code","observability"]
+  },
+  
+  {
+    "name": "数字孪生运营师 AI 灵魂设定",
+    "name_zh": "数字孪生运营师",
+    "name_en": "Digital Twin Operator",
+    "url": "/personas/digital_twin_operator/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["数字孪生","工业物联网","预测性维护","智能制造","数据驱动决策"],
+    "tags_zh": ["数字孪生","工业物联网","预测性维护","智能制造","数据驱动决策"],
+    "tags_en": ["Digital Twin","Industrial IoT","Predictive Maintenance","Smart Manufacturing","Data-Driven Decision Making"]
   },
   
   {
@@ -2524,6 +2576,19 @@
   },
   
   {
+    "name": "国际企业销售赋能顾问 AI 灵魂设定",
+    "name_zh": "国际企业销售赋能顾问",
+    "name_en": "International Enterprise Sales Enabler",
+    "url": "/personas/international_enterprise_sales_enabler/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["国际销售","销售赋能","全球商业拓展","B2B销售","销售组织设计"],
+    "tags_zh": ["国际销售","销售赋能","全球商业拓展","B2B销售","销售组织设计"],
+    "tags_en": ["International Sales","Sales Enablement","Global Business Expansion","B2B Sales","Sales Organization Design"]
+  },
+  
+  {
     "name": "国际税务顾问 AI 灵魂设定",
     "name_zh": "国际税务顾问",
     "name_en": "International Tax Consultant",
@@ -3330,6 +3395,19 @@
   },
   
   {
+    "name": "微SaaS发布教练 AI 灵魂设定",
+    "name_zh": "微SaaS发布教练",
+    "name_en": "Micro SaaS Launch Coach",
+    "url": "/personas/micro_saas_launch_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["微SaaS","独立开发者","精益创业","产品发布","-bootstrapping"],
+    "tags_zh": ["微SaaS","独立开发者","精益创业","产品发布","-bootstrapping"],
+    "tags_en": ["Micro SaaS","Indie Developer","Lean Startup","Product Launch","Bootstrapping"]
+  },
+  
+  {
     "name": "深夜信箱管理员 AI 灵魂设定",
     "name_zh": "深夜信箱管理员",
     "name_en": "Midnight Mailbox Keeper",
@@ -3616,6 +3694,19 @@
   },
   
   {
+    "name": "海外公共关系专家 AI 灵魂设定",
+    "name_zh": "海外公共关系专家",
+    "name_en": "Overseas Public Relations Specialist",
+    "url": "/personas/overseas_public_relations_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["海外公关","跨文化传播","危机管理","品牌叙事","国际媒体关系"],
+    "tags_zh": ["海外公关","跨文化传播","危机管理","品牌叙事","国际媒体关系"],
+    "tags_en": ["Overseas PR","Cross-Cultural Communication","Crisis Management","Brand Narrative","International Media Relations"]
+  },
+  
+  {
     "name": "奥维德 AI 灵魂设定",
     "name_zh": "奥维德 (Ovid)",
     "name_en": "Ovid",
@@ -3886,6 +3977,19 @@
     "tags": ["整理收纳","断舍离","空间管理","家庭效率","习惯养成","回位系统"],
     "tags_zh": ["整理收纳","断舍离","空间管理","家庭效率","习惯养成","回位系统"],
     "tags_en": ["professional organizing","decluttering","space management","home efficiency","habit building","return path"]
+  },
+  
+  {
+    "name": "Prompt资产管理师 AI 灵魂设定",
+    "name_zh": "Prompt资产管理师",
+    "name_en": "Prompt Asset Manager",
+    "url": "/personas/prompt_asset_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Prompt工程","AI应用","知识管理","大语言模型","人机交互"],
+    "tags_zh": ["Prompt工程","AI应用","知识管理","大语言模型","人机交互"],
+    "tags_en": ["Prompt Engineering","AI Applications","Knowledge Management","Large Language Models","Human-Computer Interaction"]
   },
   
   {
@@ -4669,6 +4773,19 @@
   },
   
   {
+    "name": "订阅增长经理 AI 灵魂设定",
+    "name_zh": "订阅增长经理",
+    "name_en": "Subscription Growth Manager",
+    "url": "/personas/subscription_growth_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["订阅增长","用户留存","SaaS增长","产品分析","增长策略"],
+    "tags_zh": ["订阅增长","用户留存","SaaS增长","产品分析","增长策略"],
+    "tags_en": ["Subscription Growth","User Retention","SaaS Growth","Product Analytics","Growth Strategy"]
+  },
+  
+  {
     "name": "孙权 AI 灵魂设定",
     "name_zh": "孙权 (Sun Quan)",
     "name_en": "Sun Quan",
@@ -4731,6 +4848,19 @@
     "tags": ["供应链管理","采购与供应商管理","物流与仓储","库存优化","风险管理","供应链数字化","S&OP","全球供应链","成本管控","供应链韧性"],
     "tags_zh": ["供应链管理","采购与供应商管理","物流与仓储","库存优化","风险管理","供应链数字化","S&OP","全球供应链","成本管控","供应链韧性"],
     "tags_en": ["Supply Chain Management","Procurement and Supplier Management","Logistics and Warehousing","Inventory Optimization","Risk Management","Supply Chain Digitalization","S&OP","Global Supply Chain","Cost Control","Supply Chain Resilience"]
+  },
+  
+  {
+    "name": "合成内容合规官 AI 灵魂设定",
+    "name_zh": "合成内容合规官",
+    "name_en": "Synthetic Media Compliance Officer",
+    "url": "/personas/synthetic_media_compliance_officer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["合成媒体","AI合规","内容安全","数字伦理","深度伪造治理"],
+    "tags_zh": ["合成媒体","AI合规","内容安全","数字伦理","深度伪造治理"],
+    "tags_en": ["Synthetic Media","AI Compliance","Content Safety","Digital Ethics","Deepfake Governance"]
   },
   
   {
