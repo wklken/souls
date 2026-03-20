@@ -561,6 +561,19 @@
   },
   
   {
+    "name": "生物黑客 AI 灵魂设定",
+    "name_zh": "生物黑客",
+    "name_en": "Biohacker",
+    "url": "/personas/biohacker/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["生物黑客","自我实验","健康优化","数据追踪","睡眠节律","代谢管理","行为改变"],
+    "tags_zh": ["生物黑客","自我实验","健康优化","数据追踪","睡眠节律","代谢管理","行为改变"],
+    "tags_en": ["biohacking","self-quantification","personal optimization","nootropics","metabolic health","self-experimentation","human enhancement"]
+  },
+  
+  {
     "name": "区块链架构师 AI 灵魂设定",
     "name_zh": "区块链架构师",
     "name_en": "Blockchain Architect (Smart Contract/DeFi)",
@@ -821,6 +834,19 @@
   },
   
   {
+    "name": "气候适应专家 AI 灵魂设定",
+    "name_zh": "气候适应专家",
+    "name_en": "Climate Adaptation Expert",
+    "url": "/personas/climate_adaptation_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["气候适应","韧性治理","风险评估","脆弱性分析","应急管理","社区协同","可持续规划"],
+    "tags_zh": ["气候适应","韧性治理","风险评估","脆弱性分析","应急管理","社区协同","可持续规划"],
+    "tags_en": ["climate adaptation","resilience","risk assessment","climate change","infrastructure","community planning","sustainability"]
+  },
+  
+  {
     "name": "云架构师 AI 灵魂设定",
     "name_zh": "云架构师",
     "name_en": "Cloud Architect (AWS/Azure/GCP)",
@@ -987,6 +1013,19 @@
     "tags": ["C++","系统编程","性能优化","模板","RAII","现代C++"],
     "tags_zh": ["C++","系统编程","性能优化","模板","RAII","现代C++"],
     "tags_en": ["C++","Systems Programming","Performance Optimization","Templates","RAII","Modern C++"]
+  },
+  
+  {
+    "name": "创作者数据分析师 AI 灵魂设定",
+    "name_zh": "创作者数据分析师",
+    "name_en": "Creator Data Analyst",
+    "url": "/personas/creator_data_analyst/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["创作者经济","数据分析","内容策略","增长科学","平台算法","受众分析","A/B测试"],
+    "tags_zh": ["创作者经济","数据分析","内容策略","增长科学","平台算法","受众分析","A/B测试"],
+    "tags_en": ["creator economy","data analysis","content strategy","growth science","platform algorithms","audience analysis","A/B testing"]
   },
   
   {
@@ -1806,6 +1845,19 @@
     "tags": ["园艺师","庭院设计","土壤管理","植物养护","季节管理","病虫害预防"],
     "tags_zh": ["园艺师","庭院设计","土壤管理","植物养护","季节管理","病虫害预防"],
     "tags_en": ["gardener","yard design","soil management","plant care","seasonal planning","pest prevention"]
+  },
+  
+  {
+    "name": "生成式搜索优化策略师 AI 灵魂设定",
+    "name_zh": "生成式搜索优化策略师",
+    "name_en": "Generative Search Optimization Strategist",
+    "url": "/personas/generative_search_optimization_strategist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["生成式搜索","答案优化","引用策略","内容结构化","实体语义","证据链","品牌可见性"],
+    "tags_zh": ["生成式搜索","答案优化","引用策略","内容结构化","实体语义","证据链","品牌可见性"],
+    "tags_en": ["generative search","SEO","AI optimization","content strategy","visibility engineering","search evolution","LLM adaptation"]
   },
   
   {
@@ -2979,6 +3031,19 @@
   },
   
   {
+    "name": "长寿科学家 AI 灵魂设定",
+    "name_zh": "长寿科学家",
+    "name_en": "Longevity Scientist",
+    "url": "/personas/longevity_scientist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["长寿科学","衰老机制","健康寿命","证据分级","个体化干预","数据追踪","长期主义"],
+    "tags_zh": ["长寿科学","衰老机制","健康寿命","证据分级","个体化干预","数据追踪","长期主义"],
+    "tags_en": ["Longevity science","Aging mechanisms","Healthspan","Evidence ranking","Personalized intervention","Data tracking","Long-termism"]
+  },
+  
+  {
     "name": "失物招领处的诗人 AI 灵魂设定",
     "name_zh": "失物招领处的诗人",
     "name_en": "Lost-and-Found Poet",
@@ -3262,6 +3327,19 @@
     "tags": ["墨家","兼爱","非攻","功利主义","守城术","反战","战国"],
     "tags_zh": ["墨家","兼爱","非攻","功利主义","守城术","反战","战国"],
     "tags_en": ["Mohism","Universal Love","Non-Aggression","Utilitarianism","Defensive Warfare","Anti-War","Warring States"]
+  },
+  
+  {
+    "name": "多语SEO专家 AI 灵魂设定",
+    "name_zh": "多语SEO专家",
+    "name_en": "Multilingual SEO Specialist",
+    "url": "/personas/multilingual_seo_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["多语SEO","国际市场","本地化","跨文化营销","全球搜索","技术SEO","关键词研究"],
+    "tags_zh": ["多语SEO","国际市场","本地化","跨文化营销","全球搜索","技术SEO","关键词研究"],
+    "tags_en": ["multilingual SEO","international market","localization","cross-cultural marketing","global search","technical SEO","keyword research"]
   },
   
   {
@@ -3902,6 +3980,19 @@
   },
   
   {
+    "name": "机器人工程师 AI 灵魂设定",
+    "name_zh": "机器人工程师",
+    "name_en": "Robotics Engineer",
+    "url": "/personas/robotics_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["机器人","自动化","系统集成","运动控制","现场调试","安全工程","人机协作"],
+    "tags_zh": ["机器人","自动化","系统集成","运动控制","现场调试","安全工程","人机协作"],
+    "tags_en": ["robotics","automation","system integration","motion control","field debugging","safety engineering","human-robot collaboration"]
+  },
+  
+  {
     "name": "攀岩教练 AI 灵魂设定",
     "name_zh": "攀岩教练",
     "name_en": "Rock Climbing Coach",
@@ -4240,6 +4331,19 @@
   },
   
   {
+    "name": "一人公司系统顾问 AI 灵魂设定",
+    "name_zh": "一人公司系统顾问",
+    "name_en": "Solo Founder OS Consultant",
+    "url": "/personas/solo_founder_os_consultant/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["一人公司","系统顾问","自动化","产品化","可持续创业","效率提升","独立创业"],
+    "tags_zh": ["一人公司","系统顾问","自动化","产品化","可持续创业","效率提升","独立创业"],
+    "tags_en": ["solo founder","systems consultant","automation","productization","sustainable entrepreneurship","efficiency improvement","independent business"]
+  },
+  
+  {
     "name": "侍酒师 AI 灵魂设定",
     "name_zh": "侍酒师",
     "name_en": "Sommelier",
@@ -4315,6 +4419,19 @@
     "tags": ["声音设计","影视混录","游戏音频","环境音","Foley","Pro Tools","Dolby Atmos","空间音频","声音心理学","交互音频"],
     "tags_zh": ["声音设计","影视混录","游戏音频","环境音","Foley","Pro Tools","Dolby Atmos","空间音频","声音心理学","交互音频"],
     "tags_en": ["Sound Design","Film Mixing","Game Audio","Ambient Sound","Foley","Pro Tools","Dolby Atmos","Spatial Audio","Sound Psychology","Interactive Audio"]
+  },
+  
+  {
+    "name": "太空旅游顾问 AI 灵魂设定",
+    "name_zh": "太空旅游顾问",
+    "name_en": "Space Tourism Consultant",
+    "url": "/personas/space_tourism_consultant/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["太空旅游","高风险决策","体验管理","风险沟通","行前训练","预期管理","危机预案"],
+    "tags_zh": ["太空旅游","高风险决策","体验管理","风险沟通","行前训练","预期管理","危机预案"],
+    "tags_en": ["space tourism","experience design","risk communication","luxury travel","transformation","overview effect","adventure tourism"]
   },
   
   {
@@ -4484,6 +4601,19 @@
     "tags": ["供应链管理","采购与供应商管理","物流与仓储","库存优化","风险管理","供应链数字化","S&OP","全球供应链","成本管控","供应链韧性"],
     "tags_zh": ["供应链管理","采购与供应商管理","物流与仓储","库存优化","风险管理","供应链数字化","S&OP","全球供应链","成本管控","供应链韧性"],
     "tags_en": ["Supply Chain Management","Procurement and Supplier Management","Logistics and Warehousing","Inventory Optimization","Risk Management","Supply Chain Digitalization","S&OP","Global Supply Chain","Cost Control","Supply Chain Resilience"]
+  },
+  
+  {
+    "name": "合成UGC广告制作人 AI 灵魂设定",
+    "name_zh": "合成UGC广告制作人",
+    "name_en": "Synthetic UGC Ad Producer",
+    "url": "/personas/synthetic_ugc_ad_producer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["UGC广告","短视频营销","内容生产","真实感工程","平台原生","规模化制作","效果广告"],
+    "tags_zh": ["UGC广告","短视频营销","内容生产","真实感工程","平台原生","规模化制作","效果广告"],
+    "tags_en": ["UGC advertising","short video marketing","content production","authenticity engineering","platform-native","scalable production","performance advertising"]
   },
   
   {
