@@ -3005,6 +3005,19 @@
   },
   
   {
+    "name": "李白 AI 灵魂设定",
+    "name_zh": "李白",
+    "name_en": "Li Bai",
+    "url": "/virtual_world/li_bai_poet/",
+    "category": "virtual_world",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["李白","诗仙","唐诗","浪漫主义","谪仙人","将进酒"],
+    "tags_zh": ["李白","诗仙","唐诗","浪漫主义","谪仙人","将进酒"],
+    "tags_en": ["Li Bai","Poet Immortal","Tang Poetry","Romanticism","Banished Immortal","Invitation to Wine"]
+  },
+  
+  {
     "name": "李鸿章 AI 灵魂设定",
     "name_zh": "李鸿章 (Li Hongzhang)",
     "name_en": "Li Hongzhang",
@@ -3574,6 +3587,19 @@
     "tags": ["佛教","中观学派","空性","缘起","般若","大乘佛教","印度哲学","《中论》"],
     "tags_zh": ["佛教","中观学派","空性","缘起","般若","大乘佛教","印度哲学","《中论》"],
     "tags_en": ["Buddhism","Madhyamaka","emptiness","dependent origination","Prajnaparamita","Mahayana","Indian philosophy","Mulamadhyamakakarika"]
+  },
+  
+  {
+    "name": "哪吒 AI 灵魂设定",
+    "name_zh": "哪吒",
+    "name_en": "Nezha",
+    "url": "/virtual_world/nezha/",
+    "category": "virtual_world",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["哪吒","三太子","莲花化身","封神演义","少年神","反叛","剔骨还父"],
+    "tags_zh": ["哪吒","三太子","莲花化身","封神演义","少年神","反叛","剔骨还父"],
+    "tags_en": ["Nezha","Third Prince","Lotus Incarnation","Investiture of the Gods","Young God","Rebellion","Returning Flesh to Father"]
   },
   
   {
@@ -4851,6 +4877,19 @@
   },
   
   {
+    "name": "苏轼 AI 灵魂设定",
+    "name_zh": "苏轼",
+    "name_en": "Su Shi",
+    "url": "/virtual_world/su_shi_poet/",
+    "category": "virtual_world",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["苏轼","苏东坡","宋词","唐宋八大家","东坡肉","豁达"],
+    "tags_zh": ["苏轼","苏东坡","宋词","唐宋八大家","东坡肉","豁达"],
+    "tags_en": ["Su Shi","Su Dongpo","Song Lyrics","Eight Great Masters of Tang and Song","Dongpo Pork","Philosophical Optimism"]
+  },
+  
+  {
     "name": "订阅增长经理 AI 灵魂设定",
     "name_zh": "订阅增长经理",
     "name_en": "Subscription Growth Manager",
@@ -4991,6 +5030,19 @@
     "tags": ["唐僧","唐三藏","西游记","取经","慈悲","戒律"],
     "tags_zh": ["唐僧","唐三藏","西游记","取经","慈悲","戒律"],
     "tags_en": ["Tang Sanzang","Tang Monk","Journey to the West","Pilgrimage","Compassion","Discipline"]
+  },
+  
+  {
+    "name": "陶渊明 AI 灵魂设定",
+    "name_zh": "陶渊明",
+    "name_en": "Tao Yuanming",
+    "url": "/virtual_world/tao_yuan_ming/",
+    "category": "virtual_world",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["陶渊明","五柳先生","田园诗","归去来兮辞","桃花源记","不为五斗米折腰"],
+    "tags_zh": ["陶渊明","五柳先生","田园诗","归去来兮辞","桃花源记","不为五斗米折腰"],
+    "tags_en": ["Tao Yuanming","Master of Five Willows","Pastoral Poetry","Returning Home","Peach Blossom Spring","Would Not Bow for Five Bushels of Rice"]
   },
   
   {
@@ -5992,6 +6044,19 @@
     "tags": ["道家","逍遥游","齐物论","寓言","蝴蝶梦","战国","无用之用","精神自由"],
     "tags_zh": ["道家","逍遥游","齐物论","寓言","蝴蝶梦","战国","无用之用","精神自由"],
     "tags_en": ["Daoism","Free and Easy Wandering","Equalization of Things","fables","butterfly dream","Warring States","usefulness of uselessness","spiritual freedom"]
+  },
+  
+  {
+    "name": "诸葛亮 AI 灵魂设定",
+    "name_zh": "诸葛亮",
+    "name_en": "Zhuge Liang",
+    "url": "/virtual_world/zhuge_liang/",
+    "category": "virtual_world",
+    "category_zh": "非真实世界",
+    "category_en": "Virtual World",
+    "tags": ["诸葛亮","卧龙","出师表","三国","智慧","忠诚","鞠躬尽瘁"],
+    "tags_zh": ["诸葛亮","卧龙","出师表","三国","智慧","忠诚","鞠躬尽瘁"],
+    "tags_en": ["Zhuge Liang","Wolong","Memorial on the Departure for the War","Three Kingdoms","Wisdom","Loyalty","Exhausting Oneself to Death"]
   },
   
   {
