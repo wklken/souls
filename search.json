@@ -145,6 +145,19 @@
   },
   
   {
+    "name": "AI 内容工作流设计师 AI 灵魂设定",
+    "name_zh": "AI 内容工作流设计师",
+    "name_en": "AI Content Workflow Designer",
+    "url": "/personas/ai_content_workflow_designer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI内容","工作流设计","内容生产","模板系统","多平台分发","质量控制","知识资产","效率提升"],
+    "tags_zh": ["AI内容","工作流设计","内容生产","模板系统","多平台分发","质量控制","知识资产","效率提升"],
+    "tags_en": ["AI content","Workflow design","Content production","Template system","Multi-platform distribution","Quality control","Knowledge assets","Efficiency improvement"]
+  },
+  
+  {
     "name": "AI开发工具链集成专家 AI 灵魂设定",
     "name_zh": "AI开发工具链集成专家",
     "name_en": "AI DevTool Integrator",
@@ -457,6 +470,19 @@
   },
   
   {
+    "name": "API 设计师 AI 灵魂设定",
+    "name_zh": "API 设计师",
+    "name_en": "API Designer",
+    "url": "/personas/api_designer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["API设计","接口契约","开发者体验","版本管理","错误语义","系统集成","规范治理","向后兼容"],
+    "tags_zh": ["API设计","接口契约","开发者体验","版本管理","错误语义","系统集成","规范治理","向后兼容"],
+    "tags_en": ["API design","Interface contracts","Developer experience","Versioning","Error semantics","System integration","Governance standards","Backward compatibility"]
+  },
+  
+  {
     "name": "阿里斯托芬 AI 灵魂设定",
     "name_zh": "阿里斯托芬 (Aristophanes)",
     "name_en": "Aristophanes",
@@ -506,6 +532,19 @@
     "tags": ["教父","忏悔录","上帝之城","恩典","原罪","自由意志","新柏拉图主义","北非","罗马帝国晚期"],
     "tags_zh": ["教父","忏悔录","上帝之城","恩典","原罪","自由意志","新柏拉图主义","北非","罗马帝国晚期"],
     "tags_en": ["Church Father","Confessions","City of God","Grace","Original Sin","Free Will","Neoplatonism","North Africa","Late Roman Empire"]
+  },
+  
+  {
+    "name": "自动化效率教练 AI 灵魂设定",
+    "name_zh": "自动化效率教练",
+    "name_en": "Automation Productivity Coach",
+    "url": "/personas/automation_productivity_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["效率优化","自动化工作流","时间管理","任务系统","执行力","协作流程","习惯设计","个人生产力"],
+    "tags_zh": ["效率优化","自动化工作流","时间管理","任务系统","执行力","协作流程","习惯设计","个人生产力"],
+    "tags_en": ["Productivity optimization","Workflow automation","Time management","Task system","Execution","Collaboration process","Habit design","Personal productivity"]
   },
   
   {
@@ -2537,6 +2576,19 @@
   },
   
   {
+    "name": "独立黑客 AI 灵魂设定",
+    "name_zh": "独立黑客",
+    "name_en": "Indie Hacker",
+    "url": "/personas/indie_hacker/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["独立开发","MVP","产品验证","现金流","定价策略","单人创业","自动化运营","微型产品"],
+    "tags_zh": ["独立开发","MVP","产品验证","现金流","定价策略","单人创业","自动化运营","微型产品"],
+    "tags_en": ["Indie development","MVP","Product validation","Cashflow","Pricing strategy","Solo entrepreneurship","Automation operations","Micro products"]
+  },
+  
+  {
     "name": "心情天气预报员 AI 灵魂设定",
     "name_zh": "心情天气预报员",
     "name_en": "Inner Weather Forecaster",
@@ -3447,6 +3499,19 @@
   },
   
   {
+    "name": "微型 SaaS 构建者 AI 灵魂设定",
+    "name_zh": "微型 SaaS 构建者",
+    "name_en": "Micro SaaS Builder",
+    "url": "/personas/micro_saas_builder/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Micro SaaS","订阅产品","细分市场","MVP","定价策略","用户留存","低成本运营","产品增长"],
+    "tags_zh": ["Micro SaaS","订阅产品","细分市场","MVP","定价策略","用户留存","低成本运营","产品增长"],
+    "tags_en": ["Micro SaaS","Subscription product","Niche market","MVP","Pricing strategy","User retention","Lean operations","Product growth"]
+  },
+  
+  {
     "name": "微SaaS发布教练 AI 灵魂设定",
     "name_zh": "微SaaS发布教练",
     "name_en": "Micro SaaS Launch Coach",
@@ -3694,6 +3759,19 @@
   },
   
   {
+    "name": "OpenClaw 技能开发者 AI 灵魂设定",
+    "name_zh": "OpenClaw 技能开发者",
+    "name_en": "OpenClaw Skill Developer",
+    "url": "/personas/openclaw_skill_developer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["OpenClaw","Skill开发","提示词工程","流程设计","Agent工程","上下文治理","质量验证","知识沉淀"],
+    "tags_zh": ["OpenClaw","Skill开发","提示词工程","流程设计","Agent工程","上下文治理","质量验证","知识沉淀"],
+    "tags_en": ["OpenClaw","Skill development","Prompt engineering","Workflow design","Agent engineering","Context governance","Quality verification","Knowledge codification"]
+  },
+  
+  {
     "name": "运营专家 AI 灵魂设定",
     "name_zh": "运营专家",
     "name_en": "Operations Expert",
@@ -3743,6 +3821,19 @@
     "tags": ["整理收纳","断舍离","空间规划","生活美学","极简生活","动线优化","衣物收纳","家庭整理","数字整理","空间心理学"],
     "tags_zh": ["整理收纳","断舍离","空间规划","生活美学","极简生活","动线优化","衣物收纳","家庭整理","数字整理","空间心理学"],
     "tags_en": ["Organization and storage","Decluttering","Space planning","Life aesthetics","Minimalist living","Flow optimization","Closet organization","Home organization","Digital organization","Spatial psychology"]
+  },
+  
+  {
+    "name": "开源维护者 AI 灵魂设定",
+    "name_zh": "开源维护者",
+    "name_en": "OSS Maintainer",
+    "url": "/personas/oss_maintainer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["开源维护","社区治理","项目管理","代码评审","版本发布","文档体系","贡献流程","可持续开发"],
+    "tags_zh": ["开源维护","社区治理","项目管理","代码评审","版本发布","文档体系","贡献流程","可持续开发"],
+    "tags_en": ["Open-source maintenance","Community governance","Project management","Code review","Release management","Documentation system","Contribution workflow","Sustainable development"]
   },
   
   {
@@ -3925,6 +4016,19 @@
     "tags": ["摄影艺术","构图设计","光影运用","人文纪实","肖像摄影","后期处理","视觉叙事","街头摄影","摄影教学","审美训练"],
     "tags_zh": ["摄影艺术","构图设计","光影运用","人文纪实","肖像摄影","后期处理","视觉叙事","街头摄影","摄影教学","审美训练"],
     "tags_en": ["Photography","Composition","Light and shadow","Documentary photography","Portrait photography","Post-processing","Visual narrative","Street photography","Photography teaching","Aesthetic training"]
+  },
+  
+  {
+    "name": "个人知识管理顾问 AI 灵魂设定",
+    "name_zh": "个人知识管理顾问",
+    "name_en": "PKM Consultant",
+    "url": "/personas/pkm_consultant/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["PKM","知识管理","笔记系统","知识资产","学习方法","信息整理","长期复利","内容输出"],
+    "tags_zh": ["PKM","知识管理","笔记系统","知识资产","学习方法","信息整理","长期复利","内容输出"],
+    "tags_en": ["PKM","Knowledge management","Note system","Knowledge assets","Learning method","Information organization","Long-term compounding","Content output"]
   },
   
   {
@@ -4640,6 +4744,19 @@
     "tags": ["睡眠科学","失眠治疗","CBT-I","昼夜节律","睡眠卫生","作息调整","认知行为疗法"],
     "tags_zh": ["睡眠科学","失眠治疗","CBT-I","昼夜节律","睡眠卫生","作息调整","认知行为疗法"],
     "tags_en": ["Sleep science","Insomnia treatment","CBT-I","Circadian rhythm","Sleep hygiene","Schedule adjustment","Cognitive behavioral therapy"]
+  },
+  
+  {
+    "name": "社交媒体自动化专家 AI 灵魂设定",
+    "name_zh": "社交媒体自动化专家",
+    "name_en": "Social Media Automation Expert",
+    "url": "/personas/social_media_automation_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["社媒自动化","运营流程","内容排程","多平台增长","数据看板","工作流设计","线索管理","效率优化"],
+    "tags_zh": ["社媒自动化","运营流程","内容排程","多平台增长","数据看板","工作流设计","线索管理","效率优化"],
+    "tags_en": ["Social media automation","Operations workflow","Content scheduling","Multi-platform growth","Data dashboard","Workflow design","Lead management","Efficiency optimization"]
   },
   
   {
@@ -5680,6 +5797,19 @@
     "tags": ["西楚霸王","破釜沉舟","巨鹿之战","鸿门宴","垓下之围","乌江自刎","楚汉争霸","悲剧英雄"],
     "tags_zh": ["西楚霸王","破釜沉舟","巨鹿之战","鸿门宴","垓下之围","乌江自刎","楚汉争霸","悲剧英雄"],
     "tags_en": ["Hegemon-King of Western Chu","Burning the Boats","Battle of Julu","Feast at Hong Gate","Siege of Gaixia","Suicide at the Wu River","Chu-Han Contention","Tragic Hero"]
+  },
+  
+  {
+    "name": "小红书增长黑客 AI 灵魂设定",
+    "name_zh": "小红书增长黑客",
+    "name_en": "Xiaohongshu Growth Hacker",
+    "url": "/personas/xiaohongshu_growth_hacker/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["小红书","内容增长","平台运营","选题策略","转化设计","用户洞察","A/B测试","私域承接"],
+    "tags_zh": ["小红书","内容增长","平台运营","选题策略","转化设计","用户洞察","A/B测试","私域承接"],
+    "tags_en": ["Xiaohongshu","Content growth","Platform operations","Topic strategy","Conversion design","User insight","A/B testing","Private-domain handoff"]
   },
   
   {
