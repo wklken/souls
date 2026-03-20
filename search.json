@@ -613,6 +613,19 @@
   },
   
   {
+    "name": "铁匠 AI 灵魂设定",
+    "name_zh": "铁匠",
+    "name_en": "Blacksmith",
+    "url": "/personas/blacksmith/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["铁匠","锻造","金属工艺","热处理","手工艺","建筑铁艺","传统技艺","金属学"],
+    "tags_zh": ["铁匠","锻造","金属工艺","热处理","手工艺","建筑铁艺","传统技艺","金属学"],
+    "tags_en": ["铁匠","锻造","金属工艺","热处理","手工艺","建筑铁艺","传统技艺","金属学"]
+  },
+  
+  {
     "name": "区块链架构师 AI 灵魂设定",
     "name_zh": "区块链架构师",
     "name_en": "Blockchain Architect (Smart Contract/DeFi)",
@@ -2914,6 +2927,19 @@
   },
   
   {
+    "name": "皮具匠人 AI 灵魂设定",
+    "name_zh": "皮具匠人",
+    "name_en": "Leather Craftsman",
+    "url": "/personas/leather_craftsman/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["皮具匠人","手工皮具","植鞣革","手工艺","皮革工艺","匠人精神","材质美学","耐用设计"],
+    "tags_zh": ["皮具匠人","手工皮具","植鞣革","手工艺","皮革工艺","匠人精神","材质美学","耐用设计"],
+    "tags_en": ["leather_craftsman","handmade_leather","vegetable_tanned_leather","handcraft","leather_craft","craftsman_spirit","material_aesthetics","durable_design"]
+  },
+  
+  {
     "name": "法务顾问 AI 灵魂设定",
     "name_zh": "法务顾问",
     "name_en": "Legal Advisor",
@@ -3171,6 +3197,19 @@
     "tags": ["本地化","产品本地化","内容本地化","多语言体验","术语管理","风格规范","质量治理","跨文化沟通"],
     "tags_zh": ["本地化","产品本地化","内容本地化","多语言体验","术语管理","风格规范","质量治理","跨文化沟通"],
     "tags_en": ["Localization","Product localization","Content localization","Multilingual UX","Terminology management","Style guide","Quality governance","Cross-cultural communication"]
+  },
+  
+  {
+    "name": "锁匠 AI 灵魂设定",
+    "name_zh": "锁匠",
+    "name_en": "Locksmith",
+    "url": "/personas/locksmith/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["锁匠","安全","锁具","机械","安全咨询","紧急服务","传统技艺","信任"],
+    "tags_zh": ["锁匠","安全","锁具","机械","安全咨询","紧急服务","传统技艺","信任"],
+    "tags_en": ["locksmith","security","locks","mechanics","security_consulting","emergency_service","traditional_craft","trust"]
   },
   
   {
@@ -4149,6 +4188,19 @@
   },
   
   {
+    "name": "无线电爱好者 AI 灵魂设定",
+    "name_zh": "无线电爱好者",
+    "name_en": "Radio Amateur",
+    "url": "/personas/radio_amateur/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["无线电","业余无线电","火腿","通信技术","电磁学","天线","应急通信","技术社群"],
+    "tags_zh": ["无线电","业余无线电","火腿","通信技术","电磁学","天线","应急通信","技术社群"],
+    "tags_en": ["radio","amateur_radio","ham","communication_technology","electromagnetics","antenna","emergency_communication","tech_community"]
+  },
+  
+  {
     "name": "RAG 系统架构师 AI 灵魂设定",
     "name_zh": "RAG 系统架构师",
     "name_en": "RAG System Architect",
@@ -4331,6 +4383,19 @@
   },
   
   {
+    "name": "潜水教练 AI 灵魂设定",
+    "name_zh": "潜水教练",
+    "name_en": "Scuba Instructor",
+    "url": "/personas/scuba_instructor/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["潜水教练","水肺潜水","海洋","水下世界","极限运动","环保教育","安全培训","中性浮力"],
+    "tags_zh": ["潜水教练","水肺潜水","海洋","水下世界","极限运动","环保教育","安全培训","中性浮力"],
+    "tags_en": ["潜水教练","水肺潜水","海洋","水下世界","极限运动","环保教育","安全培训","中性浮力"]
+  },
+  
+  {
     "name": "安全工程师 AI 灵魂设定",
     "name_zh": "安全工程师",
     "name_en": "Security Engineer",
@@ -4510,6 +4575,19 @@
     "tags": ["史记","太史公","纪传体","实录精神","报任安书","西汉","历史学"],
     "tags_zh": ["史记","太史公","纪传体","实录精神","报任安书","西汉","历史学"],
     "tags_en": ["Records of the Grand Historian","Grand Historian","biographical form","faithful recording","Letter to Ren An","Western Han","historiography"]
+  },
+  
+  {
+    "name": "滑雪教练 AI 灵魂设定",
+    "name_zh": "滑雪教练",
+    "name_en": "Ski Instructor",
+    "url": "/personas/ski_instructor/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["滑雪教练","滑雪","冬季运动","雪山","双板滑雪","滑雪教学","安全培训","极限运动"],
+    "tags_zh": ["滑雪教练","滑雪","冬季运动","雪山","双板滑雪","滑雪教学","安全培训","极限运动"],
+    "tags_en": ["滑雪教练","滑雪","冬季运动","雪山","双板滑雪","滑雪教学","安全培训","极限运动"]
   },
   
   {
@@ -4848,6 +4926,19 @@
     "tags": ["供应链管理","采购与供应商管理","物流与仓储","库存优化","风险管理","供应链数字化","S&OP","全球供应链","成本管控","供应链韧性"],
     "tags_zh": ["供应链管理","采购与供应商管理","物流与仓储","库存优化","风险管理","供应链数字化","S&OP","全球供应链","成本管控","供应链韧性"],
     "tags_en": ["Supply Chain Management","Procurement and Supplier Management","Logistics and Warehousing","Inventory Optimization","Risk Management","Supply Chain Digitalization","S&OP","Global Supply Chain","Cost Control","Supply Chain Resilience"]
+  },
+  
+  {
+    "name": "冲浪教练 AI 灵魂设定",
+    "name_zh": "冲浪教练",
+    "name_en": "Surfing Instructor",
+    "url": "/personas/surfing_instructor/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["冲浪教练","冲浪","海洋","极限运动","水上运动","海浪","环保教育","安全培训"],
+    "tags_zh": ["冲浪教练","冲浪","海洋","极限运动","水上运动","海浪","环保教育","安全培训"],
+    "tags_en": ["冲浪教练","冲浪","海洋","极限运动","水上运动","海浪","环保教育","安全培训"]
   },
   
   {
@@ -5371,6 +5462,19 @@
   },
   
   {
+    "name": "钟表师 AI 灵魂设定",
+    "name_zh": "钟表师",
+    "name_en": "Watchmaker",
+    "url": "/personas/watchmaker/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["钟表师","钟表修复","机械表","古董钟表","精密机械","手工艺","时间","技艺传承"],
+    "tags_zh": ["钟表师","钟表修复","机械表","古董钟表","精密机械","手工艺","时间","技艺传承"],
+    "tags_en": ["watchmaker","watch_restoration","mechanical_watch","antique_clocks","precision_mechanics","handcraft","time","craft_heritage"]
+  },
+  
+  {
     "name": "婚礼策划师 AI 灵魂设定",
     "name_zh": "婚礼策划师",
     "name_en": "Wedding Planner",
@@ -5459,6 +5563,19 @@
     "tags": ["边际效用","边际革命","数理经济学","煤炭问题","逻辑学","太阳黑子理论","科学方法"],
     "tags_zh": ["边际效用","边际革命","数理经济学","煤炭问题","逻辑学","太阳黑子理论","科学方法"],
     "tags_en": ["Marginal Utility","Marginal Revolution","Mathematical Economics","The Coal Question","Logic","Sunspot Theory","Scientific Method"]
+  },
+  
+  {
+    "name": "木工 AI 灵魂设定",
+    "name_zh": "木工",
+    "name_en": "Woodworker",
+    "url": "/personas/woodworker/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["木工","细木工","榫卯","手工艺","家具制作","木材","传统技艺","结构设计"],
+    "tags_zh": ["木工","细木工","榫卯","手工艺","家具制作","木材","传统技艺","结构设计"],
+    "tags_en": ["woodworker","fine_woodworking","joinery","handcraft","furniture_making","wood","traditional_craft","structural_design"]
   },
   
   {
