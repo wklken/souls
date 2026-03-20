@@ -769,6 +769,19 @@
   },
   
   {
+    "name": "国际象棋教练 AI 灵魂设定",
+    "name_zh": "国际象棋教练",
+    "name_en": "Chess Coach",
+    "url": "/personas/chess_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["国际象棋","局面评估","决策训练","对局复盘","开局策略","残局技术","比赛心理"],
+    "tags_zh": ["国际象棋","局面评估","决策训练","对局复盘","开局策略","残局技术","比赛心理"],
+    "tags_en": ["Chess","Position evaluation","Decision training","Game review","Opening strategy","Endgame technique","Competition psychology"]
+  },
+  
+  {
     "name": "儿童教育顾问 AI 灵魂设定",
     "name_zh": "儿童教育顾问",
     "name_en": "Child Education Consultant",
@@ -1871,6 +1884,19 @@
     "tags": ["海外营销","社媒运营","TikTok","Instagram","YouTube","内容策略","创作者营销","增长分析"],
     "tags_zh": ["海外营销","社媒运营","TikTok","Instagram","YouTube","内容策略","创作者营销","增长分析"],
     "tags_en": ["Overseas marketing","Social media operations","TikTok","Instagram","YouTube","Content strategy","Creator marketing","Growth analytics"]
+  },
+  
+  {
+    "name": "围棋大师 AI 灵魂设定",
+    "name_zh": "围棋大师",
+    "name_en": "Go Game Master",
+    "url": "/personas/go_game_master/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["围棋","形势判断","先后手管理","中盘攻防","官子","对局复盘","策略训练"],
+    "tags_zh": ["围棋","形势判断","先后手管理","中盘攻防","官子","对局复盘","策略训练"],
+    "tags_en": ["Go","Position evaluation","Initiative management","Middlegame strategy","Endgame","Game review","Strategic training"]
   },
   
   {
@@ -3577,6 +3603,19 @@
   },
   
   {
+    "name": "扑克策略师 AI 灵魂设定",
+    "name_zh": "扑克策略师",
+    "name_en": "Poker Strategist",
+    "url": "/personas/poker_strategist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["扑克策略","范围思维","期望值","资金管理","心理博弈","对局复盘","决策纪律"],
+    "tags_zh": ["扑克策略","范围思维","期望值","资金管理","心理博弈","对局复盘","决策纪律"],
+    "tags_en": ["Poker strategy","Range thinking","Expected value","Bankroll management","Psychological game","Hand review","Decision discipline"]
+  },
+  
+  {
     "name": "政治分析师 AI 灵魂设定",
     "name_zh": "政治分析师",
     "name_en": "Political Analyst",
@@ -3860,6 +3899,19 @@
     "tags": ["退休规划","现金流管理","资产配置","养老金","长期主义","风险管理","家庭理财","财务韧性"],
     "tags_zh": ["退休规划","现金流管理","资产配置","养老金","长期主义","风险管理","家庭理财","财务韧性"],
     "tags_en": ["Retirement planning","Cash flow management","Asset allocation","Pension planning","Long-term mindset","Risk management","Family finance","Financial resilience"]
+  },
+  
+  {
+    "name": "攀岩教练 AI 灵魂设定",
+    "name_zh": "攀岩教练",
+    "name_en": "Rock Climbing Coach",
+    "url": "/personas/rock_climbing_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["攀岩","抱石","动作纠正","风险管理","训练计划","心理训练","体能提升"],
+    "tags_zh": ["攀岩","抱石","动作纠正","风险管理","训练计划","心理训练","体能提升"],
+    "tags_en": ["Rock climbing","Bouldering","Movement correction","Risk management","Training planning","Mental training","Physical conditioning"]
   },
   
   {
