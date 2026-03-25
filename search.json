@@ -184,6 +184,19 @@
   },
   
   {
+    "name": "AI 伦理顾问 AI 灵魂设定",
+    "name_zh": "AI 伦理顾问",
+    "name_en": "AI Ethics Consultant",
+    "url": "/personas/ai_ethics_consultant/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI伦理","算法治理","公平性","透明性","问责机制","风险分级"],
+    "tags_zh": ["AI伦理","算法治理","公平性","透明性","问责机制","风险分级"],
+    "tags_en": ["AI ethics","Algorithm governance","Fairness","Transparency","Accountability","Risk grading"]
+  },
+  
+  {
     "name": "AI评测工程师 AI 灵魂设定",
     "name_zh": "AI评测工程师",
     "name_en": "AI Evaluation Engineer",
@@ -246,6 +259,19 @@
     "tags": ["AI声音设计","声音品牌","语音交互","品牌人格","听觉设计"],
     "tags_zh": ["AI声音设计","声音品牌","语音交互","品牌人格","听觉设计"],
     "tags_en": ["AI Voice Design","Voice Brand","Voice Interaction","Brand Personality","Auditory Design"]
+  },
+  
+  {
+    "name": "AI Webinar 制作人 AI 灵魂设定",
+    "name_zh": "AI Webinar 制作人",
+    "name_en": "AI Webinar Producer",
+    "url": "/personas/ai_webinar_producer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Webinar","内容策划","直播制作","互动设计","转化优化","内容复用"],
+    "tags_zh": ["Webinar","内容策划","直播制作","互动设计","转化优化","内容复用"],
+    "tags_en": ["Webinar","Content strategy","Live production","Interaction design","Conversion optimization","Content repurposing"]
   },
   
   {
@@ -1445,6 +1471,32 @@
   },
   
   {
+    "name": "数字资产策展人 AI 灵魂设定",
+    "name_zh": "数字资产策展人",
+    "name_en": "Digital Asset Curator",
+    "url": "/personas/digital_asset_curator/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["数字资产","NFT","数字艺术","链上溯源","资产策展","组合管理","流动性风险","元宇宙收藏"],
+    "tags_zh": ["数字资产","NFT","数字艺术","链上溯源","资产策展","组合管理","流动性风险","元宇宙收藏"],
+    "tags_en": ["Digital assets","NFT","Digital art","On-chain provenance","Asset curation","Portfolio design","Liquidity risk","Metaverse collection"]
+  },
+  
+  {
+    "name": "数字产品包装专家 AI 灵魂设定",
+    "name_zh": "数字产品包装专家",
+    "name_en": "Digital Product Packaging Specialist",
+    "url": "/personas/digital_product_packaging_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["数字产品","产品包装","价值表达","套餐设计","转化优化","交付体验"],
+    "tags_zh": ["数字产品","产品包装","价值表达","套餐设计","转化优化","交付体验"],
+    "tags_en": ["Digital product","Product packaging","Value communication","Offer design","Conversion optimization","Fulfillment experience"]
+  },
+  
+  {
     "name": "数字孪生运营师 AI 灵魂设定",
     "name_zh": "数字孪生运营师",
     "name_en": "Digital Twin Operator",
@@ -1494,6 +1546,19 @@
     "tags": ["天人感应","独尊儒术","公羊学","春秋繁露","西汉","大一统","阴阳五行","三纲五常"],
     "tags_zh": ["天人感应","独尊儒术","公羊学","春秋繁露","西汉","大一统","阴阳五行","三纲五常"],
     "tags_en": ["Heaven-Human Resonance","Exclusive Honor of Confucianism","Gongyang School","Luxuriant Dew of the Spring and Autumn Annals","Western Han","Great Unification","Yin-Yang and Five Phases","Three Bonds and Five Constant Virtues"]
+  },
+  
+  {
+    "name": "无人机飞手 AI 灵魂设定",
+    "name_zh": "无人机飞手",
+    "name_en": "Drone Pilot",
+    "url": "/personas/drone_pilot/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["无人机","航拍","FPV","飞行安全","航线规划","外场执行","行业巡检","影像交付"],
+    "tags_zh": ["无人机","航拍","FPV","飞行安全","航线规划","外场执行","行业巡检","影像交付"],
+    "tags_en": ["Drone operations","Aerial cinematography","FPV","Flight safety","Route planning","Field execution","Industrial inspection","Visual delivery"]
   },
   
   {
@@ -2079,6 +2144,19 @@
     "tags": ["美国革命","总统","共和主义","先例","弗农山庄","告别演说","大陆军"],
     "tags_zh": ["美国革命","总统","共和主义","先例","弗农山庄","告别演说","大陆军"],
     "tags_en": ["American Revolution","presidency","republicanism","precedent","Mount Vernon","Farewell Address","Continental Army"]
+  },
+  
+  {
+    "name": "全球合规运营经理 AI 灵魂设定",
+    "name_zh": "全球合规运营经理",
+    "name_en": "Global Compliance Operations Manager",
+    "url": "/personas/global_compliance_operations_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["全球合规","运营管理","控制矩阵","审计追踪","风险分级","整改闭环"],
+    "tags_zh": ["全球合规","运营管理","控制矩阵","审计追踪","风险分级","整改闭环"],
+    "tags_en": ["Global compliance","Operations management","Control matrix","Audit traceability","Risk tiering","Remediation"]
   },
   
   {
@@ -3408,6 +3486,19 @@
   },
   
   {
+    "name": "武术大师 AI 灵魂设定",
+    "name_zh": "武术大师",
+    "name_en": "Martial Arts Master",
+    "url": "/personas/martial_arts_master/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["武术训练","防身技能","动作结构","节奏控制","压力应对","身心修炼"],
+    "tags_zh": ["武术训练","防身技能","动作结构","节奏控制","压力应对","身心修炼"],
+    "tags_en": ["Martial arts","Self-defense","Movement structure","Rhythm control","Stress response","Discipline"]
+  },
+  
+  {
     "name": "马克斯·韦伯 AI 灵魂设定",
     "name_zh": "马克斯·韦伯 (Max Weber)",
     "name_en": "Max Weber",
@@ -3470,6 +3561,19 @@
     "tags": ["性善论","仁政","四端","民贵君轻","浩然之气","大丈夫","儒学","亚圣"],
     "tags_zh": ["性善论","仁政","四端","民贵君轻","浩然之气","大丈夫","儒学","亚圣"],
     "tags_en": ["Innate Goodness","Humane Governance","Four Beginnings","People Over Ruler","Flood-like Qi","Great Man","Confucianism","Second Sage"]
+  },
+  
+  {
+    "name": "元宇宙设计师 AI 灵魂设定",
+    "name_zh": "元宇宙设计师",
+    "name_en": "Metaverse Designer",
+    "url": "/personas/metaverse_designer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["元宇宙","沉浸式体验","虚拟空间","交互叙事","社交设计","用户旅程","社区运营","数字创意"],
+    "tags_zh": ["元宇宙","沉浸式体验","虚拟空间","交互叙事","社交设计","用户旅程","社区运营","数字创意"],
+    "tags_en": ["Metaverse","Immersive experience","Virtual spaces","Interactive narrative","Social design","User journey","Community operations","Digital creativity"]
   },
   
   {
@@ -5511,6 +5615,19 @@
     "tags": ["埃涅阿斯纪","罗马史诗","奥古斯都时代","拉丁文学","牧歌集","农事诗","虔敬"],
     "tags_zh": ["埃涅阿斯纪","罗马史诗","奥古斯都时代","拉丁文学","牧歌集","农事诗","虔敬"],
     "tags_en": ["Aeneid","Roman Epic","Augustan Age","Latin Literature","Eclogues","Georgics","Pietas"]
+  },
+  
+  {
+    "name": "虚拟世界架构师 AI 灵魂设定",
+    "name_zh": "虚拟世界架构师",
+    "name_en": "Virtual World Architect",
+    "url": "/personas/virtual_world_architect/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["虚拟世界","系统架构","规则设计","经济循环","版本演化","状态管理"],
+    "tags_zh": ["虚拟世界","系统架构","规则设计","经济循环","版本演化","状态管理"],
+    "tags_en": ["Virtual world","System architecture","Rule design","Economy loops","Version evolution","State management"]
   },
   
   {
