@@ -132,6 +132,19 @@
   },
   
   {
+    "name": "代码库 AI 化迁移专家 AI 灵魂设定",
+    "name_zh": "代码库 AI 化迁移专家",
+    "name_en": "AI Codebase Migration Expert",
+    "url": "/personas/ai_codebase_migration_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["遗留系统","AI迁移","代码治理","代理协作","工程效能","CI/CD","质量门禁","技术改造"],
+    "tags_zh": ["遗留系统","AI迁移","代码治理","代理协作","工程效能","CI/CD","质量门禁","技术改造"],
+    "tags_en": ["Legacy systems","AI migration","Code governance","Agent collaboration","Engineering productivity","CI/CD","Quality gates","Technical modernization"]
+  },
+  
+  {
     "name": "AI编程团队落地教练 AI 灵魂设定",
     "name_zh": "AI编程团队落地教练",
     "name_en": "AI Coding Team Lead",
@@ -168,6 +181,19 @@
     "tags": ["AI开发工具链","平台工程","DevEx","CI/CD","质量门禁","自动化测试","发布治理","可观测性"],
     "tags_zh": ["AI开发工具链","平台工程","DevEx","CI/CD","质量门禁","自动化测试","发布治理","可观测性"],
     "tags_en": ["AI development toolchain","Platform engineering","DevEx","CI/CD","Quality gates","Automated testing","Release governance","Observability"]
+  },
+  
+  {
+    "name": "AI 数字人内容导演 AI 灵魂设定",
+    "name_zh": "AI 数字人内容导演",
+    "name_en": "AI Digital Human Content Director",
+    "url": "/personas/ai_digital_human_director/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["数字人","口播脚本","直播脚本","内容系统","批量分发","内容增长","账号运营","转化设计"],
+    "tags_zh": ["数字人","口播脚本","直播脚本","内容系统","批量分发","内容增长","账号运营","转化设计"],
+    "tags_en": ["Digital human","Talking-head script","Live-stream script","Content system","Batch distribution","Content growth","Account operations","Conversion design"]
   },
   
   {
@@ -220,6 +246,19 @@
     "tags": ["AI产品","大模型应用","人机协作","Prompt工程","AI伦理","产品化"],
     "tags_zh": ["AI产品","大模型应用","人机协作","Prompt工程","AI伦理","产品化"],
     "tags_en": ["AI products","large language model applications","human-AI collaboration","prompt engineering","AI ethics","productization"]
+  },
+  
+  {
+    "name": "AI 安全红队专家 AI 灵魂设定",
+    "name_zh": "AI 安全红队专家",
+    "name_en": "AI Security Red Team Specialist",
+    "url": "/personas/ai_security_redteam_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI安全","红队","Prompt Injection","越权调用","数据泄露","Agent安全","威胁建模","最小权限"],
+    "tags_zh": ["AI安全","红队","Prompt Injection","越权调用","数据泄露","Agent安全","威胁建模","最小权限"],
+    "tags_en": ["AI security","Red team","Prompt Injection","Privilege escalation","Data leakage","Agent security","Threat modeling","Least privilege"]
   },
   
   {
@@ -2147,6 +2186,19 @@
   },
   
   {
+    "name": "全球 AI 搜索优化专家 AI 灵魂设定",
+    "name_zh": "全球 AI 搜索优化专家",
+    "name_en": "Global AI Search Optimization Specialist",
+    "url": "/personas/global_ai_search_optimization_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["GEO","AI搜索","ChatGPT","Perplexity","Google AI Overview","结构化数据","技术SEO","内容可见性"],
+    "tags_zh": ["GEO","AI搜索","ChatGPT","Perplexity","Google AI Overview","结构化数据","技术SEO","内容可见性"],
+    "tags_en": ["GEO","AI search","ChatGPT","Perplexity","Google AI Overview","Structured data","Technical SEO","Content visibility"]
+  },
+  
+  {
     "name": "全球合规运营经理 AI 灵魂设定",
     "name_zh": "全球合规运营经理",
     "name_en": "Global Compliance Operations Manager",
@@ -2651,6 +2703,19 @@
     "tags": ["批判哲学","先验唯心论","定言命令","认识论","伦理学","启蒙运动","物自体","哥白尼式革命"],
     "tags_zh": ["批判哲学","先验唯心论","定言命令","认识论","伦理学","启蒙运动","物自体","哥白尼式革命"],
     "tags_en": ["Critical Philosophy","Transcendental Idealism","Categorical Imperative","Epistemology","Ethics","Enlightenment","Thing-in-Itself","Copernican Revolution"]
+  },
+  
+  {
+    "name": "独立站增长专家 AI 灵魂设定",
+    "name_zh": "独立站增长专家",
+    "name_en": "Independent Station Growth Expert",
+    "url": "/personas/independent_station_growth_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["独立站","Shopify","DTC","转化漏斗","CRO","复购增长","生命周期营销","单位经济"],
+    "tags_zh": ["独立站","Shopify","DTC","转化漏斗","CRO","复购增长","生命周期营销","单位经济"],
+    "tags_en": ["Independent store","Shopify","DTC","Conversion funnel","CRO","Repurchase growth","Lifecycle marketing","Unit economics"]
   },
   
   {
@@ -3350,9 +3415,9 @@
     "category": "personas",
     "category_zh": "专家角色",
     "category_en": "Personas",
-    "tags": ["锁匠","安全","锁具","机械","安全咨询","紧急服务","传统技艺","信任"],
-    "tags_zh": ["锁匠","安全","锁具","机械","安全咨询","紧急服务","传统技艺","信任"],
-    "tags_en": ["locksmith","security","locks","mechanics","security_consulting","emergency_service","traditional_craft","trust"]
+    "tags": ["锁匠","物理安全","非破坏开启","门锁诊断","安全加固","应急服务","锁芯维护","通行管理"],
+    "tags_zh": ["锁匠","物理安全","非破坏开启","门锁诊断","安全加固","应急服务","锁芯维护","通行管理"],
+    "tags_en": ["Locksmith","Physical security","Non-destructive entry","Lock diagnostics","Security hardening","Emergency service","Cylinder maintenance","Access management"]
   },
   
   {
