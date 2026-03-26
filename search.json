@@ -2,6 +2,19 @@
   
   
   {
+    "name": "3D 艺术家 AI 灵魂设定",
+    "name_zh": "3D 艺术家",
+    "name_en": "3D Artist",
+    "url": "/personas/3d_artist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["3D建模","PBR材质","纹理绘制","灯光渲染","视觉特效","Blender","Maya","Houdini","Substance 3D","LookDev"],
+    "tags_zh": ["3D建模","PBR材质","纹理绘制","灯光渲染","视觉特效","Blender","Maya","Houdini","Substance 3D","LookDev"],
+    "tags_en": ["3D Modeling","PBR Materials","Texture Authoring","Lighting and Rendering","Visual Effects","Blender","Maya","Houdini","Substance 3D","LookDev"]
+  },
+  
+  {
     "name": "林肯 AI 灵魂设定",
     "name_zh": "林肯 (Abraham Lincoln)",
     "name_en": "Abraham Lincoln",
@@ -233,6 +246,19 @@
     "tags": ["AI评测","质量门禁","基准数据集","回归测试","失败样本分析","模型治理","发布策略","可靠性工程"],
     "tags_zh": ["AI评测","质量门禁","基准数据集","回归测试","失败样本分析","模型治理","发布策略","可靠性工程"],
     "tags_en": ["AI evaluation","Quality gates","Benchmark datasets","Regression testing","Failure-case analysis","Model governance","Release strategy","Reliability engineering"]
+  },
+  
+  {
+    "name": "AI/ML 工程师 AI 灵魂设定",
+    "name_zh": "AI/ML 工程师",
+    "name_en": "AI/ML Engineer",
+    "url": "/personas/ai_ml_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["机器学习","模型训练","模型部署","MLOps","特征工程","在线推理","模型监控","LLMOps"],
+    "tags_zh": ["机器学习","模型训练","模型部署","MLOps","特征工程","在线推理","模型监控","LLMOps"],
+    "tags_en": ["Machine learning","Model training","Model deployment","MLOps","Feature engineering","Online inference","Model monitoring","LLMOps"]
   },
   
   {
@@ -613,6 +639,32 @@
   },
   
   {
+    "name": "AWS 云架构师 AI 灵魂设定",
+    "name_zh": "AWS 云架构师",
+    "name_en": "AWS Cloud Architect",
+    "url": "/personas/aws_architect/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AWS","云架构","云治理","可靠性","成本优化"],
+    "tags_zh": ["AWS","云架构","云治理","可靠性","成本优化"],
+    "tags_en": ["AWS","云架构","云治理","可靠性","成本优化"]
+  },
+  
+  {
+    "name": "Azure 云架构师 AI 灵魂设定",
+    "name_zh": "Azure 云架构师",
+    "name_en": "Azure Cloud Architect",
+    "url": "/personas/azure_architect/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Azure","企业云架构","混合云","云治理","平台工程"],
+    "tags_zh": ["Azure","企业云架构","混合云","云治理","平台工程"],
+    "tags_en": ["Azure","企业云架构","混合云","云治理","平台工程"]
+  },
+  
+  {
     "name": "白居易 AI 灵魂设定",
     "name_zh": "白居易 (Bai Juyi)",
     "name_en": "Bai Juyi",
@@ -795,6 +847,32 @@
   },
   
   {
+    "name": "商务拓展专家 AI 灵魂设定",
+    "name_zh": "商务拓展专家",
+    "name_en": "Business Development Specialist",
+    "url": "/personas/business_development/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["商务拓展","渠道合作","商务谈判","生态联盟","合作落地"],
+    "tags_zh": ["商务拓展","渠道合作","商务谈判","生态联盟","合作落地"],
+    "tags_en": ["商务拓展","渠道合作","商务谈判","生态联盟","合作落地"]
+  },
+  
+  {
+    "name": "商业战略顾问 AI 灵魂设定",
+    "name_zh": "商业战略顾问",
+    "name_en": "Business Strategist",
+    "url": "/personas/business_strategist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["商业战略","竞争分析","增长规划","定位","资源配置"],
+    "tags_zh": ["商业战略","竞争分析","增长规划","定位","资源配置"],
+    "tags_en": ["商业战略","竞争分析","增长规划","定位","资源配置"]
+  },
+  
+  {
     "name": "书法家 AI 灵魂设定",
     "name_zh": "书法家",
     "name_en": "Calligrapher",
@@ -844,6 +922,19 @@
     "tags": ["曹操","三国演义","乱世枭雄","魏武帝","诗人"],
     "tags_zh": ["曹操","三国演义","乱世枭雄","魏武帝","诗人"],
     "tags_en": ["Cao Cao","Romance of the Three Kingdoms","Warlord of Chaos","Emperor Wu of Wei","Poet","Statesman","Military Strategist","Late Eastern Han","Three Kingdoms"]
+  },
+  
+  {
+    "name": "职业教练 AI 灵魂设定",
+    "name_zh": "职业教练",
+    "name_en": "Career Coach",
+    "url": "/personas/career_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["职业发展","求职策略","面试辅导","职业转型","简历优化","薪酬谈判","职场成长","职业教练"],
+    "tags_zh": ["职业发展","求职策略","面试辅导","职业转型","简历优化","薪酬谈判","职场成长","职业教练"],
+    "tags_en": ["Career development","Job-search strategy","Interview coaching","Career transition","Resume optimization","Salary negotiation","Workplace growth","Career coach"]
   },
   
   {
@@ -1016,6 +1107,32 @@
   },
   
   {
+    "name": "AWS 云架构师 AI 灵魂设定",
+    "name_zh": "AWS 云架构师",
+    "name_en": "AWS Cloud Architect",
+    "url": "/personas/cloud_architect_aws/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AWS","云架构","企业架构","可靠性","云安全","成本优化","DevOps","解决方案架构师"],
+    "tags_zh": ["AWS","云架构","企业架构","可靠性","云安全","成本优化","DevOps","解决方案架构师"],
+    "tags_en": ["AWS","Cloud architecture","Enterprise architecture","Reliability","Cloud security","Cost optimization","DevOps","Solutions architect"]
+  },
+  
+  {
+    "name": "Azure 云架构师 AI 灵魂设定",
+    "name_zh": "Azure 云架构师",
+    "name_en": "Cloud Architect - Azure",
+    "url": "/personas/cloud_architect_azure/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Azure云架构","微软企业云","Landing Zone","混合云治理","平台工程","安全合规","FinOps","DevSecOps"],
+    "tags_zh": ["Azure云架构","微软企业云","Landing Zone","混合云治理","平台工程","安全合规","FinOps","DevSecOps"],
+    "tags_en": ["Azure cloud architecture","Microsoft enterprise cloud","Landing Zone","Hybrid cloud governance","Platform engineering","Security and compliance","FinOps","DevSecOps"]
+  },
+  
+  {
     "name": "Cohort课程教练 AI 灵魂设定",
     "name_zh": "Cohort课程教练",
     "name_en": "Cohort Course Facilitator",
@@ -1039,6 +1156,19 @@
     "tags": ["色彩分级","调色","DaVinci Resolve","HDR","Dolby Vision","色彩管理","电影后期","色彩心理学","LUT","数字中间片"],
     "tags_zh": ["色彩分级","调色","DaVinci Resolve","HDR","Dolby Vision","色彩管理","电影后期","色彩心理学","LUT","数字中间片"],
     "tags_en": ["Color Grading","Color Correction","DaVinci Resolve","HDR","Dolby Vision","Color Management","Film Post-Production","Color Psychology","LUT","Digital Intermediate"]
+  },
+  
+  {
+    "name": "社区经理 AI 灵魂设定",
+    "name_zh": "社区经理",
+    "name_en": "Community Manager",
+    "url": "/personas/community_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["社区管理","用户社群","用户参与","用户忠诚","成员运营","社区治理","关系经营","留存增长"],
+    "tags_zh": ["社区管理","用户社群","用户参与","用户忠诚","成员运营","社区治理","关系经营","留存增长"],
+    "tags_en": ["Community management","User communities","User engagement","User loyalty","Member operations","Community governance","Relationship management","Retention growth"]
   },
   
   {
@@ -1068,6 +1198,19 @@
   },
   
   {
+    "name": "竞争分析师 AI 灵魂设定",
+    "name_zh": "竞争分析师",
+    "name_en": "Competitive Analyst",
+    "url": "/personas/competitive_analyst/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["竞争情报","市场定位","竞品分析","战略推演","决策支持"],
+    "tags_zh": ["竞争情报","市场定位","竞品分析","战略推演","决策支持"],
+    "tags_en": ["竞争情报","市场定位","竞品分析","战略推演","决策支持"]
+  },
+  
+  {
     "name": "计算机视觉工程师 AI 灵魂设定",
     "name_zh": "计算机视觉工程师",
     "name_en": "Computer Vision Engineer",
@@ -1094,6 +1237,19 @@
   },
   
   {
+    "name": "内容营销经理 AI 灵魂设定",
+    "name_zh": "内容营销经理",
+    "name_en": "Content Marketing Manager",
+    "url": "/personas/content_marketing_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["内容营销","内容战略","品牌叙事","转化路径","增长协同"],
+    "tags_zh": ["内容营销","内容战略","品牌叙事","转化路径","增长协同"],
+    "tags_en": ["内容营销","内容战略","品牌叙事","转化路径","增长协同"]
+  },
+  
+  {
     "name": "内容策略师 AI 灵魂设定",
     "name_zh": "内容策略师",
     "name_en": "Content Strategist",
@@ -1117,6 +1273,19 @@
     "tags": ["反向思维","逻辑追问","论证拆解","辩论风格","清晰表达"],
     "tags_zh": ["反向思维","逻辑追问","论证拆解","辩论风格","清晰表达"],
     "tags_en": ["reverse thinking","logic probing","argument breakdown","debate style","clarity"]
+  },
+  
+  {
+    "name": "资深文案策略师 AI 灵魂设定",
+    "name_zh": "资深文案策略师",
+    "name_en": "Senior Copywriting Strategist",
+    "url": "/personas/copywriter/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["转化文案","销售文案","品牌故事","落地页优化","用户洞察","广告文案","邮件营销","增长写作"],
+    "tags_zh": ["转化文案","销售文案","品牌故事","落地页优化","用户洞察","广告文案","邮件营销","增长写作"],
+    "tags_en": ["conversion copywriting","sales copy","brand storytelling","landing page optimization","user insight","ad copywriting","email marketing","growth writing"]
   },
   
   {
@@ -1299,6 +1468,19 @@
     "tags": ["加密货币交易","风险管理","仓位控制","交易系统","衍生品","波动率","行为金融","纪律执行"],
     "tags_zh": ["加密货币交易","风险管理","仓位控制","交易系统","衍生品","波动率","行为金融","纪律执行"],
     "tags_en": ["Crypto trading","Risk management","Position sizing","Trading systems","Derivatives","Volatility","Behavioral finance","Discipline"]
+  },
+  
+  {
+    "name": "CTO 技术顾问 AI 灵魂设定",
+    "name_zh": "CTO 技术顾问",
+    "name_en": "CTO Advisor",
+    "url": "/personas/cto_advisor/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["CTO顾问","技术战略","组织设计","研发管理","决策机制"],
+    "tags_zh": ["CTO顾问","技术战略","组织设计","研发管理","决策机制"],
+    "tags_en": ["CTO顾问","技术战略","组织设计","研发管理","决策机制"]
   },
   
   {
@@ -1497,6 +1679,19 @@
   },
   
   {
+    "name": "DevOps 工程师 AI 灵魂设定",
+    "name_zh": "DevOps 工程师",
+    "name_en": "DevOps Engineer",
+    "url": "/personas/devops_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["DevOps","CI/CD","基础设施即代码","平台工程","发布工程","可观测性","GitOps","可靠性"],
+    "tags_zh": ["DevOps","CI/CD","基础设施即代码","平台工程","发布工程","可观测性","GitOps","可靠性"],
+    "tags_en": ["DevOps","CI/CD","Infrastructure as Code","Platform engineering","Release engineering","Observability","GitOps","Reliability"]
+  },
+  
+  {
     "name": "DevOps 专家 AI 灵魂设定",
     "name_zh": "DevOps 专家",
     "name_en": "DevOps Expert",
@@ -1663,6 +1858,19 @@
     "tags": ["内容编辑","文字润色","结构优化","逻辑梳理","出版编辑","稿件审校","可读性","写作规范","编辑方法论","文本质量"],
     "tags_zh": ["内容编辑","文字润色","结构优化","逻辑梳理","出版编辑","稿件审校","可读性","写作规范","编辑方法论","文本质量"],
     "tags_en": ["Content editing","prose polishing","structure optimization","logic flow","book editing","manuscript review","readability","writing norms","editorial methodology","text quality"]
+  },
+  
+  {
+    "name": "邮件营销专家 AI 灵魂设定",
+    "name_zh": "邮件营销专家",
+    "name_en": "Email Marketing Expert",
+    "url": "/personas/email_marketing_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["邮件营销","营销自动化","用户分层","生命周期运营","转化优化"],
+    "tags_zh": ["邮件营销","营销自动化","用户分层","生命周期运营","转化优化"],
+    "tags_en": ["邮件营销","营销自动化","用户分层","生命周期运营","转化优化"]
   },
   
   {
@@ -1858,6 +2066,19 @@
     "tags": ["应试策略","考试技巧","时间管理","考试心理学","备考规划","错题分析","模拟训练","心态调控"],
     "tags_zh": ["应试策略","考试技巧","时间管理","考试心理学","备考规划","错题分析","模拟训练","心态调控"],
     "tags_en": ["Exam Strategy","Exam Techniques","Time Management","Exam Psychology","Preparation Planning","Wrong-Answer Analysis","Mock Training","Mindset Regulation"]
+  },
+  
+  {
+    "name": "高管教练 AI 灵魂设定",
+    "name_zh": "高管教练",
+    "name_en": "Executive Coach",
+    "url": "/personas/executive_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["高管教练","领导力发展","组织管理","决策辅导","团队协作","管理复盘"],
+    "tags_zh": ["高管教练","领导力发展","组织管理","决策辅导","团队协作","管理复盘"],
+    "tags_en": ["高管教练","领导力发展","组织管理","决策辅导","团队协作","管理复盘"]
   },
   
   {
@@ -2186,6 +2407,19 @@
   },
   
   {
+    "name": "代笔作家 AI 灵魂设定",
+    "name_zh": "代笔作家",
+    "name_en": "Ghostwriter",
+    "url": "/personas/ghostwriter/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["代笔作家","内容创作","叙事结构","语气拟合","专业写作","文稿编辑"],
+    "tags_zh": ["代笔作家","内容创作","叙事结构","语气拟合","专业写作","文稿编辑"],
+    "tags_en": ["代笔作家","内容创作","叙事结构","语气拟合","专业写作","文稿编辑"]
+  },
+  
+  {
     "name": "全球 AI 搜索优化专家 AI 灵魂设定",
     "name_zh": "全球 AI 搜索优化专家",
     "name_en": "Global AI Search Optimization Specialist",
@@ -2235,6 +2469,19 @@
     "tags": ["海外营销","社媒运营","TikTok","Instagram","YouTube","内容策略","创作者营销","增长分析"],
     "tags_zh": ["海外营销","社媒运营","TikTok","Instagram","YouTube","内容策略","创作者营销","增长分析"],
     "tags_en": ["Overseas marketing","Social media operations","TikTok","Instagram","YouTube","Content strategy","Creator marketing","Growth analytics"]
+  },
+  
+  {
+    "name": "Go 后端专家 AI 灵魂设定",
+    "name_zh": "Go 后端专家",
+    "name_en": "Go Backend Expert",
+    "url": "/personas/go_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Go","后端开发","云原生","微服务","高并发","分布式系统","可观测性","性能优化"],
+    "tags_zh": ["Go","后端开发","云原生","微服务","高并发","分布式系统","可观测性","性能优化"],
+    "tags_en": ["Go","Backend development","Cloud native","Microservices","High concurrency","Distributed systems","Observability","Performance optimization"]
   },
   
   {
@@ -2303,6 +2550,19 @@
   },
   
   {
+    "name": "基金申请作家 AI 灵魂设定",
+    "name_zh": "基金申请作家",
+    "name_en": "Grant Writer",
+    "url": "/personas/grant_writer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["基金申请","资助提案","项目叙事","预算设计","评审对齐","申请写作"],
+    "tags_zh": ["基金申请","资助提案","项目叙事","预算设计","评审对齐","申请写作"],
+    "tags_en": ["基金申请","资助提案","项目叙事","预算设计","评审对齐","申请写作"]
+  },
+  
+  {
     "name": "平面设计师 AI 灵魂设定",
     "name_zh": "平面设计师",
     "name_en": "Graphic Designer",
@@ -2326,6 +2586,19 @@
     "tags": ["用户增长","增长黑客","A/B测试","漏斗优化","病毒传播","数据驱动","AARRR","留存分析","PLG","增长策略"],
     "tags_zh": ["用户增长","增长黑客","A/B测试","漏斗优化","病毒传播","数据驱动","AARRR","留存分析","PLG","增长策略"],
     "tags_en": ["user growth","growth hacking","A/B testing","funnel optimization","viral propagation","data-driven","AARRR","retention analysis","PLG","growth strategy"]
+  },
+  
+  {
+    "name": "增长战略顾问 AI 灵魂设定",
+    "name_zh": "增长战略顾问",
+    "name_en": "Growth Strategist",
+    "url": "/personas/growth_strategist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["增长战略","市场扩张","增长实验","漏斗优化","数据驱动"],
+    "tags_zh": ["增长战略","市场扩张","增长实验","漏斗优化","数据驱动"],
+    "tags_en": ["增长战略","市场扩张","增长实验","漏斗优化","数据驱动"]
   },
   
   {
@@ -2404,6 +2677,19 @@
     "tags": ["妇科医生","女性健康","生殖内分泌","风险分层","共决策","长期随访"],
     "tags_zh": ["妇科医生","女性健康","生殖内分泌","风险分层","共决策","长期随访"],
     "tags_en": ["gynecologist","women's health","reproductive endocrinology","risk stratification","shared decision-making","long-term follow-up"]
+  },
+  
+  {
+    "name": "习惯教练 AI 灵魂设定",
+    "name_zh": "习惯教练",
+    "name_en": "Habit Coach",
+    "url": "/personas/habit_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["习惯养成","行为改变","执行力","环境设计","拖延改善","自律系统"],
+    "tags_zh": ["习惯养成","行为改变","执行力","环境设计","拖延改善","自律系统"],
+    "tags_en": ["习惯养成","行为改变","执行力","环境设计","拖延改善","自律系统"]
   },
   
   {
@@ -2706,6 +2992,19 @@
   },
   
   {
+    "name": "移民律师 AI 灵魂设定",
+    "name_zh": "移民律师",
+    "name_en": "Immigration Attorney",
+    "url": "/personas/immigration_attorney/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["移民法律","签证规划","身份路径","合规策略","证据链","跨境法律服务"],
+    "tags_zh": ["移民法律","签证规划","身份路径","合规策略","证据链","跨境法律服务"],
+    "tags_en": ["移民法律","签证规划","身份路径","合规策略","证据链","跨境法律服务"]
+  },
+  
+  {
     "name": "独立站增长专家 AI 灵魂设定",
     "name_zh": "独立站增长专家",
     "name_en": "Independent Station Growth Expert",
@@ -2729,6 +3028,19 @@
     "tags": ["独立开发","MVP","产品验证","现金流","定价策略","单人创业","自动化运营","微型产品"],
     "tags_zh": ["独立开发","MVP","产品验证","现金流","定价策略","单人创业","自动化运营","微型产品"],
     "tags_en": ["Indie development","MVP","Product validation","Cashflow","Pricing strategy","Solo entrepreneurship","Automation operations","Micro products"]
+  },
+  
+  {
+    "name": "网红营销专家 AI 灵魂设定",
+    "name_zh": "网红营销专家",
+    "name_en": "Influencer Marketing Specialist",
+    "url": "/personas/influencer_marketing/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["影响者营销","达人合作","KOL策略","内容共创","品牌传播"],
+    "tags_zh": ["影响者营销","达人合作","KOL策略","内容共创","品牌传播"],
+    "tags_en": ["影响者营销","达人合作","KOL策略","内容共创","品牌传播"]
   },
   
   {
@@ -2810,6 +3122,32 @@
   },
   
   {
+    "name": "面试教练 AI 灵魂设定",
+    "name_zh": "面试教练",
+    "name_en": "Interview Coach",
+    "url": "/personas/interview_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["面试教练","求职辅导","表达训练","行为面试","职业转型","面试复盘"],
+    "tags_zh": ["面试教练","求职辅导","表达训练","行为面试","职业转型","面试复盘"],
+    "tags_en": ["面试教练","求职辅导","表达训练","行为面试","职业转型","面试复盘"]
+  },
+  
+  {
+    "name": "投资分析师 AI 灵魂设定",
+    "name_zh": "投资分析师",
+    "name_en": "Investment Analyst",
+    "url": "/personas/investment_analyst/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["投资分析","股票研究","估值方法","风险管理","组合决策","基本面"],
+    "tags_zh": ["投资分析","股票研究","估值方法","风险管理","组合决策","基本面"],
+    "tags_en": ["投资分析","股票研究","估值方法","风险管理","组合决策","基本面"]
+  },
+  
+  {
     "name": "投行董事总经理 AI 灵魂设定",
     "name_zh": "投行董事总经理",
     "name_en": "Investment Banking Managing Director",
@@ -2833,6 +3171,19 @@
     "tags": ["iOS","Swift","移动开发","性能优化","架构设计","工程化","稳定性","用户体验"],
     "tags_zh": ["iOS","Swift","移动开发","性能优化","架构设计","工程化","稳定性","用户体验"],
     "tags_en": ["iOS","Swift","Mobile Development","Performance Optimization","Architecture Design","Engineering Practice","Stability","User Experience"]
+  },
+  
+  {
+    "name": "知识产权律师 AI 灵魂设定",
+    "name_zh": "知识产权律师",
+    "name_en": "IP Attorney",
+    "url": "/personas/ip_attorney/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["知识产权","权利布局","侵权风险","授权谈判","权属管理","法务策略"],
+    "tags_zh": ["知识产权","权利布局","侵权风险","授权谈判","权属管理","法务策略"],
+    "tags_en": ["知识产权","权利布局","侵权风险","授权谈判","权属管理","法务策略"]
   },
   
   {
@@ -2898,6 +3249,19 @@
     "tags": ["JavaScript","TypeScript","前端开发","Node.js","全栈","React","Vue"],
     "tags_zh": ["JavaScript","TypeScript","前端开发","Node.js","全栈","React","Vue"],
     "tags_en": ["JavaScript","TypeScript","Frontend Development","Node.js","Full-stack","React","Vue"]
+  },
+  
+  {
+    "name": "JavaScript/TypeScript 全栈专家 AI 灵魂设定",
+    "name_zh": "JavaScript/TypeScript 全栈专家",
+    "name_en": "JavaScript/TypeScript Full-Stack Expert",
+    "url": "/personas/javascript_typescript_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["JavaScript","TypeScript","React","Vue","Node.js","全栈开发","类型安全","工程化"],
+    "tags_zh": ["JavaScript","TypeScript","React","Vue","Node.js","全栈开发","类型安全","工程化"],
+    "tags_en": ["JavaScript","TypeScript","React","Vue","Node.js","Full-stack development","Type safety","Engineering practices"]
   },
   
   {
@@ -3083,6 +3447,19 @@
   },
   
   {
+    "name": "语言学习教练 AI 灵魂设定",
+    "name_zh": "语言学习教练",
+    "name_en": "Language Learning Coach",
+    "url": "/personas/language_learning_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["语言学习","习得路径","输出训练","学习习惯","多语学习","学习辅导"],
+    "tags_zh": ["语言学习","习得路径","输出训练","学习习惯","多语学习","学习辅导"],
+    "tags_en": ["语言学习","习得路径","输出训练","学习习惯","多语学习","学习辅导"]
+  },
+  
+  {
     "name": "语言学习导师 AI 灵魂设定",
     "name_zh": "语言学习导师",
     "name_en": "Language Learning Mentor",
@@ -3106,6 +3483,19 @@
     "tags": ["道家","道德经","无为","道法自然","春秋","先秦哲学","隐者"],
     "tags_zh": ["道家","道德经","无为","道法自然","春秋","先秦哲学","隐者"],
     "tags_en": ["Daoism","Dao De Jing","Wu Wei","Dao Follows Nature","Spring and Autumn Period","Pre-Qin Philosophy","Recluse"]
+  },
+  
+  {
+    "name": "精益创业教练 AI 灵魂设定",
+    "name_zh": "精益创业教练",
+    "name_en": "Lean Startup Coach",
+    "url": "/personas/lean_startup_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["精益创业","假设验证","创业教练","实验设计","用户验证"],
+    "tags_zh": ["精益创业","假设验证","创业教练","实验设计","用户验证"],
+    "tags_en": ["精益创业","假设验证","创业教练","实验设计","用户验证"]
   },
   
   {
@@ -3288,6 +3678,19 @@
     "tags": ["战国四大名将","负荆请罪","将相和","老当益壮","信平君","长平之战","赵国","军事家","战国"],
     "tags_zh": ["战国四大名将","负荆请罪","将相和","老当益壮","信平君","长平之战","赵国","军事家","战国"],
     "tags_en": ["FourGreatGenerals","CarryingThorns","GeneralAndMinister","StillVigorous","LordXinping","BattleOfChangping","Zhao","Strategist","WarringStates"]
+  },
+  
+  {
+    "name": "人生教练 AI 灵魂设定",
+    "name_zh": "人生教练",
+    "name_en": "Life Coach",
+    "url": "/personas/life_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["人生教练","目标设定","决策辅导","个人成长","行动系统","复盘"],
+    "tags_zh": ["人生教练","目标设定","决策辅导","个人成长","行动系统","复盘"],
+    "tags_en": ["人生教练","目标设定","决策辅导","个人成长","行动系统","复盘"]
   },
   
   {
@@ -3720,6 +4123,19 @@
   },
   
   {
+    "name": "正念教练 AI 灵魂设定",
+    "name_zh": "正念教练",
+    "name_en": "Mindfulness Coach",
+    "url": "/personas/mindfulness_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["正念训练","压力管理","注意力训练","情绪调节","心理韧性","呼吸练习","身心健康"],
+    "tags_zh": ["正念训练","压力管理","注意力训练","情绪调节","心理韧性","呼吸练习","身心健康"],
+    "tags_en": ["mindfulness training","stress management","attention training","emotion regulation","psychological resilience","breathing practice","mind-body wellness"]
+  },
+  
+  {
     "name": "正念导师 AI 灵魂设定",
     "name_zh": "正念导师",
     "name_en": "Mindfulness Mentor",
@@ -3730,6 +4146,32 @@
     "tags": ["正念冥想","减压","情绪管理","呼吸练习","身心觉察","MBSR","冥想引导","内观","企业正念","慈心练习"],
     "tags_zh": ["正念冥想","减压","情绪管理","呼吸练习","身心觉察","MBSR","冥想引导","内观","企业正念","慈心练习"],
     "tags_en": ["Mindfulness meditation","Stress reduction","Emotion regulation","Breath practice","Body-mind awareness","MBSR","Meditation guidance","Vipassana","Corporate mindfulness","Loving-kindness practice"]
+  },
+  
+  {
+    "name": "Android 原生移动应用开发专家 AI 灵魂设定",
+    "name_zh": "Android 原生移动应用开发专家",
+    "name_en": "Mobile App Developer Android",
+    "url": "/personas/mobile_app_developer_android/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Android","Kotlin","Jetpack","Jetpack Compose","移动开发","架构设计","性能优化","工程化"],
+    "tags_zh": ["Android","Kotlin","Jetpack","Jetpack Compose","移动开发","架构设计","性能优化","工程化"],
+    "tags_en": ["Android","Kotlin","Jetpack","Jetpack Compose","Mobile development","Architecture design","Performance optimization","Engineering practices"]
+  },
+  
+  {
+    "name": "iOS 原生应用开发专家 AI 灵魂设定",
+    "name_zh": "iOS 原生应用开发专家",
+    "name_en": "iOS Native App Development Expert",
+    "url": "/personas/mobile_app_developer_ios/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["iOS","Swift","SwiftUI","UIKit","Apple生态","移动开发","并发编程","性能优化"],
+    "tags_zh": ["iOS","Swift","SwiftUI","UIKit","Apple生态","移动开发","并发编程","性能优化"],
+    "tags_en": ["iOS","Swift","SwiftUI","UIKit","Apple Ecosystem","Mobile Development","Concurrency","Performance Optimization"]
   },
   
   {
@@ -3941,6 +4383,19 @@
   },
   
   {
+    "name": "运营顾问 AI 灵魂设定",
+    "name_zh": "运营顾问",
+    "name_en": "Operations Consultant",
+    "url": "/personas/operations_consultant/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["运营咨询","流程优化","组织效率","指标体系","持续改进"],
+    "tags_zh": ["运营咨询","流程优化","组织效率","指标体系","持续改进"],
+    "tags_en": ["运营咨询","流程优化","组织效率","指标体系","持续改进"]
+  },
+  
+  {
     "name": "运营专家 AI 灵魂设定",
     "name_zh": "运营专家",
     "name_en": "Operations Expert",
@@ -4058,6 +4513,58 @@
   },
   
   {
+    "name": "Google 广告专家 AI 灵魂设定",
+    "name_zh": "Google 广告专家",
+    "name_en": "Google Paid Ads Specialist",
+    "url": "/personas/paid_ads_google_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Google广告","竞价投放","关键词策略","账户优化","获客成本"],
+    "tags_zh": ["Google广告","竞价投放","关键词策略","账户优化","获客成本"],
+    "tags_en": ["Google广告","竞价投放","关键词策略","账户优化","获客成本"]
+  },
+  
+  {
+    "name": "Meta 广告投放专家 AI 灵魂设定",
+    "name_zh": "Meta 广告投放专家",
+    "name_en": "Meta Paid Ads Specialist",
+    "url": "/personas/paid_ads_meta_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Meta广告","广告投放","受众策略","创意测试","转化优化"],
+    "tags_zh": ["Meta广告","广告投放","受众策略","创意测试","转化优化"],
+    "tags_en": ["Meta广告","广告投放","受众策略","创意测试","转化优化"]
+  },
+  
+  {
+    "name": "Google Ads 付费广告专家 AI 灵魂设定",
+    "name_zh": "Google Ads 付费广告专家",
+    "name_en": "Paid Ads Specialist - Google",
+    "url": "/personas/paid_ads_specialist_google/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Google Ads","Search Ads","Display Ads","YouTube Ads","付费投放","转化优化","广告归因","增长策略"],
+    "tags_zh": ["Google Ads","Search Ads","Display Ads","YouTube Ads","付费投放","转化优化","广告归因","增长策略"],
+    "tags_en": ["Google Ads","Search Ads","Display Ads","YouTube Ads","Paid media","Conversion optimization","Ads attribution","Growth strategy"]
+  },
+  
+  {
+    "name": "Meta 付费广告优化专家 AI 灵魂设定",
+    "name_zh": "Meta 付费广告优化专家",
+    "name_en": "Paid Ads Specialist, Meta",
+    "url": "/personas/paid_ads_specialist_meta/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Meta广告","Facebook广告","Instagram广告","广告优化","ROI提升","ROAS","转化漏斗","归因分析"],
+    "tags_zh": ["Meta广告","Facebook广告","Instagram广告","广告优化","ROI提升","ROAS","转化漏斗","归因分析"],
+    "tags_en": ["Meta Ads","Facebook Ads","Instagram Ads","Ad optimization","ROI improvement","ROAS","Conversion funnel","Attribution analysis"]
+  },
+  
+  {
     "name": "付费社群增长经理 AI 灵魂设定",
     "name_zh": "付费社群增长经理",
     "name_en": "Paid Community Growth Manager",
@@ -4149,6 +4656,19 @@
   },
   
   {
+    "name": "个人训练师 AI 灵魂设定",
+    "name_zh": "个人训练师",
+    "name_en": "Personal Trainer",
+    "url": "/personas/personal_trainer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["私人训练","个性化训练","运动营养","减脂增肌","行为改变","体能提升","健康管理"],
+    "tags_zh": ["私人训练","个性化训练","运动营养","减脂增肌","行为改变","体能提升","健康管理"],
+    "tags_en": ["personal training","individualized training","sports nutrition","fat loss and muscle gain","behavior change","physical conditioning","health management"]
+  },
+  
+  {
     "name": "彼特拉克 AI 灵魂设定",
     "name_zh": "彼特拉克 (Petrarch)",
     "name_en": "Petrarch",
@@ -4185,6 +4705,19 @@
     "tags": ["摄影艺术","构图设计","光影运用","人文纪实","肖像摄影","后期处理","视觉叙事","街头摄影","摄影教学","审美训练"],
     "tags_zh": ["摄影艺术","构图设计","光影运用","人文纪实","肖像摄影","后期处理","视觉叙事","街头摄影","摄影教学","审美训练"],
     "tags_en": ["Photography","Composition","Light and shadow","Documentary photography","Portrait photography","Post-processing","Visual narrative","Street photography","Photography teaching","Aesthetic training"]
+  },
+  
+  {
+    "name": "融资路演材料专家 AI 灵魂设定",
+    "name_zh": "融资路演材料专家",
+    "name_en": "Pitch Deck Expert",
+    "url": "/personas/pitch_deck_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["融资路演","Pitch Deck","创业融资","叙事设计","投资沟通"],
+    "tags_zh": ["融资路演","Pitch Deck","创业融资","叙事设计","投资沟通"],
+    "tags_en": ["融资路演","Pitch Deck","创业融资","叙事设计","投资沟通"]
   },
   
   {
@@ -4276,6 +4809,19 @@
     "tags": ["陶艺","拉坯","器物设计","釉色","窑烧","手作工艺"],
     "tags_zh": ["陶艺","拉坯","器物设计","釉色","窑烧","手作工艺"],
     "tags_en": ["pottery","wheel throwing","vessel design","glaze","kiln firing","craft"]
+  },
+  
+  {
+    "name": "产品设计师 AI 灵魂设定",
+    "name_zh": "产品设计师",
+    "name_en": "Product Designer",
+    "url": "/personas/product_designer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["产品设计","用户体验","交互设计","原型验证","设计协作"],
+    "tags_zh": ["产品设计","用户体验","交互设计","原型验证","设计协作"],
+    "tags_en": ["产品设计","用户体验","交互设计","原型验证","设计协作"]
   },
   
   {
@@ -4422,6 +4968,19 @@
   },
   
   {
+    "name": "Python 专家 AI 灵魂设定",
+    "name_zh": "Python 专家",
+    "name_en": "Python Expert",
+    "url": "/personas/python_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Python","后端工程","异步编程","性能优化","测试工程","软件架构","代码质量","可靠性"],
+    "tags_zh": ["Python","后端工程","异步编程","性能优化","测试工程","软件架构","代码质量","可靠性"],
+    "tags_en": ["Python","Backend Engineering","Asynchronous Programming","Performance Optimization","Testing Engineering","Software Architecture","Code Quality","Reliability"]
+  },
+  
+  {
     "name": "Python 导师 AI 灵魂设定",
     "name_zh": "Python 导师",
     "name_en": "Python Tutor",
@@ -4513,6 +5072,32 @@
   },
   
   {
+    "name": "React/Next.js 前端专家 AI 灵魂设定",
+    "name_zh": "React/Next.js 前端专家",
+    "name_en": "React/Next.js Frontend Expert",
+    "url": "/personas/react_nextjs_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["React","Next.js","前端架构","性能优化","工程化"],
+    "tags_zh": ["React","Next.js","前端架构","性能优化","工程化"],
+    "tags_en": ["React","Next.js","前端架构","性能优化","工程化"]
+  },
+  
+  {
+    "name": "房地产投资人 AI 灵魂设定",
+    "name_zh": "房地产投资人",
+    "name_en": "Real Estate Investor",
+    "url": "/personas/real_estate_investor/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["房地产投资","物业分析","投资策略","现金流管理","杠杆控制","资产配置","财富管理"],
+    "tags_zh": ["房地产投资","物业分析","投资策略","现金流管理","杠杆控制","资产配置","财富管理"],
+    "tags_en": ["Real estate investing","Property analysis","Investment strategy","Cash-flow management","Leverage control","Asset allocation","Wealth management"]
+  },
+  
+  {
     "name": "房产投资顾问 AI 灵魂设定",
     "name_zh": "房产投资顾问",
     "name_en": "Real Estate Investment Advisor",
@@ -4523,6 +5108,19 @@
     "tags": ["房产投资","现金流管理","资产配置","风险控制","杠杆策略","周期分析","退出规划"],
     "tags_zh": ["房产投资","现金流管理","资产配置","风险控制","杠杆策略","周期分析","退出规划"],
     "tags_en": ["Real estate investing","Cash flow management","Asset allocation","Risk control","Leverage strategy","Cycle analysis","Exit planning"]
+  },
+  
+  {
+    "name": "亲密关系教练 AI 灵魂设定",
+    "name_zh": "亲密关系教练",
+    "name_en": "Relationship Coach",
+    "url": "/personas/relationship_coach/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["亲密关系","沟通技巧","情绪智能","冲突修复","依恋模式","边界感","关系教练","婚恋成长"],
+    "tags_zh": ["亲密关系","沟通技巧","情绪智能","冲突修复","依恋模式","边界感","关系教练","婚恋成长"],
+    "tags_en": ["Intimate relationships","Communication skills","Emotional intelligence","Conflict repair","Attachment patterns","Boundaries","Relationship coaching","Romantic growth"]
   },
   
   {
@@ -4588,6 +5186,19 @@
     "tags": ["攀岩","抱石","动作纠正","风险管理","训练计划","心理训练","体能提升"],
     "tags_zh": ["攀岩","抱石","动作纠正","风险管理","训练计划","心理训练","体能提升"],
     "tags_en": ["Rock climbing","Bouldering","Movement correction","Risk management","Training planning","Mental training","Physical conditioning"]
+  },
+  
+  {
+    "name": "Rust 系统编程专家 AI 灵魂设定",
+    "name_zh": "Rust 系统编程专家",
+    "name_en": "Rust Systems Programming Expert",
+    "url": "/personas/rust_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Rust","系统编程","内存安全","并发","高性能","异步运行时","unsafe","性能优化"],
+    "tags_zh": ["Rust","系统编程","内存安全","并发","高性能","异步运行时","unsafe","性能优化"],
+    "tags_en": ["Rust","Systems programming","Memory safety","Concurrency","High performance","Async runtime","Unsafe","Performance optimization"]
   },
   
   {
@@ -4734,6 +5345,19 @@
   },
   
   {
+    "name": "SEO 搜索引擎优化专家 AI 灵魂设定",
+    "name_zh": "SEO 搜索引擎优化专家",
+    "name_en": "SEO Expert",
+    "url": "/personas/seo_expert/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["SEO","搜索意图","内容优化","技术治理","自然流量"],
+    "tags_zh": ["SEO","搜索意图","内容优化","技术治理","自然流量"],
+    "tags_en": ["SEO","搜索意图","内容优化","技术治理","自然流量"]
+  },
+  
+  {
     "name": "服务设计师 AI 灵魂设定",
     "name_zh": "服务设计师",
     "name_en": "Service Designer",
@@ -4877,6 +5501,19 @@
   },
   
   {
+    "name": "SRE 站点可靠性工程师 AI 灵魂设定",
+    "name_zh": "SRE 站点可靠性工程师",
+    "name_en": "Site Reliability Engineer",
+    "url": "/personas/site_reliability_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["SRE","可靠性工程","故障管理","可观测性","自动化运维"],
+    "tags_zh": ["SRE","可靠性工程","故障管理","可观测性","自动化运维"],
+    "tags_en": ["SRE","可靠性工程","故障管理","可观测性","自动化运维"]
+  },
+  
+  {
     "name": "滑雪教练 AI 灵魂设定",
     "name_zh": "滑雪教练",
     "name_en": "Ski Instructor",
@@ -4926,6 +5563,19 @@
     "tags": ["社媒自动化","运营流程","内容排程","多平台增长","数据看板","工作流设计","线索管理","效率优化"],
     "tags_zh": ["社媒自动化","运营流程","内容排程","多平台增长","数据看板","工作流设计","线索管理","效率优化"],
     "tags_en": ["Social media automation","Operations workflow","Content scheduling","Multi-platform growth","Data dashboard","Workflow design","Lead management","Efficiency optimization"]
+  },
+  
+  {
+    "name": "社交媒体运营经理 AI 灵魂设定",
+    "name_zh": "社交媒体运营经理",
+    "name_en": "Social Media Manager",
+    "url": "/personas/social_media_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["社交媒体运营","内容节奏","社群互动","平台增长","品牌表达"],
+    "tags_zh": ["社交媒体运营","内容节奏","社群互动","平台增长","品牌表达"],
+    "tags_en": ["社交媒体运营","内容节奏","社群互动","平台增长","品牌表达"]
   },
   
   {
@@ -5095,6 +5745,19 @@
     "tags": ["速读","阅读策略","信息筛选","学习效率","文献阅读","知识管理"],
     "tags_zh": ["速读","阅读策略","信息筛选","学习效率","文献阅读","知识管理"],
     "tags_en": ["speed reading","reading strategy","information filtering","learning efficiency","literature reading","knowledge management"]
+  },
+  
+  {
+    "name": "创业顾问 AI 灵魂设定",
+    "name_zh": "创业顾问",
+    "name_en": "Startup Advisor",
+    "url": "/personas/startup_advisor/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["创业顾问","0到1","产品战略","融资策略","增长策略","PMF","单位经济"],
+    "tags_zh": ["创业顾问","0到1","产品战略","融资策略","增长策略","PMF","单位经济"],
+    "tags_en": ["startup advisor","0-to-1","product strategy","fundraising strategy","growth strategy","PMF","unit economics"]
   },
   
   {
@@ -5462,6 +6125,19 @@
   },
   
   {
+    "name": "3D 艺术家 AI 灵魂设定",
+    "name_zh": "3D 艺术家",
+    "name_en": "3D Artist",
+    "url": "/personas/threed_artist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["3D建模","三维渲染","材质灯光","视觉叙事","数字艺术"],
+    "tags_zh": ["3D建模","三维渲染","材质灯光","视觉叙事","数字艺术"],
+    "tags_en": ["3D建模","三维渲染","材质灯光","视觉叙事","数字艺术"]
+  },
+  
+  {
     "name": "TikTok Shop增长运营专家 AI 灵魂设定",
     "name_zh": "TikTok Shop增长运营专家",
     "name_en": "TikTok Shop Growth Operator",
@@ -5553,6 +6229,19 @@
   },
   
   {
+    "name": "UI/UX 设计师 AI 灵魂设定",
+    "name_zh": "UI/UX 设计师",
+    "name_en": "UI/UX Designer",
+    "url": "/personas/ui_ux_designer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["UI设计","UX设计","用户研究","交互设计","信息架构","可用性测试","设计系统","数字产品"],
+    "tags_zh": ["UI设计","UX设计","用户研究","交互设计","信息架构","可用性测试","设计系统","数字产品"],
+    "tags_en": ["UI design","UX design","User research","Interaction design","Information architecture","Usability testing","Design systems","Digital products"]
+  },
+  
+  {
     "name": "Unity 游戏开发专家 AI 灵魂设定",
     "name_zh": "Unity 游戏开发专家",
     "name_en": "Unity Developer",
@@ -5615,6 +6304,32 @@
     "tags": ["用户研究","可用性测试","用户洞察","定性研究","同理心","用户体验"],
     "tags_zh": ["用户研究","可用性测试","用户洞察","定性研究","同理心","用户体验"],
     "tags_en": ["user research","usability testing","user insight","qualitative research","empathy","user experience"]
+  },
+  
+  {
+    "name": "风险投资分析师 AI 灵魂设定",
+    "name_zh": "风险投资分析师",
+    "name_en": "Venture Capital Analyst",
+    "url": "/personas/vc_analyst/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["风险投资","投资分析","商业模型","尽调","赔率思维"],
+    "tags_zh": ["风险投资","投资分析","商业模型","尽调","赔率思维"],
+    "tags_en": ["风险投资","投资分析","商业模型","尽调","赔率思维"]
+  },
+  
+  {
+    "name": "风险投资分析师 AI 灵魂设定",
+    "name_zh": "风险投资分析师",
+    "name_en": "Venture Capital Analyst",
+    "url": "/personas/venture_capital_analyst/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["风险投资","早期科技","项目评估","市场研究","尽职调查","投资决策","创业融资"],
+    "tags_zh": ["风险投资","早期科技","项目评估","市场研究","尽职调查","投资决策","创业融资"],
+    "tags_en": ["Venture capital","Early-stage technology","Project evaluation","Market research","Due diligence","Investment decision-making","Startup fundraising"]
   },
   
   {
