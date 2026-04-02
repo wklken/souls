@@ -665,6 +665,19 @@
   },
   
   {
+    "name": "后端工程师 AI 灵魂设定",
+    "name_zh": "后端工程师",
+    "name_en": "Backend Engineer",
+    "url": "/personas/backend_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["后端工程","分布式系统","系统设计","可靠性工程","接口治理","性能优化","故障恢复","可观测性"],
+    "tags_zh": ["后端工程","分布式系统","系统设计","可靠性工程","接口治理","性能优化","故障恢复","可观测性"],
+    "tags_en": ["backend engineering","distributed systems","system design","reliability engineering","API governance","performance optimization","failure recovery","observability"]
+  },
+  
+  {
     "name": "白居易 AI 灵魂设定",
     "name_zh": "白居易 (Bai Juyi)",
     "name_en": "Bai Juyi",
@@ -1679,6 +1692,19 @@
   },
   
   {
+    "name": "开发者布道师 AI 灵魂设定",
+    "name_zh": "开发者布道师",
+    "name_en": "Developer Advocate",
+    "url": "/personas/developer_advocate/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["开发者布道","开发者教育","技术社区","生态增长","教程设计","反馈闭环","开发者体验","内容策略"],
+    "tags_zh": ["开发者布道","开发者教育","技术社区","生态增长","教程设计","反馈闭环","开发者体验","内容策略"],
+    "tags_en": ["开发者布道","开发者教育","技术社区","生态增长","教程设计","反馈闭环","开发者体验","内容策略"]
+  },
+  
+  {
     "name": "DevOps 工程师 AI 灵魂设定",
     "name_zh": "DevOps 工程师",
     "name_en": "DevOps Engineer",
@@ -2261,6 +2287,19 @@
     "tags": ["前端","React","Vue","组件化","性能优化","设计系统"],
     "tags_zh": ["前端","React","Vue","组件化","性能优化","设计系统"],
     "tags_en": ["Frontend","React","Vue","Componentization","Performance Optimization","Design System"]
+  },
+  
+  {
+    "name": "全栈工程师 AI 灵魂设定",
+    "name_zh": "全栈工程师",
+    "name_en": "Fullstack Engineer",
+    "url": "/personas/fullstack_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["全栈工程","前后端协作","系统设计","接口契约","性能优化","自动化测试","可观测性","持续交付"],
+    "tags_zh": ["全栈工程","前后端协作","系统设计","接口契约","性能优化","自动化测试","可观测性","持续交付"],
+    "tags_en": ["Fullstack engineering","Frontend-backend collaboration","System design","Interface contracts","Performance optimization","Automated testing","Observability","Continuous delivery"]
   },
   
   {
@@ -4149,6 +4188,19 @@
   },
   
   {
+    "name": "MLOps 工程师 AI 灵魂设定",
+    "name_zh": "MLOps 工程师",
+    "name_en": "MLOps Engineer",
+    "url": "/personas/mlops_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["MLOps","模型交付","机器学习平台","数据治理","模型监控","持续交付","工程可靠性","AI系统"],
+    "tags_zh": ["MLOps","模型交付","机器学习平台","数据治理","模型监控","持续交付","工程可靠性","AI系统"],
+    "tags_en": ["MLOps","Model delivery","Machine learning platform","Data governance","Model monitoring","Continuous delivery","Engineering reliability","AI systems"]
+  },
+  
+  {
     "name": "Android 原生移动应用开发专家 AI 灵魂设定",
     "name_zh": "Android 原生移动应用开发专家",
     "name_en": "Mobile App Developer Android",
@@ -4354,6 +4406,19 @@
     "tags": ["营养学","饮食健康","个性化膳食","循证营养","减重管理","代谢健康","饮食计划"],
     "tags_zh": ["营养学","饮食健康","个性化膳食","循证营养","减重管理","代谢健康","饮食计划"],
     "tags_en": ["Nutrition","Dietary health","Personalized diet","Evidence-based nutrition","Weight management","Metabolic health","Meal planning"]
+  },
+  
+  {
+    "name": "可观测性工程师 AI 灵魂设定",
+    "name_zh": "可观测性工程师",
+    "name_en": "Observability Engineer",
+    "url": "/personas/observability_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["可观测性","监控体系","日志治理","链路追踪","告警策略","故障定位","系统运维","工程治理"],
+    "tags_zh": ["可观测性","监控体系","日志治理","链路追踪","告警策略","故障定位","系统运维","工程治理"],
+    "tags_en": ["可观测性","监控体系","日志治理","链路追踪","告警策略","故障定位","系统运维","工程治理"]
   },
   
   {
@@ -4614,6 +4679,19 @@
     "tags": ["儿科","儿童健康","生长发育","家庭照护","风险分层","预防保健","医患沟通"],
     "tags_zh": ["儿科","儿童健康","生长发育","家庭照护","风险分层","预防保健","医患沟通"],
     "tags_en": ["Pediatrics","Child health","Growth and development","Family caregiving","Risk stratification","Preventive care","Clinical communication"]
+  },
+  
+  {
+    "name": "性能测试工程师 AI 灵魂设定",
+    "name_zh": "性能测试工程师",
+    "name_en": "Performance Test Engineer",
+    "url": "/personas/performance_test_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["性能测试","负载建模","容量规划","瓶颈分析","可观测性","稳定性工程"],
+    "tags_zh": ["性能测试","负载建模","容量规划","瓶颈分析","可观测性","稳定性工程"],
+    "tags_en": ["performance testing","load modeling","capacity planning","bottleneck analysis","observability","reliability engineering"]
   },
   
   {
@@ -4994,6 +5072,19 @@
   },
   
   {
+    "name": "QA 工程师 AI 灵魂设定",
+    "name_zh": "QA 工程师",
+    "name_en": "QA Engineer",
+    "url": "/personas/qa_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["质量工程","风险驱动测试","自动化测试","回归门禁","缺陷治理","持续交付"],
+    "tags_zh": ["质量工程","风险驱动测试","自动化测试","回归门禁","缺陷治理","持续交付"],
+    "tags_en": ["quality engineering","risk-driven testing","automated testing","regression gates","defect governance","continuous delivery"]
+  },
+  
+  {
     "name": "戚继光 AI 灵魂设定",
     "name_zh": "戚继光 (Qi Jiguang)",
     "name_en": "Qi Jiguang",
@@ -5306,6 +5397,19 @@
   },
   
   {
+    "name": "测试开发工程师 AI 灵魂设定",
+    "name_zh": "测试开发工程师",
+    "name_en": "Software Development Engineer in Test",
+    "url": "/personas/sdet/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["测试开发","质量工程","自动化测试","持续集成","风险建模","可观测性"],
+    "tags_zh": ["测试开发","质量工程","自动化测试","持续集成","风险建模","可观测性"],
+    "tags_en": ["test development","quality engineering","automation testing","continuous integration","risk modeling","observability"]
+  },
+  
+  {
     "name": "安全工程师 AI 灵魂设定",
     "name_zh": "安全工程师",
     "name_en": "Security Engineer",
@@ -5501,16 +5605,16 @@
   },
   
   {
-    "name": "SRE 站点可靠性工程师 AI 灵魂设定",
-    "name_zh": "SRE 站点可靠性工程师",
+    "name": "站点可靠性工程师 AI 灵魂设定",
+    "name_zh": "站点可靠性工程师",
     "name_en": "Site Reliability Engineer",
     "url": "/personas/site_reliability_engineer/",
     "category": "personas",
     "category_zh": "专家角色",
     "category_en": "Personas",
-    "tags": ["SRE","可靠性工程","故障管理","可观测性","自动化运维"],
-    "tags_zh": ["SRE","可靠性工程","故障管理","可观测性","自动化运维"],
-    "tags_en": ["SRE","可靠性工程","故障管理","可观测性","自动化运维"]
+    "tags": ["SRE","站点可靠性","高可用架构","故障响应","可观测性","错误预算","容量规划","自动化运维"],
+    "tags_zh": ["SRE","站点可靠性","高可用架构","故障响应","可观测性","错误预算","容量规划","自动化运维"],
+    "tags_en": ["SRE","Site reliability","High availability architecture","Incident response","Observability","Error budget","Capacity planning","Operations automation"]
   },
   
   {
@@ -6044,6 +6148,19 @@
     "tags": ["技术写作","API文档","文档工程","信息架构","开发者体验","docs-as-code"],
     "tags_zh": ["技术写作","API文档","文档工程","信息架构","开发者体验","docs-as-code"],
     "tags_en": ["technical writing","API documentation","documentation engineering","information architecture","developer experience","docs-as-code"]
+  },
+  
+  {
+    "name": "测试自动化工程师 AI 灵魂设定",
+    "name_zh": "测试自动化工程师",
+    "name_en": "Test Automation Engineer",
+    "url": "/personas/test_automation_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["测试自动化","质量工程","回归测试","持续集成","测试策略","稳定性治理","缺陷预防"],
+    "tags_zh": ["测试自动化","质量工程","回归测试","持续集成","测试策略","稳定性治理","缺陷预防"],
+    "tags_en": ["Test automation","Quality engineering","Regression testing","Continuous integration","Test strategy","Stability governance","Defect prevention"]
   },
   
   {
