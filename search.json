@@ -119,6 +119,19 @@
   },
   
   {
+    "name": "AI Agent 集成专家 AI 灵魂设定",
+    "name_zh": "AI Agent 集成专家",
+    "name_en": "AI Agent Integrations Specialist",
+    "url": "/personas/ai_agent_integrations_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI Agent","系统集成","接口契约","适配层","可观测性","回滚治理","稳定性","工程架构"],
+    "tags_zh": ["AI Agent","系统集成","接口契约","适配层","可观测性","回滚治理","稳定性","工程架构"],
+    "tags_en": ["AI Agent","系统集成","接口契约","适配层","可观测性","回滚治理","稳定性","工程架构"]
+  },
+  
+  {
     "name": "AI Agent运营工程师 AI 灵魂设定",
     "name_zh": "AI Agent运营工程师",
     "name_en": "AI Agent Operations Engineer",
@@ -129,6 +142,32 @@
     "tags": ["Agent运维","可靠性工程","故障响应","灰度发布","告警治理","SLO管理","多代理系统","运行成本优化"],
     "tags_zh": ["Agent运维","可靠性工程","故障响应","灰度发布","告警治理","SLO管理","多代理系统","运行成本优化"],
     "tags_en": ["Agent operations","Reliability engineering","Incident response","Canary release","Alert governance","SLO management","Multi-agent systems","Runtime cost optimization"]
+  },
+  
+  {
+    "name": "AI Agent 可靠性工程师 AI 灵魂设定",
+    "name_zh": "AI Agent 可靠性工程师",
+    "name_en": "AI Agent Reliability Engineer",
+    "url": "/personas/ai_agent_reliability_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Agent可靠性","韧性工程","故障恢复","状态一致性","降级策略","故障注入","人工接管","多步骤任务"],
+    "tags_zh": ["Agent可靠性","韧性工程","故障恢复","状态一致性","降级策略","故障注入","人工接管","多步骤任务"],
+    "tags_en": ["agent reliability","resilience engineering","failure recovery","state consistency","degradation strategy","fault injection","human handoff","multi-step tasks"]
+  },
+  
+  {
+    "name": "AI 代码合规审计师 AI 灵魂设定",
+    "name_zh": "AI 代码合规审计师",
+    "name_en": "AI Code Compliance Auditor",
+    "url": "/personas/ai_code_compliance_auditor/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["代码合规","AI编程","开源许可证","代码溯源","供应链治理","安全审计","审计追踪","政策门禁"],
+    "tags_zh": ["代码合规","AI编程","开源许可证","代码溯源","供应链治理","安全审计","审计追踪","政策门禁"],
+    "tags_en": ["code compliance","AI coding","open-source licenses","code provenance","supply chain governance","security audit","audit trail","policy gates"]
   },
   
   {
@@ -210,6 +249,19 @@
   },
   
   {
+    "name": "AI 文档专家 AI 灵魂设定",
+    "name_zh": "AI 文档专家",
+    "name_en": "AI Documentation Specialist",
+    "url": "/personas/ai_documentation_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI文档","知识治理","结构化写作","决策留痕","文档流程","团队协作","运行手册","知识管理"],
+    "tags_zh": ["AI文档","知识治理","结构化写作","决策留痕","文档流程","团队协作","运行手册","知识管理"],
+    "tags_en": ["AI文档","知识治理","结构化写作","决策留痕","文档流程","团队协作","运行手册","知识管理"]
+  },
+  
+  {
     "name": "AI 工程师 AI 灵魂设定",
     "name_zh": "AI 工程师",
     "name_en": "AI Engineer",
@@ -249,6 +301,19 @@
   },
   
   {
+    "name": "人机协作设计师 AI 灵魂设定",
+    "name_zh": "人机协作设计师",
+    "name_en": "AI Human Collaboration Designer",
+    "url": "/personas/ai_human_collaboration_designer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["人机协作","流程设计","决策分层","体验治理","人工接管","可信AI","协作系统","交互策略"],
+    "tags_zh": ["人机协作","流程设计","决策分层","体验治理","人工接管","可信AI","协作系统","交互策略"],
+    "tags_en": ["人机协作","流程设计","决策分层","体验治理","人工接管","可信AI","协作系统","交互策略"]
+  },
+  
+  {
     "name": "AI/ML 工程师 AI 灵魂设定",
     "name_zh": "AI/ML 工程师",
     "name_en": "AI/ML Engineer",
@@ -262,6 +327,19 @@
   },
   
   {
+    "name": "AI 可观测性工程师 AI 灵魂设定",
+    "name_zh": "AI 可观测性工程师",
+    "name_en": "AI Observability Engineer",
+    "url": "/personas/ai_observability_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI可观测性","日志追踪","故障排查","性能分析","模型漂移","RAG监控","提示观测","系统治理"],
+    "tags_zh": ["AI可观测性","日志追踪","故障排查","性能分析","模型漂移","RAG监控","提示观测","系统治理"],
+    "tags_en": ["AI observability","Logging and tracing","Incident diagnosis","Performance analysis","Model drift","RAG monitoring","Prompt observability","System governance"]
+  },
+  
+  {
     "name": "AI 产品经理 AI 灵魂设定",
     "name_zh": "AI 产品经理",
     "name_en": "AI Product Manager",
@@ -272,6 +350,19 @@
     "tags": ["AI产品","大模型应用","人机协作","Prompt工程","AI伦理","产品化"],
     "tags_zh": ["AI产品","大模型应用","人机协作","Prompt工程","AI伦理","产品化"],
     "tags_en": ["AI products","large language model applications","human-AI collaboration","prompt engineering","AI ethics","productization"]
+  },
+  
+  {
+    "name": "AI 可靠性工程师 AI 灵魂设定",
+    "name_zh": "AI 可靠性工程师",
+    "name_en": "AI Reliability Engineer",
+    "url": "/personas/ai_reliability_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI可靠性","稳定性工程","故障演练","降级策略","恢复机制","风险治理","应急响应","系统韧性"],
+    "tags_zh": ["AI可靠性","稳定性工程","故障演练","降级策略","恢复机制","风险治理","应急响应","系统韧性"],
+    "tags_en": ["AI可靠性","稳定性工程","故障演练","降级策略","恢复机制","风险治理","应急响应","系统韧性"]
   },
   
   {
@@ -298,6 +389,19 @@
     "tags": ["AI短剧","内容制作","节奏设计","脚本策划","AIGC视频","短视频运营","爆款方法论","数据复盘"],
     "tags_zh": ["AI短剧","内容制作","节奏设计","脚本策划","AIGC视频","短视频运营","爆款方法论","数据复盘"],
     "tags_en": ["AI short drama","Content production","Rhythm design","Script planning","AIGC video","Short-video operations","Hit methodology","Data review"]
+  },
+  
+  {
+    "name": "AI 测试自动化工程师 AI 灵魂设定",
+    "name_zh": "AI 测试自动化工程师",
+    "name_en": "AI Test Automation Engineer",
+    "url": "/personas/ai_test_automation_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["AI测试","自动化测试","回归测试","对抗测试","模型评估","质量门禁","A/B测试","失败样本"],
+    "tags_zh": ["AI测试","自动化测试","回归测试","对抗测试","模型评估","质量门禁","A/B测试","失败样本"],
+    "tags_en": ["AI testing","Test automation","Regression testing","Adversarial testing","Model evaluation","Quality gates","A/B testing","Failure samples"]
   },
   
   {
@@ -483,6 +587,19 @@
   },
   
   {
+    "name": "平台仓配运营专家 AI 灵魂设定",
+    "name_zh": "平台仓配运营专家",
+    "name_en": "Marketplace Fulfillment Operations Specialist",
+    "url": "/personas/amazon_fba_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["仓配运营","选品策略","页面优化","广告投放","利润模型","库存管理","评价治理","增长复盘"],
+    "tags_zh": ["仓配运营","选品策略","页面优化","广告投放","利润模型","库存管理","评价治理","增长复盘"],
+    "tags_en": ["仓配运营","选品策略","页面优化","广告投放","利润模型","库存管理","评价治理","增长复盘"]
+  },
+  
+  {
     "name": "阿那克萨戈拉 AI 灵魂设定",
     "name_zh": "阿那克萨戈拉 (Anaxagoras)",
     "name_en": "Anaxagoras",
@@ -574,6 +691,19 @@
   },
   
   {
+    "name": "API 产品经理 AI 灵魂设定",
+    "name_zh": "API 产品经理",
+    "name_en": "API Product Manager",
+    "url": "/personas/api_product_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["API产品","开发者体验","版本治理","生态增长","产品规划","接口策略","文档体系","生命周期管理"],
+    "tags_zh": ["API产品","开发者体验","版本治理","生态增长","产品规划","接口策略","文档体系","生命周期管理"],
+    "tags_en": ["API产品","开发者体验","版本治理","生态增长","产品规划","接口策略","文档体系","生命周期管理"]
+  },
+  
+  {
     "name": "阿里斯托芬 AI 灵魂设定",
     "name_zh": "阿里斯托芬 (Aristophanes)",
     "name_en": "Aristophanes",
@@ -610,6 +740,19 @@
     "tags": ["意志哲学","悲观主义","形而上学","康德哲学","东方哲学","美学","伦理学"],
     "tags_zh": ["意志哲学","悲观主义","形而上学","康德哲学","东方哲学","美学","伦理学"],
     "tags_en": ["Philosophy of Will","Pessimism","Metaphysics","Kantian Philosophy","Eastern Philosophy","Aesthetics","Ethics"]
+  },
+  
+  {
+    "name": "受众洞察分析师 AI 灵魂设定",
+    "name_zh": "受众洞察分析师",
+    "name_en": "Audience Insights Analyst",
+    "url": "/personas/audience_insights_analyst/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["受众洞察","用户分析","行为研究","策略支持","数据决策"],
+    "tags_zh": ["受众洞察","用户分析","行为研究","策略支持","数据决策"],
+    "tags_en": ["受众洞察","用户分析","行为研究","策略支持","数据决策"]
   },
   
   {
@@ -831,6 +974,19 @@
     "tags": ["`文艺复兴先驱` `意大利文学` `十日谈` `短篇小说之父` `人文主义` `叙事艺术` `黑死病` `佛罗伦萨` `那不勒斯` `俗语文学` `14世纪`"],
     "tags_zh": ["`文艺复兴先驱` `意大利文学` `十日谈` `短篇小说之父` `人文主义` `叙事艺术` `黑死病` `佛罗伦萨` `那不勒斯` `俗语文学` `14世纪`"],
     "tags_en": ["`Renaissance Pioneer` `Italian Literature` `Decameron` `Father of the Short Story` `Humanism` `Narrative Art` `Black Death` `Florence` `Naples` `Vernacular Literature` `14th Century`"]
+  },
+  
+  {
+    "name": "品牌合作经理 AI 灵魂设定",
+    "name_zh": "品牌合作经理",
+    "name_en": "Brand Collaboration Manager",
+    "url": "/personas/brand_collaboration_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["品牌合作","商务协同","合作策略","项目管理","关系经营"],
+    "tags_zh": ["品牌合作","商务协同","合作策略","项目管理","关系经营"],
+    "tags_en": ["品牌合作","商务协同","合作策略","项目管理","关系经营"]
   },
   
   {
@@ -1172,6 +1328,19 @@
   },
   
   {
+    "name": "社群互动专家 AI 灵魂设定",
+    "name_zh": "社群互动专家",
+    "name_en": "Community Engagement Specialist",
+    "url": "/personas/community_engagement_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["社群运营","用户互动","成员激活","社群文化","共创机制"],
+    "tags_zh": ["社群运营","用户互动","成员激活","社群文化","共创机制"],
+    "tags_en": ["社群运营","用户互动","成员激活","社群文化","共创机制"]
+  },
+  
+  {
     "name": "社区经理 AI 灵魂设定",
     "name_zh": "社区经理",
     "name_en": "Community Manager",
@@ -1260,6 +1429,32 @@
     "tags": ["内容营销","内容战略","品牌叙事","转化路径","增长协同"],
     "tags_zh": ["内容营销","内容战略","品牌叙事","转化路径","增长协同"],
     "tags_en": ["内容营销","内容战略","品牌叙事","转化路径","增长协同"]
+  },
+  
+  {
+    "name": "内容变现专家 AI 灵魂设定",
+    "name_zh": "内容变现专家",
+    "name_en": "Content Monetization Specialist",
+    "url": "/personas/content_monetization_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["内容变现","定价策略","商业模型","复购增长","收益结构"],
+    "tags_zh": ["内容变现","定价策略","商业模型","复购增长","收益结构"],
+    "tags_en": ["内容变现","定价策略","商业模型","复购增长","收益结构"]
+  },
+  
+  {
+    "name": "内容运营经理 AI 灵魂设定",
+    "name_zh": "内容运营经理",
+    "name_en": "Content Operations Manager",
+    "url": "/personas/content_operations_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["内容运营","流程管理","团队协同","内容复盘","增长体系"],
+    "tags_zh": ["内容运营","流程管理","团队协同","内容复盘","增长体系"],
+    "tags_en": ["内容运营","流程管理","团队协同","内容复盘","增长体系"]
   },
   
   {
@@ -1442,6 +1637,19 @@
     "tags": ["跨境电商","Amazon运营","TikTok Shop运营","Temu运营","选品策略","广告投放","利润模型","合规风控"],
     "tags_zh": ["跨境电商","Amazon运营","TikTok Shop运营","Temu运营","选品策略","广告投放","利润模型","合规风控"],
     "tags_en": ["Cross-border e-commerce","Amazon operations","TikTok Shop operations","Temu operations","Product selection strategy","Ad operations","Profit model","Compliance risk control"]
+  },
+  
+  {
+    "name": "跨境物流协调员 AI 灵魂设定",
+    "name_zh": "跨境物流协调员",
+    "name_en": "Cross-Border Logistics Coordinator",
+    "url": "/personas/cross_border_logistics_coordinator/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["跨境物流","路由调度","清关协同","海外仓管理","异常处理","时效控制","节点监控","履约稳定"],
+    "tags_zh": ["跨境物流","路由调度","清关协同","海外仓管理","异常处理","时效控制","节点监控","履约稳定"],
+    "tags_en": ["跨境物流","路由调度","清关协同","海外仓管理","异常处理","时效控制","节点监控","履约稳定"]
   },
   
   {
@@ -1874,6 +2082,19 @@
   },
   
   {
+    "name": "边缘 AI 工程师 AI 灵魂设定",
+    "name_zh": "边缘 AI 工程师",
+    "name_en": "Edge AI Engineer",
+    "url": "/personas/edge_ai_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["边缘AI","端侧推理","模型压缩","离线能力","性能优化","功耗治理","设备适配","系统鲁棒性"],
+    "tags_zh": ["边缘AI","端侧推理","模型压缩","离线能力","性能优化","功耗治理","设备适配","系统鲁棒性"],
+    "tags_en": ["边缘AI","端侧推理","模型压缩","离线能力","性能优化","功耗治理","设备适配","系统鲁棒性"]
+  },
+  
+  {
     "name": "编辑 AI 灵魂设定",
     "name_zh": "编辑",
     "name_en": "Editor",
@@ -1910,6 +2131,19 @@
     "tags": ["嵌入式系统","物联网","RTOS","ARM","固件开发","实时系统"],
     "tags_zh": ["嵌入式系统","物联网","RTOS","ARM","固件开发","实时系统"],
     "tags_en": ["embedded systems","IoT","RTOS","ARM","firmware development","real-time systems"]
+  },
+  
+  {
+    "name": "新兴市场策略师 AI 灵魂设定",
+    "name_zh": "新兴市场策略师",
+    "name_en": "Emerging Market Strategist",
+    "url": "/personas/emerging_market_strategist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["新兴市场","市场进入","渠道策略","试点验证","风险管理","单位经济性","增长战略","国际化运营"],
+    "tags_zh": ["新兴市场","市场进入","渠道策略","试点验证","风险管理","单位经济性","增长战略","国际化运营"],
+    "tags_en": ["新兴市场","市场进入","渠道策略","试点验证","风险管理","单位经济性","增长战略","国际化运营"]
   },
   
   {
@@ -2118,6 +2352,19 @@
     "tags": ["家族办公室","家族治理","资产配置","风险隔离","代际传承","流动性管理","财务协同","长期主义"],
     "tags_zh": ["家族办公室","家族治理","资产配置","风险隔离","代际传承","流动性管理","财务协同","长期主义"],
     "tags_en": ["Family office","Family governance","Asset allocation","Risk isolation","Intergenerational continuity","Liquidity management","Financial coordination","Long-termism"]
+  },
+  
+  {
+    "name": "粉丝经济顾问 AI 灵魂设定",
+    "name_zh": "粉丝经济顾问",
+    "name_en": "Fan Economy Consultant",
+    "url": "/personas/fan_economy_consultant/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["粉丝经济","用户关系","社群商业化","信任经营","长期增长"],
+    "tags_zh": ["粉丝经济","用户关系","社群商业化","信任经营","长期增长"],
+    "tags_en": ["粉丝经济","用户关系","社群商业化","信任经营","长期增长"]
   },
   
   {
@@ -2469,6 +2716,19 @@
     "tags": ["GEO","AI搜索","ChatGPT","Perplexity","Google AI Overview","结构化数据","技术SEO","内容可见性"],
     "tags_zh": ["GEO","AI搜索","ChatGPT","Perplexity","Google AI Overview","结构化数据","技术SEO","内容可见性"],
     "tags_en": ["GEO","AI search","ChatGPT","Perplexity","Google AI Overview","Structured data","Technical SEO","Content visibility"]
+  },
+  
+  {
+    "name": "全球品牌本地化专家 AI 灵魂设定",
+    "name_zh": "全球品牌本地化专家",
+    "name_en": "Global Brand Localizer",
+    "url": "/personas/global_brand_localizer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["品牌本地化","文化适配","叙事策略","跨市场营销","内容改写","语境分析","传播优化","品牌一致性"],
+    "tags_zh": ["品牌本地化","文化适配","叙事策略","跨市场营销","内容改写","语境分析","传播优化","品牌一致性"],
+    "tags_en": ["品牌本地化","文化适配","叙事策略","跨市场营销","内容改写","语境分析","传播优化","品牌一致性"]
   },
   
   {
@@ -3070,6 +3330,19 @@
   },
   
   {
+    "name": "独立创业顾问 AI 灵魂设定",
+    "name_zh": "独立创业顾问",
+    "name_en": "Indie Startup Advisor",
+    "url": "/personas/indie_startup_advisor/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["独立创业","冷启动","MVP验证","用户访谈","早期增长","产品迭代","创业策略","复盘机制"],
+    "tags_zh": ["独立创业","冷启动","MVP验证","用户访谈","早期增长","产品迭代","创业策略","复盘机制"],
+    "tags_en": ["独立创业","冷启动","MVP验证","用户访谈","早期增长","产品迭代","创业策略","复盘机制"]
+  },
+  
+  {
     "name": "网红营销专家 AI 灵魂设定",
     "name_zh": "网红营销专家",
     "name_en": "Influencer Marketing Specialist",
@@ -3132,6 +3405,19 @@
     "tags": ["室内设计","空间规划","动线","收纳","照明","居住体验"],
     "tags_zh": ["室内设计","空间规划","动线","收纳","照明","居住体验"],
     "tags_en": ["interior design","space planning","circulation","storage","lighting","living experience"]
+  },
+  
+  {
+    "name": "国际版权顾问 AI 灵魂设定",
+    "name_zh": "国际版权顾问",
+    "name_en": "International Copyright Consultant",
+    "url": "/personas/international_copyright_consultant/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["国际版权","知识产权","授权管理","侵权应对","证据链","风险分级","合规治理","内容安全"],
+    "tags_zh": ["国际版权","知识产权","授权管理","侵权应对","证据链","风险分级","合规治理","内容安全"],
+    "tags_en": ["国际版权","知识产权","授权管理","侵权应对","证据链","风险分级","合规治理","内容安全"]
   },
   
   {
@@ -3798,6 +4084,19 @@
   },
   
   {
+    "name": "直播电商策略师 AI 灵魂设定",
+    "name_zh": "直播电商策略师",
+    "name_en": "Live Commerce Strategist",
+    "url": "/personas/live_commerce_strategist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["直播电商","转化策略","场控运营","直播复盘","成交优化"],
+    "tags_zh": ["直播电商","转化策略","场控运营","直播复盘","成交优化"],
+    "tags_en": ["直播电商","转化策略","场控运营","直播复盘","成交优化"]
+  },
+  
+  {
     "name": "直播带货主播/培训师 AI 灵魂设定",
     "name_zh": "直播带货主播/培训师",
     "name_en": "Live Streaming Sales Host &amp; Trainer",
@@ -3808,6 +4107,19 @@
     "tags": ["直播带货","销售转化","内容运营","用户沟通","培训体系","复盘优化"],
     "tags_zh": ["直播带货","销售转化","内容运营","用户沟通","培训体系","复盘优化"],
     "tags_en": ["Livestream commerce","Sales conversion","Content operations","User communication","Training systems","Review optimization"]
+  },
+  
+  {
+    "name": "LLM 成本优化工程师 AI 灵魂设定",
+    "name_zh": "LLM 成本优化工程师",
+    "name_en": "LLM Cost Optimization Engineer",
+    "url": "/personas/llm_cost_optimization_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["LLM","成本优化","推理路由","上下文预算","缓存策略","价值归因","系统治理","效率工程"],
+    "tags_zh": ["LLM","成本优化","推理路由","上下文预算","缓存策略","价值归因","系统治理","效率工程"],
+    "tags_en": ["LLM","成本优化","推理路由","上下文预算","缓存策略","价值归因","系统治理","效率工程"]
   },
   
   {
@@ -4240,6 +4552,19 @@
   },
   
   {
+    "name": "模型成本优化工程师 AI 灵魂设定",
+    "name_zh": "模型成本优化工程师",
+    "name_en": "Model Cost Optimization Engineer",
+    "url": "/personas/model_cost_optimization_engineer/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["成本优化","推理成本","模型量化","缓存策略","批处理优化","模型路由","Prompt压缩","Token经济学"],
+    "tags_zh": ["成本优化","推理成本","模型量化","缓存策略","批处理优化","模型路由","Prompt压缩","Token经济学"],
+    "tags_en": ["Cost optimization","Inference cost","Model quantization","Caching strategy","Batch optimization","Model routing","Prompt compression","Token economics"]
+  },
+  
+  {
     "name": "孟德斯鸠 AI 灵魂设定",
     "name_zh": "孟德斯鸠 (Montesquieu)",
     "name_en": "Montesquieu",
@@ -4383,6 +4708,19 @@
   },
   
   {
+    "name": "无代码 SaaS 构建师 AI 灵魂设定",
+    "name_zh": "无代码 SaaS 构建师",
+    "name_en": "No-Code SaaS Builder",
+    "url": "/personas/no_code_saas_builder/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["无代码开发","SaaS构建","流程自动化","产品验证","数据建模","迭代发布","系统维护","创业工具"],
+    "tags_zh": ["无代码开发","SaaS构建","流程自动化","产品验证","数据建模","迭代发布","系统维护","创业工具"],
+    "tags_en": ["无代码开发","SaaS构建","流程自动化","产品验证","数据建模","迭代发布","系统维护","创业工具"]
+  },
+  
+  {
     "name": "非虚构写作导师 AI 灵魂设定",
     "name_zh": "非虚构写作导师",
     "name_en": "Non-fiction Writer",
@@ -4523,6 +4861,19 @@
     "tags": ["开源维护","社区治理","项目管理","代码评审","版本发布","文档体系","贡献流程","可持续开发"],
     "tags_zh": ["开源维护","社区治理","项目管理","代码评审","版本发布","文档体系","贡献流程","可持续开发"],
     "tags_en": ["Open-source maintenance","Community governance","Project management","Code review","Release management","Documentation system","Contribution workflow","Sustainable development"]
+  },
+  
+  {
+    "name": "海外客服经理 AI 灵魂设定",
+    "name_zh": "海外客服经理",
+    "name_en": "Overseas Customer Service Manager",
+    "url": "/personas/overseas_customer_service_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["海外客服","多语支持","时差管理","售后处理","服务闭环","用户体验","升级管理","客诉治理"],
+    "tags_zh": ["海外客服","多语支持","时差管理","售后处理","服务闭环","用户体验","升级管理","客诉治理"],
+    "tags_en": ["海外客服","多语支持","时差管理","售后处理","服务闭环","用户体验","升级管理","客诉治理"]
   },
   
   {
@@ -4965,6 +5316,19 @@
     "tags": ["提示词工程","LLM","任务拆解","工作流编排","评测优化","人机协作"],
     "tags_zh": ["提示词工程","LLM","任务拆解","工作流编排","评测优化","人机协作"],
     "tags_en": ["Prompt engineering","LLM","Task decomposition","Workflow orchestration","Evaluation optimization","Human-AI collaboration"]
+  },
+  
+  {
+    "name": "Prompt 测试专家 AI 灵魂设定",
+    "name_zh": "Prompt 测试专家",
+    "name_en": "Prompt Testing Specialist",
+    "url": "/personas/prompt_testing_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["Prompt测试","提示词工程","评测体系","回归测试","失败分析","质量门禁","自动化评估","模型应用"],
+    "tags_zh": ["Prompt测试","提示词工程","评测体系","回归测试","失败分析","质量门禁","自动化评估","模型应用"],
+    "tags_en": ["Prompt测试","提示词工程","评测体系","回归测试","失败分析","质量门禁","自动化评估","模型应用"]
   },
   
   {
@@ -5501,6 +5865,19 @@
   },
   
   {
+    "name": "柔性快反供应链专家 AI 灵魂设定",
+    "name_zh": "柔性快反供应链专家",
+    "name_en": "Agile Supply Chain Specialist",
+    "url": "/personas/shein_supply_chain_specialist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["柔性供应链","小单快反","库存周转","供应商管理","补货策略","需求验证","协同机制","运营韧性"],
+    "tags_zh": ["柔性供应链","小单快反","库存周转","供应商管理","补货策略","需求验证","协同机制","运营韧性"],
+    "tags_en": ["柔性供应链","小单快反","库存周转","供应商管理","补货策略","需求验证","协同机制","运营韧性"]
+  },
+  
+  {
     "name": "沈括 AI 灵魂设定",
     "name_zh": "沈括 (Shen Kuo)",
     "name_en": "Shen Kuo",
@@ -5537,6 +5914,19 @@
     "tags": ["明末","南明","扬州保卫战","殉国","忠臣","抗清","梅花岭"],
     "tags_zh": ["明末","南明","扬州保卫战","殉国","忠臣","抗清","梅花岭"],
     "tags_en": ["Late Ming","Southern Ming","Defense of Yangzhou","Martyrdom","Loyal Minister","Anti-Qing Resistance","Plum Blossom Ridge"]
+  },
+  
+  {
+    "name": "短视频脚本师 AI 灵魂设定",
+    "name_zh": "短视频脚本师",
+    "name_en": "Short-form Scriptwriter",
+    "url": "/personas/short_form_scriptwriter/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["短视频脚本","内容叙事","完播优化","创意表达","传播设计"],
+    "tags_zh": ["短视频脚本","内容叙事","完播优化","创意表达","传播设计"],
+    "tags_en": ["短视频脚本","内容叙事","完播优化","创意表达","传播设计"]
   },
   
   {
@@ -5943,6 +6333,19 @@
   },
   
   {
+    "name": "订阅内容策略师 AI 灵魂设定",
+    "name_zh": "订阅内容策略师",
+    "name_en": "Subscription Content Strategist",
+    "url": "/personas/subscription_content_strategist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["订阅策略","用户留存","内容分层","续费增长","会员运营"],
+    "tags_zh": ["订阅策略","用户留存","内容分层","续费增长","会员运营"],
+    "tags_en": ["订阅策略","用户留存","内容分层","续费增长","会员运营"]
+  },
+  
+  {
     "name": "订阅增长经理 AI 灵魂设定",
     "name_zh": "订阅增长经理",
     "name_en": "Subscription Growth Manager",
@@ -6148,6 +6551,19 @@
     "tags": ["技术写作","API文档","文档工程","信息架构","开发者体验","docs-as-code"],
     "tags_zh": ["技术写作","API文档","文档工程","信息架构","开发者体验","docs-as-code"],
     "tags_en": ["technical writing","API documentation","documentation engineering","information architecture","developer experience","docs-as-code"]
+  },
+  
+  {
+    "name": "高性价比平台运营经理 AI 灵魂设定",
+    "name_zh": "高性价比平台运营经理",
+    "name_en": "Value Marketplace Operations Manager",
+    "url": "/personas/temu_operations_manager/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["平台运营","规则管理","价格策略","供给协同","活动节奏","售后治理","经营复盘","增长系统"],
+    "tags_zh": ["平台运营","规则管理","价格策略","供给协同","活动节奏","售后治理","经营复盘","增长系统"],
+    "tags_en": ["平台运营","规则管理","价格策略","供给协同","活动节奏","售后治理","经营复盘","增长系统"]
   },
   
   {
@@ -6499,6 +6915,19 @@
     "tags": ["视频剪辑","影视后期","叙事结构","节奏设计","Premiere Pro","Final Cut Pro","DaVinci Resolve","短视频","广告剪辑","蒙太奇"],
     "tags_zh": ["视频剪辑","影视后期","叙事结构","节奏设计","Premiere Pro","Final Cut Pro","DaVinci Resolve","短视频","广告剪辑","蒙太奇"],
     "tags_en": ["Video Editing","Film Post-Production","Narrative Structure","Rhythm Design","Premiere Pro","Final Cut Pro","DaVinci Resolve","Short-Form Video","Advertising Editing","Montage"]
+  },
+  
+  {
+    "name": "病毒内容策略师 AI 灵魂设定",
+    "name_zh": "病毒内容策略师",
+    "name_en": "Viral Content Strategist",
+    "url": "/personas/viral_content_strategist/",
+    "category": "personas",
+    "category_zh": "专家角色",
+    "category_en": "Personas",
+    "tags": ["病毒传播","内容策略","话题运营","裂变增长","传播机制"],
+    "tags_zh": ["病毒传播","内容策略","话题运营","裂变增长","传播机制"],
+    "tags_en": ["病毒传播","内容策略","话题运营","裂变增长","传播机制"]
   },
   
   {
